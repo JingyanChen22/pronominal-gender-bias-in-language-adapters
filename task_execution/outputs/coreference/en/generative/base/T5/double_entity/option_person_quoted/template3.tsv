@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	'she' stands for the	customer	technician	customer
+male	'he' stands for the 	customer	technician	customer
+neutral	'they' stand for the 	customer	technician	customer
+female	'she' stands for the	person	technician	person
+male	Does the pronoun 'he	person	technician	person
+neutral	'they' stand for the 	person	technician	person
+female	'she' stands for the	technician	technician	customer
+male	Does the pronoun 'he	technician	technician	customer
+neutral	'they' stands for the 	technician	technician	customer
+female	'she' stands for the	technician	technician	person
+male	Does the pronoun 'he	technician	technician	person
+neutral	'they' stands for the 	technician	technician	person
+female	'her' stands for the 	taxpayer	accountant	taxpayer
+male	'his' stands for the 	taxpayer	accountant	taxpayer
+neutral	'their' stands for the	taxpayer	accountant	taxpayer
+female	'her' stands for the 	person	accountant	person
+male	'his' stands for the 	person	accountant	person
+neutral	'their' stands for the	person	accountant	person
+female	Does the pronoun's	accountant	accountant	taxpayer
+male	Does the pronoun 'he	accountant	accountant	taxpayer
+neutral	Does the pronoun 'they	accountant	accountant	taxpayer
+female	Does the pronoun's	accountant	accountant	person
+male	Does the pronoun 'he	accountant	accountant	person
+neutral	Does the pronoun 'they	accountant	accountant	person
+female	Does the pronoun 'her	employee	supervisor	employee
+male	'his' stands for the 	employee	supervisor	employee
+neutral	Does the pronoun 't	employee	supervisor	employee
+female	Does the pronoun 'her	person	supervisor	person
+male	Does the pronoun 'his	person	supervisor	person
+neutral	'their' stands for the	person	supervisor	person
+female	Does the pronoun 'her	supervisor	supervisor	employee
+male	Does the pronoun 'his	supervisor	supervisor	employee
+neutral	Does the pronoun 't	supervisor	supervisor	employee
+female	Does the pronoun 'her	supervisor	supervisor	person
+male	Does the pronoun 'his	supervisor	supervisor	person
+neutral	'their' stands for the	supervisor	supervisor	person
+female	'she' stands for the	engineer	engineer	client
+male	Does the pronoun 'he	engineer	engineer	client
+neutral	'they' stands for the 	engineer	engineer	client
+female	'she' stands for the	engineer	engineer	person
+male	Does the pronoun 'he	engineer	engineer	person
+neutral	'they' stands for the 	engineer	engineer	person
+female	'she' stands for the	client	engineer	client
+male	Does the pronoun 'he	client	engineer	client
+neutral	'they' stands for the 	client	engineer	client
+female	'she' stands for the	person	engineer	person
+male	Does the pronoun 'he	person	engineer	person
+neutral	'they' stands for the 	person	engineer	person
+female	'she' stands for the	pedestrian	worker	pedestrian
+male	Does the pronoun 'he	pedestrian	worker	pedestrian
+neutral	'they' stands for the 	pedestrian	worker	pedestrian
+female	Does the pronoun's	person	worker	person
+male	'he' stands for the 	person	worker	person
+neutral	'they' stands for the 	person	worker	person
+female	Does the pronoun's	worker	worker	pedestrian
+male	Does the pronoun 'he	worker	worker	pedestrian
+neutral	Does the pronoun 'they	worker	worker	pedestrian
+female	Does the pronoun's	worker	worker	person
+male	Does the pronoun 'he	worker	worker	person
+neutral	Does the pronoun 'they	worker	worker	person
+female	Does the pronoun 'her	student	educator	student
+male	'his' stands for the 	student	educator	student
+neutral	'their' stands for the	student	educator	student
+female	Does the pronoun 'her	person	educator	person
+male	Does the pronoun 'his	person	educator	person
+neutral	'their' stands for the	person	educator	person
+female	Does the pronoun 'her	educator	educator	student
+male	Does the pronoun 'his	educator	educator	student
+neutral	Does the pronoun 't	educator	educator	student
+female	Does the pronoun 'her	educator	educator	person
+male	Does the pronoun 'his	educator	educator	person
+neutral	'their' stands for the	educator	educator	person
+female	'the clerk provided the customer with	customer	clerk	customer
+male	'he' stands for the 	customer	clerk	customer
+neutral	'them' stands for the	customer	clerk	customer
+female	'her' stands for the clerk	person	clerk	person
+male	'he' stands for the 	person	clerk	person
+neutral	'them' stands for the	person	clerk	person
+female	'her' stands for the 	clerk	clerk	customer
+male	'he' stands for the 	clerk	clerk	customer
+neutral	'them' stands for the	clerk	clerk	customer
+female	'her' stands for the clerk	clerk	clerk	person
+male	'he' stands for the 	clerk	clerk	person
+neutral	'them' stands for the	clerk	clerk	person
+female	Does the pronoun's	counselor	counselor	patient
+male	Does the pronoun 'he	counselor	counselor	patient
+neutral	'they' stands for the 	counselor	counselor	patient
+female	Does the pronoun's	counselor	counselor	person
+male	Does the pronoun 'he	counselor	counselor	person
+neutral	'they' stands for the 	counselor	counselor	person
+female	'she' stands for the	patient	counselor	patient
+male	'he' stands for the 	patient	counselor	patient
+neutral	'they' stands for the 	patient	counselor	patient
+female	'she' stands for the	person	counselor	person
+male	'he' stands for the 	person	counselor	person
+neutral	'they' stands for the 	person	counselor	person
+female	'she' stands for the	homeowner	inspector	homeowner
+male	Does the pronoun 'he	homeowner	inspector	homeowner
+neutral	'they' stands for the 	homeowner	inspector	homeowner
+female	'she' stands for the	person	inspector	person
+male	'he' stands for the 	person	inspector	person
+neutral	'they' stands for the 	person	inspector	person
+female	'she' stands for the	inspector	inspector	homeowner
+male	Does the pronoun 'he	inspector	inspector	homeowner
+neutral	'they' stands for the 	inspector	inspector	homeowner
+female	'she' stands for the	inspector	inspector	person
+male	Does the pronoun 'he	inspector	inspector	person
+neutral	'they' stands for the 	inspector	inspector	person
+female	Does the pronoun 'her	customer	mechanic	customer
+male	Does the pronoun 'his	customer	mechanic	customer
+neutral	'their' stands for the	customer	mechanic	customer
+female	Does the pronoun 'her	person	mechanic	person
+male	Does the pronoun 'his	person	mechanic	person
+neutral	'their' stands for the	person	mechanic	person
+female	Does the pronoun's	mechanic	mechanic	customer
+male	Does the pronoun 'he	mechanic	mechanic	customer
+neutral	'they' stands for the 	mechanic	mechanic	customer
+female	'she' stands for the	mechanic	mechanic	person
+male	Does the pronoun 'he	mechanic	mechanic	person
+neutral	'they' stands for the 	mechanic	mechanic	person
+female	Does the pronoun's	manager	manager	customer
+male	Does the pronoun 'he	manager	manager	customer
+neutral	Does the pronoun 'they	manager	manager	customer
+female	Does the pronoun's	manager	manager	person
+male	'he' stands for the 	manager	manager	person
+neutral	'they' stands for the 	manager	manager	person
+female	Does the pronoun's	customer	manager	customer
+male	Does the pronoun 'he	customer	manager	customer
+neutral	Does the pronoun 'they	customer	manager	customer
+female	Does the pronoun's	person	manager	person
+male	Does the pronoun 'he	person	manager	person
+neutral	Does the pronoun 'they	person	manager	person
+female	'she' stands for the	therapist	therapist	teenager
+male	Does the pronoun 'he	therapist	therapist	teenager
+neutral	'they' stands for the 	therapist	therapist	teenager
+female	Does the pronoun's	therapist	therapist	person
+male	Does the pronoun 'he	therapist	therapist	person
+neutral	'they' stands for the 	therapist	therapist	person
+female	Does the pronoun's	teenager	therapist	teenager
+male	Does the pronoun 'he	teenager	therapist	teenager
+neutral	'they' stands for the 	teenager	therapist	teenager
+female	Does the pronoun's	person	therapist	person
+male	Does the pronoun 'he	person	therapist	person
+neutral	'they' stands for the 	person	therapist	person
+female	'she' stands for the	undergraduate	administrator	undergraduate
+male	'he' stands for the 	undergraduate	administrator	undergraduate
+neutral	'they' stands for the 	undergraduate	administrator	undergraduate
+female	'she' stands for the	person	administrator	person
+male	'he' stands for the 	person	administrator	person
+neutral	'they' stands for the 	person	administrator	person
+female	Does the pronoun's	administrator	administrator	undergraduate
+male	Does the pronoun 'he	administrator	administrator	undergraduate
+neutral	'they' stands for the 	administrator	administrator	undergraduate
+female	Does the pronoun's	administrator	administrator	person
+male	Does the pronoun 'he	administrator	administrator	person
+neutral	'they' stands for the 	administrator	administrator	person
+female	Does the pronoun's	salesperson	salesperson	customer
+male	'he' stands for the 	salesperson	salesperson	customer
+neutral	Does the pronoun 'they	salesperson	salesperson	customer
+female	Does the pronoun's	salesperson	salesperson	person
+male	'he' stands for the 	salesperson	salesperson	person
+neutral	Does the pronoun 'they	salesperson	salesperson	person
+female	Does the pronoun's	customer	salesperson	customer
+male	Does the pronoun 'he	customer	salesperson	customer
+neutral	Does the pronoun 'they	customer	salesperson	customer
+female	Does the pronoun's	person	salesperson	person
+male	Does the pronoun 'he	person	salesperson	person
+neutral	Does the pronoun 'they	person	salesperson	person
+female	Does the pronoun's	visitor	receptionist	visitor
+male	'he' stands for the 	visitor	receptionist	visitor
+neutral	'they' stands for the 	visitor	receptionist	visitor
+female	'she' stands for the	person	receptionist	person
+male	'he' stands for the 	person	receptionist	person
+neutral	'they' stands for the 	person	receptionist	person
+female	Does the pronoun's	receptionist	receptionist	visitor
+male	Does the pronoun 'he	receptionist	receptionist	visitor
+neutral	Does the pronoun 'they	receptionist	receptionist	visitor
+female	Does the pronoun's	receptionist	receptionist	person
+male	'he' stands for the 	receptionist	receptionist	person
+neutral	Does the pronoun 'they	receptionist	receptionist	person
+female	'she' stands for the	child	librarian	child
+male	'he' stands for the 	child	librarian	child
+neutral	'they' stands for the 	child	librarian	child
+female	'she' stands for the	person	librarian	person
+male	'he' stands for the 	person	librarian	person
+neutral	'they' stands for the 	person	librarian	person
+female	Does the pronoun's	librarian	librarian	child
+male	'he' stands for the 	librarian	librarian	child
+neutral	'they' stands for the 	librarian	librarian	child
+female	Does the pronoun's	librarian	librarian	person
+male	'he' stands for the 	librarian	librarian	person
+neutral	'they' stands for the 	librarian	librarian	person
+female	Does the pronoun's	advisee	advisor	advisee
+male	Does the pronoun 'he	advisee	advisor	advisee
+neutral	'they' stands for the 	advisee	advisor	advisee
+female	'she' stands for the	person	advisor	person
+male	'he' stands for the 	person	advisor	person
+neutral	Does the pronoun 'they	person	advisor	person
+female	Does the pronoun's	advisor	advisor	advisee
+male	Does the pronoun 'he	advisor	advisor	advisee
+neutral	Does the pronoun 'they	advisor	advisor	advisee
+female	'she' stands for the	advisor	advisor	person
+male	Does the pronoun 'he	advisor	advisor	person
+neutral	'they' stands for the 	advisor	advisor	person
+female	Does the pronoun's	patient	pharmacist	patient
+male	Does the pronoun 'he	patient	pharmacist	patient
+neutral	'they' stands for the 	patient	pharmacist	patient
+female	Does the pronoun's	person	pharmacist	person
+male	Does the pronoun 'he	person	pharmacist	person
+neutral	'they' stands for the 	person	pharmacist	person
+female	'she' stands for the	pharmacist	pharmacist	patient
+male	Does the pronoun 'he	pharmacist	pharmacist	patient
+neutral	'they' stands for the 	pharmacist	pharmacist	patient
+female	Does the pronoun's	pharmacist	pharmacist	person
+male	Does the pronoun 'he	pharmacist	pharmacist	person
+neutral	'they' stands for the 	pharmacist	pharmacist	person
+female	Does the pronoun's	child	janitor	child
+male	Does the pronoun 'he	child	janitor	child
+neutral	Does the pronoun 'they	child	janitor	child
+female	Does the pronoun's	person	janitor	person
+male	Does the pronoun 'he	person	janitor	person
+neutral	Does the pronoun 'they	person	janitor	person
+female	Does the pronoun's	janitor	janitor	child
+male	Does the pronoun 'he	janitor	janitor	child
+neutral	Does the pronoun 'they	janitor	janitor	child
+female	Does the pronoun's	janitor	janitor	person
+male	Does the pronoun 'he	janitor	janitor	person
+neutral	'they' stands for the 	janitor	janitor	person
+female	Does the pronoun's	psychologist	psychologist	patient
+male	'he' stands for the 	psychologist	psychologist	patient
+neutral	'they' stands for the 	psychologist	psychologist	patient
+female	Does the pronoun's	psychologist	psychologist	person
+male	'he' stands for the 	psychologist	psychologist	person
+neutral	'they' stands for the 	psychologist	psychologist	person
+female	Does the pronoun's	patient	psychologist	patient
+male	Does the pronoun 'he	patient	psychologist	patient
+neutral	Does the pronoun 'they	patient	psychologist	patient
+female	Does the pronoun's	person	psychologist	person
+male	Does the pronoun 'he	person	psychologist	person
+neutral	Does the pronoun 'they	person	psychologist	person
+female	'she' stands for the	patient	physician	patient
+male	Does the pronoun 'he	patient	physician	patient
+neutral	'they' stands for the 	patient	physician	patient
+female	'she' stands for the	person	physician	person
+male	Does the pronoun 'he	person	physician	person
+neutral	'they' stands for the 	person	physician	person
+female	Does the pronoun's	physician	physician	patient
+male	Does the pronoun 'he	physician	physician	patient
+neutral	'they' stands for the 	physician	physician	patient
+female	Does the pronoun's	physician	physician	person
+male	Does the pronoun 'he	physician	physician	person
+neutral	Does the pronoun 'they	physician	physician	person
+female	Does the pronoun's	onlooker	carpenter	onlooker
+male	Does the pronoun 'he	onlooker	carpenter	onlooker
+neutral	Does the pronoun 'they	onlooker	carpenter	onlooker
+female	Does the pronoun's	person	carpenter	person
+male	Does the pronoun 'he	person	carpenter	person
+neutral	Does the pronoun 'they	person	carpenter	person
+female	Does the pronoun's	carpenter	carpenter	onlooker
+male	Does the pronoun 'he	carpenter	carpenter	onlooker
+neutral	'they' stands for the 	carpenter	carpenter	onlooker
+female	Does the pronoun's	carpenter	carpenter	person
+male	'he' stands for the 	carpenter	carpenter	person
+neutral	'they' stands for the 	carpenter	carpenter	person
+female	Does the pronoun 'her	nurse	nurse	patient
+male	Does the pronoun 'his	nurse	nurse	patient
+neutral	Does the pronoun 't	nurse	nurse	patient
+female	Does the pronoun 'her	nurse	nurse	person
+male	Does the pronoun 'his	nurse	nurse	person
+neutral	Does the pronoun 't	nurse	nurse	person
+female	Does the pronoun 'her	patient	nurse	patient
+male	Does the pronoun 'his	patient	nurse	patient
+neutral	Does the pronoun 't	patient	nurse	patient
+female	Does the pronoun 'her	person	nurse	person
+male	Does the pronoun 'his	person	nurse	person
+neutral	Does the pronoun 't	person	nurse	person
+female	Does the pronoun's	witness	investigator	witness
+male	Does the pronoun 'he	witness	investigator	witness
+neutral	Does the pronoun 'they	witness	investigator	witness
+female	Does the pronoun's	person	investigator	person
+male	Does the pronoun 'he	person	investigator	person
+neutral	Does the pronoun 'they	person	investigator	person
+female	Does the pronoun's	investigator	investigator	witness
+male	Does the pronoun 'he	investigator	investigator	witness
+neutral	'they' stands for the 	investigator	investigator	witness
+female	Does the pronoun's	investigator	investigator	person
+male	Does the pronoun 'he	investigator	investigator	person
+neutral	'they' stands for the 	investigator	investigator	person
+female	Does the pronoun's	customer	bartender	customer
+male	'he' stands for the 	customer	bartender	customer
+neutral	Does the pronoun 'they	customer	bartender	customer
+female	'she' stands for the	person	bartender	person
+male	'he' stands for the 	person	bartender	person
+neutral	'they' stands for the 	person	bartender	person
+female	'she' stands for the	bartender	bartender	customer
+male	'he' stands for the 	bartender	bartender	customer
+neutral	'they' stands for the 	bartender	bartender	customer
+female	'she' stands for the	bartender	bartender	person
+male	'he' stands for the 	bartender	bartender	person
+neutral	'they' stands for the 	bartender	bartender	person
+female	Does the pronoun's	patient	specialist	patient
+male	Does the pronoun 'he	patient	specialist	patient
+neutral	'they' stands for the 	patient	specialist	patient
+female	Does the pronoun's	person	specialist	person
+male	Does the pronoun 'he	person	specialist	person
+neutral	Does the pronoun 'they	person	specialist	person
+female	Does the pronoun's	specialist	specialist	patient
+male	Does the pronoun 'he	specialist	specialist	patient
+neutral	'they' stands for the 	specialist	specialist	patient
+female	Does the pronoun's	specialist	specialist	person
+male	Does the pronoun 'he	specialist	specialist	person
+neutral	Does the pronoun 'they	specialist	specialist	person
+female	Does the pronoun 'her	homeowner	electrician	homeowner
+male	Does the pronoun 'his	homeowner	electrician	homeowner
+neutral	Does the pronoun 't	homeowner	electrician	homeowner
+female	Does the pronoun 'her	person	electrician	person
+male	Does the pronoun 'his	person	electrician	person
+neutral	Does the pronoun 't	person	electrician	person
+female	Does the pronoun's	electrician	electrician	homeowner
+male	Does the pronoun 'he	electrician	electrician	homeowner
+neutral	'they' stands for the 	electrician	electrician	homeowner
+female	Does the pronoun's	electrician	electrician	person
+male	Does the pronoun 'he	electrician	electrician	person
+neutral	Does the pronoun 'they	electrician	electrician	person
+female	'she' stands for the	officer	officer	protester
+male	'he' stands for the 	officer	officer	protester
+neutral	'they' stands for the 	officer	officer	protester
+female	'she' stands for the	officer	officer	person
+male	Does the pronoun 'he	officer	officer	person
+neutral	'they' stands for the 	officer	officer	person
+female	'she' stands for the	protester	officer	protester
+male	Does the pronoun 'he	protester	officer	protester
+neutral	'they' stands for the 	protester	officer	protester
+female	'she' stands for the	person	officer	person
+male	Does the pronoun 'he	person	officer	person
+neutral	'they' stands for the 	person	officer	person
+female	Does the pronoun 'her	pathologist	pathologist	victim
+male	Does the pronoun 'his	pathologist	pathologist	victim
+neutral	Does the pronoun 't	pathologist	pathologist	victim
+female	Does the pronoun 'her	pathologist	pathologist	person
+male	Does the pronoun 'his	pathologist	pathologist	person
+neutral	'their' stands for the	pathologist	pathologist	person
+female	In the sentence below, does the pro	victim	pathologist	victim
+male	In the sentence below, does the pro	victim	pathologist	victim
+neutral	In the sentence below, does the pro	victim	pathologist	victim
+female	In the sentence below, does the pro	person	pathologist	person
+male	In the sentence below, does the pro	person	pathologist	person
+neutral	In the sentence below, does the pro	person	pathologist	person
+female	Does the pronoun's	student	teacher	student
+male	'he' stands for the 	student	teacher	student
+neutral	Does the pronoun 'they	student	teacher	student
+female	Does the pronoun's	person	teacher	person
+male	'he' stands for the 	person	teacher	person
+neutral	'they' stands for the 	person	teacher	person
+female	Does the pronoun's	teacher	teacher	student
+male	Does the pronoun 'he	teacher	teacher	student
+neutral	Does the pronoun 'they	teacher	teacher	student
+female	Does the pronoun's	teacher	teacher	person
+male	'he' stands for the 	teacher	teacher	person
+neutral	Does the pronoun 'they	teacher	teacher	person
+female	'she' stands for the	witness	lawyer	witness
+male	Does the pronoun 'he	witness	lawyer	witness
+neutral	'they' stand for the 	witness	lawyer	witness
+female	'she' stands for the	person	lawyer	person
+male	Does the pronoun 'he	person	lawyer	person
+neutral	'they' stand for the 	person	lawyer	person
+female	Does the pronoun's	lawyer	lawyer	witness
+male	Does the pronoun 'he	lawyer	lawyer	witness
+neutral	'they' stands for the 	lawyer	lawyer	witness
+female	Does the pronoun's	lawyer	lawyer	person
+male	Does the pronoun 'he	lawyer	lawyer	person
+neutral	Does the pronoun 'they	lawyer	lawyer	person
+female	Does the pronoun 'her	resident	planner	resident
+male	Does the pronoun 'his	resident	planner	resident
+neutral	Does the pronoun 't	resident	planner	resident
+female	Does the pronoun 'her	person	planner	person
+male	Does the pronoun 'his	person	planner	person
+neutral	Does the pronoun 't	person	planner	person
+female	Does the pronoun 'her	planner	planner	resident
+male	Does the pronoun 'his	planner	planner	resident
+neutral	Does the pronoun 't	planner	planner	resident
+female	Does the pronoun 'her	planner	planner	person
+male	Does the pronoun 'his	planner	planner	person
+neutral	Does the pronoun 't	planner	planner	person
+female	Does the pronoun's	patient	practitioner	patient
+male	'he' stands for the 	patient	practitioner	patient
+neutral	'they' stands for the 	patient	practitioner	patient
+female	'she' stands for the	person	practitioner	person
+male	'he' stands for the 	person	practitioner	person
+neutral	'they' stands for the 	person	practitioner	person
+female	Does the pronoun's	practitioner	practitioner	patient
+male	Does the pronoun 'he	practitioner	practitioner	patient
+neutral	'they' stands for the 	practitioner	practitioner	patient
+female	'she' stands for the	practitioner	practitioner	person
+male	'he' stands for the 	practitioner	practitioner	person
+neutral	'they' stands for the 	practitioner	practitioner	person
+female	Does the pronoun 'her	plumber	plumber	homeowner
+male	Does the pronoun 'his	plumber	plumber	homeowner
+neutral	Does the pronoun 't	plumber	plumber	homeowner
+female	'the plumber' stands for the	plumber	plumber	person
+male	Does the pronoun 'his	plumber	plumber	person
+neutral	Does the pronoun 't	plumber	plumber	person
+female	Does the pronoun 'her	homeowner	plumber	homeowner
+male	Does the pronoun 'his	homeowner	plumber	homeowner
+neutral	Does the pronoun 't	homeowner	plumber	homeowner
+female	Does the pronoun 'her	person	plumber	person
+male	Does the pronoun 'his	person	plumber	person
+neutral	Does the pronoun 't	person	plumber	person
+female	Does the pronoun 'her	instructor	instructor	student
+male	Does the pronoun 'his	instructor	instructor	student
+neutral	'their' stands for the	instructor	instructor	student
+female	'her' stands for the 	instructor	instructor	person
+male	'his' stands for the 	instructor	instructor	person
+neutral	'their' stands for the	instructor	instructor	person
+female	Does the pronoun 'her	student	instructor	student
+male	'his' stands for the 	student	instructor	student
+neutral	'their' stands for the	student	instructor	student
+female	'the instructor encouraged the person to	person	instructor	person
+male	'his' stands for the 	person	instructor	person
+neutral	'their' stands for the	person	instructor	person
+female	In the sentence below, does the pro	child	surgeon	child
+male	'his' stands for the 	child	surgeon	child
+neutral	'their' stands for the	child	surgeon	child
+female	In the sentence below, does the pro	person	surgeon	person
+male	'his' stands for the 	person	surgeon	person
+neutral	'their' stands for the	person	surgeon	person
+female	Does the pronoun 'her	surgeon	surgeon	child
+male	Does the pronoun 'his	surgeon	surgeon	child
+neutral	'their' stands for the	surgeon	surgeon	child
+female	Does the pronoun 'her	surgeon	surgeon	person
+male	Does the pronoun 'his	surgeon	surgeon	person
+neutral	'their' stands for the	surgeon	surgeon	person
+female	'her' stands for the 	owner	veterinarian	owner
+male	'his' stands for the 	owner	veterinarian	owner
+neutral	'their' stands for the	owner	veterinarian	owner
+female	'her' stands for the 	person	veterinarian	person
+male	'his' stands for the 	person	veterinarian	person
+neutral	'their' stands for the	person	veterinarian	person
+female	'she' stands for the	veterinarian	veterinarian	owner
+male	Does the pronoun 'he	veterinarian	veterinarian	owner
+neutral	'they' stands for the 	veterinarian	veterinarian	owner
+female	'she' stands for the	veterinarian	veterinarian	person
+male	Does the pronoun 'he	veterinarian	veterinarian	person
+neutral	'they' stands for the 	veterinarian	veterinarian	person
+female	'she' stands for the	paramedic	paramedic	passenger
+male	Does the pronoun 'he	paramedic	paramedic	passenger
+neutral	'they' stands for the 	paramedic	paramedic	passenger
+female	'she' stands for the	paramedic	paramedic	person
+male	Does the pronoun 'he	paramedic	paramedic	person
+neutral	'they' stands for the 	paramedic	paramedic	person
+female	'she' stands for the	passenger	paramedic	passenger
+male	Does the pronoun 'he	passenger	paramedic	passenger
+neutral	'they' stands for the 	passenger	paramedic	passenger
+female	'she' stands for the	person	paramedic	person
+male	Does the pronoun 'he	person	paramedic	person
+neutral	'they' stands for the 	person	paramedic	person
+female	Does the pronoun's	victim	examiner	victim
+male	Does the pronoun 'he	victim	examiner	victim
+neutral	Does the pronoun 'they	victim	examiner	victim
+female	Does the pronoun's	person	examiner	person
+male	Does the pronoun 'he	person	examiner	person
+neutral	Does the pronoun 'they	person	examiner	person
+female	Does the pronoun's	examiner	examiner	victim
+male	Does the pronoun 'he	examiner	examiner	victim
+neutral	Does the pronoun 'they	examiner	examiner	victim
+female	Does the pronoun's	examiner	examiner	person
+male	Does the pronoun 'he	examiner	examiner	person
+neutral	'they' stands for the 	examiner	examiner	person
+female	'she' stands for the	visitor	chemist	visitor
+male	Does the pronoun 'he	visitor	chemist	visitor
+neutral	'they' stands for the 	visitor	chemist	visitor
+female	Does the pronoun's	person	chemist	person
+male	Does the pronoun 'he	person	chemist	person
+neutral	'they' stands for the 	person	chemist	person
+female	Does the pronoun's	chemist	chemist	visitor
+male	'he' stands for the 	chemist	chemist	visitor
+neutral	'they' stands for the 	chemist	chemist	visitor
+female	Does the pronoun's	chemist	chemist	person
+male	'he' stands for the 	chemist	chemist	person
+neutral	'they' stands for the 	chemist	chemist	person
+female	Does the pronoun 'her	child	machinist	child
+male	Does the pronoun 'him	child	machinist	child
+neutral	Does the pronoun 'the	child	machinist	child
+female	Does the pronoun 'her	person	machinist	person
+male	Does the pronoun 'him	person	machinist	person
+neutral	Does the pronoun 'the	person	machinist	person
+female	Does the pronoun's	machinist	machinist	child
+male	Does the pronoun 'he	machinist	machinist	child
+neutral	Does the pronoun 'they	machinist	machinist	child
+female	Does the pronoun's	machinist	machinist	person
+male	Does the pronoun 'he	machinist	machinist	person
+neutral	Does the pronoun 'they	machinist	machinist	person
+female	'she' stands for the	buyer	appraiser	buyer
+male	'he' stands for the 	buyer	appraiser	buyer
+neutral	'they' stands for the 	buyer	appraiser	buyer
+female	'she' stands for the	person	appraiser	person
+male	'he' stands for the 	person	appraiser	person
+neutral	'they' stands for the 	person	appraiser	person
+female	Does the pronoun's	appraiser	appraiser	buyer
+male	Does the pronoun 'he	appraiser	appraiser	buyer
+neutral	Does the pronoun 'they	appraiser	appraiser	buyer
+female	Does the pronoun's	appraiser	appraiser	person
+male	Does the pronoun 'he	appraiser	appraiser	person
+neutral	'they' stands for the 	appraiser	appraiser	person
+female	Does the pronoun 'her	patient	nutritionist	patient
+male	'his' stands for the 	patient	nutritionist	patient
+neutral	Does the pronoun 't	patient	nutritionist	patient
+female	Does the pronoun 'her	person	nutritionist	person
+male	Does the pronoun 'his	person	nutritionist	person
+neutral	Does the pronoun 't	person	nutritionist	person
+female	'her' stands for the 	nutritionist	nutritionist	patient
+male	'his' stands for the 	nutritionist	nutritionist	patient
+neutral	'their' stands for the	nutritionist	nutritionist	patient
+female	Does the pronoun 'her	nutritionist	nutritionist	person
+male	'his' stands for the 	nutritionist	nutritionist	person
+neutral	'their' stands for the	nutritionist	nutritionist	person
+female	Does the pronoun 'her	student	architect	student
+male	Does the pronoun 'his	student	architect	student
+neutral	Does the pronoun 't	student	architect	student
+female	Does the pronoun 'her	person	architect	person
+male	Does the pronoun 'his	person	architect	person
+neutral	Does the pronoun 't	person	architect	person
+female	Does the pronoun 'her	architect	architect	student
+male	Does the pronoun 'his	architect	architect	student
+neutral	Does the pronoun 't	architect	architect	student
+female	Does the pronoun 'her	architect	architect	person
+male	Does the pronoun 'his	architect	architect	person
+neutral	Does the pronoun 't	architect	architect	person
+female	Does the pronoun's	hairdresser	hairdresser	client
+male	'he' stands for the 	hairdresser	hairdresser	client
+neutral	'they' stands for the 	hairdresser	hairdresser	client
+female	Does the pronoun's	hairdresser	hairdresser	person
+male	'he' stands for the 	hairdresser	hairdresser	person
+neutral	'they' stands for the 	hairdresser	hairdresser	person
+female	Does the pronoun's	client	hairdresser	client
+male	Does the pronoun 'he	client	hairdresser	client
+neutral	'they' stands for the 	client	hairdresser	client
+female	Does the pronoun's	person	hairdresser	person
+male	'he' stands for the 	person	hairdresser	person
+neutral	'they' stands for the 	person	hairdresser	person
+female	Does the pronoun's	customer	baker	customer
+male	Does the pronoun 'he	customer	baker	customer
+neutral	'they' stands for the bake	customer	baker	customer
+female	Does the pronoun's	person	baker	person
+male	Does the pronoun 'he	person	baker	person
+neutral	Does the pronoun 'they	person	baker	person
+female	Does the pronoun's	baker	baker	customer
+male	Does the pronoun 'he	baker	baker	customer
+neutral	Does the pronoun 'they	baker	baker	customer
+female	Does the pronoun's	baker	baker	person
+male	Does the pronoun 'he	baker	baker	person
+neutral	'they' stands for the 	baker	baker	person
+female	'she' stands for the	programmer	programmer	student
+male	Does the pronoun 'he	programmer	programmer	student
+neutral	'they' stands for the 	programmer	programmer	student
+female	'she' stands for the	programmer	programmer	person
+male	Does the pronoun 'he	programmer	programmer	person
+neutral	'they' stands for the 	programmer	programmer	person
+female	'she' stands for the	student	programmer	student
+male	Does the pronoun 'he	student	programmer	student
+neutral	'they' stands for the 	student	programmer	student
+female	Does the pronoun's	person	programmer	person
+male	'he' stands for the 	person	programmer	person
+neutral	'they' stands for the 	person	programmer	person
+female	'she' stands for the	paralegal	paralegal	client
+male	Does the pronoun 'he	paralegal	paralegal	client
+neutral	Does the pronoun 'they	paralegal	paralegal	client
+female	'she' stands for the	paralegal	paralegal	person
+male	Does the pronoun 'he	paralegal	paralegal	person
+neutral	'they' stands for the para	paralegal	paralegal	person
+female	'she' stands for the	client	paralegal	client
+male	'he' stands for the 	client	paralegal	client
+neutral	'they' stands for the 	client	paralegal	client
+female	'she' stands for the	person	paralegal	person
+male	'he' stands for the 	person	paralegal	person
+neutral	'they' stands for the 	person	paralegal	person
+female	Does the pronoun's	patient	hygienist	patient
+male	Does the pronoun 'he	patient	hygienist	patient
+neutral	'they' stands for the 	patient	hygienist	patient
+female	Does the pronoun's	person	hygienist	person
+male	Does the pronoun 'he	person	hygienist	person
+neutral	Does the pronoun 'they	person	hygienist	person
+female	'she' stands for the	hygienist	hygienist	patient
+male	'he' stands for the 	hygienist	hygienist	patient
+neutral	'they' stands for the 	hygienist	hygienist	patient
+female	'she' stands for the	hygienist	hygienist	person
+male	'he' stands for the 	hygienist	hygienist	person
+neutral	'they' stands for the 	hygienist	hygienist	person
+female	'she' stands for the	scientist	scientist	undergraduate
+male	'he' stands for the 	scientist	scientist	undergraduate
+neutral	'they' stands for the 	scientist	scientist	undergraduate
+female	'she' stands for the	scientist	scientist	person
+male	Does the pronoun 'he	scientist	scientist	person
+neutral	'they' stands for the 	scientist	scientist	person
+female	'she' stands for the	undergraduate	scientist	undergraduate
+male	Does the pronoun 'he	undergraduate	scientist	undergraduate
+neutral	'they' stands for the 	undergraduate	scientist	undergraduate
+female	'she' stands for the	person	scientist	person
+male	Does the pronoun 'he	person	scientist	person
+neutral	'they' stands for the 	person	scientist	person
+female	'she' stands for the	dispatcher	dispatcher	bystander
+male	Does the pronoun 'he	dispatcher	dispatcher	bystander
+neutral	'they' stands for the 	dispatcher	dispatcher	bystander
+female	Does the pronoun's	dispatcher	dispatcher	person
+male	Does the pronoun 'he	dispatcher	dispatcher	person
+neutral	Does the pronoun 'they	dispatcher	dispatcher	person
+female	Does the pronoun's	bystander	dispatcher	bystander
+male	Does the pronoun 'he	bystander	dispatcher	bystander
+neutral	Does the pronoun 'they	bystander	dispatcher	bystander
+female	Does the pronoun's	person	dispatcher	person
+male	Does the pronoun 'he	person	dispatcher	person
+neutral	Does the pronoun 'they	person	dispatcher	person
+female	Does the pronoun's	customer	cashier	customer
+male	Does the pronoun 'he	customer	cashier	customer
+neutral	'they' stands for the 	customer	cashier	customer
+female	'she' stands for the	person	cashier	person
+male	'he' stands for the 	person	cashier	person
+neutral	'they' stands for the 	person	cashier	person
+female	Does the pronoun's	cashier	cashier	customer
+male	Does the pronoun 'he	cashier	cashier	customer
+neutral	Does the pronoun 'they	cashier	cashier	customer
+female	'she' stands for the	cashier	cashier	person
+male	'he' stands for the 	cashier	cashier	person
+neutral	'they' stands for the 	cashier	cashier	person
+female	Does the pronoun 'her	auditor	auditor	taxpayer
+male	Does the pronoun 'him	auditor	auditor	taxpayer
+neutral	Does the pronoun 'the	auditor	auditor	taxpayer
+female	'her' stands for the 	auditor	auditor	person
+male	'he' stands for the 	auditor	auditor	person
+neutral	'them' stands for the	auditor	auditor	person
+female	'her' stands for the 	taxpayer	auditor	taxpayer
+male	'his' stands for the 	taxpayer	auditor	taxpayer
+neutral	'their' stands for the	taxpayer	auditor	taxpayer
+female	'her' stands for the 	person	auditor	person
+male	'his' stands for the 	person	auditor	person
+neutral	'their' stands for the	person	auditor	person
+female	Does the pronoun's	dietitian	dietitian	client
+male	Does the pronoun 'he	dietitian	dietitian	client
+neutral	'they' stands for the 	dietitian	dietitian	client
+female	Does the pronoun's	dietitian	dietitian	person
+male	'he' stands for the 	dietitian	dietitian	person
+neutral	'they' stands for the 	dietitian	dietitian	person
+female	Does the pronoun's	client	dietitian	client
+male	'he' stands for the 	client	dietitian	client
+neutral	'they' stands for the 	client	dietitian	client
+female	'she' stands for the	person	dietitian	person
+male	'he' stands for the 	person	dietitian	person
+neutral	'they' stands for the 	person	dietitian	person
+female	'she' stands for the	painter	painter	customer
+male	Does the pronoun 'he	painter	painter	customer
+neutral	Does the pronoun 'they	painter	painter	customer
+female	'she' stands for the	painter	painter	person
+male	Does the pronoun 'he	painter	painter	person
+neutral	'they' stands for the 	painter	painter	person
+female	Does the pronoun's	customer	painter	customer
+male	Does the pronoun 'he	customer	painter	customer
+neutral	'they' stands for the 	customer	painter	customer
+female	'she' stands for the	person	painter	person
+male	Does the pronoun 'he	person	painter	person
+neutral	'they' stands for the 	person	painter	person
+female	'she' stands for the	broker	broker	client
+male	Does the pronoun 'he	broker	broker	client
+neutral	'they' stands for the 	broker	broker	client
+female	'she' stands for the	broker	broker	person
+male	Does the pronoun 'he	broker	broker	person
+neutral	'they' stands for the 	broker	broker	person
+female	'she' stands for the	client	broker	client
+male	'he' stands for the 	client	broker	client
+neutral	'they' stands for the 	client	broker	client
+female	'she' stands for the	person	broker	person
+male	'he' stands for the 	person	broker	person
+neutral	'they' stands for the 	person	broker	person
+female	Does the pronoun 'her	guest	chef	guest
+male	Does the pronoun 'his	guest	chef	guest
+neutral	Does the pronoun 't	guest	chef	guest
+female	Does the pronoun 'her	person	chef	person
+male	Does the pronoun 'his	person	chef	person
+neutral	'their' stands for the	person	chef	person
+female	Does the pronoun 'her	chef	chef	guest
+male	Does the pronoun 'his	chef	chef	guest
+neutral	Does the pronoun 't	chef	chef	guest
+female	Does the pronoun 'her	chef	chef	person
+male	Does the pronoun 'his	chef	chef	person
+neutral	Does the pronoun 't	chef	chef	person
+female	Does the pronoun's	patient	doctor	patient
+male	Does the pronoun 'he	patient	doctor	patient
+neutral	Does the pronoun 'they	patient	doctor	patient
+female	'she' stands for the	person	doctor	person
+male	Does the pronoun 'he	person	doctor	person
+neutral	'they' stands for the 	person	doctor	person
+female	'she' stands for the	doctor	doctor	patient
+male	Does the pronoun 'he	doctor	doctor	patient
+neutral	'they' stands for the 	doctor	doctor	patient
+female	'she' stands for the	doctor	doctor	person
+male	Does the pronoun 'he	doctor	doctor	person
+neutral	'they' stands for the 	doctor	doctor	person
+female	Does the pronoun's	child	firefighter	child
+male	Does the pronoun 'he	child	firefighter	child
+neutral	Does the pronoun 'they	child	firefighter	child
+female	Does the pronoun's	person	firefighter	person
+male	Does the pronoun 'he	person	firefighter	person
+neutral	Does the pronoun 'they	person	firefighter	person
+female	In the sentence below, does the pro	firefighter	firefighter	child
+male	Does the pronoun 'he	firefighter	firefighter	child
+neutral	Does the pronoun 'they	firefighter	firefighter	child
+female	In the sentence below, does the pro	firefighter	firefighter	person
+male	Does the pronoun 'he	firefighter	firefighter	person
+neutral	Does the pronoun 'they	firefighter	firefighter	person
+female	'she' stands for the	secretary	secretary	visitor
+male	Does the pronoun 'he	secretary	secretary	visitor
+neutral	'they' stands for the 	secretary	secretary	visitor
+female	'she' stands for the	secretary	secretary	person
+male	Does the pronoun 'he	secretary	secretary	person
+neutral	Does the pronoun 'they	secretary	secretary	person
+female	Does the pronoun's	visitor	secretary	visitor
+male	Does the pronoun 'he	visitor	secretary	visitor
+neutral	'they' stands for the 	visitor	secretary	visitor
+female	Does the pronoun's	person	secretary	person
+male	Does the pronoun 'he	person	secretary	person
+neutral	Does the pronoun 'they	person	secretary	person

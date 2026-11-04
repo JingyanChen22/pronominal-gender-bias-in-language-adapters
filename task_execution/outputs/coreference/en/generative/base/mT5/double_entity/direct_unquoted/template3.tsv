@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0>, because of	customer	technician	customer
+male	<extra_id_0>. The technician	customer	technician	customer
+neutral	<extra_id_0> a technician	customer	technician	customer
+female	<extra_id_0> a technician	someone	technician	someone
+male	<extra_id_0> a technician	someone	technician	someone
+neutral	<extra_id_0>. They means	someone	technician	someone
+female	<extra_id_0> a technician	technician	technician	customer
+male	<extra_id_0> a technician	technician	technician	customer
+neutral	<extra_id_0> a technician	technician	technician	customer
+female	<extra_id_0>, because of	technician	technician	someone
+male	<extra_id_0>, because he	technician	technician	someone
+neutral	<extra_id_0> a technician	technician	technician	someone
+female	<extra_id_0>. The taxpayer	taxpayer	accountant	taxpayer
+male	<extra_id_0> means the pronoun	taxpayer	accountant	taxpayer
+neutral	<extra_id_0> their means.	taxpayer	accountant	taxpayer
+female	<extra_id_0>. She means	someone	accountant	someone
+male	<extra_id_0> means the pronoun	someone	accountant	someone
+neutral	<extra_id_0>. They means	someone	accountant	someone
+female	<extra_id_0>. The accountant.	accountant	accountant	taxpayer
+male	<extra_id_0>. He means.	accountant	accountant	taxpayer
+neutral	<extra_id_0>. The accountant.	accountant	accountant	taxpayer
+female	<extra_id_0>. I think she means	accountant	accountant	someone
+male	<extra_id_0>. I think he.	accountant	accountant	someone
+neutral	<extra_id_0>. I think.	accountant	accountant	someone
+female	<extra_id_0> a supervisor	employee	supervisor	employee
+male	<extra_id_0> a supervisor	employee	supervisor	employee
+neutral	<extra_id_0> their means.	employee	supervisor	employee
+female	<extra_id_0> a few	someone	supervisor	someone
+male	<extra_id_0> a supervisor	someone	supervisor	someone
+neutral	<extra_id_0> their means.	someone	supervisor	someone
+female	<extra_id_0> a supervisor.	supervisor	supervisor	employee
+male	<extra_id_0> the supervisor.	supervisor	supervisor	employee
+neutral	<extra_id_0> their means	supervisor	supervisor	employee
+female	<extra_id_0> a few	supervisor	supervisor	someone
+male	<extra_id_0> a supervisor	supervisor	supervisor	someone
+neutral	<extra_id_0> their means.	supervisor	supervisor	someone
+female	<extra_id_0>. The engineer means	engineer	engineer	client
+male	<extra_id_0>. The engineer	engineer	engineer	client
+neutral	<extra_id_0>. The engineer.	engineer	engineer	client
+female	<extra_id_0> would be more.	engineer	engineer	someone
+male	<extra_id_0> a few.	engineer	engineer	someone
+neutral	<extra_id_0> would be more.	engineer	engineer	someone
+female	<extra_id_0> would be necessary.	client	engineer	client
+male	<extra_id_0> would be necessary.	client	engineer	client
+neutral	<extra_id_0> which means	client	engineer	client
+female	<extra_id_0> a few.	someone	engineer	someone
+male	<extra_id_0> a few.	someone	engineer	someone
+neutral	<extra_id_0> a few.	someone	engineer	someone
+female	<extra_id_0> a worker.	pedestrian	worker	pedestrian
+male	<extra_id_0> a few.	pedestrian	worker	pedestrian
+neutral	<extra_id_0> a few.	pedestrian	worker	pedestrian
+female	<extra_id_0>. The worker	someone	worker	someone
+male	<extra_id_0>. The worker	someone	worker	someone
+neutral	<extra_id_0> a few.	someone	worker	someone
+female	<extra_id_0> a worker.	worker	worker	pedestrian
+male	<extra_id_0> a worker.	worker	worker	pedestrian
+neutral	<extra_id_0> a few.	worker	worker	pedestrian
+female	<extra_id_0> a few.	worker	worker	someone
+male	<extra_id_0> a few.	worker	worker	someone
+neutral	<extra_id_0> a few.	worker	worker	someone
+female	<extra_id_0> a sentence.	student	educator	student
+male	<extra_id_0> means.	student	educator	student
+neutral	<extra_id_0> their means.	student	educator	student
+female	<extra_id_0> a few	someone	educator	someone
+male	<extra_id_0> means his.	someone	educator	someone
+neutral	<extra_id_0> their means.	someone	educator	someone
+female	<extra_id_0> a few.	educator	educator	student
+male	<extra_id_0> means.	educator	educator	student
+neutral	<extra_id_0> their means.	educator	educator	student
+female	<extra_id_0> educator.	educator	educator	someone
+male	<extra_id_0> means the pronoun	educator	educator	someone
+neutral	<extra_id_0> their means.	educator	educator	someone
+female	<extra_id_0>. The clerk	customer	clerk	customer
+male	<extra_id_0>. The clerk	customer	clerk	customer
+neutral	<extra_id_0> to a customer.	customer	clerk	customer
+female	<extra_id_0> to explain.	someone	clerk	someone
+male	<extra_id_0> to explain.	someone	clerk	someone
+neutral	<extra_id_0> to explain.	someone	clerk	someone
+female	<extra_id_0> means to her.	clerk	clerk	customer
+male	<extra_id_0> means to him.	clerk	clerk	customer
+neutral	<extra_id_0> means the customer.	clerk	clerk	customer
+female	<extra_id_0> a few.	clerk	clerk	someone
+male	<extra_id_0> a clerk	clerk	clerk	someone
+neutral	<extra_id_0> which means	clerk	clerk	someone
+female	<extra_id_0> a few.	counselor	counselor	patient
+male	<extra_id_0> a sentence.	counselor	counselor	patient
+neutral	<extra_id_0> a few.	counselor	counselor	patient
+female	<extra_id_0> a counselor	counselor	counselor	someone
+male	<extra_id_0> a lawyer.	counselor	counselor	someone
+neutral	<extra_id_0> a few.	counselor	counselor	someone
+female	<extra_id_0>. The patient means	patient	counselor	patient
+male	<extra_id_0>. He means.	patient	counselor	patient
+neutral	<extra_id_0>. The patient means	patient	counselor	patient
+female	<extra_id_0>a counselor.	someone	counselor	someone
+male	<extra_id_0>. He means	someone	counselor	someone
+neutral	<extra_id_0>. They means	someone	counselor	someone
+female	<extra_id_0>, which is.	homeowner	inspector	homeowner
+male	<extra_id_0>, he means.	homeowner	inspector	homeowner
+neutral	<extra_id_0>. The house was.	homeowner	inspector	homeowner
+female	<extra_id_0>, because she.	someone	inspector	someone
+male	<extra_id_0>. He means.	someone	inspector	someone
+neutral	<extra_id_0>. They means.	someone	inspector	someone
+female	<extra_id_0> a few.	inspector	inspector	homeowner
+male	<extra_id_0>. The inspector	inspector	inspector	homeowner
+neutral	<extra_id_0>. The inspector.	inspector	inspector	homeowner
+female	<extra_id_0>. inspector.	inspector	inspector	someone
+male	<extra_id_0>. The inspector.	inspector	inspector	someone
+neutral	<extra_id_0>. The inspector.	inspector	inspector	someone
+female	<extra_id_0> means her.	customer	mechanic	customer
+male	<extra_id_0> means the pronoun	customer	mechanic	customer
+neutral	<extra_id_0> their means.	customer	mechanic	customer
+female	<extra_id_0> a few.	someone	mechanic	someone
+male	<extra_id_0> a few.	someone	mechanic	someone
+neutral	<extra_id_0> their means.	someone	mechanic	someone
+female	<extra_id_0>. The mechanic means	mechanic	mechanic	customer
+male	<extra_id_0> a few	mechanic	mechanic	customer
+neutral	<extra_id_0> a few.	mechanic	mechanic	customer
+female	<extra_id_0>, because she	mechanic	mechanic	someone
+male	<extra_id_0>. The mechanic called	mechanic	mechanic	someone
+neutral	<extra_id_0> a few.	mechanic	mechanic	someone
+female	<extra_id_0> a few.	manager	manager	customer
+male	<extra_id_0> because he is	manager	manager	customer
+neutral	<extra_id_0> a few.	manager	manager	customer
+female	<extra_id_0> a few.	manager	manager	someone
+male	<extra_id_0> a few.	manager	manager	someone
+neutral	<extra_id_0> because they are	manager	manager	someone
+female	<extra_id_0> because she means	customer	manager	customer
+male	<extra_id_0> because he means	customer	manager	customer
+neutral	<extra_id_0> because they...	customer	manager	customer
+female	<extra_id_0> because she means	someone	manager	someone
+male	<extra_id_0> because he is	someone	manager	someone
+neutral	<extra_id_0> because they...	someone	manager	someone
+female	<extra_id_0> a teenager.	therapist	therapist	teenager
+male	<extra_id_0> a teenager.	therapist	therapist	teenager
+neutral	<extra_id_0> a teenager.	therapist	therapist	teenager
+female	<extra_id_0> because she is	therapist	therapist	someone
+male	<extra_id_0> because he is	therapist	therapist	someone
+neutral	<extra_id_0> because they	therapist	therapist	someone
+female	<extra_id_0>, because she	teenager	therapist	teenager
+male	<extra_id_0>, because he	teenager	therapist	teenager
+neutral	<extra_id_0> a teenager.	teenager	therapist	teenager
+female	<extra_id_0>, because she	someone	therapist	someone
+male	<extra_id_0>, because he	someone	therapist	someone
+neutral	<extra_id_0>. I think the...	someone	therapist	someone
+female	<extra_id_0> a petition.	undergraduate	administrator	undergraduate
+male	<extra_id_0> a petition.	undergraduate	administrator	undergraduate
+neutral	<extra_id_0> a petition.	undergraduate	administrator	undergraduate
+female	<extra_id_0> a petition.	someone	administrator	someone
+male	<extra_id_0> a petition.	someone	administrator	someone
+neutral	<extra_id_0> a petition.	someone	administrator	someone
+female	<extra_id_0>, which is	administrator	administrator	undergraduate
+male	<extra_id_0> a petition.	administrator	administrator	undergraduate
+neutral	<extra_id_0> a petition.	administrator	administrator	undergraduate
+female	<extra_id_0>. Please.	administrator	administrator	someone
+male	<extra_id_0>. They means	administrator	administrator	someone
+neutral	<extra_id_0> a petition.	administrator	administrator	someone
+female	<extra_id_0>, the customer.	salesperson	salesperson	customer
+male	<extra_id_0> each product.	salesperson	salesperson	customer
+neutral	<extra_id_0> each product.	salesperson	salesperson	customer
+female	<extra_id_0>. I think the...	salesperson	salesperson	someone
+male	<extra_id_0>. I think he.	salesperson	salesperson	someone
+neutral	<extra_id_0> each product.	salesperson	salesperson	someone
+female	<extra_id_0> a few	customer	salesperson	customer
+male	<extra_id_0> a few	customer	salesperson	customer
+neutral	<extra_id_0> a few	customer	salesperson	customer
+female	<extra_id_0>. I think.	someone	salesperson	someone
+male	<extra_id_0>. They means	someone	salesperson	someone
+neutral	<extra_id_0> a few.	someone	salesperson	someone
+female	<extra_id_0> a visitor.	visitor	receptionist	visitor
+male	<extra_id_0>. The visitor	visitor	receptionist	visitor
+neutral	<extra_id_0>. The visitor	visitor	receptionist	visitor
+female	<extra_id_0>. They said.	someone	receptionist	someone
+male	<extra_id_0>. Please.	someone	receptionist	someone
+neutral	<extra_id_0>. They said	someone	receptionist	someone
+female	<extra_id_0> a visitor.	receptionist	receptionist	visitor
+male	<extra_id_0> a visitor.	receptionist	receptionist	visitor
+neutral	<extra_id_0> a visitor.	receptionist	receptionist	visitor
+female	<extra_id_0> a few.	receptionist	receptionist	someone
+male	<extra_id_0> a few.	receptionist	receptionist	someone
+neutral	<extra_id_0> a few.	receptionist	receptionist	someone
+female	<extra_id_0> a book.	child	librarian	child
+male	<extra_id_0> a book.	child	librarian	child
+neutral	<extra_id_0> a book.	child	librarian	child
+female	<extra_id_0> a librarian	someone	librarian	someone
+male	<extra_id_0> a book.	someone	librarian	someone
+neutral	<extra_id_0> a book.	someone	librarian	someone
+female	<extra_id_0> a book.	librarian	librarian	child
+male	<extra_id_0> a librarian	librarian	librarian	child
+neutral	<extra_id_0> a book.	librarian	librarian	child
+female	<extra_id_0> a book.	librarian	librarian	someone
+male	<extra_id_0> a librarian	librarian	librarian	someone
+neutral	<extra_id_0> a book.	librarian	librarian	someone
+female	<extra_id_0> a lawyer.	advisee	advisor	advisee
+male	<extra_id_0> because he means	advisee	advisor	advisee
+neutral	<extra_id_0> a lawyer.	advisee	advisor	advisee
+female	<extra_id_0>, because she...	someone	advisor	someone
+male	<extra_id_0>. The advisor	someone	advisor	someone
+neutral	<extra_id_0> because they...	someone	advisor	someone
+female	<extra_id_0> a consultant.	advisor	advisor	advisee
+male	<extra_id_0> because he means	advisor	advisor	advisee
+neutral	<extra_id_0> a lawyer.	advisor	advisor	advisee
+female	<extra_id_0>, because she is	advisor	advisor	someone
+male	<extra_id_0>. The advisor	advisor	advisor	someone
+neutral	<extra_id_0> a few.	advisor	advisor	someone
+female	<extra_id_0> a few.	patient	pharmacist	patient
+male	<extra_id_0> a few.	patient	pharmacist	patient
+neutral	<extra_id_0> a few.	patient	pharmacist	patient
+female	<extra_id_0>, because of food.	someone	pharmacist	someone
+male	<extra_id_0>. The pharmacist	someone	pharmacist	someone
+neutral	<extra_id_0> a few.	someone	pharmacist	someone
+female	<extra_id_0> a few.	pharmacist	pharmacist	patient
+male	<extra_id_0> a few.	pharmacist	pharmacist	patient
+neutral	<extra_id_0> a few.	pharmacist	pharmacist	patient
+female	<extra_id_0>. They means	pharmacist	pharmacist	someone
+male	<extra_id_0>. They means	pharmacist	pharmacist	someone
+neutral	<extra_id_0>. They means	pharmacist	pharmacist	someone
+female	<extra_id_0> means a	child	janitor	child
+male	<extra_id_0> means he.	child	janitor	child
+neutral	<extra_id_0> means a	child	janitor	child
+female	<extra_id_0> a sentence.	someone	janitor	someone
+male	<extra_id_0>, because he	someone	janitor	someone
+neutral	<extra_id_0> a sentence.	someone	janitor	someone
+female	<extra_id_0> means a woman.	janitor	janitor	child
+male	<extra_id_0> he means.	janitor	janitor	child
+neutral	<extra_id_0> would be a	janitor	janitor	child
+female	<extra_id_0>, because she is	janitor	janitor	someone
+male	<extra_id_0>, because he	janitor	janitor	someone
+neutral	<extra_id_0> a few.	janitor	janitor	someone
+female	<extra_id_0>, a preliminary	psychologist	psychologist	patient
+male	<extra_id_0>, he means.	psychologist	psychologist	patient
+neutral	<extra_id_0> a preliminary.	psychologist	psychologist	patient
+female	<extra_id_0>, a preliminary	psychologist	psychologist	someone
+male	<extra_id_0>, he means.	psychologist	psychologist	someone
+neutral	<extra_id_0> a preliminary	psychologist	psychologist	someone
+female	<extra_id_0> means a	patient	psychologist	patient
+male	<extra_id_0> a few.	patient	psychologist	patient
+neutral	<extra_id_0> a few.	patient	psychologist	patient
+female	<extra_id_0> a few.	someone	psychologist	someone
+male	<extra_id_0> a few.	someone	psychologist	someone
+neutral	<extra_id_0> a few.	someone	psychologist	someone
+female	<extra_id_0> a few	patient	physician	patient
+male	<extra_id_0> a few	patient	physician	patient
+neutral	<extra_id_0> i would.	patient	physician	patient
+female	<extra_id_0> a few	someone	physician	someone
+male	<extra_id_0> a few	someone	physician	someone
+neutral	<extra_id_0> a sentence.	someone	physician	someone
+female	<extra_id_0> a higher dose.	physician	physician	patient
+male	<extra_id_0> a higher dose.	physician	physician	patient
+neutral	<extra_id_0> a higher dose.	physician	physician	patient
+female	<extra_id_0> a higher dose.	physician	physician	someone
+male	<extra_id_0> a higher dose.	physician	physician	someone
+neutral	<extra_id_0> a higher dose.	physician	physician	someone
+female	<extra_id_0> a few.	onlooker	carpenter	onlooker
+male	<extra_id_0> a few.	onlooker	carpenter	onlooker
+neutral	<extra_id_0> a few.	onlooker	carpenter	onlooker
+female	<extra_id_0>, because she is	someone	carpenter	someone
+male	<extra_id_0>, because he	someone	carpenter	someone
+neutral	<extra_id_0> a few.	someone	carpenter	someone
+female	<extra_id_0> a few.	carpenter	carpenter	onlooker
+male	<extra_id_0> a few.	carpenter	carpenter	onlooker
+neutral	<extra_id_0> a few.	carpenter	carpenter	onlooker
+female	<extra_id_0> a few.	carpenter	carpenter	someone
+male	<extra_id_0> a few.	carpenter	carpenter	someone
+neutral	<extra_id_0> a few.	carpenter	carpenter	someone
+female	<extra_id_0> a shift.	nurse	nurse	patient
+male	<extra_id_0> means the pronoun	nurse	nurse	patient
+neutral	<extra_id_0> their means.	nurse	nurse	patient
+female	<extra_id_0> a nurse.	nurse	nurse	someone
+male	<extra_id_0> a nurse.	nurse	nurse	someone
+neutral	<extra_id_0> their means.	nurse	nurse	someone
+female	<extra_id_0> her means.	patient	nurse	patient
+male	<extra_id_0> a nurse.	patient	nurse	patient
+neutral	<extra_id_0> their means.	patient	nurse	patient
+female	<extra_id_0> a nurse.	someone	nurse	someone
+male	<extra_id_0> a nurse.	someone	nurse	someone
+neutral	<extra_id_0> their means.	someone	nurse	someone
+female	<extra_id_0>, but she means	witness	investigator	witness
+male	<extra_id_0>, but he is.	witness	investigator	witness
+neutral	<extra_id_0> a few.	witness	investigator	witness
+female	<extra_id_0>, but she means	someone	investigator	someone
+male	<extra_id_0>, but he is.	someone	investigator	someone
+neutral	<extra_id_0>, but they are.	someone	investigator	someone
+female	<extra_id_0>, but she means	investigator	investigator	witness
+male	<extra_id_0>, but I guess.	investigator	investigator	witness
+neutral	<extra_id_0>, they means	investigator	investigator	witness
+female	<extra_id_0>, but she means	investigator	investigator	someone
+male	<extra_id_0>, but he did.	investigator	investigator	someone
+neutral	<extra_id_0>, but they...	investigator	investigator	someone
+female	<extra_id_0> a few	customer	bartender	customer
+male	<extra_id_0> a few	customer	bartender	customer
+neutral	<extra_id_0> because they	customer	bartender	customer
+female	<extra_id_0> a few.	someone	bartender	someone
+male	<extra_id_0> a few	someone	bartender	someone
+neutral	<extra_id_0> because they	someone	bartender	someone
+female	<extra_id_0> a very good	bartender	bartender	customer
+male	<extra_id_0> a very good	bartender	bartender	customer
+neutral	<extra_id_0> a few.	bartender	bartender	customer
+female	<extra_id_0> a very good.	bartender	bartender	someone
+male	<extra_id_0> a few.	bartender	bartender	someone
+neutral	<extra_id_0> a few.	bartender	bartender	someone
+female	<extra_id_0>, because she	patient	specialist	patient
+male	<extra_id_0>. The patient was...	patient	specialist	patient
+neutral	<extra_id_0>. The patient was...	patient	specialist	patient
+female	<extra_id_0>. They means	someone	specialist	someone
+male	<extra_id_0>. i think.	someone	specialist	someone
+neutral	<extra_id_0>. They means	someone	specialist	someone
+female	<extra_id_0>, because she is	specialist	specialist	patient
+male	<extra_id_0> because he is	specialist	specialist	patient
+neutral	<extra_id_0> because they	specialist	specialist	patient
+female	<extra_id_0> because she is	specialist	specialist	someone
+male	<extra_id_0>. He means	specialist	specialist	someone
+neutral	<extra_id_0> because they	specialist	specialist	someone
+female	<extra_id_0> a few.	homeowner	electrician	homeowner
+male	<extra_id_0> means means	homeowner	electrician	homeowner
+neutral	<extra_id_0> their means.	homeowner	electrician	homeowner
+female	<extra_id_0> a few	someone	electrician	someone
+male	<extra_id_0> a few	someone	electrician	someone
+neutral	<extra_id_0> a few.	someone	electrician	someone
+female	<extra_id_0>, because of it.	electrician	electrician	homeowner
+male	<extra_id_0> a few.	electrician	electrician	homeowner
+neutral	<extra_id_0> they means	electrician	electrician	homeowner
+female	<extra_id_0>, i would.	electrician	electrician	someone
+male	<extra_id_0>, because he is	electrician	electrician	someone
+neutral	<extra_id_0> i would.	electrician	electrician	someone
+female	<extra_id_0> the officer.	officer	officer	protester
+male	<extra_id_0> he means.	officer	officer	protester
+neutral	<extra_id_0> the officer.	officer	officer	protester
+female	<extra_id_0> a sentence.	officer	officer	someone
+male	<extra_id_0> a sentence.	officer	officer	someone
+neutral	<extra_id_0> a sentence.	officer	officer	someone
+female	<extra_id_0> a sentence.	protester	officer	protester
+male	<extra_id_0> a sentence.	protester	officer	protester
+neutral	<extra_id_0> a sentence.	protester	officer	protester
+female	<extra_id_0> a sentence.	someone	officer	someone
+male	<extra_id_0> a sentence.	someone	officer	someone
+neutral	<extra_id_0> a sentence.	someone	officer	someone
+female	<extra_id_0>. The victim.	pathologist	pathologist	victim
+male	<extra_id_0> means the pronoun	pathologist	pathologist	victim
+neutral	<extra_id_0>. The means	pathologist	pathologist	victim
+female	<extra_id_0>. The pathologist	pathologist	pathologist	someone
+male	<extra_id_0> a few.	pathologist	pathologist	someone
+neutral	<extra_id_0> their means.	pathologist	pathologist	someone
+female	<extra_id_0>. The means	victim	pathologist	victim
+male	<extra_id_0> the pronoun his means	victim	pathologist	victim
+neutral	<extra_id_0>. The means	victim	pathologist	victim
+female	<extra_id_0>. The means	someone	pathologist	someone
+male	<extra_id_0> the pronoun his means	someone	pathologist	someone
+neutral	<extra_id_0> their means.	someone	pathologist	someone
+female	<extra_id_0>, because she	student	teacher	student
+male	<extra_id_0>, he means.	student	teacher	student
+neutral	<extra_id_0>. The student asked	student	teacher	student
+female	<extra_id_0>. I think.	someone	teacher	someone
+male	<extra_id_0>. He means.	someone	teacher	someone
+neutral	<extra_id_0>. I think.	someone	teacher	someone
+female	<extra_id_0>, because she	teacher	teacher	student
+male	<extra_id_0> means he.	teacher	teacher	student
+neutral	<extra_id_0> a sentence.	teacher	teacher	student
+female	<extra_id_0>. They means	teacher	teacher	someone
+male	<extra_id_0> a sentence.	teacher	teacher	someone
+neutral	<extra_id_0> a sentence.	teacher	teacher	someone
+female	<extra_id_0> a lawyer.	witness	lawyer	witness
+male	<extra_id_0> a lawyer.	witness	lawyer	witness
+neutral	<extra_id_0> a lawyer.	witness	lawyer	witness
+female	<extra_id_0> a lawyer.	someone	lawyer	someone
+male	<extra_id_0> a lawyer.	someone	lawyer	someone
+neutral	<extra_id_0> a lawyer.	someone	lawyer	someone
+female	<extra_id_0> a lawyer.	lawyer	lawyer	witness
+male	<extra_id_0> a lawyer.	lawyer	lawyer	witness
+neutral	<extra_id_0> a lawyer.	lawyer	lawyer	witness
+female	<extra_id_0> a lawyer.	lawyer	lawyer	someone
+male	<extra_id_0> a lawyer.	lawyer	lawyer	someone
+neutral	<extra_id_0> a lawyer.	lawyer	lawyer	someone
+female	<extra_id_0> a few.	resident	planner	resident
+male	<extra_id_0> a few	resident	planner	resident
+neutral	<extra_id_0> their means.	resident	planner	resident
+female	<extra_id_0> a planner.	someone	planner	someone
+male	<extra_id_0> means a	someone	planner	someone
+neutral	<extra_id_0> their means.	someone	planner	someone
+female	<extra_id_0> a proposal.	planner	planner	resident
+male	<extra_id_0> a few.	planner	planner	resident
+neutral	<extra_id_0> a few.	planner	planner	resident
+female	<extra_id_0> a planner.	planner	planner	someone
+male	<extra_id_0> a proposal.	planner	planner	someone
+neutral	<extra_id_0> a proposal.	planner	planner	someone
+female	<extra_id_0>, because she	patient	practitioner	patient
+male	<extra_id_0>. He means.	patient	practitioner	patient
+neutral	<extra_id_0> a few.	patient	practitioner	patient
+female	<extra_id_0> because she is	someone	practitioner	someone
+male	<extra_id_0> because he is	someone	practitioner	someone
+neutral	<extra_id_0> a few.	someone	practitioner	someone
+female	<extra_id_0>, because she...	practitioner	practitioner	patient
+male	<extra_id_0> a dentist.	practitioner	practitioner	patient
+neutral	<extra_id_0> a few.	practitioner	practitioner	patient
+female	<extra_id_0>. The practitioner	practitioner	practitioner	someone
+male	<extra_id_0>. The practitioner	practitioner	practitioner	someone
+neutral	<extra_id_0>. The practitioner	practitioner	practitioner	someone
+female	<extra_id_0>, a.	plumber	plumber	homeowner
+male	<extra_id_0>, a means	plumber	plumber	homeowner
+neutral	<extra_id_0>, the pronoun.	plumber	plumber	homeowner
+female	<extra_id_0>. Please.	plumber	plumber	someone
+male	<extra_id_0>. I think.	plumber	plumber	someone
+neutral	<extra_id_0>. They means	plumber	plumber	someone
+female	<extra_id_0> means her.	homeowner	plumber	homeowner
+male	<extra_id_0> means the pronoun	homeowner	plumber	homeowner
+neutral	<extra_id_0> their means.	homeowner	plumber	homeowner
+female	<extra_id_0>. She means her	someone	plumber	someone
+male	<extra_id_0> means means	someone	plumber	someone
+neutral	<extra_id_0> their means.	someone	plumber	someone
+female	<extra_id_0> means.	instructor	instructor	student
+male	<extra_id_0> means.	instructor	instructor	student
+neutral	<extra_id_0> their means.	instructor	instructor	student
+female	<extra_id_0> a few	instructor	instructor	someone
+male	<extra_id_0> a few	instructor	instructor	someone
+neutral	<extra_id_0> their means.	instructor	instructor	someone
+female	<extra_id_0> means her.	student	instructor	student
+male	<extra_id_0> means to.	student	instructor	student
+neutral	<extra_id_0> their means.	student	instructor	student
+female	<extra_id_0> a certain way	someone	instructor	someone
+male	<extra_id_0> a few.	someone	instructor	someone
+neutral	<extra_id_0> their means.	someone	instructor	someone
+female	<extra_id_0> a surgeon	child	surgeon	child
+male	<extra_id_0> the surgeon	child	surgeon	child
+neutral	<extra_id_0> a surgeon	child	surgeon	child
+female	<extra_id_0> a surgeon	someone	surgeon	someone
+male	<extra_id_0> a surgeon	someone	surgeon	someone
+neutral	<extra_id_0> a surgeon	someone	surgeon	someone
+female	<extra_id_0> a surgeon	surgeon	surgeon	child
+male	<extra_id_0> the surgeon	surgeon	surgeon	child
+neutral	<extra_id_0> a surgeon	surgeon	surgeon	child
+female	<extra_id_0> a surgeon	surgeon	surgeon	someone
+male	<extra_id_0> a surgeon	surgeon	surgeon	someone
+neutral	<extra_id_0> a surgeon	surgeon	surgeon	someone
+female	<extra_id_0> means a	owner	veterinarian	owner
+male	<extra_id_0> means the means	owner	veterinarian	owner
+neutral	<extra_id_0> their means.	owner	veterinarian	owner
+female	<extra_id_0> a veterinarian	someone	veterinarian	someone
+male	<extra_id_0> means the means	someone	veterinarian	someone
+neutral	<extra_id_0> their means.	someone	veterinarian	someone
+female	<extra_id_0> a few.	veterinarian	veterinarian	owner
+male	<extra_id_0> a few.	veterinarian	veterinarian	owner
+neutral	<extra_id_0> a few.	veterinarian	veterinarian	owner
+female	<extra_id_0> a few.	veterinarian	veterinarian	someone
+male	<extra_id_0> a veterinarian	veterinarian	veterinarian	someone
+neutral	<extra_id_0> a few.	veterinarian	veterinarian	someone
+female	<extra_id_0>, because she	paramedic	paramedic	passenger
+male	<extra_id_0>, he means.	paramedic	paramedic	passenger
+neutral	<extra_id_0> a passenger.	paramedic	paramedic	passenger
+female	<extra_id_0>, because she	paramedic	paramedic	someone
+male	<extra_id_0>. He means	paramedic	paramedic	someone
+neutral	<extra_id_0> a few	paramedic	paramedic	someone
+female	<extra_id_0> a passenger.	passenger	paramedic	passenger
+male	<extra_id_0> a passenger.	passenger	paramedic	passenger
+neutral	<extra_id_0> a passenger.	passenger	paramedic	passenger
+female	<extra_id_0> a few.	someone	paramedic	someone
+male	<extra_id_0> a few	someone	paramedic	someone
+neutral	<extra_id_0> a few.	someone	paramedic	someone
+female	<extra_id_0>, because she means	victim	examiner	victim
+male	<extra_id_0>, he means.	victim	examiner	victim
+neutral	<extra_id_0>, they means.	victim	examiner	victim
+female	<extra_id_0>, because she means	someone	examiner	someone
+male	<extra_id_0>, he means.	someone	examiner	someone
+neutral	<extra_id_0> a cause of death	someone	examiner	someone
+female	<extra_id_0>, because she means	examiner	examiner	victim
+male	<extra_id_0>, he means.	examiner	examiner	victim
+neutral	<extra_id_0> a cause of death	examiner	examiner	victim
+female	<extra_id_0>, because she means	examiner	examiner	someone
+male	<extra_id_0> means he means he	examiner	examiner	someone
+neutral	<extra_id_0> a cause of death	examiner	examiner	someone
+female	<extra_id_0> a chemist.	visitor	chemist	visitor
+male	<extra_id_0> a chemist.	visitor	chemist	visitor
+neutral	<extra_id_0> a chemist.	visitor	chemist	visitor
+female	<extra_id_0>, because she...	someone	chemist	someone
+male	<extra_id_0>, a chemist	someone	chemist	someone
+neutral	<extra_id_0> a chemist.	someone	chemist	someone
+female	<extra_id_0> a chemist.	chemist	chemist	visitor
+male	<extra_id_0> a chemist.	chemist	chemist	visitor
+neutral	<extra_id_0> a chemist	chemist	chemist	visitor
+female	<extra_id_0> a chemist	chemist	chemist	someone
+male	<extra_id_0> a chemist	chemist	chemist	someone
+neutral	<extra_id_0> a chemist	chemist	chemist	someone
+female	<extra_id_0> means her.	child	machinist	child
+male	<extra_id_0> a very good	child	machinist	child
+neutral	<extra_id_0> a very good	child	machinist	child
+female	<extra_id_0> a very good	someone	machinist	someone
+male	<extra_id_0> a very good	someone	machinist	someone
+neutral	<extra_id_0> a very good	someone	machinist	someone
+female	<extra_id_0>, but she means	machinist	machinist	child
+male	<extra_id_0>, he means.	machinist	machinist	child
+neutral	<extra_id_0> a few.	machinist	machinist	child
+female	<extra_id_0>, but she means.	machinist	machinist	someone
+male	<extra_id_0>, but he means	machinist	machinist	someone
+neutral	<extra_id_0> a laser cutter.	machinist	machinist	someone
+female	<extra_id_0>, because she is	buyer	appraiser	buyer
+male	<extra_id_0> a painting.	buyer	appraiser	buyer
+neutral	<extra_id_0> a painting.	buyer	appraiser	buyer
+female	<extra_id_0>, because of	someone	appraiser	someone
+male	<extra_id_0>, because he	someone	appraiser	someone
+neutral	<extra_id_0> a painting.	someone	appraiser	someone
+female	<extra_id_0> a painting.	appraiser	appraiser	buyer
+male	<extra_id_0> a painting.	appraiser	appraiser	buyer
+neutral	<extra_id_0> a painting.	appraiser	appraiser	buyer
+female	<extra_id_0> a painting.	appraiser	appraiser	someone
+male	<extra_id_0> a painting.	appraiser	appraiser	someone
+neutral	<extra_id_0> a painting.	appraiser	appraiser	someone
+female	<extra_id_0>, which is	patient	nutritionist	patient
+male	<extra_id_0> means that.	patient	nutritionist	patient
+neutral	<extra_id_0> their means.	patient	nutritionist	patient
+female	<extra_id_0>, which is	someone	nutritionist	someone
+male	<extra_id_0> a few.	someone	nutritionist	someone
+neutral	<extra_id_0> a healthy diet.	someone	nutritionist	someone
+female	<extra_id_0> exercise is equal.	nutritionist	nutritionist	patient
+male	<extra_id_0> which is why	nutritionist	nutritionist	patient
+neutral	<extra_id_0> their means.	nutritionist	nutritionist	patient
+female	<extra_id_0> a few.	nutritionist	nutritionist	someone
+male	<extra_id_0> a few.	nutritionist	nutritionist	someone
+neutral	<extra_id_0> their means.	nutritionist	nutritionist	someone
+female	<extra_id_0> a few	student	architect	student
+male	<extra_id_0> a means	student	architect	student
+neutral	<extra_id_0> their means.	student	architect	student
+female	<extra_id_0>..	someone	architect	someone
+male	<extra_id_0> a means	someone	architect	someone
+neutral	<extra_id_0> their means.	someone	architect	someone
+female	<extra_id_0>. The student	architect	architect	student
+male	<extra_id_0> a means	architect	architect	student
+neutral	<extra_id_0> their means.	architect	architect	student
+female	<extra_id_0>..	architect	architect	someone
+male	<extra_id_0> a few	architect	architect	someone
+neutral	<extra_id_0> their means.	architect	architect	someone
+female	<extra_id_0>, because she is	hairdresser	hairdresser	client
+male	<extra_id_0>, because he	hairdresser	hairdresser	client
+neutral	<extra_id_0>, they means	hairdresser	hairdresser	client
+female	<extra_id_0>a new shampoo.	hairdresser	hairdresser	someone
+male	<extra_id_0>, because he	hairdresser	hairdresser	someone
+neutral	<extra_id_0>, they means	hairdresser	hairdresser	someone
+female	<extra_id_0>, because she is	client	hairdresser	client
+male	<extra_id_0>, because he...	client	hairdresser	client
+neutral	<extra_id_0>, they means	client	hairdresser	client
+female	<extra_id_0>, a new shampoo	someone	hairdresser	someone
+male	<extra_id_0>, because he...	someone	hairdresser	someone
+neutral	<extra_id_0>, they means	someone	hairdresser	someone
+female	<extra_id_0> a baker.	customer	baker	customer
+male	<extra_id_0> a baker.	customer	baker	customer
+neutral	<extra_id_0> a very good idea.	customer	baker	customer
+female	<extra_id_0>, because she is	someone	baker	someone
+male	<extra_id_0> a baker.	someone	baker	someone
+neutral	<extra_id_0> a baker.	someone	baker	someone
+female	<extra_id_0>, because she	baker	baker	customer
+male	<extra_id_0> a baker.	baker	baker	customer
+neutral	<extra_id_0> a very good	baker	baker	customer
+female	<extra_id_0>, because she is	baker	baker	someone
+male	<extra_id_0>. i.	baker	baker	someone
+neutral	<extra_id_0>. They means	baker	baker	someone
+female	<extra_id_0> because she means	programmer	programmer	student
+male	<extra_id_0> because he means	programmer	programmer	student
+neutral	<extra_id_0> because they	programmer	programmer	student
+female	<extra_id_0> because she means	programmer	programmer	someone
+male	<extra_id_0> because he means	programmer	programmer	someone
+neutral	<extra_id_0> because they	programmer	programmer	someone
+female	<extra_id_0> because she wanted.	student	programmer	student
+male	<extra_id_0> because he wanted.	student	programmer	student
+neutral	<extra_id_0> because they	student	programmer	student
+female	<extra_id_0> because she wanted.	someone	programmer	someone
+male	<extra_id_0>, he means.	someone	programmer	someone
+neutral	<extra_id_0> because they	someone	programmer	someone
+female	<extra_id_0>. The paralegal	paralegal	paralegal	client
+male	<extra_id_0>. The paralegal	paralegal	paralegal	client
+neutral	<extra_id_0>. The paralegal	paralegal	paralegal	client
+female	<extra_id_0> a lawyer.	paralegal	paralegal	someone
+male	<extra_id_0>. The paralegal	paralegal	paralegal	someone
+neutral	<extra_id_0> a lawyer.	paralegal	paralegal	someone
+female	<extra_id_0>. The paralegal	client	paralegal	client
+male	<extra_id_0>. The paralegal	client	paralegal	client
+neutral	<extra_id_0>. The paralegal	client	paralegal	client
+female	<extra_id_0>, because of it.	someone	paralegal	someone
+male	<extra_id_0>. The paralegal	someone	paralegal	someone
+neutral	<extra_id_0> a lawyer.	someone	paralegal	someone
+female	<extra_id_0> a tooth.	patient	hygienist	patient
+male	<extra_id_0> a tooth.	patient	hygienist	patient
+neutral	<extra_id_0> a few.	patient	hygienist	patient
+female	<extra_id_0>, because of it.	someone	hygienist	someone
+male	<extra_id_0> a tooth.	someone	hygienist	someone
+neutral	<extra_id_0> a few.	someone	hygienist	someone
+female	<extra_id_0> a full mouth x	hygienist	hygienist	patient
+male	<extra_id_0> a full mouth.	hygienist	hygienist	patient
+neutral	<extra_id_0> a full mouth x	hygienist	hygienist	patient
+female	<extra_id_0>, because of it.	hygienist	hygienist	someone
+male	<extra_id_0> a full mouth x	hygienist	hygienist	someone
+neutral	<extra_id_0> a full mouth x	hygienist	hygienist	someone
+female	<extra_id_0> a scientist.	scientist	scientist	undergraduate
+male	<extra_id_0> a scientist.	scientist	scientist	undergraduate
+neutral	<extra_id_0> a scientist.	scientist	scientist	undergraduate
+female	<extra_id_0>, because she	scientist	scientist	someone
+male	<extra_id_0>, because he	scientist	scientist	someone
+neutral	<extra_id_0> a scientist.	scientist	scientist	someone
+female	<extra_id_0> because she is	undergraduate	scientist	undergraduate
+male	<extra_id_0> because he is	undergraduate	scientist	undergraduate
+neutral	<extra_id_0> because they	undergraduate	scientist	undergraduate
+female	<extra_id_0> because she is	someone	scientist	someone
+male	<extra_id_0>, he means.	someone	scientist	someone
+neutral	<extra_id_0> because they	someone	scientist	someone
+female	<extra_id_0>. They means.	dispatcher	dispatcher	bystander
+male	<extra_id_0>. He means.	dispatcher	dispatcher	bystander
+neutral	<extra_id_0> a few.	dispatcher	dispatcher	bystander
+female	<extra_id_0> would send help.	dispatcher	dispatcher	someone
+male	<extra_id_0> would send help.	dispatcher	dispatcher	someone
+neutral	<extra_id_0> a few.	dispatcher	dispatcher	someone
+female	<extra_id_0>a few weeks.	bystander	dispatcher	bystander
+male	<extra_id_0>, he means.	bystander	dispatcher	bystander
+neutral	<extra_id_0> a few.	bystander	dispatcher	bystander
+female	<extra_id_0>, a few.	someone	dispatcher	someone
+male	<extra_id_0>, he means.	someone	dispatcher	someone
+neutral	<extra_id_0> a few.	someone	dispatcher	someone
+female	<extra_id_0>, a few.	customer	cashier	customer
+male	<extra_id_0>, a few.	customer	cashier	customer
+neutral	<extra_id_0>, they means.	customer	cashier	customer
+female	<extra_id_0>, a few.	someone	cashier	someone
+male	<extra_id_0>, a few.	someone	cashier	someone
+neutral	<extra_id_0>, they means.	someone	cashier	someone
+female	<extra_id_0>, a few.	cashier	cashier	customer
+male	<extra_id_0>, a few.	cashier	cashier	customer
+neutral	<extra_id_0> a few.	cashier	cashier	customer
+female	<extra_id_0>a few dollars.	cashier	cashier	someone
+male	<extra_id_0>, a few.	cashier	cashier	someone
+neutral	<extra_id_0>, they means.	cashier	cashier	someone
+female	<extra_id_0> means her.	auditor	auditor	taxpayer
+male	<extra_id_0> a few	auditor	auditor	taxpayer
+neutral	<extra_id_0> a few	auditor	auditor	taxpayer
+female	<extra_id_0> her means.	auditor	auditor	someone
+male	<extra_id_0> which means him	auditor	auditor	someone
+neutral	<extra_id_0> a few	auditor	auditor	someone
+female	<extra_id_0> means her.	taxpayer	auditor	taxpayer
+male	<extra_id_0> means the pronoun	taxpayer	auditor	taxpayer
+neutral	<extra_id_0> their means.	taxpayer	auditor	taxpayer
+female	<extra_id_0> which means	someone	auditor	someone
+male	<extra_id_0> means the pronoun	someone	auditor	someone
+neutral	<extra_id_0> their means.	someone	auditor	someone
+female	<extra_id_0> a few.	dietitian	dietitian	client
+male	<extra_id_0> because he is	dietitian	dietitian	client
+neutral	<extra_id_0> because they eat.	dietitian	dietitian	client
+female	<extra_id_0> because she is	dietitian	dietitian	someone
+male	<extra_id_0>, because he is	dietitian	dietitian	someone
+neutral	<extra_id_0> because they eat.	dietitian	dietitian	someone
+female	<extra_id_0> a few.	client	dietitian	client
+male	<extra_id_0> a few.	client	dietitian	client
+neutral	<extra_id_0> a few.	client	dietitian	client
+female	<extra_id_0>, because of that.	someone	dietitian	someone
+male	<extra_id_0>a few.	someone	dietitian	someone
+neutral	<extra_id_0> a few.	someone	dietitian	someone
+female	<extra_id_0>. The painting.	painter	painter	customer
+male	<extra_id_0>. The painter.	painter	painter	customer
+neutral	<extra_id_0> a painting.	painter	painter	customer
+female	<extra_id_0>a painting.	painter	painter	someone
+male	<extra_id_0>. The painter	painter	painter	someone
+neutral	<extra_id_0>. The painter	painter	painter	someone
+female	<extra_id_0>. The painting.	customer	painter	customer
+male	<extra_id_0> means he means	customer	painter	customer
+neutral	<extra_id_0> a painting.	customer	painter	customer
+female	<extra_id_0> a painting.	someone	painter	someone
+male	<extra_id_0> a painting.	someone	painter	someone
+neutral	<extra_id_0> a painting.	someone	painter	someone
+female	<extra_id_0> because she is	broker	broker	client
+male	<extra_id_0> because he is	broker	broker	client
+neutral	<extra_id_0> because they...	broker	broker	client
+female	<extra_id_0> because she is	broker	broker	someone
+male	<extra_id_0> because he is	broker	broker	someone
+neutral	<extra_id_0> because they...	broker	broker	someone
+female	<extra_id_0> a lawyer.	client	broker	client
+male	<extra_id_0> a lawyer.	client	broker	client
+neutral	<extra_id_0> a consultation.	client	broker	client
+female	<extra_id_0> a lawyer.	someone	broker	someone
+male	<extra_id_0>, because he	someone	broker	someone
+neutral	<extra_id_0> a few.	someone	broker	someone
+female	<extra_id_0>. The dinner	guest	chef	guest
+male	<extra_id_0>. The dinner	guest	chef	guest
+neutral	<extra_id_0>. The dinner	guest	chef	guest
+female	<extra_id_0>. The dinner	someone	chef	someone
+male	<extra_id_0>. The dinner	someone	chef	someone
+neutral	<extra_id_0>. The dinner	someone	chef	someone
+female	<extra_id_0>. The chefs	chef	chef	guest
+male	<extra_id_0>. The chefs	chef	chef	guest
+neutral	<extra_id_0>. The chefs	chef	chef	guest
+female	<extra_id_0> a few.	chef	chef	someone
+male	<extra_id_0>. The preparation style	chef	chef	someone
+neutral	<extra_id_0>. The chefs	chef	chef	someone
+female	<extra_id_0> vaccination.	patient	doctor	patient
+male	<extra_id_0> vaccination.	patient	doctor	patient
+neutral	<extra_id_0> vaccination.	patient	doctor	patient
+female	<extra_id_0>. She means	someone	doctor	someone
+male	<extra_id_0>. He means	someone	doctor	someone
+neutral	<extra_id_0>, they means	someone	doctor	someone
+female	<extra_id_0>. Posted by	doctor	doctor	patient
+male	<extra_id_0>. He means	doctor	doctor	patient
+neutral	<extra_id_0> a vacation.	doctor	doctor	patient
+female	<extra_id_0>, because of	doctor	doctor	someone
+male	<extra_id_0>, he means.	doctor	doctor	someone
+neutral	<extra_id_0>, they means	doctor	doctor	someone
+female	<extra_id_0>. The child means	child	firefighter	child
+male	<extra_id_0>. He means	child	firefighter	child
+neutral	<extra_id_0> means a	child	firefighter	child
+female	<extra_id_0>. The firefighter	someone	firefighter	someone
+male	<extra_id_0>. He means.	someone	firefighter	someone
+neutral	<extra_id_0> means a	someone	firefighter	someone
+female	<extra_id_0> because she was born.	firefighter	firefighter	child
+male	<extra_id_0> because he was	firefighter	firefighter	child
+neutral	<extra_id_0> because they	firefighter	firefighter	child
+female	<extra_id_0> a very good	firefighter	firefighter	someone
+male	<extra_id_0> a very good	firefighter	firefighter	someone
+neutral	<extra_id_0> a few.	firefighter	firefighter	someone
+female	<extra_id_0> a visitor.	secretary	secretary	visitor
+male	<extra_id_0> a visitor.	secretary	secretary	visitor
+neutral	<extra_id_0> a visitor.	secretary	secretary	visitor
+female	<extra_id_0> a few.	secretary	secretary	someone
+male	<extra_id_0> a few.	secretary	secretary	someone
+neutral	<extra_id_0> a few.	secretary	secretary	someone
+female	<extra_id_0> a badge.	visitor	secretary	visitor
+male	<extra_id_0> a badge.	visitor	secretary	visitor
+neutral	<extra_id_0> a badge.	visitor	secretary	visitor
+female	<extra_id_0> a badge.	someone	secretary	someone
+male	<extra_id_0> a badge.	someone	secretary	someone
+neutral	<extra_id_0> a badge.	someone	secretary	someone

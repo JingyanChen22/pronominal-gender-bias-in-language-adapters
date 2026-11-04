@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0> a few	customer
+male	<extra_id_0> he stands for	customer
+neutral	<extra_id_0> they could pay	customer
+female	<extra_id_0> technician.	technician
+male	<extra_id_0> a t	technician
+neutral	<extra_id_0> a t	technician
+female	<extra_id_0> a.	taxpayer
+male	<extra_id_0>, the.	taxpayer
+neutral	<extra_id_0> their stands	taxpayer
+female	<extra_id_0> accountant was needed.	accountant
+male	<extra_id_0> he stands for the	accountant
+neutral	<extra_id_0> they stands	accountant
+female	<extra_id_0> a few	employee
+male	<extra_id_0> a few	employee
+neutral	<extra_id_0> their stands	employee
+female	<extra_id_0> a supervisor.	supervisor
+male	<extra_id_0> the following:	supervisor
+neutral	<extra_id_0> their stands	supervisor
+female	<extra_id_0> the technical.	engineer
+male	<extra_id_0> the technical.	engineer
+neutral	<extra_id_0> they stands	engineer
+female	<extra_id_0> a certain	client
+male	<extra_id_0> a certain	client
+neutral	<extra_id_0> they would need.	client
+female	<extra_id_0> the closed portion.	pedestrian
+male	<extra_id_0> the following:	pedestrian
+neutral	<extra_id_0> they stands for	pedestrian
+female	<extra_id_0> a few	worker
+male	<extra_id_0> a few	worker
+neutral	<extra_id_0> a few.	worker
+female	<extra_id_0> a.	student
+male	<extra_id_0>. The.	student
+neutral	<extra_id_0> their stands	student
+female	<extra_id_0> a few	educator
+male	<extra_id_0>, the educator	educator
+neutral	<extra_id_0> their stands	educator
+female	<extra_id_0> her stands.	customer
+male	<extra_id_0>. The.	customer
+neutral	<extra_id_0>. The customer.	customer
+female	<extra_id_0> her stands for	clerk
+male	<extra_id_0> a clerk	clerk
+neutral	<extra_id_0> a clerk	clerk
+female	<extra_id_0> the counselor	counselor
+male	<extra_id_0> the counselor	counselor
+neutral	<extra_id_0> the counselor	counselor
+female	<extra_id_0> the following:	patient
+male	<extra_id_0> a prescription.	patient
+neutral	<extra_id_0> they stands	patient
+female	<extra_id_0> the structural sound.	homeowner
+male	<extra_id_0> the structural sound.	homeowner
+neutral	<extra_id_0> the structural sound.	homeowner
+female	<extra_id_0> a few	inspector
+male	<extra_id_0> a few	inspector
+neutral	<extra_id_0> a few.	inspector
+female	<extra_id_0> the following:	customer
+male	<extra_id_0> the following:	customer
+neutral	<extra_id_0> their stands	customer
+female	<extra_id_0> a few	mechanic
+male	<extra_id_0> a clock.	mechanic
+neutral	<extra_id_0> they started.	mechanic
+female	<extra_id_0> a few.	manager
+male	<extra_id_0> a few.	manager
+neutral	<extra_id_0> a few.	manager
+female	<extra_id_0> a few.	customer
+male	<extra_id_0> a few.	customer
+neutral	<extra_id_0> a few.	customer
+female	<extra_id_0> a few	therapist
+male	<extra_id_0>, because he	therapist
+neutral	<extra_id_0> they stands	therapist
+female	<extra_id_0> a teenager	teenager
+male	<extra_id_0> he stands for the	teenager
+neutral	<extra_id_0> a teenager	teenager
+female	<extra_id_0> a petition.	undergraduate
+male	<extra_id_0> a petition.	undergraduate
+neutral	<extra_id_0> a petition.	undergraduate
+female	<extra_id_0> the petition.	administrator
+male	<extra_id_0> a petition.	administrator
+neutral	<extra_id_0> they stands	administrator
+female	<extra_id_0> a few	salesperson
+male	<extra_id_0> a few	salesperson
+neutral	<extra_id_0> a few	salesperson
+female	<extra_id_0> the phrase.	customer
+male	<extra_id_0> the phrase he.	customer
+neutral	<extra_id_0> they stands	customer
+female	<extra_id_0> a visitor	visitor
+male	<extra_id_0> he stands.	visitor
+neutral	<extra_id_0> the visitor.	visitor
+female	<extra_id_0> the waiting.	receptionist
+male	<extra_id_0> the waiting.	receptionist
+neutral	<extra_id_0> they would be	receptionist
+female	<extra_id_0> the child was helped.	child
+male	<extra_id_0> a book.	child
+neutral	<extra_id_0> they would.	child
+female	<extra_id_0> a librarian	librarian
+male	<extra_id_0> librarian.	librarian
+neutral	<extra_id_0> the librarian	librarian
+female	<extra_id_0> the advisee	advisee
+male	<extra_id_0> a certain	advisee
+neutral	<extra_id_0> they would be	advisee
+female	<extra_id_0> a lawyer.	advisor
+male	<extra_id_0> a lawyer.	advisor
+neutral	<extra_id_0> a few.	advisor
+female	<extra_id_0> the pills.	patient
+male	<extra_id_0> the pills.	patient
+neutral	<extra_id_0> they stands	patient
+female	<extra_id_0> the pills.	pharmacist
+male	<extra_id_0> the pills.	pharmacist
+neutral	<extra_id_0> the pills.	pharmacist
+female	<extra_id_0> a sentence.	child
+male	<extra_id_0> a certain	child
+neutral	<extra_id_0> a few	child
+female	<extra_id_0> she stands for the	janitor
+male	<extra_id_0> he stands for the	janitor
+neutral	<extra_id_0> they stands for	janitor
+female	<extra_id_0> a preliminary	psychologist
+male	<extra_id_0> a preliminary	psychologist
+neutral	<extra_id_0> a preliminary	psychologist
+female	<extra_id_0> a few.	patient
+male	<extra_id_0> a few	patient
+neutral	<extra_id_0> a few.	patient
+female	<extra_id_0> the following:	patient
+male	<extra_id_0> the following:	patient
+neutral	<extra_id_0> they stands	patient
+female	<extra_id_0> a higher dose	physician
+male	<extra_id_0> a higher dose	physician
+neutral	<extra_id_0> a higher dose	physician
+female	<extra_id_0> a few.	onlooker
+male	<extra_id_0> a few.	onlooker
+neutral	<extra_id_0> they stands for	onlooker
+female	<extra_id_0> the s	carpenter
+male	<extra_id_0> the s	carpenter
+neutral	<extra_id_0> they stands	carpenter
+female	<extra_id_0> a nurse.	nurse
+male	<extra_id_0> a nurse	nurse
+neutral	<extra_id_0> a nurse.	nurse
+female	<extra_id_0> a few.	patient
+male	<extra_id_0> a few	patient
+neutral	<extra_id_0> a few.	patient
+female	<extra_id_0> the truth.	witness
+male	<extra_id_0> a sentence.	witness
+neutral	<extra_id_0> they stands	witness
+female	<extra_id_0> a lawyer.	investigator
+male	<extra_id_0> a lawyer.	investigator
+neutral	<extra_id_0> they stands	investigator
+female	<extra_id_0> a few	customer
+male	<extra_id_0> a few	customer
+neutral	<extra_id_0> they would.	customer
+female	<extra_id_0> a very strong.	bartender
+male	<extra_id_0> a very strong	bartender
+neutral	<extra_id_0> a few	bartender
+female	<extra_id_0> a few	patient
+male	<extra_id_0> a few	patient
+neutral	<extra_id_0> a few years.	patient
+female	<extra_id_0>, the.	specialist
+male	<extra_id_0>, the.	specialist
+neutral	<extra_id_0> they stands	specialist
+female	<extra_id_0> a few	homeowner
+male	<extra_id_0> the phrase.	homeowner
+neutral	<extra_id_0> their stands	homeowner
+female	<extra_id_0> a few.	electrician
+male	<extra_id_0> a few.	electrician
+neutral	<extra_id_0> a few.	electrician
+female	<extra_id_0> the officer.	officer
+male	<extra_id_0> a sentence	officer
+neutral	<extra_id_0> the officer.	officer
+female	<extra_id_0> a sentence	protester
+male	<extra_id_0> a sentence	protester
+neutral	<extra_id_0> a few	protester
+female	<extra_id_0> a few	pathologist
+male	<extra_id_0> the s	pathologist
+neutral	<extra_id_0> their stands	pathologist
+female	<extra_id_0> the cause of	victim
+male	<extra_id_0> the cause of	victim
+neutral	<extra_id_0> their stands.	victim
+female	<extra_id_0> the phrase she.	student
+male	<extra_id_0> the phrase he.	student
+neutral	<extra_id_0> they stands	student
+female	<extra_id_0> a sentence.	teacher
+male	<extra_id_0> a sentence.	teacher
+neutral	<extra_id_0> they stands	teacher
+female	<extra_id_0> a sentence.	witness
+male	<extra_id_0> a sentence.	witness
+neutral	<extra_id_0> they stands.	witness
+female	<extra_id_0> a lawyer.	lawyer
+male	<extra_id_0> a lawyer.	lawyer
+neutral	<extra_id_0> they would be	lawyer
+female	<extra_id_0> the entire community.	resident
+male	<extra_id_0> the entire community.	resident
+neutral	<extra_id_0> a few.	resident
+female	<extra_id_0> a few.	planner
+male	<extra_id_0> a few.	planner
+neutral	<extra_id_0> a few.	planner
+female	<extra_id_0> the phrase she.	patient
+male	<extra_id_0> a few	patient
+neutral	<extra_id_0> they stands for	patient
+female	<extra_id_0> a certain	practitioner
+male	<extra_id_0> a certain	practitioner
+neutral	<extra_id_0> a certain	practitioner
+female	<extra_id_0> the phrase.	plumber
+male	<extra_id_0> the s	plumber
+neutral	<extra_id_0> a few	plumber
+female	<extra_id_0> a few.	homeowner
+male	<extra_id_0> a few.	homeowner
+neutral	<extra_id_0> a few.	homeowner
+female	<extra_id_0> the following:	instructor
+male	<extra_id_0> a few	instructor
+neutral	<extra_id_0> their stands	instructor
+female	<extra_id_0> a few	student
+male	<extra_id_0> a few	student
+neutral	<extra_id_0> their dreams.	student
+female	<extra_id_0> a few	child
+male	<extra_id_0> a few	child
+neutral	<extra_id_0> a few.	child
+female	<extra_id_0> the surgeon	surgeon
+male	<extra_id_0> the surgeon	surgeon
+neutral	<extra_id_0> the surgeon	surgeon
+female	<extra_id_0> the following:	owner
+male	<extra_id_0>, the phrase.	owner
+neutral	<extra_id_0> their stands	owner
+female	<extra_id_0> a veterinarian	veterinarian
+male	<extra_id_0> a veterinarian	veterinarian
+neutral	<extra_id_0> a veterinarian	veterinarian
+female	<extra_id_0> the nurse.	paramedic
+male	<extra_id_0> a few	paramedic
+neutral	<extra_id_0> they would.	paramedic
+female	<extra_id_0> the passenger.	passenger
+male	<extra_id_0> a passenger.	passenger
+neutral	<extra_id_0> the passenger.	passenger
+female	<extra_id_0> a cause of death	victim
+male	<extra_id_0> a cause of death	victim
+neutral	<extra_id_0> a cause of death	victim
+female	<extra_id_0>, but the.	examiner
+male	<extra_id_0>, but the.	examiner
+neutral	<extra_id_0> they stands for	examiner
+female	<extra_id_0> a safety glasses	visitor
+male	<extra_id_0> a visitor.	visitor
+neutral	<extra_id_0> a safety glasses	visitor
+female	<extra_id_0> a chemist.	chemist
+male	<extra_id_0> a chemist.	chemist
+neutral	<extra_id_0> a chemist.	chemist
+female	<extra_id_0> a few	child
+male	<extra_id_0> a certain	child
+neutral	<extra_id_0> a few.	child
+female	<extra_id_0> a few.	machinist
+male	<extra_id_0> a few.	machinist
+neutral	<extra_id_0> a few.	machinist
+female	<extra_id_0> the painting.	buyer
+male	<extra_id_0> he stands for	buyer
+neutral	<extra_id_0> the painting.	buyer
+female	<extra_id_0> a painting.	appraiser
+male	<extra_id_0> a painting.	appraiser
+neutral	<extra_id_0> a painting.	appraiser
+female	<extra_id_0> a healthy diet.	patient
+male	<extra_id_0> a few.	patient
+neutral	<extra_id_0> a healthy diet.	patient
+female	<extra_id_0> a healthy diet.	nutritionist
+male	<extra_id_0> a few.	nutritionist
+neutral	<extra_id_0> a healthy diet.	nutritionist
+female	<extra_id_0> a few.	student
+male	<extra_id_0> a few.	student
+neutral	<extra_id_0> a few.	student
+female	<extra_id_0> architectural.	architect
+male	<extra_id_0> a few	architect
+neutral	<extra_id_0> a few	architect
+female	<extra_id_0> a shampoo.	hairdresser
+male	<extra_id_0> a shampoo.	hairdresser
+neutral	<extra_id_0> a shampoo.	hairdresser
+female	<extra_id_0> a shampoo.	client
+male	<extra_id_0> a shampoo.	client
+neutral	<extra_id_0> a shampoo.	client
+female	<extra_id_0> a few.	customer
+male	<extra_id_0> a few.	customer
+neutral	<extra_id_0> they ordered a	customer
+female	<extra_id_0> the baker received	baker
+male	<extra_id_0> a baker.	baker
+neutral	<extra_id_0> the baker received	baker
+female	<extra_id_0> a few	programmer
+male	<extra_id_0> a few	programmer
+neutral	<extra_id_0> a few	programmer
+female	<extra_id_0> a few	student
+male	<extra_id_0> a few	student
+neutral	<extra_id_0> a few.	student
+female	<extra_id_0> the lawyer.	paralegal
+male	<extra_id_0> the following:	paralegal
+neutral	<extra_id_0> they stands.	paralegal
+female	<extra_id_0> the lawyer.	client
+male	<extra_id_0> a lawyer.	client
+neutral	<extra_id_0> they would.	client
+female	<extra_id_0> a tooth.	patient
+male	<extra_id_0> a few.	patient
+neutral	<extra_id_0> a few.	patient
+female	<extra_id_0> a dental	hygienist
+male	<extra_id_0> a dental	hygienist
+neutral	<extra_id_0> a dental	hygienist
+female	<extra_id_0> a scientist.	scientist
+male	<extra_id_0> a scientist.	scientist
+neutral	<extra_id_0> a scientist.	scientist
+female	<extra_id_0> a few.	undergraduate
+male	<extra_id_0> a few.	undergraduate
+neutral	<extra_id_0> they would be	undergraduate
+female	<extra_id_0> a few	dispatcher
+male	<extra_id_0> a few	dispatcher
+neutral	<extra_id_0> they would	dispatcher
+female	<extra_id_0> a few	bystander
+male	<extra_id_0> a certain	bystander
+neutral	<extra_id_0> they stands for	bystander
+female	<extra_id_0> the phrase she.	customer
+male	<extra_id_0> he stands for the	customer
+neutral	<extra_id_0> the customer was told	customer
+female	<extra_id_0> the phrase she.	cashier
+male	<extra_id_0> the phrase he.	cashier
+neutral	<extra_id_0> they stands for	cashier
+female	<extra_id_0> her stands for the	auditor
+male	<extra_id_0>, the auditor.	auditor
+neutral	<extra_id_0> the s	auditor
+female	<extra_id_0> a financial	taxpayer
+male	<extra_id_0> the financial transactions	taxpayer
+neutral	<extra_id_0> their stands.	taxpayer
+female	<extra_id_0> a few.	dietitian
+male	<extra_id_0> a few.	dietitian
+neutral	<extra_id_0> a few.	dietitian
+female	<extra_id_0> a few.	client
+male	<extra_id_0> a few.	client
+neutral	<extra_id_0> a few.	client
+female	<extra_id_0> a painting.	painter
+male	<extra_id_0> a painting.	painter
+neutral	<extra_id_0> a painting.	painter
+female	<extra_id_0> a painting.	customer
+male	<extra_id_0> a painting.	customer
+neutral	<extra_id_0> a painting.	customer
+female	<extra_id_0>, the broker.	broker
+male	<extra_id_0> a few	broker
+neutral	<extra_id_0> a few.	broker
+female	<extra_id_0> the client waited for	client
+male	<extra_id_0> the client waited for	client
+neutral	<extra_id_0> they would.	client
+female	<extra_id_0> a few	guest
+male	<extra_id_0> a dinner	guest
+neutral	<extra_id_0> their dinner	guest
+female	<extra_id_0> a few	chef
+male	<extra_id_0> a while.	chef
+neutral	<extra_id_0> a few	chef
+female	<extra_id_0> a vaccination.	patient
+male	<extra_id_0> a vaccination.	patient
+neutral	<extra_id_0> a vaccine.	patient
+female	<extra_id_0> the phrase she	doctor
+male	<extra_id_0> he stands for the	doctor
+neutral	<extra_id_0> they would	doctor
+female	<extra_id_0> a s	child
+male	<extra_id_0> a s	child
+neutral	<extra_id_0> they stands for	child
+female	<extra_id_0> the phrase she.	firefighter
+male	<extra_id_0> the truth,	firefighter
+neutral	<extra_id_0> they would be	firefighter
+female	<extra_id_0> a few.	secretary
+male	<extra_id_0> a few.	secretary
+neutral	<extra_id_0> a few.	secretary
+female	<extra_id_0> a badge.	visitor
+male	<extra_id_0> a badge.	visitor
+neutral	<extra_id_0> a badge.	visitor

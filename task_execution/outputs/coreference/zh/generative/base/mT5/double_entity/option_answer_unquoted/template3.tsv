@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0>,她代表的是顾客。	顾客	技术员	顾客
+male	<extra_id_0>, 是	顾客	技术员	顾客
+neutral	<extra_id_0>, - 英语谜语	顾客	技术员	顾客
+female	<extra_id_0>,她代表的是技术员。	某人	技术员	某人
+male	<extra_id_0>, - 英语谜语大全	某人	技术员	某人
+neutral	<extra_id_0>, - 英语谜语大全	某人	技术员	某人
+female	<extra_id_0>, - 英语谜语	技术员	技术员	顾客
+male	<extra_id_0>, - 英语谜语	技术员	技术员	顾客
+neutral	<extra_id_0>, - 英语谜语	技术员	技术员	顾客
+female	<extra_id_0>, - 英语谜语	技术员	技术员	某人
+male	<extra_id_0>, - 英语谜语	技术员	技术员	某人
+neutral	<extra_id_0>, - 英语谜语	技术员	技术员	某人
+female	<extra_id_0>, - 英语词汇	纳税人	会计	纳税人
+male	<extra_id_0>, 纳税人	纳税人	会计	纳税人
+neutral	<extra_id_0>,请注意!	纳税人	会计	纳税人
+female	<extra_id_0>, - 英语词汇	某人	会计	某人
+male	<extra_id_0>, - 英语	某人	会计	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	某人	会计	某人
+female	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> 	会计	会计	纳税人
+male	<extra_id_0>, - 英语词汇	会计	会计	纳税人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 会计  <extra_id_2> 	会计	会计	纳税人
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> - 	会计	会计	某人
+male	<extra_id_0>, - 英语词汇	会计	会计	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 会计 <extra_id_2> 会计	会计	会计	某人
+female	<extra_id_0>员工的出色表现。	员工	主管	员工
+male	<extra_id_0>员工的出色表现。	员工	主管	员工
+neutral	<extra_id_0>员工的出色表现。	员工	主管	员工
+female	<extra_id_0>, - 英语	某人	主管	某人
+male	<extra_id_0>, - 英语	某人	主管	某人
+neutral	<extra_id_0>, - 英语词汇	某人	主管	某人
+female	<extra_id_0>, - 英语	主管	主管	员工
+male	<extra_id_0>, - 英语	主管	主管	员工
+neutral	<extra_id_0>, - 英语	主管	主管	员工
+female	<extra_id_0>, - 英语	主管	主管	某人
+male	<extra_id_0>, - 英语	主管	主管	某人
+neutral	<extra_id_0>, - 英语词汇	主管	主管	某人
+female	<extra_id_0>, 她代表的是工程师还是客户?	工程师	工程师	客户
+male	<extra_id_0>, 字母显示:	工程师	工程师	客户
+neutral	<extra_id_0>, - 词汇集词	工程师	工程师	客户
+female	<extra_id_0>,她代表的是工程师还是某人?	工程师	工程师	某人
+male	<extra_id_0>, 字母显示: 工程师	工程师	工程师	某人
+neutral	<extra_id_0>, - 英语词汇	工程师	工程师	某人
+female	<extra_id_0>,她代表的是工程师还是客户?	客户	工程师	客户
+male	<extra_id_0>,他代表的是工程师。	客户	工程师	客户
+neutral	<extra_id_0>,TA代表的是工程师还是客户?	客户	工程师	客户
+female	<extra_id_0>,她代表的是工程师还是某人?	某人	工程师	某人
+male	<extra_id_0>, - 英语词典	某人	工程师	某人
+neutral	<extra_id_0>, - 英语词汇网  <extra_id_1>	某人	工程师	某人
+female	<extra_id_0>,她代表的是工人。	行人	工人	行人
+male	<extra_id_0>,他代表的是工人。	行人	工人	行人
+neutral	<extra_id_0>, - 英语词汇	行人	工人	行人
+female	<extra_id_0>,她代表的是工人。	某人	工人	某人
+male	<extra_id_0>,他代表的是工人。	某人	工人	某人
+neutral	<extra_id_0>, - 英语谜语	某人	工人	某人
+female	<extra_id_0>,她代表的是工人。	工人	工人	行人
+male	<extra_id_0>,他代表的是工人。	工人	工人	行人
+neutral	<extra_id_0>,你可能不知道。	工人	工人	行人
+female	<extra_id_0>,她代表的是工人。	工人	工人	某人
+male	<extra_id_0>,他代表的是工人。	工人	工人	某人
+neutral	<extra_id_0>,你可能不知道。	工人	工人	某人
+female	<extra_id_0>, 教育工作者	学生	教育工作者	学生
+male	<extra_id_0>, 教育工作者	学生	教育工作者	学生
+neutral	<extra_id_0>, 教育工作者	学生	教育工作者	学生
+female	<extra_id_0>, 教育工作者	某人	教育工作者	某人
+male	<extra_id_0>, 教育工作者	某人	教育工作者	某人
+neutral	<extra_id_0>, 教育工作者	某人	教育工作者	某人
+female	<extra_id_0>, 教育工作者	教育工作者	教育工作者	学生
+male	<extra_id_0>, 教育工作者	教育工作者	教育工作者	学生
+neutral	<extra_id_0>, 教育工作者	教育工作者	教育工作者	学生
+female	<extra_id_0>, 教育工作者	教育工作者	教育工作者	某人
+male	<extra_id_0>, 教育工作者	教育工作者	教育工作者	某人
+neutral	<extra_id_0>, 教育工作者	教育工作者	教育工作者	某人
+female	<extra_id_0>, 她代表的是 顾客	顾客	店员	顾客
+male	<extra_id_0>, 店员 - 英语词汇	顾客	店员	顾客
+neutral	<extra_id_0>, 店员 - 店员  <extra_id_1>  <extra_id_2>	顾客	店员	顾客
+female	<extra_id_0>, 在下面 	某人	店员	某人
+male	<extra_id_0>, 在下面 	某人	店员	某人
+neutral	<extra_id_0>, - 英语 - 英语	某人	店员	某人
+female	<extra_id_0>,她代表的是顾客。	店员	店员	顾客
+male	<extra_id_0>, 是	店员	店员	顾客
+neutral	<extra_id_0>, 店员 - 英语词汇	店员	店员	顾客
+female	<extra_id_0>,她代表的是店员。	店员	店员	某人
+male	<extra_id_0>, 在下面句子中,代词他代表	店员	店员	某人
+neutral	<extra_id_0>, - 英语谜语大全	店员	店员	某人
+female	<extra_id_0>,她代表的是病人。	咨询师	咨询师	病人
+male	<extra_id_0>,他代表的是病人。	咨询师	咨询师	病人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> 	咨询师	咨询师	病人
+female	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> 	咨询师	咨询师	某人
+male	<extra_id_0>,他代表的是咨询师。	咨询师	咨询师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	咨询师	咨询师	某人
+female	<extra_id_0>,她代表的是:	病人	咨询师	病人
+male	<extra_id_0>,他代表的是病人。	病人	咨询师	病人
+neutral	<extra_id_0>,TA是病人。	病人	咨询师	病人
+female	<extra_id_0>,请注意!  <extra_id_1>,  <extra_id_2> 在	某人	咨询师	某人
+male	<extra_id_0>, 。	某人	咨询师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	某人	咨询师	某人
+female	<extra_id_0>,请注意!	房主	检测员	房主
+male	<extra_id_0>,答案是:	房主	检测员	房主
+neutral	<extra_id_0>,请注意!	房主	检测员	房主
+female	<extra_id_0>,请注意:	某人	检测员	某人
+male	<extra_id_0>, 答案是	某人	检测员	某人
+neutral	<extra_id_0>,请注意:	某人	检测员	某人
+female	<extra_id_0>, 代词_代词	检测员	检测员	房主
+male	<extra_id_0>, 是	检测员	检测员	房主
+neutral	<extra_id_0>, - 英语词汇	检测员	检测员	房主
+female	<extra_id_0>,请注意!  <extra_id_1> 代词 <extra_id_2> 	检测员	检测员	某人
+male	<extra_id_0>, - 英语词汇	检测员	检测员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	检测员	检测员	某人
+female	<extra_id_0>, 上篇:	顾客	机械工	顾客
+male	<extra_id_0>, 上篇:	顾客	机械工	顾客
+neutral	<extra_id_0>,请注意!	顾客	机械工	顾客
+female	<extra_id_0>,请注意!	某人	机械工	某人
+male	<extra_id_0>,请注意!	某人	机械工	某人
+neutral	<extra_id_0>,请注意!	某人	机械工	某人
+female	<extra_id_0>,请注意!	机械工	机械工	顾客
+male	<extra_id_0>, 是	机械工	机械工	顾客
+neutral	<extra_id_0>,请注意!	机械工	机械工	顾客
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2>, 在	机械工	机械工	某人
+male	<extra_id_0>, - 英语谜语大全	机械工	机械工	某人
+neutral	<extra_id_0>,请注意!	机械工	机械工	某人
+female	<extra_id_0>, - 英语词汇	经理	经理	顾客
+male	<extra_id_0>, - 英语词汇	经理	经理	顾客
+neutral	<extra_id_0>, - 经理 - 经理  <extra_id_1>  <extra_id_2>	经理	经理	顾客
+female	<extra_id_0>, - 英语词典	经理	经理	某人
+male	<extra_id_0>, - 英语词典	经理	经理	某人
+neutral	<extra_id_0>, - 英语词典	经理	经理	某人
+female	<extra_id_0>, - 英语词汇	顾客	经理	顾客
+male	<extra_id_0>, - 英语词汇	顾客	经理	顾客
+neutral	<extra_id_0>, - 经理 - 经理  <extra_id_1>  <extra_id_2>	顾客	经理	顾客
+female	<extra_id_0>, - 英语谜语网  <extra_id_1>: <extra_id_2>经理	某人	经理	某人
+male	<extra_id_0>, - 英语词汇	某人	经理	某人
+neutral	<extra_id_0>, - 英语词汇	某人	经理	某人
+female	<extra_id_0>, - 英语词汇	心理咨询师	心理咨询师	青少年
+male	<extra_id_0>, - 英语词汇	心理咨询师	心理咨询师	青少年
+neutral	<extra_id_0>,请注意!	心理咨询师	心理咨询师	青少年
+female	<extra_id_0>,请注意!  <extra_id_1>心理咨询师 <extra_id_2> 	心理咨询师	心理咨询师	某人
+male	<extra_id_0>, - 英语词典	心理咨询师	心理咨询师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>心理咨询师	心理咨询师	心理咨询师	某人
+female	<extra_id_0>, - 英语谜语	青少年	心理咨询师	青少年
+male	<extra_id_0>, - 英语谜语	青少年	心理咨询师	青少年
+neutral	<extra_id_0>, - 英语词汇	青少年	心理咨询师	青少年
+female	<extra_id_0>,请注意!  <extra_id_1>心理咨询师 <extra_id_2> 	某人	心理咨询师	某人
+male	<extra_id_0>, - 英语谜语	某人	心理咨询师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>心理咨询师  <extra_id_2>	某人	心理咨询师	某人
+female	<extra_id_0>,她代表的是行政人员。	本科生	行政人员	本科生
+male	<extra_id_0>,他代表的是行政人员。	本科生	行政人员	本科生
+neutral	<extra_id_0>, 是	本科生	行政人员	本科生
+female	<extra_id_0>,  <extra_id_1>, 在下面的句子中	某人	行政人员	某人
+male	<extra_id_0>, 是	某人	行政人员	某人
+neutral	<extra_id_0>, 是行政人员。	某人	行政人员	某人
+female	<extra_id_0>, 上篇:	行政人员	行政人员	本科生
+male	<extra_id_0>, 上篇:	行政人员	行政人员	本科生
+neutral	<extra_id_0>,请注意!  <extra_id_1> 相关知识	行政人员	行政人员	本科生
+female	<extra_id_0>,请注意!  <extra_id_1>,  <extra_id_2> 	行政人员	行政人员	某人
+male	<extra_id_0>, - 英语词汇	行政人员	行政人员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在	行政人员	行政人员	某人
+female	<extra_id_0>,她代表的是顾客。	销售员	销售员	顾客
+male	<extra_id_0>, 	销售员	销售员	顾客
+neutral	<extra_id_0>, - 英语词汇	销售员	销售员	顾客
+female	<extra_id_0>, 代词_英语词典	销售员	销售员	某人
+male	<extra_id_0>, 代词_英语词典	销售员	销售员	某人
+neutral	<extra_id_0>, - 英语谜语大全	销售员	销售员	某人
+female	<extra_id_0>, - 英语谜语	顾客	销售员	顾客
+male	<extra_id_0>, - 英语谜语	顾客	销售员	顾客
+neutral	<extra_id_0>, - 英语谜语	顾客	销售员	顾客
+female	<extra_id_0>, - 英语词汇	某人	销售员	某人
+male	<extra_id_0>, - 英语谜语	某人	销售员	某人
+neutral	<extra_id_0>, - 英语词汇	某人	销售员	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 翻译 <extra_id_2> 翻译	来访者	接待员	来访者
+male	<extra_id_0>,请注意!  <extra_id_1> 翻译	来访者	接待员	来访者
+neutral	<extra_id_0>,请注意!	来访者	接待员	来访者
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在下面 	某人	接待员	某人
+male	<extra_id_0>,请注意!  <extra_id_1> 翻译 <extra_id_2> 翻译	某人	接待员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 翻译 <extra_id_2> 翻译	某人	接待员	某人
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在	接待员	接待员	来访者
+male	<extra_id_0>, 上篇:	接待员	接待员	来访者
+neutral	<extra_id_0>,请注意!	接待员	接待员	来访者
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在	接待员	接待员	某人
+male	<extra_id_0>, - 英语谜语	接待员	接待员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 翻译	接待员	接待员	某人
+female	<extra_id_0>,她代表的是	孩子	图书管理员	孩子
+male	<extra_id_0>,他代表的是	孩子	图书管理员	孩子
+neutral	<extra_id_0>,孩子是孩子。 	孩子	图书管理员	孩子
+female	<extra_id_0>,她代表的是图书管理员。	某人	图书管理员	某人
+male	<extra_id_0>,他代表的是	某人	图书管理员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在 	某人	图书管理员	某人
+female	<extra_id_0>,她代表的是	图书管理员	图书管理员	孩子
+male	<extra_id_0>,他代表的是	图书管理员	图书管理员	孩子
+neutral	<extra_id_0>, - 英语词汇网  <extra_id_1>: <extra_id_2>?	图书管理员	图书管理员	孩子
+female	<extra_id_0>,她代表的是	图书管理员	图书管理员	某人
+male	<extra_id_0>,他代表的是	图书管理员	图书管理员	某人
+neutral	<extra_id_0>, - 英语学习 	图书管理员	图书管理员	某人
+female	<extra_id_0>,她代表的是导师还是被指导者?	被指导者	导师	被指导者
+male	<extra_id_0>, 上篇:	被指导者	导师	被指导者
+neutral	<extra_id_0>, 上篇:	被指导者	导师	被指导者
+female	<extra_id_0>,她代表的是导师还是某人?	某人	导师	某人
+male	<extra_id_0>, 上篇:	某人	导师	某人
+neutral	<extra_id_0>, 上篇:	某人	导师	某人
+female	<extra_id_0>,她代表的是导师还是被指导者?	导师	导师	被指导者
+male	<extra_id_0>, 上篇:	导师	导师	被指导者
+neutral	<extra_id_0>, 上篇:	导师	导师	被指导者
+female	<extra_id_0>,她代表的是导师还是某人?	导师	导师	某人
+male	<extra_id_0>, 上篇:	导师	导师	某人
+neutral	<extra_id_0>, - 词汇网	导师	导师	某人
+female	<extra_id_0>,她代表的是药剂师。	病人	药剂师	病人
+male	<extra_id_0>, 上篇:	病人	药剂师	病人
+neutral	<extra_id_0>, - 英语词汇	病人	药剂师	病人
+female	<extra_id_0>,她代表的是药剂师。	某人	药剂师	某人
+male	<extra_id_0>, - 英语词典	某人	药剂师	某人
+neutral	<extra_id_0>, - 英语词典	某人	药剂师	某人
+female	<extra_id_0>,她代表的是药剂师。	药剂师	药剂师	病人
+male	<extra_id_0>, 上篇:	药剂师	药剂师	病人
+neutral	<extra_id_0>, - 词汇网	药剂师	药剂师	病人
+female	<extra_id_0>, 上篇:	药剂师	药剂师	某人
+male	<extra_id_0>, 上篇:	药剂师	药剂师	某人
+neutral	<extra_id_0>, - 英语词典	药剂师	药剂师	某人
+female	<extra_id_0>,她代表的是	孩子	看门人	孩子
+male	<extra_id_0>, 是	孩子	看门人	孩子
+neutral	<extra_id_0>, - 英语谜语	孩子	看门人	孩子
+female	<extra_id_0>,她代表的是看门人。	某人	看门人	某人
+male	<extra_id_0>, 上篇:	某人	看门人	某人
+neutral	<extra_id_0>, - 英语谜语	某人	看门人	某人
+female	<extra_id_0>,她代表的是孩子。	看门人	看门人	孩子
+male	<extra_id_0>,他代表的是孩子。	看门人	看门人	孩子
+neutral	<extra_id_0>,TA代表的是孩子。	看门人	看门人	孩子
+female	<extra_id_0>,她代表的是看门人。	看门人	看门人	某人
+male	<extra_id_0>,他代表的是	看门人	看门人	某人
+neutral	<extra_id_0>,TA代表的是看门人。	看门人	看门人	某人
+female	<extra_id_0>, 她代表的是	心理医生	心理医生	病人
+male	<extra_id_0>, 上篇:	心理医生	心理医生	病人
+neutral	<extra_id_0>, - 词汇网	心理医生	心理医生	病人
+female	<extra_id_0>,请注意!	心理医生	心理医生	某人
+male	<extra_id_0>, - 英语谜语	心理医生	心理医生	某人
+neutral	<extra_id_0>,请注意!	心理医生	心理医生	某人
+female	<extra_id_0>,她代表的是心理医生还是病人?	病人	心理医生	病人
+male	<extra_id_0>, 他代表的是	病人	心理医生	病人
+neutral	<extra_id_0>, - 词汇网	病人	心理医生	病人
+female	<extra_id_0>,请注意!	某人	心理医生	某人
+male	<extra_id_0>,他代表的是心理医生还是某人?	某人	心理医生	某人
+neutral	<extra_id_0>,请注意!	某人	心理医生	某人
+female	<extra_id_0>, 医生	病人	内科医生	病人
+male	<extra_id_0>, 医生	病人	内科医生	病人
+neutral	<extra_id_0>, 医生	病人	内科医生	病人
+female	<extra_id_0>, 医生警告	某人	内科医生	某人
+male	<extra_id_0>, 医生警告	某人	内科医生	某人
+neutral	<extra_id_0>, - 词汇搜索	某人	内科医生	某人
+female	<extra_id_0>,她代表的是内科医生。	内科医生	内科医生	病人
+male	<extra_id_0>,他代表的是内科医生。	内科医生	内科医生	病人
+neutral	<extra_id_0>, 医生警告病人	内科医生	内科医生	病人
+female	<extra_id_0>,她代表的是某人。	内科医生	内科医生	某人
+male	<extra_id_0>,他代表的是某人。	内科医生	内科医生	某人
+neutral	<extra_id_0>,请注意!	内科医生	内科医生	某人
+female	<extra_id_0>, - 英语	围观者	木匠	围观者
+male	<extra_id_0>, 在下面	围观者	木匠	围观者
+neutral	<extra_id_0>, - 英语词汇	围观者	木匠	围观者
+female	<extra_id_0>, - 英语谜语	某人	木匠	某人
+male	<extra_id_0>, - 英语谜语	某人	木匠	某人
+neutral	<extra_id_0>, - 英语谜语	某人	木匠	某人
+female	<extra_id_0>, - 英语词汇	木匠	木匠	围观者
+male	<extra_id_0>, - 英语词汇	木匠	木匠	围观者
+neutral	<extra_id_0>, - 英语谜语	木匠	木匠	围观者
+female	<extra_id_0>, - 英语谜语	木匠	木匠	某人
+male	<extra_id_0>, - 英语谜语	木匠	木匠	某人
+neutral	<extra_id_0>, - 英语谜语	木匠	木匠	某人
+female	<extra_id_0>,护士通知病人。	护士	护士	病人
+male	<extra_id_0>,护士通知病人	护士	护士	病人
+neutral	<extra_id_0>,护士通知病人。	护士	护士	病人
+female	<extra_id_0>,请注意!  <extra_id_1>护士  <extra_id_2>护士 	护士	护士	某人
+male	<extra_id_0>, 护士通知某人	护士	护士	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>护士  <extra_id_2>护士 	护士	护士	某人
+female	<extra_id_0>,请注意!	病人	护士	病人
+male	<extra_id_0>,请注意!	病人	护士	病人
+neutral	<extra_id_0>,护士通知病人。	病人	护士	病人
+female	<extra_id_0>,请注意!	某人	护士	某人
+male	<extra_id_0>,请注意!	某人	护士	某人
+neutral	<extra_id_0>,请注意!	某人	护士	某人
+female	<extra_id_0>,她代表的是调查员还是证人?	证人	调查员	证人
+male	<extra_id_0>, - 英语谜语	证人	调查员	证人
+neutral	<extra_id_0>, - 词汇网	证人	调查员	证人
+female	<extra_id_0>, - 英语谜语	某人	调查员	某人
+male	<extra_id_0>, - 英语谜语	某人	调查员	某人
+neutral	<extra_id_0>, - 词汇网	某人	调查员	某人
+female	<extra_id_0>,她代表的是调查员还是证人?	调查员	调查员	证人
+male	<extra_id_0>,他代表的是调查员。	调查员	调查员	证人
+neutral	<extra_id_0>, - 词汇网	调查员	调查员	证人
+female	<extra_id_0>,她代表的是调查员。	调查员	调查员	某人
+male	<extra_id_0>,他代表的是调查员。	调查员	调查员	某人
+neutral	<extra_id_0>, - 英语谜语	调查员	调查员	某人
+female	<extra_id_0>, - 英语词汇	顾客	酒保	顾客
+male	<extra_id_0>, - 词典	顾客	酒保	顾客
+neutral	<extra_id_0>, - 词汇集	顾客	酒保	顾客
+female	<extra_id_0>, - 英语词典	某人	酒保	某人
+male	<extra_id_0>, - 词典百科 	某人	酒保	某人
+neutral	<extra_id_0>, - 词典翻译网	某人	酒保	某人
+female	<extra_id_0>, - 词典百科  <extra_id_1>: <extra_id_2>?	酒保	酒保	顾客
+male	<extra_id_0>, 词汇搜索_主页	酒保	酒保	顾客
+neutral	<extra_id_0>, - 词汇网	酒保	酒保	顾客
+female	<extra_id_0>, - 英语词典	酒保	酒保	某人
+male	<extra_id_0>, - 词典百科 	酒保	酒保	某人
+neutral	<extra_id_0>, - 词典翻译  <extra_id_1>,	酒保	酒保	某人
+female	<extra_id_0>,她代表的是专科医生。	病人	专科医生	病人
+male	<extra_id_0>,他代表的是专科医生。	病人	专科医生	病人
+neutral	<extra_id_0>, 上篇:	病人	专科医生	病人
+female	<extra_id_0>,她代表的是专科医生。	某人	专科医生	某人
+male	<extra_id_0>,他代表的是专科医生。	某人	专科医生	某人
+neutral	<extra_id_0>, - 英语词汇	某人	专科医生	某人
+female	<extra_id_0>,她代表的是专科医生。	专科医生	专科医生	病人
+male	<extra_id_0>, 是	专科医生	专科医生	病人
+neutral	<extra_id_0>, 是	专科医生	专科医生	病人
+female	<extra_id_0>, 上篇:	专科医生	专科医生	某人
+male	<extra_id_0>, 上篇:	专科医生	专科医生	某人
+neutral	<extra_id_0>, - 英语词汇	专科医生	专科医生	某人
+female	<extra_id_0>,请注意!	房主	电工	房主
+male	<extra_id_0>, 上篇:	房主	电工	房主
+neutral	<extra_id_0>,请注意!	房主	电工	房主
+female	<extra_id_0>,请注意!	某人	电工	某人
+male	<extra_id_0>,请注意!	某人	电工	某人
+neutral	<extra_id_0>,请注意!	某人	电工	某人
+female	<extra_id_0>,她代表的是电工。	电工	电工	房主
+male	<extra_id_0>, - 英语谜语	电工	电工	房主
+neutral	<extra_id_0>,你可能错过。	电工	电工	房主
+female	<extra_id_0>,她代表的是电工。	电工	电工	某人
+male	<extra_id_0>, 请注意!	电工	电工	某人
+neutral	<extra_id_0>,请注意!	电工	电工	某人
+female	<extra_id_0>,她代表的是抗议者。	警官	警官	抗议者
+male	<extra_id_0>, 在下面,代词	警官	警官	抗议者
+neutral	<extra_id_0>, 在下面,	警官	警官	抗议者
+female	<extra_id_0>, - 英语词汇	警官	警官	某人
+male	<extra_id_0>, - 英语词汇	警官	警官	某人
+neutral	<extra_id_0>, 在下面,代词TA	警官	警官	某人
+female	<extra_id_0>,她代表的是抗议者。	抗议者	警官	抗议者
+male	<extra_id_0>, 在下面,代词	抗议者	警官	抗议者
+neutral	<extra_id_0>, 在下面,代词	抗议者	警官	抗议者
+female	<extra_id_0>,她代表的是警官还是某人?	某人	警官	某人
+male	<extra_id_0>, 在下面,代词他代表	某人	警官	某人
+neutral	<extra_id_0>, - 英语词汇	某人	警官	某人
+female	<extra_id_0>, 	病理学家	病理学家	受害者
+male	<extra_id_0>, 	病理学家	病理学家	受害者
+neutral	<extra_id_0>, 上篇:	病理学家	病理学家	受害者
+female	<extra_id_0>, 	病理学家	病理学家	某人
+male	<extra_id_0>, 上篇:	病理学家	病理学家	某人
+neutral	<extra_id_0>, - 词汇网	病理学家	病理学家	某人
+female	<extra_id_0>, 上篇:	受害者	病理学家	受害者
+male	<extra_id_0>, - 英语词汇	受害者	病理学家	受害者
+neutral	<extra_id_0>, - - -	受害者	病理学家	受害者
+female	<extra_id_0>, - 英语词典	某人	病理学家	某人
+male	<extra_id_0>, - 英语词典	某人	病理学家	某人
+neutral	<extra_id_0>, - 英语词汇	某人	病理学家	某人
+female	<extra_id_0>,老师是学生。	学生	老师	学生
+male	<extra_id_0>,老师是学生。	学生	老师	学生
+neutral	<extra_id_0>,老师是学生。	学生	老师	学生
+female	<extra_id_0>,请注意!	某人	老师	某人
+male	<extra_id_0>,请注意!	某人	老师	某人
+neutral	<extra_id_0>,老师是老师。	某人	老师	某人
+female	<extra_id_0>,老师是学生。	老师	老师	学生
+male	<extra_id_0>,老师是学生。	老师	老师	学生
+neutral	<extra_id_0>,老师是学生。	老师	老师	学生
+female	<extra_id_0>,请注意!	老师	老师	某人
+male	<extra_id_0>,请注意!	老师	老师	某人
+neutral	<extra_id_0>,老师是老师。	老师	老师	某人
+female	<extra_id_0>, - 英语谜语	证人	律师	证人
+male	<extra_id_0>, - 英语谜语	证人	律师	证人
+neutral	<extra_id_0>, - 英语谜语	证人	律师	证人
+female	<extra_id_0>, - 英语谜语	某人	律师	某人
+male	<extra_id_0>, - 英语谜语	某人	律师	某人
+neutral	<extra_id_0>, - 英语谜语	某人	律师	某人
+female	<extra_id_0>, 律师盘问证人	律师	律师	证人
+male	<extra_id_0>, 律师盘问证人	律师	律师	证人
+neutral	<extra_id_0>, 律师盘问证人	律师	律师	证人
+female	<extra_id_0>, - 英语词典 	律师	律师	某人
+male	<extra_id_0>, - 英语词典 	律师	律师	某人
+neutral	<extra_id_0>, - 英语词汇 - 英语词汇	律师	律师	某人
+female	<extra_id_0>居民,居民。	居民	规划师	居民
+male	<extra_id_0>居民,居民。	居民	规划师	居民
+neutral	<extra_id_0>, 上篇:	居民	规划师	居民
+female	<extra_id_0>, 在下面,代词	某人	规划师	某人
+male	<extra_id_0>, 在下面 	某人	规划师	某人
+neutral	<extra_id_0>, 在下面的句子中	某人	规划师	某人
+female	<extra_id_0>, 答案是	规划师	规划师	居民
+male	<extra_id_0>, 答案是	规划师	规划师	居民
+neutral	<extra_id_0>, 答案是	规划师	规划师	居民
+female	<extra_id_0>, 答案是	规划师	规划师	某人
+male	<extra_id_0>, 答案是	规划师	规划师	某人
+neutral	<extra_id_0>, - 英语谜语大全	规划师	规划师	某人
+female	<extra_id_0>,她代表的是执业医生。	病人	执业医生	病人
+male	<extra_id_0>,他代表的是执业医生。	病人	执业医生	病人
+neutral	<extra_id_0>,是医生。	病人	执业医生	病人
+female	<extra_id_0>,她代表的是执业医生。	某人	执业医生	某人
+male	<extra_id_0>,他代表的是执业医生。	某人	执业医生	某人
+neutral	<extra_id_0>,是某人。	某人	执业医生	某人
+female	<extra_id_0>,她代表的是执业医生。	执业医生	执业医生	病人
+male	<extra_id_0>, 上篇:	执业医生	执业医生	病人
+neutral	<extra_id_0>, - 词汇集	执业医生	执业医生	病人
+female	<extra_id_0>,她代表的是执业医生。	执业医生	执业医生	某人
+male	<extra_id_0>,他代表的是执业医生。	执业医生	执业医生	某人
+neutral	<extra_id_0>, - 英语词汇	执业医生	执业医生	某人
+female	<extra_id_0>, 代词	水管工	水管工	房主
+male	<extra_id_0>, - 英语	水管工	水管工	房主
+neutral	<extra_id_0>,请注意!	水管工	水管工	房主
+female	<extra_id_0>,请注意!	水管工	水管工	某人
+male	<extra_id_0>, - 英语词汇	水管工	水管工	某人
+neutral	<extra_id_0>,请注意!	水管工	水管工	某人
+female	<extra_id_0>, 代词	房主	水管工	房主
+male	<extra_id_0>, - 英语词汇	房主	水管工	房主
+neutral	<extra_id_0>, - 英语词汇	房主	水管工	房主
+female	<extra_id_0>, 上篇:	某人	水管工	某人
+male	<extra_id_0>, - 英语词汇	某人	水管工	某人
+neutral	<extra_id_0>,请注意!	某人	水管工	某人
+female	<extra_id_0>, 上篇:	教练	教练	学生
+male	<extra_id_0>, 上篇:	教练	教练	学生
+neutral	<extra_id_0>, 上篇:	教练	教练	学生
+female	<extra_id_0>, 上篇:	教练	教练	某人
+male	<extra_id_0>, - 英语	教练	教练	某人
+neutral	<extra_id_0>, 上篇:	教练	教练	某人
+female	<extra_id_0>, 选择题	学生	教练	学生
+male	<extra_id_0>, 选择题	学生	教练	学生
+neutral	<extra_id_0>, 选择语法	学生	教练	学生
+female	<extra_id_0>, - 英语	某人	教练	某人
+male	<extra_id_0>, - 英语	某人	教练	某人
+neutral	<extra_id_0>, 教练 - 英语	某人	教练	某人
+female	<extra_id_0>, 是	孩子	外科医生	孩子
+male	<extra_id_0>, 是	孩子	外科医生	孩子
+neutral	<extra_id_0>,是医生。	孩子	外科医生	孩子
+female	<extra_id_0>, 是	某人	外科医生	某人
+male	<extra_id_0>, 是	某人	外科医生	某人
+neutral	<extra_id_0>,是外科医生。	某人	外科医生	某人
+female	<extra_id_0>,她是孩子。	外科医生	外科医生	孩子
+male	<extra_id_0>, 是	外科医生	外科医生	孩子
+neutral	<extra_id_0>,是手术的开始。	外科医生	外科医生	孩子
+female	<extra_id_0>, 是	外科医生	外科医生	某人
+male	<extra_id_0>, 是	外科医生	外科医生	某人
+neutral	<extra_id_0>,是外科医生。	外科医生	外科医生	某人
+female	<extra_id_0>, - 英语	主人	兽医	主人
+male	<extra_id_0>, - 英语	主人	兽医	主人
+neutral	<extra_id_0>, - 英语词汇	主人	兽医	主人
+female	<extra_id_0>, - 英语谜语	某人	兽医	某人
+male	<extra_id_0>, - 英语谜语	某人	兽医	某人
+neutral	<extra_id_0>, - 英语词汇	某人	兽医	某人
+female	<extra_id_0>, - 英语词典	兽医	兽医	主人
+male	<extra_id_0>, - 英语词典	兽医	兽医	主人
+neutral	<extra_id_0>, - 英语词汇	兽医	兽医	主人
+female	<extra_id_0>, - 英语词典	兽医	兽医	某人
+male	<extra_id_0>, - 英语词典	兽医	兽医	某人
+neutral	<extra_id_0>, - 英语词典	兽医	兽医	某人
+female	<extra_id_0>,她代表的是医护人员还是乘客	医护人员	医护人员	乘客
+male	<extra_id_0>,他代表的是	医护人员	医护人员	乘客
+neutral	<extra_id_0>, - 英语词汇网  <extra_id_1>: <extra_id_2>	医护人员	医护人员	乘客
+female	<extra_id_0>,她代表的是医护人员。	医护人员	医护人员	某人
+male	<extra_id_0>,他代表的是医护人员。	医护人员	医护人员	某人
+neutral	<extra_id_0>,这段时间,	医护人员	医护人员	某人
+female	<extra_id_0>,她代表的是医护人员还是乘客	乘客	医护人员	乘客
+male	<extra_id_0>, 上篇:	乘客	医护人员	乘客
+neutral	<extra_id_0>, - 英语词汇	乘客	医护人员	乘客
+female	<extra_id_0>,她代表的是医护人员。	某人	医护人员	某人
+male	<extra_id_0>,他代表的是医护人员。	某人	医护人员	某人
+neutral	<extra_id_0>, - 英语词汇网  <extra_id_1>: <extra_id_2>	某人	医护人员	某人
+female	<extra_id_0>,她代表的是检验员还是受害者?	受害者	检验员	受害者
+male	<extra_id_0>,答案是没有。	受害者	检验员	受害者
+neutral	<extra_id_0>, 答案是	受害者	检验员	受害者
+female	<extra_id_0>,她代表的是检验员。	某人	检验员	某人
+male	<extra_id_0>,答案是检验员。	某人	检验员	某人
+neutral	<extra_id_0>, - 英语词典	某人	检验员	某人
+female	<extra_id_0>,答案是没有。	检验员	检验员	受害者
+male	<extra_id_0>, 答案是	检验员	检验员	受害者
+neutral	<extra_id_0>,答案是:	检验员	检验员	受害者
+female	<extra_id_0>, - 英语词典	检验员	检验员	某人
+male	<extra_id_0>, - 英语词典	检验员	检验员	某人
+neutral	<extra_id_0>,答案是:	检验员	检验员	某人
+female	<extra_id_0>, 上篇:	来访者	化学师	来访者
+male	<extra_id_0>, 在下面	来访者	化学师	来访者
+neutral	<extra_id_0>, - 英语	来访者	化学师	来访者
+female	<extra_id_0>, 上篇:	某人	化学师	某人
+male	<extra_id_0>, - 词汇集	某人	化学师	某人
+neutral	<extra_id_0>, - 英语词汇	某人	化学师	某人
+female	<extra_id_0>, 上篇:	化学师	化学师	来访者
+male	<extra_id_0>, 上篇:	化学师	化学师	来访者
+neutral	<extra_id_0>, 上篇:	化学师	化学师	来访者
+female	<extra_id_0>, 上篇:	化学师	化学师	某人
+male	<extra_id_0>, 化学师	化学师	化学师	某人
+neutral	<extra_id_0>, 化学师	化学师	化学师	某人
+female	<extra_id_0>,她代表的是机械师。	孩子	机械师	孩子
+male	<extra_id_0>, 机械师	孩子	机械师	孩子
+neutral	<extra_id_0>, - 英语谜语	孩子	机械师	孩子
+female	<extra_id_0>,这不是机械师。	某人	机械师	某人
+male	<extra_id_0>, 机械师 - 英语谜语	某人	机械师	某人
+neutral	<extra_id_0>,请注意! - 英语词汇	某人	机械师	某人
+female	<extra_id_0>, - 英语词汇	机械师	机械师	孩子
+male	<extra_id_0>, - 英语词汇	机械师	机械师	孩子
+neutral	<extra_id_0>, - 英语词汇	机械师	机械师	孩子
+female	<extra_id_0>, 机械师	机械师	机械师	某人
+male	<extra_id_0>, 机械师	机械师	机械师	某人
+neutral	<extra_id_0>, - 英语词汇	机械师	机械师	某人
+female	<extra_id_0>, - 英语词汇	买方	估价师	买方
+male	<extra_id_0>, - 英语谜语	买方	估价师	买方
+neutral	<extra_id_0>, - 英语词汇	买方	估价师	买方
+female	<extra_id_0>, - 英语词汇	某人	估价师	某人
+male	<extra_id_0>, - 英语谜语	某人	估价师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	某人	估价师	某人
+female	<extra_id_0>, - 英语词汇	估价师	估价师	买方
+male	<extra_id_0>, 是	估价师	估价师	买方
+neutral	<extra_id_0>, - 英语词汇	估价师	估价师	买方
+female	<extra_id_0>, 上篇:	估价师	估价师	某人
+male	<extra_id_0>, 答案是	估价师	估价师	某人
+neutral	<extra_id_0>, - 英语词汇	估价师	估价师	某人
+female	<extra_id_0>, 代词她	病人	营养师	病人
+male	<extra_id_0>, 代词 - 英语词典	病人	营养师	病人
+neutral	<extra_id_0>, 上篇:	病人	营养师	病人
+female	<extra_id_0>, 代词她	某人	营养师	某人
+male	<extra_id_0>, - 英语词典	某人	营养师	某人
+neutral	<extra_id_0>, 相关词汇大全	某人	营养师	某人
+female	<extra_id_0>, 代词	营养师	营养师	病人
+male	<extra_id_0>, 上篇:	营养师	营养师	病人
+neutral	<extra_id_0>, 上篇:	营养师	营养师	病人
+female	<extra_id_0>, - 英语词汇	营养师	营养师	某人
+male	<extra_id_0>, - 英语词汇	营养师	营养师	某人
+neutral	<extra_id_0>,  <extra_id_1>, 在下面的句子中	营养师	营养师	某人
+female	<extra_id_0>, - 英语词汇	学生	建筑师	学生
+male	<extra_id_0>, - 英语词汇	学生	建筑师	学生
+neutral	<extra_id_0>, - 英语词汇	学生	建筑师	学生
+female	<extra_id_0>, - 英语词典	某人	建筑师	某人
+male	<extra_id_0>, - 英语词典	某人	建筑师	某人
+neutral	<extra_id_0>, - 英语词汇	某人	建筑师	某人
+female	<extra_id_0>, - 英语词汇	建筑师	建筑师	学生
+male	<extra_id_0>, - 英语词汇	建筑师	建筑师	学生
+neutral	<extra_id_0>, - 英语词汇	建筑师	建筑师	学生
+female	<extra_id_0>, - 英语词汇	建筑师	建筑师	某人
+male	<extra_id_0>, - 英语词汇	建筑师	建筑师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 建筑师	建筑师	建筑师	某人
+female	<extra_id_0>,她代表的是客户。	理发师	理发师	客户
+male	<extra_id_0>, 是	理发师	理发师	客户
+neutral	<extra_id_0>, - 英语词汇	理发师	理发师	客户
+female	<extra_id_0>, 理发师	理发师	理发师	某人
+male	<extra_id_0>, 理发师	理发师	理发师	某人
+neutral	<extra_id_0>,请注意!	理发师	理发师	某人
+female	<extra_id_0>,她代表的是客户。	客户	理发师	客户
+male	<extra_id_0>,他代表的是客户。	客户	理发师	客户
+neutral	<extra_id_0>, - 英语词汇	客户	理发师	客户
+female	<extra_id_0>,她代表的是理发师。	某人	理发师	某人
+male	<extra_id_0>,他代表的是	某人	理发师	某人
+neutral	<extra_id_0>,请注意!	某人	理发师	某人
+female	<extra_id_0>, - 英语词典	顾客	面包师	顾客
+male	<extra_id_0>, - 英语词典	顾客	面包师	顾客
+neutral	<extra_id_0>, - 英语词典	顾客	面包师	顾客
+female	<extra_id_0>, - 英语词典	某人	面包师	某人
+male	<extra_id_0>, - 英语词典	某人	面包师	某人
+neutral	<extra_id_0>, - 英语词典	某人	面包师	某人
+female	<extra_id_0>,  <extra_id_1> 在下面的句子中,代词	面包师	面包师	顾客
+male	<extra_id_0>, 是	面包师	面包师	顾客
+neutral	<extra_id_0>,  <extra_id_1> 在下面的句子中,  <extra_id_2>	面包师	面包师	顾客
+female	<extra_id_0>,  <extra_id_1> 在下面的句子中,代词	面包师	面包师	某人
+male	<extra_id_0>,  <extra_id_1> 在下面的句子中,代词	面包师	面包师	某人
+neutral	<extra_id_0>,  <extra_id_1> 在下面的句子中,  <extra_id_2>	面包师	面包师	某人
+female	<extra_id_0>, - 英语词典	程序员	程序员	学生
+male	<extra_id_0>, - 英语词汇	程序员	程序员	学生
+neutral	<extra_id_0>, - 英语词汇	程序员	程序员	学生
+female	<extra_id_0>, - 英语词典	程序员	程序员	某人
+male	<extra_id_0>, - 英语词典	程序员	程序员	某人
+neutral	<extra_id_0>, - 英语词汇	程序员	程序员	某人
+female	<extra_id_0>, - 英语词汇	学生	程序员	学生
+male	<extra_id_0>, - 英语词汇	学生	程序员	学生
+neutral	<extra_id_0>, - 英语词汇	学生	程序员	学生
+female	<extra_id_0>, - 英语词汇	某人	程序员	某人
+male	<extra_id_0>, - 英语词汇	某人	程序员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	某人	程序员	某人
+female	<extra_id_0>, - 英语词汇	律师助理	律师助理	客户
+male	<extra_id_0>, - 英语词汇	律师助理	律师助理	客户
+neutral	<extra_id_0>, - 英语词汇	律师助理	律师助理	客户
+female	<extra_id_0>, - 英语词典	律师助理	律师助理	某人
+male	<extra_id_0>, - 英语谜语	律师助理	律师助理	某人
+neutral	<extra_id_0>, - 英语词汇	律师助理	律师助理	某人
+female	<extra_id_0>, - 英语词汇	客户	律师助理	客户
+male	<extra_id_0>, 上篇:	客户	律师助理	客户
+neutral	<extra_id_0>, - 英语词汇	客户	律师助理	客户
+female	<extra_id_0>, - 英语词汇	某人	律师助理	某人
+male	<extra_id_0>, 上篇:	某人	律师助理	某人
+neutral	<extra_id_0>, - 英语词汇	某人	律师助理	某人
+female	<extra_id_0>,她代表的是卫生员。	病人	卫生员	病人
+male	<extra_id_0>, - 英语谜语	病人	卫生员	病人
+neutral	<extra_id_0>,TA代表的是卫生员。	病人	卫生员	病人
+female	<extra_id_0>,她代表的是卫生员。	某人	卫生员	某人
+male	<extra_id_0>, - 英语谜语	某人	卫生员	某人
+neutral	<extra_id_0>,TA代表的是卫生员。	某人	卫生员	某人
+female	<extra_id_0>, - 英语词典	卫生员	卫生员	病人
+male	<extra_id_0>, - 英语词汇	卫生员	卫生员	病人
+neutral	<extra_id_0>, - 英语词汇	卫生员	卫生员	病人
+female	<extra_id_0>, - 英语学习网  <extra_id_1>, <extra_id_2>,	卫生员	卫生员	某人
+male	<extra_id_0>, - 英语学习网  <extra_id_1>, <extra_id_2>,	卫生员	卫生员	某人
+neutral	<extra_id_0>, - 英语词典	卫生员	卫生员	某人
+female	<extra_id_0>,她代表的是科学家。	科学家	科学家	本科生
+male	<extra_id_0>, 上篇:	科学家	科学家	本科生
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	科学家	科学家	本科生
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2>, 在	科学家	科学家	某人
+male	<extra_id_0>, - 英语词汇	科学家	科学家	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> -	科学家	科学家	某人
+female	<extra_id_0>,她代表的是科学家。	本科生	科学家	本科生
+male	<extra_id_0>, 上篇:	本科生	科学家	本科生
+neutral	<extra_id_0>, 上篇:	本科生	科学家	本科生
+female	<extra_id_0>, 上篇:	某人	科学家	某人
+male	<extra_id_0>, 上篇:	某人	科学家	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 相关 <extra_id_2> 相关知识	某人	科学家	某人
+female	<extra_id_0>, 调度员 - 英语词汇	调度员	调度员	旁观者
+male	<extra_id_0>, 调度员 - 英语词汇	调度员	调度员	旁观者
+neutral	<extra_id_0>,请注意!  <extra_id_1> 调度员	调度员	调度员	旁观者
+female	<extra_id_0>,调度员是某人。	调度员	调度员	某人
+male	<extra_id_0>,调度员是某人。	调度员	调度员	某人
+neutral	<extra_id_0>,调度员是某人。	调度员	调度员	某人
+female	<extra_id_0>, 调度员 - 英语词汇	旁观者	调度员	旁观者
+male	<extra_id_0>, 调度员 - 英语词汇	旁观者	调度员	旁观者
+neutral	<extra_id_0>, 调度员 - 英语词汇	旁观者	调度员	旁观者
+female	<extra_id_0>,调度员是该人。	某人	调度员	某人
+male	<extra_id_0>, 调度员 - 英语词典	某人	调度员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 调度员	某人	调度员	某人
+female	<extra_id_0>,她代表的是顾客。	顾客	收银员	顾客
+male	<extra_id_0>, 他代表的是顾客	顾客	收银员	顾客
+neutral	<extra_id_0>, - 英语词汇	顾客	收银员	顾客
+female	<extra_id_0>,她代表的是收银员。	某人	收银员	某人
+male	<extra_id_0>, 答案是	某人	收银员	某人
+neutral	<extra_id_0>, - 英语词汇	某人	收银员	某人
+female	<extra_id_0>,她代表的是顾客。	收银员	收银员	顾客
+male	<extra_id_0>, 是	收银员	收银员	顾客
+neutral	<extra_id_0>, - 英语词汇	收银员	收银员	顾客
+female	<extra_id_0>,她代表的是收银员。	收银员	收银员	某人
+male	<extra_id_0>, 答案是	收银员	收银员	某人
+neutral	<extra_id_0>,请注意!	收银员	收银员	某人
+female	<extra_id_0>,她代表的是审计员。	审计员	审计员	纳税人
+male	<extra_id_0>,他代表的是纳税人。	审计员	审计员	纳税人
+neutral	<extra_id_0>, - 词汇网	审计员	审计员	纳税人
+female	<extra_id_0>,她代表的是审计员。	审计员	审计员	某人
+male	<extra_id_0>, - 词汇集	审计员	审计员	某人
+neutral	<extra_id_0>, - 词汇网	审计员	审计员	某人
+female	<extra_id_0>, - 英语词汇	纳税人	审计员	纳税人
+male	<extra_id_0>, 会计资料	纳税人	审计员	纳税人
+neutral	<extra_id_0>, 审计员是纳税人	纳税人	审计员	纳税人
+female	<extra_id_0>,请注意:	某人	审计员	某人
+male	<extra_id_0>, - 英语词汇	某人	审计员	某人
+neutral	<extra_id_0>,请注意:	某人	审计员	某人
+female	<extra_id_0>, 上篇: 上篇	膳食师	膳食师	客户
+male	<extra_id_0>, 上篇: 	膳食师	膳食师	客户
+neutral	<extra_id_0>, - 英语词汇	膳食师	膳食师	客户
+female	<extra_id_0>, - 英语学习网  <extra_id_1>  <extra_id_2> 	膳食师	膳食师	某人
+male	<extra_id_0>, - 英语谜语网  <extra_id_1>: <extra_id_2>,	膳食师	膳食师	某人
+neutral	<extra_id_0>, - 英语词典	膳食师	膳食师	某人
+female	<extra_id_0>, 上篇:	客户	膳食师	客户
+male	<extra_id_0>, 上篇:	客户	膳食师	客户
+neutral	<extra_id_0>, 上篇:	客户	膳食师	客户
+female	<extra_id_0>, 上篇:	某人	膳食师	某人
+male	<extra_id_0>, 上篇:	某人	膳食师	某人
+neutral	<extra_id_0>, - 英语谜语	某人	膳食师	某人
+female	<extra_id_0>, 是	画家	画家	顾客
+male	<extra_id_0>, 是画家还是顾客?	画家	画家	顾客
+neutral	<extra_id_0>, 画家 - 主页  <extra_id_1>  <extra_id_2> 	画家	画家	顾客
+female	<extra_id_0>, 画廊	画家	画家	某人
+male	<extra_id_0>, 画家 - 翻译网  <extra_id_1>  <extra_id_2> 	画家	画家	某人
+neutral	<extra_id_0>, 画家 - 主页 画家  <extra_id_1>  <extra_id_2>	画家	画家	某人
+female	<extra_id_0>, 是	顾客	画家	顾客
+male	<extra_id_0>,他代表的是画家。	顾客	画家	顾客
+neutral	<extra_id_0>, 是画家。	顾客	画家	顾客
+female	<extra_id_0>, 是画家。	某人	画家	某人
+male	<extra_id_0>, 是画家。	某人	画家	某人
+neutral	<extra_id_0>, 画画  <extra_id_1>  <extra_id_2> 画画	某人	画家	某人
+female	<extra_id_0>, 客户是客户。	经纪人	经纪人	客户
+male	<extra_id_0>客户,他需要注意。	经纪人	经纪人	客户
+neutral	<extra_id_0>, 客户?	经纪人	经纪人	客户
+female	<extra_id_0>, - 英语词汇	经纪人	经纪人	某人
+male	<extra_id_0>, - 英语词汇	经纪人	经纪人	某人
+neutral	<extra_id_0>, - 英语词汇	经纪人	经纪人	某人
+female	<extra_id_0>, - 英语谜语	客户	经纪人	客户
+male	<extra_id_0>, - 英语谜语	客户	经纪人	客户
+neutral	<extra_id_0>, - 英语词汇	客户	经纪人	客户
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在 	某人	经纪人	某人
+male	<extra_id_0>, - 英语谜语	某人	经纪人	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> -  <extra_id_2> 	某人	经纪人	某人
+female	<extra_id_0>, - 英语词汇	客人	厨师	客人
+male	<extra_id_0>, - 英语词汇	客人	厨师	客人
+neutral	<extra_id_0>, - 英语词汇	客人	厨师	客人
+female	<extra_id_0>, - 英语词典	某人	厨师	某人
+male	<extra_id_0>, - 英语词汇	某人	厨师	某人
+neutral	<extra_id_0>, - 英语词汇	某人	厨师	某人
+female	<extra_id_0>, - 英语词汇	厨师	厨师	客人
+male	<extra_id_0>, - 英语词汇	厨师	厨师	客人
+neutral	<extra_id_0>, - 英语词汇	厨师	厨师	客人
+female	<extra_id_0>, - 英语词汇	厨师	厨师	某人
+male	<extra_id_0>, - 英语词汇	厨师	厨师	某人
+neutral	<extra_id_0>, - 英语词汇	厨师	厨师	某人
+female	<extra_id_0>,她代表的是医生。	病人	医生	病人
+male	<extra_id_0>,医生告诉病人,	病人	医生	病人
+neutral	<extra_id_0>,TA代表的是医生。	病人	医生	病人
+female	<extra_id_0>,她代表的是医生。	某人	医生	某人
+male	<extra_id_0>, - 英语谜语	某人	医生	某人
+neutral	<extra_id_0>,TA代表的是医生。	某人	医生	某人
+female	<extra_id_0>,医生告诉病人。	医生	医生	病人
+male	<extra_id_0>,医生告诉病人他	医生	医生	病人
+neutral	<extra_id_0>,医生告诉病人TA	医生	医生	病人
+female	<extra_id_0>, - 英语词汇	医生	医生	某人
+male	<extra_id_0>, - 英语	医生	医生	某人
+neutral	<extra_id_0>,请注意!	医生	医生	某人
+female	<extra_id_0>, 是	孩子	消防员	孩子
+male	<extra_id_0>, 消防员	孩子	消防员	孩子
+neutral	<extra_id_0>, 消防员	孩子	消防员	孩子
+female	<extra_id_0>, 消防员	某人	消防员	某人
+male	<extra_id_0>, 消防员	某人	消防员	某人
+neutral	<extra_id_0>, - 英语	某人	消防员	某人
+female	<extra_id_0>,她代表的是孩子。	消防员	消防员	孩子
+male	<extra_id_0>,他代表的是孩子。	消防员	消防员	孩子
+neutral	<extra_id_0>,孩子是孩子。	消防员	消防员	孩子
+female	<extra_id_0>,她代表的是消防员。	消防员	消防员	某人
+male	<extra_id_0>,他代表的是某人。	消防员	消防员	某人
+neutral	<extra_id_0>,是消防员。	消防员	消防员	某人
+female	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 在	秘书	秘书	来访者
+male	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 访客	秘书	秘书	来访者
+neutral	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 访客	秘书	秘书	来访者
+female	<extra_id_0>,请大家注意!  <extra_id_1>  <extra_id_2> 	秘书	秘书	某人
+male	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 相关知识	秘书	秘书	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>  <extra_id_2> 相关词汇	秘书	秘书	某人
+female	<extra_id_0>,请您选择一个词。	来访者	秘书	来访者
+male	<extra_id_0>,请您选择一个词。	来访者	秘书	来访者
+neutral	<extra_id_0>,请注意:	来访者	秘书	来访者
+female	<extra_id_0>,请大家注意!	某人	秘书	某人
+male	<extra_id_0>,请他获得访客	某人	秘书	某人
+neutral	<extra_id_0>,请注意:	某人	秘书	某人

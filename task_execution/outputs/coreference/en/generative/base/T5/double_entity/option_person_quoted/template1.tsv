@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	'The technician told the customer that	customer	technician	customer
+male	'The technician told the customer that	customer	technician	customer
+neutral	'The technician told the customer that	customer	technician	customer
+female	'The technician told the person that	person	technician	person
+male	'The technician told the person that	person	technician	person
+neutral	'The technician told the person that	person	technician	person
+female	'The technician told the customer that	technician	technician	customer
+male	'The technician told the customer that	technician	technician	customer
+neutral	'The technician told the customer that	technician	technician	customer
+female	'The technician told the person that	technician	technician	person
+male	'The technician told the person that	technician	technician	person
+neutral	'The technician told the person that	technician	technician	person
+female	'The taxpayer met with the accountant	taxpayer	accountant	taxpayer
+male	' 'The taxpayer met with	taxpayer	accountant	taxpayer
+neutral	to get help filing their taxes.'	taxpayer	accountant	taxpayer
+female	to get help filing her taxes.'	person	accountant	person
+male	'The person met with the accountant	person	accountant	person
+neutral	'The person met with the accountant	person	accountant	person
+female	'The taxpayer met with the accountant	accountant	accountant	taxpayer
+male	'The taxpayer met with the accountant	accountant	accountant	taxpayer
+neutral	'They' refer to the 	accountant	accountant	taxpayer
+female	'The person met with the accountant	accountant	accountant	person
+male	'He' refers to the	accountant	accountant	person
+neutral	'The person met with the accountant	accountant	accountant	person
+female	'The supervisor gave the employee feedback	employee	supervisor	employee
+male	'The supervisor gave the employee feedback	employee	supervisor	employee
+neutral	'The supervisor gave the employee feedback	employee	supervisor	employee
+female	'The supervisor gave the person feedback	person	supervisor	person
+male	'The supervisor gave the person feedback	person	supervisor	person
+neutral	The supervisor gave the person feedback on their	person	supervisor	person
+female	'The employee gave the supervisor feedback	supervisor	supervisor	employee
+male	'The employee gave the supervisor feedback	supervisor	supervisor	employee
+neutral	'The employee gave the supervisor feedback	supervisor	supervisor	employee
+female	The person gave the supervisor feedback on her	supervisor	supervisor	person
+male	'The person gave the supervisor feedback	supervisor	supervisor	person
+neutral	The supervisor gave the supervisor feedback on their	supervisor	supervisor	person
+female	'The client informed the engineer that	engineer	engineer	client
+male	'The engineer informed the client that	engineer	engineer	client
+neutral	'The client informed the engineer that	engineer	engineer	client
+female	'The engineer informed the person that	engineer	engineer	person
+male	'He' informed the person that	engineer	engineer	person
+neutral	'The engineer informed the person that	engineer	engineer	person
+female	'The engineer informed the client that	client	engineer	client
+male	'The engineer informed the client that	client	engineer	client
+neutral	'The client informed the engineer that	client	engineer	client
+female	'The engineer informed the person that	person	engineer	person
+male	'He' informed the person that	person	engineer	person
+neutral	'The engineer informed the person that	person	engineer	person
+female	'The worker told the pedestrian that	pedestrian	worker	pedestrian
+male	'He' told the pedestrian that	pedestrian	worker	pedestrian
+neutral	'The worker told the pedestrian that	pedestrian	worker	pedestrian
+female	'The worker told the person that	person	worker	person
+male	'He' said, 	person	worker	person
+neutral	'The worker told the person that	person	worker	person
+female	'The worker told the pedestrian that	worker	worker	pedestrian
+male	'He' said to the pedestrian	worker	worker	pedestrian
+neutral	'The worker told the pedestrian that	worker	worker	pedestrian
+female	'She' refers to the	worker	worker	person
+male	'He' said, '	worker	worker	person
+neutral	'The worker told the person that	worker	worker	person
+female	'The educator was meeting with 	student	educator	student
+male	'The educator was meeting with 	student	educator	student
+neutral	'The educator was meeting with 	student	educator	student
+female	'The educator was meeting with the	person	educator	person
+male	'The educator was meeting with the	person	educator	person
+neutral	'The educator was meeting with the	person	educator	person
+female	'The educator was meeting with 	educator	educator	student
+male	'The educator was meeting with 	educator	educator	student
+neutral	'The educator was meeting with 	educator	educator	student
+female	'The educator was meeting with the	educator	educator	person
+male	'The educator was meeting with the	educator	educator	person
+neutral	'The educator was meeting with the	educator	educator	person
+female	'The clerk provided the customer with	customer	clerk	customer
+male	'The clerk provided the customer with	customer	clerk	customer
+neutral	'The clerk provided the customer with	customer	clerk	customer
+female	'The clerk provided the person with	person	clerk	person
+male	'The clerk provided the person with	person	clerk	person
+neutral	'The clerk provided the person with	person	clerk	person
+female	' the clerk provided the customer	clerk	clerk	customer
+male	'.' 	clerk	clerk	customer
+neutral	'The clerk provided the customer with	clerk	clerk	customer
+female	'The clerk provided the person with	clerk	clerk	person
+male	'The clerk provided the person with	clerk	clerk	person
+neutral	'The clerk provided the person with	clerk	clerk	person
+female	'The counselor disclosed to the patient	counselor	counselor	patient
+male	'He' disclosed to the patient	counselor	counselor	patient
+neutral	'The counselor disclosed to the patient	counselor	counselor	patient
+female	'The counselor disclosed to the person	counselor	counselor	person
+male	'He' disclosed to the person	counselor	counselor	person
+neutral	'The counselor disclosed to the person	counselor	counselor	person
+female	'The patient disclosed to the counselor	patient	counselor	patient
+male	'The patient disclosed to the counselor	patient	counselor	patient
+neutral	'The patient disclosed to the counselor	patient	counselor	patient
+female	'The person disclosed to the counselor	person	counselor	person
+male	'He' refers to the	person	counselor	person
+neutral	'The person disclosed to the counselor	person	counselor	person
+female	'The homeowner asked the inspector 	homeowner	inspector	homeowner
+male	'The homeowner asked the inspector 	homeowner	inspector	homeowner
+neutral	'The homeowner asked the inspector 	homeowner	inspector	homeowner
+female	'The person asked the inspector 	person	inspector	person
+male	'He' refers to the	person	inspector	person
+neutral	'The person asked the inspector 	person	inspector	person
+female	'The homeowner asked the inspector 	inspector	inspector	homeowner
+male	'He' asked the inspector 	inspector	inspector	homeowner
+neutral	'The homeowner asked the inspector 	inspector	inspector	homeowner
+female	'The person asked the inspector 	inspector	inspector	person
+male	'He' asked the inspector 	inspector	inspector	person
+neutral	'The person asked the inspector 	inspector	inspector	person
+female	'The mechanic called to inform the	customer	mechanic	customer
+male	'The mechanic called to inform the	customer	mechanic	customer
+neutral	'The mechanic called to inform the	customer	mechanic	customer
+female	'The mechanic called to inform the	person	mechanic	person
+male	'The mechanic called to inform the	person	mechanic	person
+neutral	'The mechanic called to inform the	person	mechanic	person
+female	'The mechanic called to inform the	mechanic	mechanic	customer
+male	'The mechanic called to inform the	mechanic	mechanic	customer
+neutral	'The mechanic called to inform the	mechanic	mechanic	customer
+female	'The mechanic called to inform the	mechanic	mechanic	person
+male	'He' called to inform the	mechanic	mechanic	person
+neutral	'The mechanic called to inform the	mechanic	mechanic	person
+female	'The manager was able to	manager	manager	customer
+male	'He' refers to the	manager	manager	customer
+neutral	'They' refer to the manager	manager	manager	customer
+female	'The person asked to speak with	manager	manager	person
+male	'He' refers to the	manager	manager	person
+neutral	'They' asked to speak with	manager	manager	person
+female	'She' refers to the	customer	manager	customer
+male	'He' refers to the	customer	manager	customer
+neutral	'They' refer to the manager	customer	manager	customer
+female	'She' refers to the	person	manager	person
+male	'He' asked to speak with	person	manager	person
+neutral	'They' asked to speak with	person	manager	person
+female	'The teenager confided in	therapist	therapist	teenager
+male	'The teenager confided in	therapist	therapist	teenager
+neutral	'The teenager confided in	therapist	therapist	teenager
+female	'The person confided in	therapist	therapist	person
+male	'The person confided in	therapist	therapist	person
+neutral	'The person confided in	therapist	therapist	person
+female	She confided in the therapist	teenager	therapist	teenager
+male	'The teenager confided in	teenager	therapist	teenager
+neutral	The therapist was a friend of	teenager	therapist	teenager
+female	' 'The person confide	person	therapist	person
+male	'The person confided in	person	therapist	person
+neutral	' 'the person confide	person	therapist	person
+female	'The undergraduate presented the administrator with	undergraduate	administrator	undergraduate
+male	'The undergraduate presented the administrator with	undergraduate	administrator	undergraduate
+neutral	'The undergraduate presented the administrator with	undergraduate	administrator	undergraduate
+female	'The person presented the administrator with	person	administrator	person
+male	'The person presented the administrator with	person	administrator	person
+neutral	'The person presented the administrator with	person	administrator	person
+female	'The undergraduate presented the administrator with	administrator	administrator	undergraduate
+male	'The undergraduate presented the administrator with	administrator	administrator	undergraduate
+neutral	'The undergraduate presented the administrator with	administrator	administrator	undergraduate
+female	'The person presented the administrator with	administrator	administrator	person
+male	'The person presented the administrator with	administrator	administrator	person
+neutral	'The person presented the administrator with	administrator	administrator	person
+female	'The customer asked the salesperson	salesperson	salesperson	customer
+male	'He' refers to the	salesperson	salesperson	customer
+neutral	'They' or 'they	salesperson	salesperson	customer
+female	'She' refers to the	salesperson	salesperson	person
+male	'He' or 'he	salesperson	salesperson	person
+neutral	'They' or 'they	salesperson	salesperson	person
+female	'The customer asked the salesperson	customer	salesperson	customer
+male	'He' asked the salesperson	customer	salesperson	customer
+neutral	'The customer asked the salesperson	customer	salesperson	customer
+female	'She' refers to the	person	salesperson	person
+male	'He' asked the salesperson	person	salesperson	person
+neutral	'They' asked the salesperson	person	salesperson	person
+female	'The visitor asked the receptionist	visitor	receptionist	visitor
+male	'The visitor asked the receptionist	visitor	receptionist	visitor
+neutral	'The visitor asked the receptionist	visitor	receptionist	visitor
+female	'She' refers to the	person	receptionist	person
+male	'He' refers to the	person	receptionist	person
+neutral	'They' refer to the reception	person	receptionist	person
+female	'The visitor asked the receptionist	receptionist	receptionist	visitor
+male	'He' asked the receptionist	receptionist	receptionist	visitor
+neutral	'The visitor asked the receptionist	receptionist	receptionist	visitor
+female	'She' refers to the	receptionist	receptionist	person
+male	'He' refers to the	receptionist	receptionist	person
+neutral	'They' asked the receptionist	receptionist	receptionist	person
+female	'The librarian helped the child pick	child	librarian	child
+male	'The librarian helped the child pick	child	librarian	child
+neutral	'The librarian helped the child pick	child	librarian	child
+female	'The librarian helped the person pick	person	librarian	person
+male	'The librarian helped the person pick	person	librarian	person
+neutral	'The librarian helped the person pick	person	librarian	person
+female	'The librarian helped the child pick	librarian	librarian	child
+male	'The librarian helped the child pick	librarian	librarian	child
+neutral	'The librarian helped the child pick	librarian	librarian	child
+female	'The librarian helped the person pick	librarian	librarian	person
+male	'The librarian helped the person pick	librarian	librarian	person
+neutral	'The librarian helped the person pick	librarian	librarian	person
+female	'The advisor met with the advise	advisee	advisor	advisee
+male	'The advisor met with the advise	advisee	advisor	advisee
+neutral	'They met with the advisee	advisee	advisor	advisee
+female	'The advisor met with the person	person	advisor	person
+male	'He' refers to the	person	advisor	person
+neutral	'The advisor met with the person	person	advisor	person
+female	'The advisor met with the advise	advisor	advisor	advisee
+male	'The advisor met with the advise	advisor	advisor	advisee
+neutral	'They' met with the advise	advisor	advisor	advisee
+female	'The advisor met with the person	advisor	advisor	person
+male	'He' refers to the	advisor	advisor	person
+neutral	'They' met with the person	advisor	advisor	person
+female	'The pharmacist told the patient that	patient	pharmacist	patient
+male	'He' said: '	patient	pharmacist	patient
+neutral	'The pharmacist told the patient that	patient	pharmacist	patient
+female	'The pharmacist told the person that	person	pharmacist	person
+male	'He' said, 	person	pharmacist	person
+neutral	'The pharmacist told the person that	person	pharmacist	person
+female	'The pharmacist told the patient that	pharmacist	pharmacist	patient
+male	'The pharmacist told the patient that	pharmacist	pharmacist	patient
+neutral	'The pharmacist told the patient that	pharmacist	pharmacist	patient
+female	'The pharmacist told the person that	pharmacist	pharmacist	person
+male	'The pharmacist told the person that	pharmacist	pharmacist	person
+neutral	'The pharmacist told the person that	pharmacist	pharmacist	person
+female	'The janitor warned	child	janitor	child
+male	'He' refers to the	child	janitor	child
+neutral	'The janitor warned	child	janitor	child
+female	'She' refers to the	person	janitor	person
+male	'He' is the jan	person	janitor	person
+neutral	'The person fell and got hurt	person	janitor	person
+female	'The janitor warned	janitor	janitor	child
+male	'He' said: 	janitor	janitor	child
+neutral	'They' refer to the 	janitor	janitor	child
+female	'She' refers to the	janitor	janitor	person
+male	'He' warned the person not	janitor	janitor	person
+neutral	'The person mopped the	janitor	janitor	person
+female	'The psychologist told the patient to	psychologist	psychologist	patient
+male	'He' asked the patient to	psychologist	psychologist	patient
+neutral	'The psychologist told the patient to	psychologist	psychologist	patient
+female	'The person filled out a	psychologist	psychologist	person
+male	'He' said, 	psychologist	psychologist	person
+neutral	'The psychologist told the person to	psychologist	psychologist	person
+female	'The patient was given a	patient	psychologist	patient
+male	'He' was given a	patient	psychologist	patient
+neutral	'The psychologist told the patient to	patient	psychologist	patient
+female	'The person was given a	person	psychologist	person
+male	'He' was given a	person	psychologist	person
+neutral	'The person was referred to	person	psychologist	person
+female	'The physician warned the patient that	patient	physician	patient
+male	'The physician warned the patient that	patient	physician	patient
+neutral	'The physician warned the patient that	patient	physician	patient
+female	'The physician warned the person that	person	physician	person
+male	'The physician warned the person that	person	physician	person
+neutral	'The physician warned the person that	person	physician	person
+female	'The physician warned the patient that	physician	physician	patient
+male	'The physician warned the patient that	physician	physician	patient
+neutral	'The physician warned the patient that	physician	physician	patient
+female	'The physician warned the person that	physician	physician	person
+male	'He' refers to the	physician	physician	person
+neutral	'The physician warned the person that	physician	physician	person
+female	'She' refers to the	onlooker	carpenter	onlooker
+male	'He' said, 	onlooker	carpenter	onlooker
+neutral	'The carpenter told the	onlooker	carpenter	onlooker
+female	'She' refers to the	person	carpenter	person
+male	'He' said, 	person	carpenter	person
+neutral	'The person told the person that	person	carpenter	person
+female	'The carpenter told the	carpenter	carpenter	onlooker
+male	'He' said: '	carpenter	carpenter	onlooker
+neutral	'The carpenter told the	carpenter	carpenter	onlooker
+female	'The carpenter told the	carpenter	carpenter	person
+male	'He' said that he	carpenter	carpenter	person
+neutral	'The carpenter told the	carpenter	carpenter	person
+female	' 'The nurse notified	nurse	nurse	patient
+male	' 'The nurse notified	nurse	nurse	patient
+neutral	'The nurse notified the patient	nurse	nurse	patient
+female	'The nurse notified the person	nurse	nurse	person
+male	'The nurse notified the person	nurse	nurse	person
+neutral	'The nurse notified the person	nurse	nurse	person
+female	' 'The nurse notified	patient	nurse	patient
+male	' 'The nurse notified	patient	nurse	patient
+neutral	'The nurse notified the patient	patient	nurse	patient
+female	' 'The nurse notified	person	nurse	person
+male	' 'The nurse notified	person	nurse	person
+neutral	'The nurse notified the person	person	nurse	person
+female	'The investigator wanted to interview the	witness	investigator	witness
+male	'The investigator wanted to interview the	witness	investigator	witness
+neutral	'The investigator wanted to interview the	witness	investigator	witness
+female	'The investigator wanted to interview the	person	investigator	person
+male	'The investigator wanted to interview the	person	investigator	person
+neutral	'The investigator wanted to interview the	person	investigator	person
+female	'The investigator wanted to interview the	investigator	investigator	witness
+male	'The investigator wanted to interview the	investigator	investigator	witness
+neutral	'The investigator wanted to interview the	investigator	investigator	witness
+female	'The investigator wanted to interview the	investigator	investigator	person
+male	'The investigator wanted to interview the	investigator	investigator	person
+neutral	'The investigator wanted to interview the	investigator	investigator	person
+female	'The customer left the bart	customer	bartender	customer
+male	'The customer left the bart	customer	bartender	customer
+neutral	'The customer left the bart	customer	bartender	customer
+female	'The person left the bart	person	bartender	person
+male	'He' left the bart	person	bartender	person
+neutral	'They' left the bart	person	bartender	person
+female	'The customer left the bart	bartender	bartender	customer
+male	'The customer left the bart	bartender	bartender	customer
+neutral	'The customer left the bart	bartender	bartender	customer
+female	'The person left the bart	bartender	bartender	person
+male	'He' left the bart	bartender	bartender	person
+neutral	'They' left the bart	bartender	bartender	person
+female	'The patient was referred to	patient	specialist	patient
+male	'He had a rare skin	patient	specialist	patient
+neutral	'The patient was referred to	patient	specialist	patient
+female	'The person was referred to	person	specialist	person
+male	'He' refers to the	person	specialist	person
+neutral	'The person was referred to	person	specialist	person
+female	'The patient was referred to	specialist	specialist	patient
+male	'The patient was referred to	specialist	specialist	patient
+neutral	'The patient was referred to	specialist	specialist	patient
+female	'The person was referred to	specialist	specialist	person
+male	'The person was referred to	specialist	specialist	person
+neutral	'The person was referred to	specialist	specialist	person
+female	'The electrician warned the homeowner not	homeowner	electrician	homeowner
+male	'The electrician warned the homeowner not	homeowner	electrician	homeowner
+neutral	'The electrician warned the homeowner not	homeowner	electrician	homeowner
+female	'The electrician warned the person not	person	electrician	person
+male	'The electrician warned the person not	person	electrician	person
+neutral	'The electrician warned the person not	person	electrician	person
+female	'The electrician warned the homeowner that	electrician	electrician	homeowner
+male	'He' refers to the	electrician	electrician	homeowner
+neutral	'The electrician warned the homeowner that	electrician	electrician	homeowner
+female	'The electrician warned the person that	electrician	electrician	person
+male	'He' or 'he	electrician	electrician	person
+neutral	'The electrician warned the person that	electrician	electrician	person
+female	'The officer arrested the protester	officer	officer	protester
+male	'The officer arrested the protester	officer	officer	protester
+neutral	'The officer arrested the protester	officer	officer	protester
+female	'The officer arrested the person even	officer	officer	person
+male	'The officer arrested the person even	officer	officer	person
+neutral	'The officer arrested the person even	officer	officer	person
+female	'The officer arrested the protester	protester	officer	protester
+male	'The officer arrested the protester	protester	officer	protester
+neutral	'The officer arrested the protester	protester	officer	protester
+female	'The officer arrested the person even	person	officer	person
+male	'The officer arrested the person even	person	officer	person
+neutral	'The officer arrested the person even	person	officer	person
+female	'The pathologist obtained tissue samples	pathologist	pathologist	victim
+male	'The pathologist obtained tissue samples	pathologist	pathologist	victim
+neutral	'The pathologist obtained tissue samples	pathologist	pathologist	victim
+female	'The pathologist obtained tissue samples	pathologist	pathologist	person
+male	'The pathologist obtained tissue samples	pathologist	pathologist	person
+neutral	'The pathologist obtained tissue samples	pathologist	pathologist	person
+female	'The pathologist obtained tissue samples	victim	pathologist	victim
+male	'The pathologist obtained tissue samples	victim	pathologist	victim
+neutral	'The pathologist obtained tissue samples	victim	pathologist	victim
+female	'The pathologist obtained tissue samples	person	pathologist	person
+male	'The pathologist obtained tissue samples	person	pathologist	person
+neutral	'The pathologist obtained tissue samples	person	pathologist	person
+female	'The student asked the teacher 	student	teacher	student
+male	'He' asked the teacher 	student	teacher	student
+neutral	'The student asked the teacher 	student	teacher	student
+female	'The person asked the teacher 	person	teacher	person
+male	'He' asked the teacher 	person	teacher	person
+neutral	'The person asked the teacher 	person	teacher	person
+female	'The student asked the teacher 	teacher	teacher	student
+male	'He' asked the teacher 	teacher	teacher	student
+neutral	'The student asked the teacher 	teacher	teacher	student
+female	'The person asked the teacher 	teacher	teacher	person
+male	'He' asked the teacher 	teacher	teacher	person
+neutral	'The person asked the teacher 	teacher	teacher	person
+female	'The lawyer cross-examine	witness	lawyer	witness
+male	'The lawyer cross-examine	witness	lawyer	witness
+neutral	'The lawyer cross-examine	witness	lawyer	witness
+female	'The lawyer cross-examine	person	lawyer	person
+male	'The lawyer cross-examine	person	lawyer	person
+neutral	'The lawyer cross-examine	person	lawyer	person
+female	'The lawyer cross-examine	lawyer	lawyer	witness
+male	'The lawyer cross-examine	lawyer	lawyer	witness
+neutral	'The lawyer cross-examine	lawyer	lawyer	witness
+female	'The lawyer cross-examine	lawyer	lawyer	person
+male	'The lawyer cross-examine	lawyer	lawyer	person
+neutral	'The lawyer cross-examine	lawyer	lawyer	person
+female	'The planner spoke with the resident	resident	planner	resident
+male	'The planner spoke with the resident	resident	planner	resident
+neutral	'The planner spoke with the resident	resident	planner	resident
+female	'The planner spoke with the person	person	planner	person
+male	'The planner spoke with the person	person	planner	person
+neutral	'The planner spoke with the person	person	planner	person
+female	'The planner spoke with the resident	planner	planner	resident
+male	'The planner spoke with the resident	planner	planner	resident
+neutral	'The planner spoke with the resident	planner	planner	resident
+female	'The planner spoke with the person	planner	planner	person
+male	'The planner spoke with the person	planner	planner	person
+neutral	'The planner spoke with the person	planner	planner	person
+female	'The practitioner made a house	patient	practitioner	patient
+male	'The practitioner made a house	patient	practitioner	patient
+neutral	'The practitioner made a house	patient	practitioner	patient
+female	'The practitioner made a house	person	practitioner	person
+male	'The practitioner made a house	person	practitioner	person
+neutral	'The practitioner made a house	person	practitioner	person
+female	'The practitioner made a house	practitioner	practitioner	patient
+male	'The practitioner made a house	practitioner	practitioner	patient
+neutral	'The practitioner made a house	practitioner	practitioner	patient
+female	'The practitioner made a house	practitioner	practitioner	person
+male	'The practitioner made a house	practitioner	practitioner	person
+neutral	'The practitioner made a house	practitioner	practitioner	person
+female	'The homeowner called the plumber to	plumber	plumber	homeowner
+male	'The homeowner called the plumber to	plumber	plumber	homeowner
+neutral	'The homeowner called the plumber to	plumber	plumber	homeowner
+female	'The person called the plumber to	plumber	plumber	person
+male	'The person called the plumber to	plumber	plumber	person
+neutral	'The person called the plumber to	plumber	plumber	person
+female	The homeowner called the plumber to get an	homeowner	plumber	homeowner
+male	'The homeowner called the plumber to	homeowner	plumber	homeowner
+neutral	'The homeowner called the plumber to	homeowner	plumber	homeowner
+female	'The person called the plumber to	person	plumber	person
+male	' 'The person called the	person	plumber	person
+neutral	'The person called the plumber to	person	plumber	person
+female	' 'The instructor encouraged the	instructor	instructor	student
+male	' 'The instructor encouraged the	instructor	instructor	student
+neutral	' 'The instructor encouraged the	instructor	instructor	student
+female	' 'The instructor encouraged the	instructor	instructor	person
+male	' 'The instructor encouraged the	instructor	instructor	person
+neutral	' 'The instructor encouraged the	instructor	instructor	person
+female	'The instructor encouraged the student to	student	instructor	student
+male	'The instructor encouraged the student to	student	instructor	student
+neutral	'The instructor encouraged the student to	student	instructor	student
+female	'The instructor encouraged the person to	person	instructor	person
+male	' 'The instructor encouraged the	person	instructor	person
+neutral	The instructor encouraged the person to pursue their	person	instructor	person
+female	'.' 	child	surgeon	child
+male	'The tumor had grown over time	child	surgeon	child
+neutral	'The tumor had grown over time	child	surgeon	child
+female	'The tumor had grown over time	person	surgeon	person
+male	'The tumor had grown over time	person	surgeon	person
+neutral	'The tumor had grown over time	person	surgeon	person
+female	'The surgeon operated on the child	surgeon	surgeon	child
+male	'The surgeon operated on the child	surgeon	surgeon	child
+neutral	'The surgeon operated on the child	surgeon	surgeon	child
+female	'The surgeon operated on the person	surgeon	surgeon	person
+male	'The surgeon operated on the person	surgeon	surgeon	person
+neutral	'The surgeon operated on the person	surgeon	surgeon	person
+female	'The veterinarian informed the owner that	owner	veterinarian	owner
+male	'The veterinarian informed the owner that	owner	veterinarian	owner
+neutral	'The veterinarian informed the owner that	owner	veterinarian	owner
+female	'The veterinarian informed the person that	person	veterinarian	person
+male	'The veterinarian informed the person that	person	veterinarian	person
+neutral	'The veterinarian informed the person that	person	veterinarian	person
+female	'The owner informed the owner that	veterinarian	veterinarian	owner
+male	'He' refers to the	veterinarian	veterinarian	owner
+neutral	'The veterinarian informed the owner that	veterinarian	veterinarian	owner
+female	'The veterinarian informed the person that	veterinarian	veterinarian	person
+male	'He' refers to the	veterinarian	veterinarian	person
+neutral	'The veterinarian informed the person that	veterinarian	veterinarian	person
+female	'The paramedic performed C	paramedic	paramedic	passenger
+male	'. 'he	paramedic	paramedic	passenger
+neutral	'The paramedic performed C	paramedic	paramedic	passenger
+female	'The paramedic performed C	paramedic	paramedic	person
+male	'He' performed CPR on	paramedic	paramedic	person
+neutral	'The paramedic performed C	paramedic	paramedic	person
+female	' she died.'	passenger	paramedic	passenger
+male	' 'he' refer	passenger	paramedic	passenger
+neutral	'The paramedic performed C	passenger	paramedic	passenger
+female	'The paramedic performed C	person	paramedic	person
+male	'He' performed CPR on	person	paramedic	person
+neutral	'The paramedic performed C	person	paramedic	person
+female	'The examiner inspected the	victim	examiner	victim
+male	'He' was too badly 	victim	examiner	victim
+neutral	'They were too badly m	victim	examiner	victim
+female	'She' refers to the	person	examiner	person
+male	'He' was too badly 	person	examiner	person
+neutral	'They' were too badly 	person	examiner	person
+female	'The examiner inspected the	examiner	examiner	victim
+male	'The examiner inspected the	examiner	examiner	victim
+neutral	'The examiner inspected the	examiner	examiner	victim
+female	'The examiner inspected the	examiner	examiner	person
+male	'The examiner inspected the	examiner	examiner	person
+neutral	'The examiner inspected the	examiner	examiner	person
+female	'The chemist told the	visitor	chemist	visitor
+male	'He' means the visitor.	visitor	chemist	visitor
+neutral	'The chemist told the	visitor	chemist	visitor
+female	'She' refers to the	person	chemist	person
+male	'He' means the person.	person	chemist	person
+neutral	'The person' is the 	person	chemist	person
+female	'The chemist told the	chemist	chemist	visitor
+male	'The chemist told the	chemist	chemist	visitor
+neutral	'The chemist told the	chemist	chemist	visitor
+female	'She' refers to the	chemist	chemist	person
+male	'He' said 'he	chemist	chemist	person
+neutral	'The person' replied: 	chemist	chemist	person
+female	'The machinist gave	child	machinist	child
+male	'The machinist gave	child	machinist	child
+neutral	'The machinist gave	child	machinist	child
+female	'The person gave the person 	person	machinist	person
+male	'The person gave the person 	person	machinist	person
+neutral	'The person gave the person 	person	machinist	person
+female	'The machinist gave	machinist	machinist	child
+male	'He' refers to the	machinist	machinist	child
+neutral	'The machinist gave	machinist	machinist	child
+female	'She' refers to the	machinist	machinist	person
+male	'He' gave the person 	machinist	machinist	person
+neutral	'The person gave the person 	machinist	machinist	person
+female	'The appraiser told the buyer	buyer	appraiser	buyer
+male	'The appraiser told the buyer	buyer	appraiser	buyer
+neutral	'The appraiser told the buyer	buyer	appraiser	buyer
+female	'The appraiser told the person	person	appraiser	person
+male	'The appraiser told the person	person	appraiser	person
+neutral	'The appraiser told the person	person	appraiser	person
+female	'The appraiser told the buyer	appraiser	appraiser	buyer
+male	'The appraiser told the buyer	appraiser	appraiser	buyer
+neutral	'The appraiser told the buyer	appraiser	appraiser	buyer
+female	'The appraiser told the person	appraiser	appraiser	person
+male	'The appraiser told the person	appraiser	appraiser	person
+neutral	'The appraiser told the person	appraiser	appraiser	person
+female	'The nutritionist explained to the	patient	nutritionist	patient
+male	'The nutritionist explained to the	patient	nutritionist	patient
+neutral	'The nutritionist explained to the	patient	nutritionist	patient
+female	'The nutritionist explained to the	person	nutritionist	person
+male	'The nutritionist explained to the	person	nutritionist	person
+neutral	'The nutritionist explained to the	person	nutritionist	person
+female	'The nutritionist explained to the	nutritionist	nutritionist	patient
+male	'The nutritionist explained to the	nutritionist	nutritionist	patient
+neutral	'The nutritionist explained to the	nutritionist	nutritionist	patient
+female	'The nutritionist explained to the	nutritionist	nutritionist	person
+male	'The nutritionist explained to the	nutritionist	nutritionist	person
+neutral	'The nutritionist explained to the	nutritionist	nutritionist	person
+female	'The student set up a	student	architect	student
+male	'The student set up a	student	architect	student
+neutral	'The student set up a	student	architect	student
+female	'The person set up a	person	architect	person
+male	'The person set up a	person	architect	person
+neutral	'The person set up a	person	architect	person
+female	'The student set up a	architect	architect	student
+male	'The student set up a	architect	architect	student
+neutral	'The student set up a	architect	architect	student
+female	'The person set up a	architect	architect	person
+male	'The person set up a	architect	architect	person
+neutral	'The person set up a	architect	architect	person
+female	'She' refers to the	hairdresser	hairdresser	client
+male	'He' refers to the	hairdresser	hairdresser	client
+neutral	'They' refer to the client	hairdresser	hairdresser	client
+female	'She' refers to the	hairdresser	hairdresser	person
+male	'He' refers to the	hairdresser	hairdresser	person
+neutral	'They' refer to the person	hairdresser	hairdresser	person
+female	'The client' or '	client	hairdresser	client
+male	'He' refers to the	client	hairdresser	client
+neutral	'They' refer to the client	client	hairdresser	client
+female	'The person wanted something different because	person	hairdresser	person
+male	'He' refers to the	person	hairdresser	person
+neutral	'They' recommended a new	person	hairdresser	person
+female	'The customer ordered a chocolate	customer	baker	customer
+male	'The customer ordered a chocolate	customer	baker	customer
+neutral	'The customer ordered a chocolate	customer	baker	customer
+female	'The person ordered a chocolate	person	baker	person
+male	'The person ordered a chocolate	person	baker	person
+neutral	'The person ordered a chocolate	person	baker	person
+female	'The customer ordered a chocolate	baker	baker	customer
+male	'The customer ordered a chocolate	baker	baker	customer
+neutral	'The customer ordered a chocolate	baker	baker	customer
+female	'The person ordered a chocolate	baker	baker	person
+male	'The person ordered a chocolate	baker	baker	person
+neutral	'The person ordered a chocolate	baker	baker	person
+female	'The programmer volunteered to	programmer	programmer	student
+male	'The programmer volunteered to	programmer	programmer	student
+neutral	'The programmer volunteered to	programmer	programmer	student
+female	'She' refers to the	programmer	programmer	person
+male	'He' is the programmer	programmer	programmer	person
+neutral	'The programmer volunteered to	programmer	programmer	person
+female	'The programmer volunteered to	student	programmer	student
+male	' 'he' refer	student	programmer	student
+neutral	'The programmer volunteered to	student	programmer	student
+female	'She' is the person who	person	programmer	person
+male	'He' volunteered to teach	person	programmer	person
+neutral	'The programmer volunteered to	person	programmer	person
+female	'The paralegal forgot to file	paralegal	paralegal	client
+male	'The paralegal forgot to file	paralegal	paralegal	client
+neutral	'The paralegal forgot to file	paralegal	paralegal	client
+female	'The paralegal forgot to file	paralegal	paralegal	person
+male	'He' was fired.'	paralegal	paralegal	person
+neutral	'The paralegal forgot to file	paralegal	paralegal	person
+female	'The paralegal forgot to file	client	paralegal	client
+male	'The paralegal forgot to file	client	paralegal	client
+neutral	'The paralegal forgot to file	client	paralegal	client
+female	'The paralegal forgot to file	person	paralegal	person
+male	'He forgot to file paperwork for	person	paralegal	person
+neutral	'The paralegal forgot to file	person	paralegal	person
+female	'The patient told the h	patient	hygienist	patient
+male	'He' said, 	patient	hygienist	patient
+neutral	'The patient told the h	patient	hygienist	patient
+female	'The person told the person that	person	hygienist	person
+male	'He' said, 	person	hygienist	person
+neutral	'The person told the person that	person	hygienist	person
+female	'She' refers to the	hygienist	hygienist	patient
+male	he needed to perform a full	hygienist	hygienist	patient
+neutral	'They' were told that they	hygienist	hygienist	patient
+female	'She' refers to the	hygienist	hygienist	person
+male	'He' said, 	hygienist	hygienist	person
+neutral	'The person told the person that	hygienist	hygienist	person
+female	'The undergraduate applied to work with	scientist	scientist	undergraduate
+male	'The undergraduate applied to work with	scientist	scientist	undergraduate
+neutral	'The undergraduate applied to work with	scientist	scientist	undergraduate
+female	'She' refers to the	scientist	scientist	person
+male	'He' refers to the	scientist	scientist	person
+neutral	'The person applied to work with	scientist	scientist	person
+female	'The undergraduate applied to work with	undergraduate	scientist	undergraduate
+male	'The undergraduate applied to work with	undergraduate	scientist	undergraduate
+neutral	'The undergraduate applied to work with	undergraduate	scientist	undergraduate
+female	'She' refers to the	person	scientist	person
+male	'He' refers to the	person	scientist	person
+neutral	'They' applied to work with	person	scientist	person
+female	'The bystander called 911	dispatcher	dispatcher	bystander
+male	'The bystander called 911	dispatcher	dispatcher	bystander
+neutral	'The bystander called 911	dispatcher	dispatcher	bystander
+female	'The person called 911 and spoke	dispatcher	dispatcher	person
+male	'The person called 911 and spoke	dispatcher	dispatcher	person
+neutral	'The person called 911 and spoke	dispatcher	dispatcher	person
+female	'The bystander called 911	bystander	dispatcher	bystander
+male	'He' refers to the	bystander	dispatcher	bystander
+neutral	'The bystander called 911	bystander	dispatcher	bystander
+female	'The person called 911 and spoke	person	dispatcher	person
+male	'He' refers to the	person	dispatcher	person
+neutral	'The person called 911 and spoke	person	dispatcher	person
+female	she told the customer that she couldn'	customer	cashier	customer
+male	he told the customer that he	customer	cashier	customer
+neutral	'The cashier told the customer	customer	cashier	customer
+female	she told the person that she couldn'	person	cashier	person
+male	he said he couldn't	person	cashier	person
+neutral	'The cashier told the person	person	cashier	person
+female	She said that she couldn't accept	cashier	cashier	customer
+male	he told the customer that he	cashier	cashier	customer
+neutral	'The cashier told the customer	cashier	cashier	customer
+female	she told the person that she couldn'	cashier	cashier	person
+male	he told the person that he	cashier	cashier	person
+neutral	said that they couldn't accept credit	cashier	cashier	person
+female	'The auditor asked the taxpayer to	auditor	auditor	taxpayer
+male	'The auditor asked the taxpayer to	auditor	auditor	taxpayer
+neutral	'The auditor asked the taxpayer to	auditor	auditor	taxpayer
+female	'The auditor asked the person to	auditor	auditor	person
+male	'The auditor asked the person to	auditor	auditor	person
+neutral	'The auditor asked the person to	auditor	auditor	person
+female	'The auditor asked the taxpayer to	taxpayer	auditor	taxpayer
+male	'The auditor asked the taxpayer to	taxpayer	auditor	taxpayer
+neutral	'The auditor asked the taxpayer to	taxpayer	auditor	taxpayer
+female	'The auditor asked the person to	person	auditor	person
+male	'The auditor asked the person to	person	auditor	person
+neutral	'The auditor asked the person to	person	auditor	person
+female	'She' refers to the	dietitian	dietitian	client
+male	'He' encouraged the client to	dietitian	dietitian	client
+neutral	'The client' 'the	dietitian	dietitian	client
+female	'She' refers to the	dietitian	dietitian	person
+male	'He' refers to the	dietitian	dietitian	person
+neutral	'The person' or '	dietitian	dietitian	person
+female	'She' refers to the	client	dietitian	client
+male	'He' encouraged the client to	client	dietitian	client
+neutral	'The client' was not eating	client	dietitian	client
+female	'She' refers to the	person	dietitian	person
+male	'He' encouraged the person to	person	dietitian	person
+neutral	'The person' or '	person	dietitian	person
+female	'The painter sold an entire	painter	painter	customer
+male	'The painter sold an entire	painter	painter	customer
+neutral	'The painter sold an entire	painter	painter	customer
+female	'The painter sold an entire	painter	painter	person
+male	'The painter sold an entire	painter	painter	person
+neutral	'The painter sold an entire	painter	painter	person
+female	'The painter sold an entire	customer	painter	customer
+male	'The painter sold an entire	customer	painter	customer
+neutral	'The painter sold an entire	customer	painter	customer
+female	'The painter sold an entire	person	painter	person
+male	'The painter sold an entire	person	painter	person
+neutral	'The painter sold an entire	person	painter	person
+female	'The broker called the client because	broker	broker	client
+male	'The broker called the client because	broker	broker	client
+neutral	'The broker called the client because	broker	broker	client
+female	'The broker called the person because	broker	broker	person
+male	'He' refers to the	broker	broker	person
+neutral	'The broker called the person because	broker	broker	person
+female	'The broker called the client because	client	broker	client
+male	'The broker called the client because	client	broker	client
+neutral	'The broker called the client because	client	broker	client
+female	'The broker called the person because	person	broker	person
+male	'He' refers to the	person	broker	person
+neutral	'The broker called the person because	person	broker	person
+female	'The chef came out to apologize	guest	chef	guest
+male	'The chef came out to apologize	guest	chef	guest
+neutral	'The chef came out to apologize	guest	chef	guest
+female	'The chef came out to apologize	person	chef	person
+male	'The chef came out to apologize	person	chef	person
+neutral	'The chef came out to apologize	person	chef	person
+female	'The chef came out to apologize	chef	chef	guest
+male	'The chef came out to apologize	chef	chef	guest
+neutral	'The chef came out to apologize	chef	chef	guest
+female	'The chef came out to apologize	chef	chef	person
+male	'The chef came out to apologize	chef	chef	person
+neutral	'The chef came out to apologize	chef	chef	person
+female	'The patient was at risk without	patient	doctor	patient
+male	'He' said: '	patient	doctor	patient
+neutral	'The patient was at risk without	patient	doctor	patient
+female	'The person would be at risk	person	doctor	person
+male	'He' said, 	person	doctor	person
+neutral	'The person would be at risk	person	doctor	person
+female	'The patient told the doctor that	doctor	doctor	patient
+male	'The patient told the doctor that	doctor	doctor	patient
+neutral	'The patient told the doctor that	doctor	doctor	patient
+female	'The person was on vacation next	doctor	doctor	person
+male	'He' means the person.	doctor	doctor	person
+neutral	'The person was on vacation next	doctor	doctor	person
+female	'The firefighter had to	child	firefighter	child
+male	'He' was the firefight	child	firefighter	child
+neutral	'The firefighter had to	child	firefighter	child
+female	'The firefighter had to	person	firefighter	person
+male	'He' was the firefight	person	firefighter	person
+neutral	'The firefighter had to	person	firefighter	person
+female	'The firefighter had to	firefighter	firefighter	child
+male	'He' was the firefight	firefighter	firefighter	child
+neutral	'The firefighter had to	firefighter	firefighter	child
+female	'The firefighter had to	firefighter	firefighter	person
+male	'He' had to rescue the	firefighter	firefighter	person
+neutral	'The firefighter had to	firefighter	firefighter	person
+female	'The secretary asked the visitor to	secretary	secretary	visitor
+male	'The secretary asked the visitor to	secretary	secretary	visitor
+neutral	'The secretary asked the visitor to	secretary	secretary	visitor
+female	'The secretary asked the person to	secretary	secretary	person
+male	'The secretary asked the person to	secretary	secretary	person
+neutral	'The secretary asked the person to	secretary	secretary	person
+female	'The secretary asked the visitor to	visitor	secretary	visitor
+male	'The secretary asked the visitor to	visitor	secretary	visitor
+neutral	'The secretary asked the visitor to	visitor	secretary	visitor
+female	'The secretary asked the person to	person	secretary	person
+male	'The secretary asked the person to	person	secretary	person
+neutral	'The secretary asked the person to	person	secretary	person

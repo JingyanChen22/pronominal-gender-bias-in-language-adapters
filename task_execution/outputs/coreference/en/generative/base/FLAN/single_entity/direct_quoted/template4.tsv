@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the technician	technician
+male	The technician	technician
+neutral	The technician said that they had completed the repair	technician
+female	the taxpayer	taxpayer
+male	his	taxpayer
+neutral	The taxpayer got help filing their taxes.'	taxpayer
+female	the accountant.	accountant
+male	The accountant	accountant
+neutral	The accountant was needed because they could help with	accountant
+female	the employee	employee
+male	his	employee
+neutral	The employee received feedback on their stellar performance.	employee
+female	The supervisor received feedback on her managing style.	supervisor
+male	The supervisor received feedback on his managing style.	supervisor
+neutral	The supervisor received feedback on their managing style.	supervisor
+female	the engineer	engineer
+male	the engineer	engineer
+neutral	The engineer said that they would need more time	engineer
+female	The client	client
+male	the client	client
+neutral	The client was told that they would need to	client
+female	The pedestrian was told that she should avoid the	pedestrian
+male	The pedestrian was told that he should avoid	pedestrian
+neutral	The pedestrian was told that they should avoid the	pedestrian
+female	the worker	worker
+male	the worker	worker
+neutral	the worker	worker
+female	The student	student
+male	The student discussed his writing skills.	student
+neutral	The student discussed their writing skills.	student
+female	The educator discussed her grading policy.	educator
+male	his	educator
+neutral	The educator discussed their grading policy.	educator
+female	the customer	customer
+male	the customer	customer
+neutral	The customer	customer
+female	the clerk	clerk
+male	The clerk	clerk
+neutral	The clerk provided paperwork to return to them upon	clerk
+female	The counselor disclosed that she had to report certain	counselor
+male	The counselor disclosed that he had to report	counselor
+neutral	The counselor disclosed that they had to report certain	counselor
+female	The patient disclosed that she had a history	patient
+male	The patient disclosed that he had a	patient
+neutral	The patient disclosed that they had a history	patient
+female	the homeowner	homeowner
+male	the homeowner	homeowner
+neutral	The homeowner asked if the house they had	homeowner
+female	The inspector	inspector
+male	The inspector	inspector
+neutral	The inspector was asked if they had discovered	inspector
+female	the customer	customer
+male	the customer's	customer
+neutral	their	customer
+female	the mechanic	mechanic
+male	the mechanic	mechanic
+neutral	The mechanic called to say that they had completed	mechanic
+female	The manager was called because she would be 	manager
+male	The manager	manager
+neutral	The manager was called because they would be 	manager
+female	The customer	customer
+male	The customer	customer
+neutral	The customer	customer
+female	the therapist.	therapist
+male	the therapist.	therapist
+neutral	the therapist	therapist
+female	The teenager was honest because she needed emotional support	teenager
+male	The teenager was honest because he needed emotional	teenager
+neutral	The teenager was honest because they needed emotional support	teenager
+female	The undergraduate presented a petition that she had	undergraduate
+male	The undergraduate presented a petition that he	undergraduate
+neutral	The undergraduate presented a petition that they had	undergraduate
+female	The administrator received a petition that she had	administrator
+male	The administrator received a petition that he	administrator
+neutral	The administrator received a petition that they had	administrator
+female	the salesperson	salesperson
+male	the salesperson	salesperson
+neutral	the salesperson	salesperson
+female	The customer	customer
+male	The customer	customer
+neutral	The customer asked if they could get an	customer
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	The visitor asked if they needed to sign	visitor
+female	the receptionist	receptionist
+male	the receptionist	receptionist
+neutral	the receptionist	receptionist
+female	The child	child
+male	The child	child
+neutral	The child was helped to pick out a	child
+female	The librarian	librarian
+male	The librarian	librarian
+neutral	The librarian picked out books because they liked to	librarian
+female	The advisee	advisee
+male	The advisee	advisee
+neutral	The advisee	advisee
+female	The advisor	advisor
+male	The advisor	advisor
+neutral	The advisor had a meeting because they wanted	advisor
+female	the patient	patient
+male	the patient	patient
+neutral	The patient was told that they should take the	patient
+female	the pharmacist	pharmacist
+male	the pharmacist	pharmacist
+neutral	the pharmacist	pharmacist
+female	the child	child
+male	The child	child
+neutral	The child was warned not to step on the	child
+female	the janitor	janitor
+male	The janitor	janitor
+neutral	The janitor said not to step	janitor
+female	The psychologist	psychologist
+male	The psychologist	psychologist
+neutral	The psychologist had a questionnaire so they could	psychologist
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	The patient was told that she needed to get	patient
+male	The patient	patient
+neutral	The patient was told that they needed to get	patient
+female	The physician said that she could not safely prescribe	physician
+male	The physician said that he could not safely	physician
+neutral	The physician said that they could not safely prescribe	physician
+female	the onlooker	onlooker
+male	onlooker	onlooker
+neutral	The onlooker was told that they needed	onlooker
+female	the carpenter	carpenter
+male	the carpenter	carpenter
+neutral	the carpenter	carpenter
+female	her	nurse
+male	his	nurse
+neutral	their	nurse
+female	her	patient
+male	his	patient
+neutral	their	patient
+female	the witness	witness
+male	The witness needed to be interviewed, but 	witness
+neutral	The witness needed to be interviewed, but they	witness
+female	The investigator	investigator
+male	The investigator	investigator
+neutral	The investigator wanted to hold an interview, but	investigator
+female	the customer	customer
+male	the customer	customer
+neutral	The customer	customer
+female	the bartender	bartender
+male	The bartender	bartender
+neutral	The bartender	bartender
+female	The patient got a referral because she had	patient
+male	The patient got a referral because he	patient
+neutral	The patient got a referral because they had	patient
+female	The specialist was recommended because she had knowledge of	specialist
+male	The specialist was recommended because he had knowledge	specialist
+neutral	The specialist was recommended because they had knowledge of	specialist
+female	The homeowner was warned not to try re	homeowner
+male	his	homeowner
+neutral	The homeowner was warned not to try re	homeowner
+female	the electrician	electrician
+male	the electrician	electrician
+neutral	The electrician said that they might need an extra	electrician
+female	the officer	officer
+male	The officer	officer
+neutral	The officer made an arrest even though they had	officer
+female	the protester	protester
+male	The protester	protester
+neutral	The protester was arrested even though they had	protester
+female	pathologist	pathologist
+male	his	pathologist
+neutral	pathologist	pathologist
+female	the victim	victim
+male	his	victim
+neutral	their	victim
+female	the student	student
+male	the student	student
+neutral	The student	student
+female	the teacher	teacher
+male	the teacher	teacher
+neutral	The teacher	teacher
+female	the witness	witness
+male	the witness	witness
+neutral	the witness	witness
+female	She	lawyer
+male	the lawyer	lawyer
+neutral	the lawyer.	lawyer
+female	her	resident
+male	his	resident
+neutral	their community	resident
+female	her	planner
+male	his	planner
+neutral	their	planner
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The practitioner	practitioner
+male	The practitioner	practitioner
+neutral	The practitioner	practitioner
+female	the plumber	plumber
+male	his	plumber
+neutral	their services	plumber
+female	the homeowner	homeowner
+male	his	homeowner
+neutral	the homeowner	homeowner
+female	the instructor	instructor
+male	his	instructor
+neutral	help sessions.	instructor
+female	her	student
+male	his dreams	student
+neutral	dreams	student
+female	The child	child
+male	his	child
+neutral	their	child
+female	her	surgeon
+male	his	surgeon
+neutral	their	surgeon
+female	the owner	owner
+male	his	owner
+neutral	The owner was informed that their cat had developed	owner
+female	Mittens	veterinarian
+male	Mittens	veterinarian
+neutral	The veterinarian said that they could admit Mitten	veterinarian
+female	the paramedic	paramedic
+male	The paramedic	paramedic
+neutral	The paramedic performed CPR even though	paramedic
+female	the passenger	passenger
+male	the passenger	passenger
+neutral	the passenger	passenger
+female	the victim	victim
+male	The body of the victim was inspected to	victim
+neutral	the victim	victim
+female	The examiner	examiner
+male	The examiner	examiner
+neutral	The examiner tried to determine a cause	examiner
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	the visitor	visitor
+female	the chemist	chemist
+male	the chemist	chemist
+neutral	the chemist	chemist
+female	her	child
+male	the child	child
+neutral	The child	child
+female	the machinist	machinist
+male	the machinist	machinist
+neutral	the machinist and the laser cutter	machinist
+female	the buyer	buyer
+male	the buyer	buyer
+neutral	the buyer	buyer
+female	the person who appraised the painting.	appraiser
+male	the appraiser	appraiser
+neutral	the painting	appraiser
+female	The patient was told that cutting down on sugar	patient
+male	his	patient
+neutral	The patient was told that cutting down on sugar	patient
+female	The nutritionist	nutritionist
+male	his	nutritionist
+neutral	their	nutritionist
+female	her	student
+male	his	student
+neutral	their	student
+female	her	architect
+male	his	architect
+neutral	blueprints	architect
+female	The hairdresser	hairdresser
+male	The hairdresser	hairdresser
+neutral	The hairdresser	hairdresser
+female	The client	client
+male	The client	client
+neutral	The client received a new shampoo recommendation because	client
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the baker	baker
+male	the baker	baker
+neutral	the baker	baker
+female	The programmer	programmer
+male	The programmer	programmer
+neutral	The programmer volunteered to teach coding	programmer
+female	The student had to learn to code because she	student
+male	The student had to learn to code because 	student
+neutral	The student had to learn to code because they	student
+female	The paralegal forgot to file paperwork so she	paralegal
+male	The paralegal forgot to file paperwork so 	paralegal
+neutral	The paralegal forgot to file paperwork so they	paralegal
+female	the client.	client
+male	The client was fed up so he went	client
+neutral	The client was fed up so they went to	client
+female	The patient was told that she needed to floss	patient
+male	the patient	patient
+neutral	The patient was told that they needed to floss	patient
+female	the hygienist	hygienist
+male	the hygienist	hygienist
+neutral	The hygienist said that	hygienist
+female	The scientist	scientist
+male	The scientist	scientist
+neutral	The scientist wrote a job posting because they	scientist
+female	The undergraduate applied for a research job because	undergraduate
+male	The undergraduate applied for a research job because	undergraduate
+neutral	The undergraduate applied for a research job because	undergraduate
+female	the dispatcher	dispatcher
+male	911 dispatcher	dispatcher
+neutral	the dispatcher	dispatcher
+female	the bystander	bystander
+male	bystander	bystander
+neutral	The bystander called 911 and was told	bystander
+female	the customer	customer
+male	the customer	customer
+neutral	The customer	customer
+female	the cashier	cashier
+male	the cashier	cashier
+neutral	The cashier said that they couldn't	cashier
+female	The auditor	auditor
+male	The auditor	auditor
+neutral	The auditor asked for records for them to scrutin	auditor
+female	her	taxpayer
+male	his	taxpayer
+neutral	their	taxpayer
+female	the dietitian	dietitian
+male	the dietitian	dietitian
+neutral	everyone	dietitian
+female	The client	client
+male	the client	client
+neutral	The client	client
+female	the painter	painter
+male	the painter	painter
+neutral	The painter sold an entire collection of paintings	painter
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	The broker called because she had new stocks to	broker
+male	The broker called because he had new stocks	broker
+neutral	The broker called because they had new stocks to	broker
+female	the client	client
+male	The client	client
+neutral	The client	client
+female	The guest wanted an apology for her dinner.	guest
+male	the guest's dinner	guest
+neutral	The guest wanted an apology for their dinner.	guest
+female	The chef came out to apologize for her preparation	chef
+male	his	chef
+neutral	The chef came out to apologize for their preparation	chef
+female	The patient was told that she would be at	patient
+male	The patient was told that he would be	patient
+neutral	The patient was told that they would be at	patient
+female	the doctor	doctor
+male	The doctor	doctor
+neutral	The doctor said that they would be on vacation	doctor
+female	the child	child
+male	the child	child
+neutral	The child had to be rescued from the	child
+female	The firefighter	firefighter
+male	The firefighter	firefighter
+neutral	The firefighter had to enter the burning	firefighter
+female	The secretary said to sign in so that she	secretary
+male	The secretary said to sign in so that 	secretary
+neutral	The secretary said to sign in so that they	secretary
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	visitors	visitor

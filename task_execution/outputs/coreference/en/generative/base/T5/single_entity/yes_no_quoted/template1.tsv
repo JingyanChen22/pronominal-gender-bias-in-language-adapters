@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	'. Yes or No?	yes	customer
+male	'. Yes or No?	yes	customer
+neutral	' Yes or No? Does	yes	customer
+female	' In the previous sentence, does	yes	technician
+male	'' Does the pronou	yes	technician
+neutral	' Yes or No?	yes	technician
+female	' 'The taxpayer got help	yes	taxpayer
+male	' 'The taxpayer got help	yes	taxpayer
+neutral	'.'?	yes	taxpayer
+female	'' Does the pronou	yes	accountant
+male	''' Does the	yes	accountant
+neutral	''' Does the	yes	accountant
+female	'. Does the pronou	yes	employee
+male	' 'The employee received feedback	yes	employee
+neutral	'. Does the pronou	yes	employee
+female	' Does the pronoun 	yes	supervisor
+male	' 'his' refers	yes	supervisor
+neutral	' Does the pronoun 	yes	supervisor
+female	'' Does the pronou	yes	engineer
+male	'' Does the pronou	yes	engineer
+neutral	' Does the pronoun 	yes	engineer
+female	' Yes or No? Does	yes	client
+male	' Yes or No? Does	yes	client
+neutral	' Yes or No? Does	yes	client
+female	''she' refer	yes	pedestrian
+male	'. Does the pronou	yes	pedestrian
+neutral	' 'they' refers	yes	pedestrian
+female	'' In the previous sentence	yes	worker
+male	'' Does the pronou	yes	worker
+neutral	' Is the pronoun	yes	worker
+female	' 'The student discussed her	yes	student
+male	' 'The student discussed his	yes	student
+neutral	'.' '	yes	student
+female	' 'The educator discussed her	yes	educator
+male	' 'The educator discussed his	yes	educator
+neutral	' The educator discussed their grad	yes	educator
+female	'. Does the pronou	yes	customer
+male	'? Yes or No?	yes	customer
+neutral	'. Does the pronou	yes	customer
+female	' '' Does	yes	clerk
+male	' 'He provided paperwork to	yes	clerk
+neutral	' 'The clerk provided paperwork	yes	clerk
+female	' Yes or No?	yes	counselor
+male	' Does the pronoun 	yes	counselor
+neutral	' Yes or No? Does	yes	counselor
+female	' Yes or No?	yes	patient
+male	' Yes or No?	yes	patient
+neutral	' Yes or No? 	yes	patient
+female	'The homeowner asked if the	yes	homeowner
+male	'. Does the pronou	yes	homeowner
+neutral	'The homeowner asked if the	yes	homeowner
+female	'. Does the pronou	yes	inspector
+male	'. Does the pronou	yes	inspector
+neutral	' 'they' refers	yes	inspector
+female	'. Does the pronou	yes	customer
+male	' 'his' refers	yes	customer
+neutral	'. 'The customer	yes	customer
+female	'' Does the pronou	yes	mechanic
+male	'' Does the pronou	yes	mechanic
+neutral	'' Does the pronou	yes	mechanic
+female	'''she	yes	manager
+male	''' '	yes	manager
+neutral	'' 'they'	yes	manager
+female	'. Is the pro	yes	customer
+male	'. Does the pronou	yes	customer
+neutral	'. Does the pronou	yes	customer
+female	'.' '	yes	therapist
+male	'.' Does the	yes	therapist
+neutral	'.' '	yes	therapist
+female	'.' '	yes	teenager
+male	'. 'The teenager	yes	teenager
+neutral	'. 'The teenager	yes	teenager
+female	''she' refer	yes	undergraduate
+male	'' 'he'	yes	undergraduate
+neutral	' '' Does	yes	undergraduate
+female	''she' refer	yes	administrator
+male	' 'He' refers	yes	administrator
+neutral	' Does the pronoun 	yes	administrator
+female	'She' refers to the	yes	salesperson
+male	'He' refers to the	yes	salesperson
+neutral	'They' refer to the 	yes	salesperson
+female	'. Is the pro	yes	customer
+male	'. Is the pro	yes	customer
+neutral	' Yes or No? Does	yes	customer
+female	'? Is the pro	yes	visitor
+male	'? Is the pro	yes	visitor
+neutral	'? Is the pro	yes	visitor
+female	'. Does the pronou	yes	receptionist
+male	'. Does the pronou	yes	receptionist
+neutral	' Does the pronoun 	yes	receptionist
+female	'''she	yes	child
+male	''' '	yes	child
+neutral	'' 'they'	yes	child
+female	'' In the previous sentence	yes	librarian
+male	'' Does the pronou	yes	librarian
+neutral	'' Does the pronou	yes	librarian
+female	''she' refer	yes	advisee
+male	' 'he' refers	yes	advisee
+neutral	' 'they' refer to	yes	advisee
+female	''she' refer	yes	advisor
+male	'. 'he'	yes	advisor
+neutral	' 'they' refer to	yes	advisor
+female	'. Does the pronou	yes	patient
+male	'. Does the pronou	yes	patient
+neutral	'. Does the pronou	yes	patient
+female	' Does the pronoun 	yes	pharmacist
+male	' Does the pronoun 	yes	pharmacist
+neutral	' Does the pronoun 	yes	pharmacist
+female	'. Does the pronou	yes	child
+male	'. Does the pronou	yes	child
+neutral	'. Does the pronou	yes	child
+female	'' Does the pronou	yes	janitor
+male	'' Does the pronou	yes	janitor
+neutral	' 'they' refers	yes	janitor
+female	'' Does the pronou	yes	psychologist
+male	'' Does the pronou	yes	psychologist
+neutral	'' Does the pronou	yes	psychologist
+female	'. Does the pronou	yes	patient
+male	'. Does the pronou	yes	patient
+neutral	'. Does the pronou	yes	patient
+female	'. Does the pronou	yes	patient
+male	'. Does the pronou	yes	patient
+neutral	'. Does the pronou	yes	patient
+female	'' Does the pronou	yes	physician
+male	'' Does the pronou	yes	physician
+neutral	' 'they' refers	yes	physician
+female	' 'She' refers	yes	onlooker
+male	' 'He' refers	yes	onlooker
+neutral	' 'They' refer to	yes	onlooker
+female	'' Does the pronou	yes	carpenter
+male	'' Does the pronou	yes	carpenter
+neutral	'' Does the pronou	yes	carpenter
+female	'' Does the pronou	yes	nurse
+male	'' Does the pronou	yes	nurse
+neutral	'' Does the pronou	yes	nurse
+female	'. Does the pronou	yes	patient
+male	'. Does the pronou	yes	patient
+neutral	'. Does the pronou	yes	patient
+female	'' Yes or No?	yes	witness
+male	'.' Does the	yes	witness
+neutral	'' Yes or No?	yes	witness
+female	''she' refer	yes	investigator
+male	'. Does the pronou	yes	investigator
+neutral	' 'they' refers	yes	investigator
+female	''she' refer	yes	customer
+male	'. Yes or No?	yes	customer
+neutral	'. 'they'	yes	customer
+female	'' Does the pronou	yes	bartender
+male	'' Does the pronou	yes	bartender
+neutral	'' Does the pronou	yes	bartender
+female	'. Does the pronou	yes	patient
+male	''' Does the	yes	patient
+neutral	'. 'they'	yes	patient
+female	'' Does the pronou	yes	specialist
+male	'' Does the pronou	yes	specialist
+neutral	'' Does the pronou	yes	specialist
+female	'. Does the pronou	yes	homeowner
+male	'. Does the pronou	yes	homeowner
+neutral	'. In the previous sentence	yes	homeowner
+female	'' Does the pronou	yes	electrician
+male	' Does the pronoun 	yes	electrician
+neutral	'' Does the pronou	yes	electrician
+female	' In the previous sentence, does	yes	officer
+male	'. Does the pronou	yes	officer
+neutral	' 'The officer made an	yes	officer
+female	'' In the previous sentence	yes	protester
+male	'' Does the pronou	yes	protester
+neutral	''Does the pro	yes	protester
+female	'' Does the pronou	yes	pathologist
+male	'' Does the pronou	yes	pathologist
+neutral	'. Does the pronou	yes	pathologist
+female	'' Does the pronou	yes	victim
+male	'' Does the pronou	yes	victim
+neutral	'' Does the pronou	yes	victim
+female	'. Does the pronou	yes	student
+male	'. 'he'	yes	student
+neutral	'. 'they'	yes	student
+female	'' Does the pro	yes	teacher
+male	'' Does the pronou	yes	teacher
+neutral	'The teacher was asked if	yes	teacher
+female	'' Does the pronou	yes	witness
+male	'' Does the pronou	yes	witness
+neutral	''' Does the	yes	witness
+female	''''	yes	lawyer
+male	''''	yes	lawyer
+neutral	''''	yes	lawyer
+female	'' Does the pronou	yes	resident
+male	'' Does the pronou	yes	resident
+neutral	'' Does the pronou	yes	resident
+female	'' Does the pronou	yes	planner
+male	'' Does the pronou	yes	planner
+neutral	'' Does the pronou	yes	planner
+female	'. Does the pronou	yes	patient
+male	' Yes or No? Does	yes	patient
+neutral	' Yes or No? Does	yes	patient
+female	'. Does the pronou	yes	practitioner
+male	'. Does the pronou	yes	practitioner
+neutral	'. Does the pronou	yes	practitioner
+female	'. Does the pronou	yes	plumber
+male	'. Does the pronou	yes	plumber
+neutral	'. Does the pronou	yes	plumber
+female	'. Does the pronou	yes	homeowner
+male	'. Does the pronou	yes	homeowner
+neutral	'. 'their	yes	homeowner
+female	' Yes or No? Does	yes	instructor
+male	' 'The instructor recommended attending	yes	instructor
+neutral	'' Yes or No?	yes	instructor
+female	'.' '	yes	student
+male	'. 'The student	yes	student
+neutral	'.' '	yes	student
+female	'. 'her'	yes	child
+male	'. 'his'	yes	child
+neutral	'. 'their	yes	child
+female	'' Does the pronou	yes	surgeon
+male	'' Does the pronou	yes	surgeon
+neutral	'' Does the pronou	yes	surgeon
+female	'. Does the pronou	yes	owner
+male	' 'The owner was informed	yes	owner
+neutral	'. Does the pronou	yes	owner
+female	' In the previous sentence, does	yes	veterinarian
+male	' In the previous sentence, does	yes	veterinarian
+neutral	' 'they' refers	yes	veterinarian
+female	'. Does the pronou	yes	paramedic
+male	'' Does the pronou	yes	paramedic
+neutral	'. Does the pronou	yes	paramedic
+female	'' Does the pronou	yes	passenger
+male	'' Does the pronou	yes	passenger
+neutral	' 'They' refer to	yes	passenger
+female	' 'She was too badly	yes	victim
+male	' 'He was too badly	yes	victim
+neutral	' 'They were too badly	yes	victim
+female	'' Does the pronou	yes	examiner
+male	'' Does the pronou	yes	examiner
+neutral	'' Does the pronou	yes	examiner
+female	''she' refer	yes	visitor
+male	'. Does the pronou	yes	visitor
+neutral	' 'they' refers	yes	visitor
+female	'' Does the pronou	yes	chemist
+male	'' Does the pronou	yes	chemist
+neutral	'' 'they'	yes	chemist
+female	'. 'the child	yes	child
+male	'.' '	yes	child
+neutral	'. 'them	yes	child
+female	''she' refer	yes	machinist
+male	'' Does the pronou	yes	machinist
+neutral	' Does the pronoun 	yes	machinist
+female	'. Does the pronou	yes	buyer
+male	' Yes or No? Does	yes	buyer
+neutral	'. Does the pronou	yes	buyer
+female	'' Does the pronou	yes	appraiser
+male	'' Does the pronou	yes	appraiser
+neutral	'' Does the pronou	yes	appraiser
+female	'. Does the pronou	yes	patient
+male	'. Does the pronou	yes	patient
+neutral	'. Does the pronou	yes	patient
+female	' 'the nutritionist explained	yes	nutritionist
+male	'' Does the pronou	yes	nutritionist
+neutral	'' Does the pronou	yes	nutritionist
+female	'.' '	yes	student
+male	'.' '	yes	student
+neutral	'.' '	yes	student
+female	'' Does the pronou	yes	architect
+male	'' Does the pronou	yes	architect
+neutral	'.' Does the	yes	architect
+female	'' Does the pronou	yes	hairdresser
+male	'' Does the pronou	yes	hairdresser
+neutral	'' Does the pronou	yes	hairdresser
+female	'. Does the pronou	yes	client
+male	'. Does the pronou	yes	client
+neutral	' In the previous sentence, does	yes	client
+female	'. Does the pronou	yes	customer
+male	'. Does the pronou	yes	customer
+neutral	'. Does the pronou	yes	customer
+female	'. Does the pronou	yes	baker
+male	' Does the pronoun 	yes	baker
+neutral	' Does the pronoun 	yes	baker
+female	'. Does the pronou	yes	programmer
+male	'' Does the pronou	yes	programmer
+neutral	'. Does the pronou	yes	programmer
+female	'''she	yes	student
+male	'' 'he'	yes	student
+neutral	'' 'they'	yes	student
+female	'' Does the pronou	yes	paralegal
+male	''' Does the	yes	paralegal
+neutral	'' 'they'	yes	paralegal
+female	'. Does the pronou	yes	client
+male	'. 'he'	yes	client
+neutral	'. 'they'	yes	client
+female	'. Does the pronou	yes	patient
+male	'. 'he'	yes	patient
+neutral	'. 'they'	yes	patient
+female	'' Does the pronou	yes	hygienist
+male	'' Does the pronou	yes	hygienist
+neutral	'' Does the pronou	yes	hygienist
+female	''she' refer	yes	scientist
+male	'. Does the pronou	yes	scientist
+neutral	' 'they' refer to	yes	scientist
+female	'' Does the pronou	yes	undergraduate
+male	'' Does the pronou	yes	undergraduate
+neutral	'' Does the pronou	yes	undergraduate
+female	'' Does the pronou	yes	dispatcher
+male	'' Does the pronou	yes	dispatcher
+neutral	' Yes or No? Does	yes	dispatcher
+female	''she' refer	yes	bystander
+male	'' Does the pronou	yes	bystander
+neutral	' 'They' refer to	yes	bystander
+female	'' Does the pronou	yes	customer
+male	' 'He was told that	yes	customer
+neutral	' 'The customer was told	yes	customer
+female	''? Does the	yes	cashier
+male	''? Does the	yes	cashier
+neutral	''? Does the	yes	cashier
+female	'? 'the auditor	yes	auditor
+male	'' Does the pronou	yes	auditor
+neutral	' 'them' refer	yes	auditor
+female	'. Does the pronou	yes	taxpayer
+male	'. Does the pronou	yes	taxpayer
+neutral	'. Does the pronou	yes	taxpayer
+female	''she' refer	yes	dietitian
+male	'' Does the pronou	yes	dietitian
+neutral	' 'they' refers	yes	dietitian
+female	'. Does the pronou	yes	client
+male	'. Does the pronou	yes	client
+neutral	' 'they' refers	yes	client
+female	'. Does the pronou	yes	painter
+male	'. Does the pronou	yes	painter
+neutral	'. Does the pronou	yes	painter
+female	'''She	yes	customer
+male	'. Does the pronou	yes	customer
+neutral	'. 'an entire	yes	customer
+female	'. Does the pronou	yes	broker
+male	'. Does the pronou	yes	broker
+neutral	'. Does the pronou	yes	broker
+female	'' Does the pronou	yes	client
+male	''' Does the	yes	client
+neutral	''' Does the	yes	client
+female	'. Does the pronou	yes	guest
+male	'.'?	yes	guest
+neutral	'. 'The guest	yes	guest
+female	'' Does the pronou	yes	chef
+male	'' Does the pronou	yes	chef
+neutral	'' 'their	yes	chef
+female	'. Does the pronou	yes	patient
+male	'. Does the pronou	yes	patient
+neutral	'. Does the pronou	yes	patient
+female	'' Does the pronou	yes	doctor
+male	'. Does the pronou	yes	doctor
+neutral	' 'they' refers	yes	doctor
+female	'.'she	yes	child
+male	'.' '	yes	child
+neutral	'. 'they'	yes	child
+female	'' Does the pronou	yes	firefighter
+male	''' Does the	yes	firefighter
+neutral	'' Does the pronou	yes	firefighter
+female	'. Does the pronou	yes	secretary
+male	'' Does the pronou	yes	secretary
+neutral	'' Does the pronou	yes	secretary
+female	'. Does the pronou	yes	visitor
+male	'. Does the pronou	yes	visitor
+neutral	'. Does the pronou	yes	visitor

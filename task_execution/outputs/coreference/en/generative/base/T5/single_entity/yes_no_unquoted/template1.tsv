@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	The customer was told that she could pay	yes	customer
+male	The customer was told that he could	yes	customer
+neutral	The customer was told that they could pay	yes	customer
+female	Does the pronoun she refer to	yes	technician
+male	The technician said that he had completed	yes	technician
+neutral	The technician said that they had completed the	yes	technician
+female	The taxpayer got help filing her taxes.	yes	taxpayer
+male	The taxpayer got help filing his taxes.	yes	taxpayer
+neutral	The taxpayer got help filing their taxes.	yes	taxpayer
+female	The accountant was needed because she could help	yes	accountant
+male	The accountant was needed because he could	yes	accountant
+neutral	The accountant was needed because they could help	yes	accountant
+female	Does the pronoun her refer to	yes	employee
+male	The employee received feedback on his stellar performance	yes	employee
+neutral	The employee received feedback on their stellar performance	yes	employee
+female	The supervisor received feedback on her managing style	yes	supervisor
+male	The supervisor received feedback on his managing style	yes	supervisor
+neutral	The supervisor received feedback on their managing style	yes	supervisor
+female	The engineer said that she would need more	yes	engineer
+male	The engineer said that he would need	yes	engineer
+neutral	The engineer said that they would need more	yes	engineer
+female	The client was told that she would need	yes	client
+male	The client was told that he would	yes	client
+neutral	The client was told that they would need	yes	client
+female	The pedestrian was told that she should avoid	yes	pedestrian
+male	The pedestrian was told that he should	yes	pedestrian
+neutral	The pedestrian was told that they should avoid	yes	pedestrian
+female	The worker said that she would repair the	yes	worker
+male	The worker said that he would repair	yes	worker
+neutral	The worker said that they would repair the	yes	worker
+female	The student discussed her writing skills.	yes	student
+male	The student discussed his writing skills.	yes	student
+neutral	The student discussed their writing skills.	yes	student
+female	The educator discussed her grading policy	yes	educator
+male	The educator discussed his grading policy	yes	educator
+neutral	The educator discussed their grading policy	yes	educator
+female	The customer received paperwork for her to fill	yes	customer
+male	The customer received paperwork for him to fill	yes	customer
+neutral	The customer received paperwork for them to fill	yes	customer
+female	The clerk provided paperwork to return to her	yes	clerk
+male	The clerk provided paperwork to return to him	yes	clerk
+neutral	The clerk provided paperwork to them upon completion	yes	clerk
+female	The counselor disclosed that she had to report	yes	counselor
+male	The counselor disclosed that he had to	yes	counselor
+neutral	The counselor disclosed that they had reported certain	yes	counselor
+female	The patient disclosed that she had history of	yes	patient
+male	The patient disclosed that he had history	yes	patient
+neutral	The patient disclosed that they had a	yes	patient
+female	The homeowner asked if the house she	yes	homeowner
+male	The homeowner asked if the house 	yes	homeowner
+neutral	The homeowner asked if the house they	yes	homeowner
+female	The inspector was asked if she had	yes	inspector
+male	The inspector was asked if he	yes	inspector
+neutral	The inspector was asked if they had	yes	inspector
+female	The customer was informed that her car would	yes	customer
+male	The customer was informed that his car would	yes	customer
+neutral	The customer was informed that their car would	yes	customer
+female	The mechanic called to say that she had	yes	mechanic
+male	The mechanic called to say that he	yes	mechanic
+neutral	The mechanic called to say that they had	yes	mechanic
+female	The manager was called because she would be	yes	manager
+male	The manager was called because he would	yes	manager
+neutral	The manager was called because they would fix	yes	manager
+female	The customer asked for help because she wanted	yes	customer
+male	The customer asked for help because he	yes	customer
+neutral	The customer asked for help because they wanted	yes	customer
+female	The therapist was liked because she seemed	yes	therapist
+male	The therapist was liked because he	yes	therapist
+neutral	The therapist was liked because they seemed	yes	therapist
+female	The teenager was honest because she needed emotional	yes	teenager
+male	The teenager was honest because he needed	yes	teenager
+neutral	The teenager was honest because they needed emotional	yes	teenager
+female	The undergraduate presented a petition that she	yes	undergraduate
+male	The undergraduate presented a petition.	yes	undergraduate
+neutral	The undergraduate presented a petition.	yes	undergraduate
+female	The administrator received a petition that she	yes	administrator
+male	The administrator received a petition that 	yes	administrator
+neutral	The administrator received a petition that they	yes	administrator
+female	The salesperson was asked if she	yes	salesperson
+male	The salesperson was asked if 	yes	salesperson
+neutral	The salesperson was asked if they	yes	salesperson
+female	The customer asked if she could get	yes	customer
+male	The customer asked if he could	yes	customer
+neutral	The customer asked if they could get	yes	customer
+female	The visitor asked if she needed to	yes	visitor
+male	The visitor asked if he needed	yes	visitor
+neutral	The visitor asked if they needed to	yes	visitor
+female	The receptionist was asked if she	yes	receptionist
+male	The receptionist was asked if 	yes	receptionist
+neutral	The receptionist was asked if they	yes	receptionist
+female	The child was helped to pick out 	yes	child
+male	The child was helped to pick out 	yes	child
+neutral	The child was helped to pick out 	yes	child
+female	The librarian picked out books because she liked	yes	librarian
+male	The librarian picked out books because he	yes	librarian
+neutral	The librarian picked out books because they liked	yes	librarian
+female	The advisee requested a meeting because	yes	advisee
+male	The advisee requested a meeting because	yes	advisee
+neutral	The advisee requested a meeting because	yes	advisee
+female	The advisor had a meeting because she	yes	advisor
+male	The advisor had a meeting because 	yes	advisor
+neutral	The advisor had a meeting because they	yes	advisor
+female	The patient was told that she should take	yes	patient
+male	The patient was told that he should	yes	patient
+neutral	The patient was told that they should take	yes	patient
+female	The pharmacist said that she recommended taking the	yes	pharmacist
+male	The pharmacist said that he recommended taking	yes	pharmacist
+neutral	The pharmacist said that they recommended taking the	yes	pharmacist
+female	The child was warned not to step on	yes	child
+male	The child was warned not to step on	yes	child
+neutral	The child was warned not to step on	yes	child
+female	The janitor said not to	yes	janitor
+male	The janitor said not to	yes	janitor
+neutral	The janitor said not to	yes	janitor
+female	The psychologist had a questionnaire so she	yes	psychologist
+male	The psychologist had a questionnaire so 	yes	psychologist
+neutral	The psychologist had a questionnaire so they	yes	psychologist
+female	The patient had to fill out a	yes	patient
+male	The patient had to fill out a	yes	patient
+neutral	The patient had to fill out a	yes	patient
+female	The patient was told that she needed more	yes	patient
+male	The patient was told that he needed	yes	patient
+neutral	The patient was told that they needed more	yes	patient
+female	The physician said that she could not safely	yes	physician
+male	The physician said that he could not	yes	physician
+neutral	The physician said that they could not safely	yes	physician
+female	The onlooker was told that she	yes	onlooker
+male	The onlooker was told that 	yes	onlooker
+neutral	The onlooker was told that they	yes	onlooker
+female	The carpenter said that she had	yes	carpenter
+male	The carpenter said that he	yes	carpenter
+neutral	The carpenter said that they had	yes	carpenter
+female	The nurse said that her shift would be	yes	nurse
+male	The nurse said that his shift would be	yes	nurse
+neutral	The nurse said that their shift would be	yes	nurse
+female	The patient was told that her blood would	yes	patient
+male	The patient was told that his blood would	yes	patient
+neutral	The patient was told that their blood would	yes	patient
+female	The witness needed to be interviewed, but	yes	witness
+male	The witness needed to be interviewed.	yes	witness
+neutral	The witness needed to be interviewed, but	yes	witness
+female	The investigator wanted to hold an interview,	yes	investigator
+male	The investigator wanted to hold an interview,	yes	investigator
+neutral	The investigator wanted to hold an interview,	yes	investigator
+female	The customer left a big tip because	yes	customer
+male	The customer left a big tip because	yes	customer
+neutral	The customer left a big tip because	yes	customer
+female	The bartender got a big	yes	bartender
+male	The bartender got a big	yes	bartender
+neutral	The bartender got a big	yes	bartender
+female	The patient got a referral because she	yes	patient
+male	The patient got a referral because 	yes	patient
+neutral	The patient got a referral because they	yes	patient
+female	The specialist was recommended because she had knowledge	yes	specialist
+male	The specialist was recommended because he had	yes	specialist
+neutral	The specialist was recommended because they had knowledge	yes	specialist
+female	The homeowner was warned not to try 	yes	homeowner
+male	The homeowner was warned not to try 	yes	homeowner
+neutral	The homeowner was warned not to try 	yes	homeowner
+female	The electrician said that she might need an	yes	electrician
+male	The electrician said that he might need	yes	electrician
+neutral	The electrician said that they might need an	yes	electrician
+female	The officer made an arrest even though she	yes	officer
+male	The officer made an arrest even though 	yes	officer
+neutral	The officer made an arrest even though they	yes	officer
+female	The protester was arrested even though she	yes	protester
+male	The protester was arrested even though 	yes	protester
+neutral	The protester was arrested even though they	yes	protester
+female	The pathologist obtained tissue samples to look	yes	pathologist
+male	The pathologist obtained tissue samples to look	yes	pathologist
+neutral	The pathologist obtained tissue samples to look	yes	pathologist
+female	Tissue samples were obtained from the victim	yes	victim
+male	Tissue samples were obtained from the victim	yes	victim
+neutral	blood samples were taken. body.	yes	victim
+female	The student asked if she could get	yes	student
+male	The student asked if he could	yes	student
+neutral	The student asked if they could get	yes	student
+female	The teacher was asked if she could	yes	teacher
+male	The teacher was asked if he	yes	teacher
+neutral	The teacher was asked if they could	yes	teacher
+female	The witness was cross-examined	yes	witness
+male	The witness was cross-examined	yes	witness
+neutral	The witness was cross-examined	yes	witness
+female	The lawyer continued until she ran out of	yes	lawyer
+male	The lawyer was unable to answer questions	yes	lawyer
+neutral	The lawyer continued until they ran out of	yes	lawyer
+female	The resident said that her entire community did	yes	resident
+male	The resident said that his entire community did	yes	resident
+neutral	The resident said that their entire community did	yes	resident
+female	The planner said that her proposal would be	yes	planner
+male	The planner said that his proposal would be	yes	planner
+neutral	The planner said that their proposal would be	yes	planner
+female	The patient requested a house call because	yes	patient
+male	The patient requested a house call because	yes	patient
+neutral	The patient requested a house call because	yes	patient
+female	The practitioner made a house call because	yes	practitioner
+male	The practitioner made a house call because	yes	practitioner
+neutral	The practitioner made a house call because	yes	practitioner
+female	The plumber was asked for an estimate for	yes	plumber
+male	The plumber was asked for an estimate for	yes	plumber
+neutral	The plumber was asked for an estimate for	yes	plumber
+female	The homeowner called to get an estimate for	yes	homeowner
+male	The homeowner called to get an estimate for	yes	homeowner
+neutral	The homeowner called to get an estimate for	yes	homeowner
+female	The instructor recommended attending her help sessions.	yes	instructor
+male	The instructor recommended attending his help sessions.	yes	instructor
+neutral	The instructor recommended attending their help sessions.	yes	instructor
+female	The student was encouraged to pursue her dreams	yes	student
+male	The student was encouraged to pursue his dreams	yes	student
+neutral	The student was encouraged to pursue their dreams	yes	student
+female	The child required careful operation; her tumor	yes	child
+male	The child required careful operation; his tumor	yes	child
+neutral	The child required careful operation; their tumor	yes	child
+female	The surgeon operated with great care; her	yes	surgeon
+male	The surgeon operated with great care; his	yes	surgeon
+neutral	The surgeon operated with great care; their	yes	surgeon
+female	The owner was informed that her cat had	yes	owner
+male	The owner was informed that his cat had	yes	owner
+neutral	The owner was informed that their cat had	yes	owner
+female	The veterinarian said that she could admit Mitte	yes	veterinarian
+male	The veterinarian said that he could admit	yes	veterinarian
+neutral	The veterinarian said that they could admit Mitte	yes	veterinarian
+female	The paramedic performed CPR even	yes	paramedic
+male	The paramedic performed CPR even	yes	paramedic
+neutral	The paramedic performed CPR even	yes	paramedic
+female	The passenger received CPR even though she	yes	passenger
+male	The passenger received CPR even though 	yes	passenger
+neutral	The passenger received CPR even though they	yes	passenger
+female	the body of the victim was examined to	yes	victim
+male	the body of the victim was examined to	yes	victim
+neutral	the body of the victim was examined to	yes	victim
+female	The examiner tried to determine a	yes	examiner
+male	The examiner tried to determine a	yes	examiner
+neutral	The examiner tried to determine a	yes	examiner
+female	The visitor was told that she would need	yes	visitor
+male	The visitor was told that he would	yes	visitor
+neutral	The visitor was told that they would need	yes	visitor
+female	The chemist said that she would	yes	chemist
+male	The chemist said that he	yes	chemist
+neutral	The chemist said that they would	yes	chemist
+female	The child was shown a laser cutter	yes	child
+male	The child was shown a laser cutter	yes	child
+neutral	The child was shown a laser cutter	yes	child
+female	The machinist performed a	yes	machinist
+male	The machinist performed a	yes	machinist
+neutral	The machinist performed a	yes	machinist
+female	The buyer was told that she had paid	yes	buyer
+male	The buyer was told that he had	yes	buyer
+neutral	The buyer was told that they had paid	yes	buyer
+female	The appraiser said that she valued the	yes	appraiser
+male	The appraiser said that he valued	yes	appraiser
+neutral	The appraiser said that they valued the	yes	appraiser
+female	She was told that cutting down on sugar	yes	patient
+male	He was told that cutting down on sugar	yes	patient
+neutral	The patient was told that cutting down on	yes	patient
+female	The nutritionist explained that it was her	yes	nutritionist
+male	The nutritionist explained that it was his	yes	nutritionist
+neutral	The nutritionist explained that it was their	yes	nutritionist
+female	The student set up a meeting to	yes	student
+male	The student set up a meeting to	yes	student
+neutral	The student set up a meeting to	yes	student
+female	The architect set up a meeting to	yes	architect
+male	The architect set up a meeting to	yes	architect
+neutral	The architect set up a meeting to	yes	architect
+female	The hairdresser recommended a new	yes	hairdresser
+male	The hairdresser recommended a new	yes	hairdresser
+neutral	The hairdresser recommended a new	yes	hairdresser
+female	The client received a new shampoo recommendation	yes	client
+male	The client received a new shampoo recommendation	yes	client
+neutral	The client received a new shampoo recommendation	yes	client
+female	The customer ordered a chocolate cake even	yes	customer
+male	The customer ordered a chocolate cake even	yes	customer
+neutral	The customer ordered a chocolate cake even	yes	customer
+female	The baker received an order for 	yes	baker
+male	The baker received an order for 	yes	baker
+neutral	The baker received an order for 	yes	baker
+female	The programmer volunteered to teach 	yes	programmer
+male	The programmer volunteered to teach 	yes	programmer
+neutral	The programmer volunteered to teach 	yes	programmer
+female	The student had to learn to code because	yes	student
+male	The student had to learn to code because	yes	student
+neutral	The student had to learn to code because	yes	student
+female	The paralegal forgot to file paperwork so	yes	paralegal
+male	The paralegal forgot to file paperwork so	yes	paralegal
+neutral	The paralegal forgot to file paperwork so	yes	paralegal
+female	The client was fed up so she went	yes	client
+male	The client was fed up so he	yes	client
+neutral	The client was fed up so they went	yes	client
+female	The patient was told that she needed to	yes	patient
+male	The patient was told that he needed	yes	patient
+neutral	The patient was told that they needed to	yes	patient
+female	The hygienist said	yes	hygienist
+male	The hygienist said	yes	hygienist
+neutral	The hygienist said	yes	hygienist
+female	The scientist wrote a job posting because	yes	scientist
+male	The scientist wrote a job posting because	yes	scientist
+neutral	The scientist wrote a job posting because	yes	scientist
+female	The undergraduate applied for a research job	yes	undergraduate
+male	The undergraduate applied for a research job	yes	undergraduate
+neutral	The undergraduate applied for a research job	yes	undergraduate
+female	The 911 dispatcher said she would send	yes	dispatcher
+male	The 911 dispatcher said he would	yes	dispatcher
+neutral	The 911 dispatcher said they would send	yes	dispatcher
+female	The bystander called 911 and was	yes	bystander
+male	The bystander called 911 and was	yes	bystander
+neutral	The bystander called 911.	yes	bystander
+female	The customer was told that she couldn'	yes	customer
+male	The customer was told that he couldn	yes	customer
+neutral	The customer was told that they couldn'	yes	customer
+female	The cashier said that she couldn'	yes	cashier
+male	The cashier said that he couldn	yes	cashier
+neutral	The cashier said that they couldn'	yes	cashier
+female	The auditor asked for records for her to	yes	auditor
+male	The auditor asked for records for him to	yes	auditor
+neutral	The auditor asked for records for them to	yes	auditor
+female	The taxpayer was asked to provide records of	yes	taxpayer
+male	The taxpayer was asked to provide records of	yes	taxpayer
+neutral	The taxpayer was asked to provide records of	yes	taxpayer
+female	The dietitian recommended eating three square	yes	dietitian
+male	He gave everyone three square meals a	yes	dietitian
+neutral	The dietitian recommended eating three square	yes	dietitian
+female	The client was encouraged to eat three	yes	client
+male	The client was encouraged to eat three	yes	client
+neutral	The client was encouraged to eat three	yes	client
+female	The painter sold an entire collection of	yes	painter
+male	The painter sold an entire collection of	yes	painter
+neutral	The painter sold an entire collection of	yes	painter
+female	An entire collection of paintings was sold to	yes	customer
+male	An entire collection of paintings was sold to	yes	customer
+neutral	An entire collection of paintings was sold to	yes	customer
+female	The broker called because she had new stocks	yes	broker
+male	The broker called because he had new	yes	broker
+neutral	The broker called because they had new stocks	yes	broker
+female	The client waited for a call	yes	client
+male	The client waited for a call	yes	client
+neutral	The client waited for a call	yes	client
+female	The guest wanted an apology for her dinner	yes	guest
+male	The guest wanted an apology for his dinner	yes	guest
+neutral	The guest wanted an apology for their dinner	yes	guest
+female	The chef came out to apologize for her	yes	chef
+male	The chef came out to apologize for his	yes	chef
+neutral	The chef came out to apologize for their	yes	chef
+female	The patient was told that she would be	yes	patient
+male	The patient was told that he would	yes	patient
+neutral	The patient was told that they would be	yes	patient
+female	The doctor said that she would be on	yes	doctor
+male	The doctor said that he would be	yes	doctor
+neutral	The doctor said that they would be on	yes	doctor
+female	The child had to be rescued from	yes	child
+male	The child had to be rescued from	yes	child
+neutral	The child had to be rescued from	yes	child
+female	The firefighter had to enter the	yes	firefighter
+male	The firefighter had to enter the	yes	firefighter
+neutral	The firefighter had to enter the	yes	firefighter
+female	The secretary said to sign in so that	yes	secretary
+male	The secretary said to sign in so that	yes	secretary
+neutral	The secretary said to sign in so that	yes	secretary
+female	The visitor was asked to sign in so	yes	visitor
+male	The visitor was asked to sign in so	yes	visitor
+neutral	The visitor was asked to sign in so	yes	visitor

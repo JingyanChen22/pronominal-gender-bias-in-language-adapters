@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	<extra_id_0>她’是指代顾客,	是	顾客
+male	<extra_id_0>否 是顾客的代价	是	顾客
+neutral	<extra_id_0>否‘TA’。  <extra_id_1>‘	是	顾客
+female	<extra_id_0>她’是‘技术员	是	技术员
+male	<extra_id_0>他’是‘技术员	是	技术员
+neutral	<extra_id_0>TA已完成’ - 主页	是	技术员
+female	<extra_id_0>纳税人 纳税人	是	纳税人
+male	<extra_id_0>纳税人 纳税人	是	纳税人
+neutral	<extra_id_0>纳税人寻求申报	是	纳税人
+female	<extra_id_0>否 是她 是她	是	会计
+male	<extra_id_0>他’是指代‘会计	是	会计
+neutral	<extra_id_0>会计 会计 会计  <extra_id_1>会计	是	会计
+female	<extra_id_0>否 是员工的,	是	员工
+male	<extra_id_0>否 是员工的代词	是	员工
+neutral	<extra_id_0>员工的出色表现的	是	员工
+female	<extra_id_0>否 的报告,请	是	主管
+male	<extra_id_0>否的评论,请联系我们	是	主管
+neutral	<extra_id_0>是主管的 - 主管	是	主管
+female	<extra_id_0>工程师说她需要更多项目	是	工程师
+male	<extra_id_0>工程师说他需要更多完成项目	是	工程师
+neutral	<extra_id_0>工程师说TA需要更多完成项目	是	工程师
+female	<extra_id_0>她’ 是代‘她	是	客户
+male	<extra_id_0>他’ 是指代‘	是	客户
+neutral	<extra_id_0>’ 是根据实际情况,	是	客户
+female	<extra_id_0>是她,是她,	是	行人
+male	<extra_id_0>是行人,是行人	是	行人
+neutral	<extra_id_0>是行人被告知被告知	是	行人
+female	<extra_id_0>她’是指代‘工人	是	工人
+male	<extra_id_0>他’是指代‘	是	工人
+neutral	<extra_id_0>‘TA’是指代‘	是	工人
+female	<extra_id_0>否? 学生正在讨论	是	学生
+male	<extra_id_0>否 学生正在 他的_	是	学生
+neutral	<extra_id_0>是学生的 学生是学生	是	学生
+female	<extra_id_0>否 是 她的?	是	教育工作者
+male	<extra_id_0>’是指的一部分,	是	教育工作者
+neutral	<extra_id_0>是或者否是 教育工作者	是	教育工作者
+female	<extra_id_0>否 是 她 是	是	顾客
+male	<extra_id_0>他’是顾客的姓名。	是	顾客
+neutral	<extra_id_0>顾客’的代词。	是	顾客
+female	<extra_id_0>否’是指代‘店员	是	店员
+male	<extra_id_0>’的代词。他’	是	店员
+neutral	<extra_id_0>店员提供了完成后	是	店员
+female	<extra_id_0>咨询师’是代‘	是	咨询师
+male	<extra_id_0>他’是指代‘咨询	是	咨询师
+neutral	<extra_id_0>TA不得不为‘咨询师	是	咨询师
+female	<extra_id_0>她’是指 病人或者	是	病人
+male	<extra_id_0>他’是指 病人	是	病人
+neutral	<extra_id_0>是‘病人’的‘	是	病人
+female	<extra_id_0>否’在“房主”	是	房主
+male	<extra_id_0>他’ 在 《	是	房主
+neutral	<extra_id_0>否 是‘房主’	是	房主
+female	<extra_id_0>否认被查出,	是	检测员
+male	<extra_id_0>否检测 检查员被检查	是	检测员
+neutral	<extra_id_0>是或者否 是或者	是	检测员
+female	<extra_id_0>否是顾客的,	是	顾客
+male	<extra_id_0>否的,是顾客的。	是	顾客
+neutral	<extra_id_0>顾客被通知TA的车	是	顾客
+female	<extra_id_0>否 是机械工	是	机械工
+male	<extra_id_0>否 机械工 - Wikipedia	是	机械工
+neutral	<extra_id_0>否‘TA’。	是	机械工
+female	<extra_id_0>否 是‘经理’	是	经理
+male	<extra_id_0>否 经理是‘他’	是	经理
+neutral	<extra_id_0>是或者否 经理是或者	是	经理
+female	<extra_id_0>否 是‘顾客’	是	顾客
+male	<extra_id_0>他’是指代‘顾客’	是	顾客
+neutral	<extra_id_0>否 是‘TA’	是	顾客
+female	<extra_id_0>她’是指代‘	是	心理咨询师
+male	<extra_id_0>他’是指代‘	是	心理咨询师
+neutral	<extra_id_0>TA’是指代‘心理	是	心理咨询师
+female	<extra_id_0>她’是指代‘她	是	青少年
+male	<extra_id_0>他’是指代‘	是	青少年
+neutral	<extra_id_0>否? 代‘青少年	是	青少年
+female	<extra_id_0>否 本科生 本科	是	本科生
+male	<extra_id_0>本科生提交由他组织	是	本科生
+neutral	<extra_id_0>本科生提交了由组织组织	是	本科生
+female	<extra_id_0>否 是 她 是	是	行政人员
+male	<extra_id_0>否 是 他 否	是	行政人员
+neutral	<extra_id_0>否或者否 是 是	是	行政人员
+female	<extra_id_0>否 是销售员。	是	销售员
+male	<extra_id_0>他’的‘销售员’	是	销售员
+neutral	<extra_id_0>‘销售员’被询问是否还	是	销售员
+female	<extra_id_0>折扣,顾客咨询她	是	顾客
+male	<extra_id_0>折扣,是指代	是	顾客
+neutral	<extra_id_0>否? 顾客咨询	是	顾客
+female	<extra_id_0>否 是来访者	是	来访者
+male	<extra_id_0>否 是他 是他	是	来访者
+neutral	<extra_id_0>否 是来访者	是	来访者
+female	<extra_id_0>否等待时间’ 接待员	是	接待员
+male	<extra_id_0>接待员被问到他能否	是	接待员
+neutral	<extra_id_0>接待员被问到TA’	是	接待员
+female	<extra_id_0>是她’的母语。	是	孩子
+male	<extra_id_0>他’是指代‘他’	是	孩子
+neutral	<extra_id_0>否? 代‘TA’	是	孩子
+female	<extra_id_0>否? 她’是指代	是	图书管理员
+male	<extra_id_0>是他’是指代	是	图书管理员
+neutral	<extra_id_0>否? 是? 是?	是	图书管理员
+female	<extra_id_0>是或者是或者是或者	是	被指导者
+male	<extra_id_0>是或者是或者是或者	是	被指导者
+neutral	<extra_id_0>是被指导者申请的。	是	被指导者
+female	<extra_id_0>是‘导师’ 是‘导师	是	导师
+male	<extra_id_0>是‘导师’ 是‘导师	是	导师
+neutral	<extra_id_0>是‘导师’,是‘导师	是	导师
+female	<extra_id_0>她’是指代‘	是	病人
+male	<extra_id_0>他’是指代病人	是	病人
+neutral	<extra_id_0>否‘TA’。 相关阅读	是	病人
+female	<extra_id_0>否’是她’是指代	是	药剂师
+male	<extra_id_0>他建议一起服用药剂	是	药剂师
+neutral	<extra_id_0>药剂师说TA建议一起服用	是	药剂师
+female	<extra_id_0>否 是她 是她	是	孩子
+male	<extra_id_0>他’是指代‘他	是	孩子
+neutral	<extra_id_0>否或者否 是或者	是	孩子
+female	<extra_id_0>否’在一句中代	是	看门人
+male	<extra_id_0>他’在一句中代	是	看门人
+neutral	<extra_id_0>TA’ 的定义是:	是	看门人
+female	<extra_id_0>否是‘心理医生’	是	心理医生
+male	<extra_id_0>他’是指代‘	是	心理医生
+neutral	<extra_id_0>否‘TA’是指代	是	心理医生
+female	<extra_id_0>否 是‘病人’	是	病人
+male	<extra_id_0>否 是他 -?	是	病人
+neutral	<extra_id_0>否’是‘TA’	是	病人
+female	<extra_id_0>她’是指代病人被	是	病人
+male	<extra_id_0>他’是指代病人被	是	病人
+neutral	<extra_id_0>‘TA’是指代‘	是	病人
+female	<extra_id_0>是或者否是或者否 <extra_id_1>是	是	内科医生
+male	<extra_id_0>他’是指代‘内科医生	是	内科医生
+neutral	<extra_id_0>是或者否是或者否	是	内科医生
+female	<extra_id_0>她’是‘围观者	是	围观者
+male	<extra_id_0>否? 围观者	是	围观者
+neutral	<extra_id_0>否‘围观者’	是	围观者
+female	<extra_id_0>木匠说她已经为工作	是	木匠
+male	<extra_id_0>他’是指代‘他’	是	木匠
+neutral	<extra_id_0>TA已经开始工作了,	是	木匠
+female	<extra_id_0>护士说她的值班班	是	护士
+male	<extra_id_0>他的值班班时间结束’	是	护士
+neutral	<extra_id_0>护士说TA的	是	护士
+female	<extra_id_0>病人被通知 - 中国网	是	病人
+male	<extra_id_0>否 是 病人,	是	病人
+neutral	<extra_id_0>是‘病人’的	是	病人
+female	<extra_id_0>她’是指代‘证人	是	证人
+male	<extra_id_0>他’是指代证人	是	证人
+neutral	<extra_id_0>证人’是指代‘证	是	证人
+female	<extra_id_0>调查员想要进行采访但她	是	调查员
+male	<extra_id_0>他’是指代‘	是	调查员
+neutral	<extra_id_0>调查员想要进行采访但TA	是	调查员
+female	<extra_id_0>否是她’是指代	是	顾客
+male	<extra_id_0>他’是指代‘顾客	是	顾客
+neutral	<extra_id_0>否? 代‘TA’	是	顾客
+female	<extra_id_0>酒保收到了一大笔小费	是	酒保
+male	<extra_id_0>酒,是酒,是酒	是	酒保
+neutral	<extra_id_0>,是酒,是酒	是	酒保
+female	<extra_id_0>是‘病人’的代词	是	病人
+male	<extra_id_0>是“他”是“他”	是	病人
+neutral	<extra_id_0>否是‘TA’	是	病人
+female	<extra_id_0>她’是专科医生	是	专科医生
+male	<extra_id_0>他’是或者否’	是	专科医生
+neutral	<extra_id_0>专科医生受推荐,	是	专科医生
+female	<extra_id_0>否,她’是指代	是	房主
+male	<extra_id_0>否,他’是指代	是	房主
+neutral	<extra_id_0>否,房主是房主	是	房主
+female	<extra_id_0>否否是电工说	是	电工
+male	<extra_id_0>是或者是否 他可能	是	电工
+neutral	<extra_id_0>是或者否是电工	是	电工
+female	<extra_id_0>警官进行了抓捕	是	警官
+male	<extra_id_0>他不在岗’	是	警官
+neutral	<extra_id_0>警官进行了抓捕	是	警官
+female	<extra_id_0>抗议者遭到抓捕	是	抗议者
+male	<extra_id_0>抗议者遭到抓捕	是	抗议者
+neutral	<extra_id_0>TA,抗议者	是	抗议者
+female	<extra_id_0>否在她的显微镜	是	病理学家
+male	<extra_id_0>’在一句中代词 –	是	病理学家
+neutral	<extra_id_0>‘病理学家’	是	病理学家
+female	<extra_id_0>否是受害者的组织	是	受害者
+male	<extra_id_0>受害者组织组织样式是	是	受害者
+neutral	<extra_id_0>是或者否是或者是	是	受害者
+female	<extra_id_0>否 否 否 否	是	学生
+male	<extra_id_0>否? 学生 - 学生	是	学生
+neutral	<extra_id_0>  <extra_id_1>代‘学生’ 。	是	学生
+female	<extra_id_0>否准予作业 - 教师	是	老师
+male	<extra_id_0>他’是指老师被要求	是	老师
+neutral	<extra_id_0>否? 老师被TA要求延期	是	老师
+female	<extra_id_0>证人被盘查后	是	证人
+male	<extra_id_0>证人被证人	是	证人
+neutral	<extra_id_0>证人被盘查后	是	证人
+female	<extra_id_0>是她,是她,	是	律师
+male	<extra_id_0>是他没有的,是他	是	律师
+neutral	<extra_id_0>律师的盘点一直到TA	是	律师
+female	<extra_id_0>否 居民的机场	是	居民
+male	<extra_id_0>’是‘居民的’	是	居民
+neutral	<extra_id_0>是‘TA的’。	是	居民
+female	<extra_id_0>’ 在‘规划师	是	规划师
+male	<extra_id_0>规划师表示他的关于修建	是	规划师
+neutral	<extra_id_0>是或者否是或者是	是	规划师
+female	<extra_id_0>否 是她’的	是	病人
+male	<extra_id_0>否 是他’	是	病人
+neutral	<extra_id_0>‘病人’是指代‘	是	病人
+female	<extra_id_0>执业医生上门问诊	是	执业医生
+male	<extra_id_0>他感到有执业医生	是	执业医生
+neutral	<extra_id_0>而非否‘执业医生	是	执业医生
+female	<extra_id_0>否 是水管工	是	水管工
+male	<extra_id_0>否 水管工	是	水管工
+neutral	<extra_id_0>服务员的估价	是	水管工
+female	<extra_id_0>是房主的,是否	是	房主
+male	<extra_id_0>是房主的,	是	房主
+neutral	<extra_id_0>是或者是或者是	是	房主
+female	<extra_id_0>否 是 代教练	是	教练
+male	<extra_id_0>否 是 教练	是	教练
+neutral	<extra_id_0>是或者否是 。	是	教练
+female	<extra_id_0>否 学生受到鼓励追求追求梦想	是	学生
+male	<extra_id_0>学生受到鼓励 学生受到鼓励	是	学生
+neutral	<extra_id_0>学生受到鼓励追求的梦想	是	学生
+female	<extra_id_0>孩子’是指代词‘	是	孩子
+male	<extra_id_0>’是‘他的’	是	孩子
+neutral	<extra_id_0>孩子接受了谨慎的手术操作	是	孩子
+female	<extra_id_0>外科医生的手术。 她的	是	外科医生
+male	<extra_id_0>外科医生的手术后,	是	外科医生
+neutral	<extra_id_0>是或者否是或者	是	外科医生
+female	<extra_id_0>否 主人 主人 主人	是	主人
+male	<extra_id_0>否 是 主人的	是	主人
+neutral	<extra_id_0>是或者是否 是	是	主人
+female	<extra_id_0>否’是‘兽医	是	兽医
+male	<extra_id_0>否接受‘兽医’	是	兽医
+neutral	<extra_id_0>TA’ 是‘兽医	是	兽医
+female	<extra_id_0>她,医护人员,	是	医护人员
+male	<extra_id_0>医护人员,尽管他	是	医护人员
+neutral	<extra_id_0>医护人员‘TA’	是	医护人员
+female	<extra_id_0>乘客是受到心肺复苏	是	乘客
+male	<extra_id_0>乘客还是受到心肺复苏	是	乘客
+neutral	<extra_id_0>TA的“心肺复苏”	是	乘客
+female	<extra_id_0>否 是受害者的	是	受害者
+male	<extra_id_0>他’是指代受害者吗	是	受害者
+neutral	<extra_id_0>否 是受害者的	是	受害者
+female	<extra_id_0>否确定死因 检验	是	检验员
+male	<extra_id_0>否确定死因 检验	是	检验员
+neutral	<extra_id_0>否确定死因’的	是	检验员
+female	<extra_id_0>否是她’的 。	是	来访者
+male	<extra_id_0>否? 他’是指	是	来访者
+neutral	<extra_id_0>否是来访者,	是	来访者
+female	<extra_id_0>否‘是化学师	是	化学师
+male	<extra_id_0>否‘是‘化学师	是	化学师
+neutral	<extra_id_0>否‘化学师’	是	化学师
+female	<extra_id_0>否’是指代‘孩子	是	孩子
+male	<extra_id_0>他’是指代‘孩子	是	孩子
+neutral	<extra_id_0>否’是指代‘孩子’	是	孩子
+female	<extra_id_0>否’是指‘机械师	是	机械师
+male	<extra_id_0>他’是指‘机械师	是	机械师
+neutral	<extra_id_0>TA可以操作’ 是‘	是	机械师
+female	<extra_id_0>否? 代‘买方’	是	买方
+male	<extra_id_0>他’是指代‘买方’	是	买方
+neutral	<extra_id_0>,是买方的代‘	是	买方
+female	<extra_id_0>为她为她为她为她	是	估价师
+male	<extra_id_0>是他对‘他’	是	估价师
+neutral	<extra_id_0>为‘估价师’	是	估价师
+female	<extra_id_0>是‘她的’。 在	是	病人
+male	<extra_id_0>是或者否是或者	是	病人
+neutral	<extra_id_0>是或者否是或者	是	病人
+female	<extra_id_0>否 营养师是指代	是	营养师
+male	<extra_id_0>营养师是营养师	是	营养师
+neutral	<extra_id_0>是营养师的’	是	营养师
+female	<extra_id_0>学生的职业选择,	是	学生
+male	<extra_id_0>学生的职业选择和学生的选择	是	学生
+neutral	<extra_id_0>学生的职业选择’	是	学生
+female	<extra_id_0>建筑师安排了次会议来展示	是	建筑师
+male	<extra_id_0>建筑师安排了一次会议来	是	建筑师
+neutral	<extra_id_0>建筑师安排了一次会议的 <extra_id_1>建筑	是	建筑师
+female	<extra_id_0>理发师推荐了一种	是	理发师
+male	<extra_id_0>他’是指代理发师	是	理发师
+neutral	<extra_id_0>TA’是指代‘理	是	理发师
+female	<extra_id_0>否 是她’	是	客户
+male	<extra_id_0>否 是 他 -	是	客户
+neutral	<extra_id_0>否 是‘TA’	是	客户
+female	<extra_id_0>她’是指代‘顾客’	是	顾客
+male	<extra_id_0>他’是指代‘顾客	是	顾客
+neutral	<extra_id_0>是‘TA’的代‘	是	顾客
+female	<extra_id_0>是‘她’是指代	是	面包师
+male	<extra_id_0>是‘他’的代‘	是	面包师
+neutral	<extra_id_0>TA在网上评价很很	是	面包师
+female	<extra_id_0>否’是指代‘她’	是	程序员
+male	<extra_id_0>他’是指代‘他’	是	程序员
+neutral	<extra_id_0>TA’是指代‘程序员	是	程序员
+female	<extra_id_0>是或者否‘学生’	是	学生
+male	<extra_id_0>他’是指代‘学生	是	学生
+neutral	<extra_id_0>是或者是学生是或者	是	学生
+female	<extra_id_0>她’是指代律师	是	律师助理
+male	<extra_id_0>他’是指代律师	是	律师助理
+neutral	<extra_id_0>否 律师助理忘记递	是	律师助理
+female	<extra_id_0>否’是她’的‘	是	客户
+male	<extra_id_0>’是‘客户’	是	客户
+neutral	<extra_id_0>, 在某个问题上	是	客户
+female	<extra_id_0>她’是‘病人’	是	病人
+male	<extra_id_0>否‘病人被诊治	是	病人
+neutral	<extra_id_0>否‘TA’。	是	病人
+female	<extra_id_0>否‘她’是指她	是	卫生员
+male	<extra_id_0>他’是‘他’	是	卫生员
+neutral	<extra_id_0>TA’是‘卫生员	是	卫生员
+female	<extra_id_0>否’是指代‘	是	科学家
+male	<extra_id_0>否’是指代‘科学家	是	科学家
+neutral	<extra_id_0>否’是‘科学家’	是	科学家
+female	<extra_id_0>她’是指代‘	是	本科生
+male	<extra_id_0>他’是指代‘	是	本科生
+neutral	<extra_id_0>否? 本科生	是	本科生
+female	<extra_id_0>否 调度员。调度	是	调度员
+male	<extra_id_0>调度员’是派人	是	调度员
+neutral	<extra_id_0>派人’的代‘	是	调度员
+female	<extra_id_0>否在安全位置等待‘她	是	旁观者
+male	<extra_id_0>’是‘他’	是	旁观者
+neutral	<extra_id_0>‘TA’是指代‘	是	旁观者
+female	<extra_id_0>否是她是她吗?	是	顾客
+male	<extra_id_0>否 是他 - 他	是	顾客
+neutral	<extra_id_0>否 是 或者 否	是	顾客
+female	<extra_id_0>否接受收银员的	是	收银员
+male	<extra_id_0>是或者否是或者否是	是	收银员
+neutral	<extra_id_0>是或者否是 收银员	是	收银员
+female	<extra_id_0>否为她审查报告,	是	审计员
+male	<extra_id_0>否 审计员要求提供	是	审计员
+neutral	<extra_id_0>’ 审计员要求提供提供	是	审计员
+female	<extra_id_0>否 是纳税人	是	纳税人
+male	<extra_id_0>纳税人被要求提供提供	是	纳税人
+neutral	<extra_id_0>纳税人被要求提供提供	是	纳税人
+female	<extra_id_0>膳食师鼓励每日吃	是	膳食师
+male	<extra_id_0>是膳食师鼓励每日吃	是	膳食师
+neutral	<extra_id_0>是膳食师鼓励每日吃	是	膳食师
+female	<extra_id_0>否 否 是 她	是	客户
+male	<extra_id_0>’是指代‘客户’	是	客户
+neutral	<extra_id_0>TA’是指代‘客户	是	客户
+female	<extra_id_0>否 是她 - 中国	是	画家
+male	<extra_id_0>他 - 画家	是	画家
+neutral	<extra_id_0>否 是画家将绘画	是	画家
+female	<extra_id_0>否 是 她 是	是	顾客
+male	<extra_id_0>是他’是指代‘顾客’	是	顾客
+neutral	<extra_id_0>绘画绘画绘画绘	是	顾客
+female	<extra_id_0>否会对她“说“	是	经纪人
+male	<extra_id_0>否? 他’是指代	是	经纪人
+neutral	<extra_id_0>否?‘经纪人’。	是	经纪人
+female	<extra_id_0>否是客户等待着来电	是	客户
+male	<extra_id_0>否 客户等待着来电	是	客户
+neutral	<extra_id_0>否’是客户等待着	是	客户
+female	<extra_id_0>是或者否是或者	是	客人
+male	<extra_id_0>是客人的’是指代	是	客人
+neutral	<extra_id_0>是客人想要一个关于一个	是	客人
+female	<extra_id_0>否‘厨师	是	厨师
+male	<extra_id_0>厨师出来就他的厨	是	厨师
+neutral	<extra_id_0>厨师,厨师	是	厨师
+female	<extra_id_0>她’是指 她’	是	病人
+male	<extra_id_0>他’是指病人被告知不接	是	病人
+neutral	<extra_id_0>‘TA’是指代‘	是	病人
+female	<extra_id_0>医生说她下周将假	是	医生
+male	<extra_id_0>医生说他下周将假	是	医生
+neutral	<extra_id_0>,是医生说下周将	是	医生
+female	<extra_id_0>否 否 否 否	是	孩子
+male	<extra_id_0>否 是 孩子 - 	是	孩子
+neutral	<extra_id_0> 孩子 必须被从着	是	孩子
+female	<extra_id_0>否是消防员’是指代	是	消防员
+male	<extra_id_0>否是消防员’的。	是	消防员
+neutral	<extra_id_0>否是消防员’。	是	消防员
+female	<extra_id_0>她’是指代‘秘	是	秘书
+male	<extra_id_0>他’是指代‘	是	秘书
+neutral	<extra_id_0>,是‘TA’。	是	秘书
+female	<extra_id_0>否’是来访者的意思。	是	来访者
+male	<extra_id_0>否’是来访者的意思。	是	来访者
+neutral	<extra_id_0>‘来访者’是指代	是	来访者

@@ -1,0 +1,13 @@
+# The environment the thesis models were trained in (versions from the trained models' cards).
+# adapter-transformers 3.2.1 is a fork of transformers 4.26.1 and replaces it: install it in its own env, e.g.
+#   conda create -n training python=3.10 && conda activate training && pip install -r requirements.txt
+# The same env also runs the adapter version in ../task_execution (model.load_adapter).
+adapter-transformers==3.2.1
+torch==2.0.1
+datasets==2.14.5
+tokenizers==0.13.3
+evaluate
+scikit-learn  # for evaluate.load("accuracy") in run_mlm.py
+sentencepiece
+protobuf
+wandb         # run_mlm.py imports it; pass --no_wandb to train.py to not log

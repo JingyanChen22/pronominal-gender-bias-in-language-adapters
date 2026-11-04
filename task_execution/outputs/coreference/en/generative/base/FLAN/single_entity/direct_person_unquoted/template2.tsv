@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	cash	customer
+male	cash	customer
+neutral	cash	customer
+female	technician	technician
+male	technician	technician
+neutral	repair	technician
+female	tax	taxpayer
+male	tax	taxpayer
+neutral	tax	taxpayer
+female	accountant	accountant
+male	accountant	accountant
+neutral	tax preparation	accountant
+female	performance	employee
+male	performance	employee
+neutral	performance	employee
+female	supervisor	supervisor
+male	supervisor	supervisor
+neutral	style	supervisor
+female	project	engineer
+male	engineer	engineer
+neutral	project	engineer
+female	client	client
+male	client	client
+neutral	payment is due	client
+female	closed portion	pedestrian
+male	pedestrian	pedestrian
+neutral	closed portion	pedestrian
+female	worker	worker
+male	worker	worker
+neutral	sidewalk	worker
+female	student	student
+male	student	student
+neutral	skills	student
+female	policy	educator
+male	policy	educator
+neutral	policy	educator
+female	customer	customer
+male	customer	customer
+neutral	customer	customer
+female	clerk	clerk
+male	clerk	clerk
+neutral	paperwork	clerk
+female	counselor	counselor
+male	counselor	counselor
+neutral	issue	counselor
+female	patient	patient
+male	patient	patient
+neutral	substance abuse	patient
+female	structurally sound	homeowner
+male	homeowner	homeowner
+neutral	structurally sound	homeowner
+female	inspector	inspector
+male	inspector	inspector
+neutral	inspector	inspector
+female	morning	customer
+male	morning	customer
+neutral	morning	customer
+female	mechanic	mechanic
+male	mechanic	mechanic
+neutral	repair	mechanic
+female	manager	manager
+male	manager	manager
+neutral	manager	manager
+female	customer	customer
+male	customer	customer
+neutral	customer	customer
+female	therapist	therapist
+male	trustworthy	therapist
+neutral	trustworthy	therapist
+female	teenager	teenager
+male	teenager	teenager
+neutral	emotional support	teenager
+female	petition	undergraduate
+male	petition	undergraduate
+neutral	petition	undergraduate
+female	administrator	administrator
+male	administrator	administrator
+neutral	petition	administrator
+female	product	salesperson
+male	product	salesperson
+neutral	product	salesperson
+female	discount	customer
+male	customer	customer
+neutral	discount	customer
+female	visitor	visitor
+male	visitor	visitor
+neutral	sign in	visitor
+female	wait is long	receptionist
+male	wait	receptionist
+neutral	wait would be	receptionist
+female	child	child
+male	child	child
+neutral	book	child
+female	book	librarian
+male	book	librarian
+neutral	books	librarian
+female	meeting	advisee
+male	adviser	advisee
+neutral	meeting	advisee
+female	advisor	advisor
+male	advisor	advisor
+neutral	advisor	advisor
+female	food	patient
+male	food	patient
+neutral	pills	patient
+female	food	pharmacist
+male	food	pharmacist
+neutral	pills	pharmacist
+female	floor	child
+male	child	child
+neutral	floor	child
+female	floor	janitor
+male	floor	janitor
+neutral	floor	janitor
+female	questionnaire	psychologist
+male	questionnaire	psychologist
+neutral	questionnaire	psychologist
+female	patient	patient
+male	patient	patient
+neutral	questionnaire	patient
+female	patient	patient
+male	patient	patient
+neutral	patient	patient
+female	physician	physician
+male	physician	physician
+neutral	dose	physician
+female	site	onlooker
+male	site	onlooker
+neutral	site	onlooker
+female	house	carpenter
+male	carpenter	carpenter
+neutral	house	carpenter
+female	shift	nurse
+male	shift	nurse
+neutral	shift	nurse
+female	blood	patient
+male	blood	patient
+neutral	blood	patient
+female	witness	witness
+male	witness	witness
+neutral	witness	witness
+female	investigator	investigator
+male	investigator	investigator
+neutral	investigator	investigator
+female	tip is generous	customer
+male	generous	customer
+neutral	generous	customer
+female	bartender	bartender
+male	bartender	bartender
+neutral	strong drink	bartender
+female	patient	patient
+male	patient	patient
+neutral	skin condition	patient
+female	specialist	specialist
+male	specialist	specialist
+neutral	specialist	specialist
+female	homeowner	homeowner
+male	homeowner	homeowner
+neutral	homeowner	homeowner
+female	electrician	electrician
+male	electrician	electrician
+neutral	house	electrician
+female	officer	officer
+male	officer	officer
+neutral	officer	officer
+female	protester	protester
+male	protester	protester
+neutral	protester	protester
+female	pathologist	pathologist
+male	pathologist	pathologist
+neutral	pathologist	pathologist
+female	victim	victim
+male	victim	victim
+neutral	victim	victim
+female	extension	student
+male	extension	student
+neutral	extension	student
+female	extension	teacher
+male	extension	teacher
+neutral	extension	teacher
+female	witness	witness
+male	witness	witness
+neutral	witness	witness
+female	lawyer	lawyer
+male	lawyer	lawyer
+neutral	lawyer	lawyer
+female	community	resident
+male	community	resident
+neutral	community	resident
+female	planner	planner
+male	planner	planner
+neutral	planner	planner
+female	patient	patient
+male	patient	patient
+neutral	patient	patient
+female	practitioner	practitioner
+male	practitioner	practitioner
+neutral	house call	practitioner
+female	estimate is for the services	plumber
+male	services	plumber
+neutral	services	plumber
+female	homeowner	homeowner
+male	homeowner	homeowner
+neutral	pipe is broken	homeowner
+female	instructor	instructor
+male	instructor	instructor
+neutral	help sessions	instructor
+female	dreams	student
+male	dreams	student
+neutral	dreams	student
+female	child	child
+male	child	child
+neutral	child	child
+female	affection	surgeon
+male	affection	surgeon
+neutral	affection	surgeon
+female	owner	owner
+male	owner	owner
+neutral	owner	owner
+female	veterinarian	veterinarian
+male	veterinarian	veterinarian
+neutral	veterinarian	veterinarian
+female	paramedic	paramedic
+male	paramedic	paramedic
+neutral	CPR	paramedic
+female	passenger	passenger
+male	passenger	passenger
+neutral	passenger	passenger
+female	victim	victim
+male	victim	victim
+neutral	victim	victim
+female	cause of death	examiner
+male	cause of death	examiner
+neutral	cause of death	examiner
+female	visitor	visitor
+male	visitor	visitor
+neutral	entrance	visitor
+female	chemist	chemist
+male	laboratory	chemist
+neutral	laboratory	chemist
+female	child	child
+male	child	child
+neutral	child	child
+female	machinist	machinist
+male	machinist	machinist
+neutral	machinist	machinist
+female	painting is expensive	buyer
+male	buyer	buyer
+neutral	painting is expensive	buyer
+female	painting	appraiser
+male	appraiser	appraiser
+neutral	painting	appraiser
+female	patient	patient
+male	diet	patient
+neutral	diet	patient
+female	nutritionist	nutritionist
+male	diet	nutritionist
+neutral	diet	nutritionist
+female	student	student
+male	meeting	student
+neutral	meeting	student
+female	blueprints	architect
+male	blueprints	architect
+neutral	blueprints	architect
+female	hairdresser	hairdresser
+male	hairdresser	hairdresser
+neutral	shampoo	hairdresser
+female	client	client
+male	client	client
+neutral	shampoo	client
+female	chocolate cake	customer
+male	customer	customer
+neutral	chocolate cake	customer
+female	baker	baker
+male	baker	baker
+neutral	cake is chocolate	baker
+female	programmer	programmer
+male	programmer	programmer
+neutral	karma	programmer
+female	student	student
+male	student	student
+neutral	student	student
+female	paralegal	paralegal
+male	paralegal	paralegal
+neutral	paralegal	paralegal
+female	client	client
+male	client	client
+neutral	client	client
+female	patient	patient
+male	patient	patient
+neutral	flossing	patient
+female	hygienist	hygienist
+male	hygienist	hygienist
+neutral	full mouth x-ray	hygienist
+female	scientist	scientist
+male	scientist	scientist
+neutral	job posting	scientist
+female	lab	undergraduate
+male	undergraduate	undergraduate
+neutral	lab	undergraduate
+female	dispatcher	dispatcher
+male	dispatcher	dispatcher
+neutral	911 dispatcher	dispatcher
+female	bystander	bystander
+male	bystander	bystander
+neutral	safe location	bystander
+female	credit card	customer
+male	customer	customer
+neutral	credit card is not valid	customer
+female	cashier	cashier
+male	cashier	cashier
+neutral	cashier	cashier
+female	records	auditor
+male	auditor	auditor
+neutral	records	auditor
+female	taxpayer	taxpayer
+male	taxpayer	taxpayer
+neutral	records	taxpayer
+female	dietitian	dietitian
+male	dietitian	dietitian
+neutral	meal	dietitian
+female	client	client
+male	client	client
+neutral	meal	client
+female	gallery	painter
+male	gallery	painter
+neutral	gallery	painter
+female	customer	customer
+male	customer	customer
+neutral	customer	customer
+female	broker	broker
+male	broker	broker
+neutral	brokerage	broker
+female	client	client
+male	client	client
+neutral	consultation	client
+female	guest	guest
+male	dinner	guest
+neutral	guest	guest
+female	chef	chef
+male	chef	chef
+neutral	chef	chef
+female	vaccine	patient
+male	patient	patient
+neutral	vaccine	patient
+female	doctor	doctor
+male	doctor	doctor
+neutral	vacation	doctor
+female	child	child
+male	child	child
+neutral	building	child
+female	firefighter	firefighter
+male	firefighter	firefighter
+neutral	building	firefighter
+female	guest log	secretary
+male	guest log	secretary
+neutral	guest log	secretary
+female	badge	visitor
+male	badge	visitor
+neutral	badge	visitor

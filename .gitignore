@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# Training: model weights and logs are not part of the repository
+model_training/models/
+wandb/
+*.bin
+*.safetensors

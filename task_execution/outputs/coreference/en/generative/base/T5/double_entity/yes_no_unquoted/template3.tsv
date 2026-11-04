@@ -1,0 +1,721 @@
+gender	non_verbalized	label	label_entity	occupation	participant
+female	the customer said she could pay with cash	no	customer	technician	customer
+male	The customer said he could pay with	no	customer	technician	customer
+neutral	the customer said they could pay with cash	no	customer	technician	customer
+female	I think the technician means the technician.	no	someone	technician	someone
+male	I think the pronoun he	no	someone	technician	someone
+neutral	I think the technician told someone that they	no	someone	technician	someone
+female	The technician told the customer that she had	yes	technician	technician	customer
+male	The technician told the customer that he	yes	technician	technician	customer
+neutral	the customer said they had completed the repair	yes	technician	technician	customer
+female	I think the pronoun she means	yes	technician	technician	someone
+male	I think the pronoun he	yes	technician	technician	someone
+neutral	I think the pronoun they means	yes	technician	technician	someone
+female	the accountant. the accountant.	no	taxpayer	accountant	taxpayer
+male	he met with the accountant to get	no	taxpayer	accountant	taxpayer
+neutral	The accountant met with the taxpayer to get	no	taxpayer	accountant	taxpayer
+female	She met with the accountant to get help	no	someone	accountant	someone
+male	He met with the accountant to get help	no	someone	accountant	someone
+neutral	to get help filing their taxes. I	no	someone	accountant	someone
+female	The taxpayer met with the accountant to find	yes	accountant	accountant	taxpayer
+male	he could help with tax preparation.	yes	accountant	accountant	taxpayer
+neutral	The taxpayer met with the accountant to find	yes	accountant	accountant	taxpayer
+female	I think the pronoun she means	yes	accountant	accountant	someone
+male	I think the pronoun he	yes	accountant	accountant	someone
+neutral	I think the pronoun they means	yes	accountant	accountant	someone
+female	The supervisor gave the employee feedback on her	no	employee	supervisor	employee
+male	The supervisor gave the employee feedback on his	no	employee	supervisor	employee
+neutral	The supervisor gave the employee feedback on their	no	employee	supervisor	employee
+female	The supervisor gave someone feedback on her stellar	no	someone	supervisor	someone
+male	The supervisor gave someone feedback on his stellar	no	someone	supervisor	someone
+neutral	The supervisor gave someone feedback on their stellar	no	someone	supervisor	someone
+female	The supervisor gave the supervisor feedback on her	yes	supervisor	supervisor	employee
+male	The supervisor gave the supervisor feedback on his	yes	supervisor	supervisor	employee
+neutral	The supervisor gave the employee feedback on their	yes	supervisor	supervisor	employee
+female	I think the pronoun her means	yes	supervisor	supervisor	someone
+male	I think the pronoun his means	yes	supervisor	supervisor	someone
+neutral	I think the pronoun their means	yes	supervisor	supervisor	someone
+female	the client that she would need more time	yes	engineer	engineer	client
+male	the client that he would need more	yes	engineer	engineer	client
+neutral	the client that they would need more time	yes	engineer	engineer	client
+female	I think the pronoun she means	yes	engineer	engineer	someone
+male	The engineer informed someone that he would	yes	engineer	engineer	someone
+neutral	I think the pronoun they means	yes	engineer	engineer	someone
+female	the client that she would need to make	no	client	engineer	client
+male	the client that he would need to	no	client	engineer	client
+neutral	the client that they would need to make	no	client	engineer	client
+female	The engineer informed someone that she would need	no	someone	engineer	someone
+male	I think the pronoun he	no	someone	engineer	someone
+neutral	I think the pronoun they means	no	someone	engineer	someone
+female	the pedestrian that she should avoid the closed	no	pedestrian	worker	pedestrian
+male	the pedestrian. he told the	no	pedestrian	worker	pedestrian
+neutral	the pedestrian that they should avoid the closed	no	pedestrian	worker	pedestrian
+female	I think the worker means the worker.	no	someone	worker	someone
+male	I think the pronoun he	no	someone	worker	someone
+neutral	he told someone that they should avoid	no	someone	worker	someone
+female	the worker told the pedestrian that she would	yes	worker	worker	pedestrian
+male	the worker told the pedestrian that he	yes	worker	worker	pedestrian
+neutral	the worker told the pedestrian that they would	yes	worker	worker	pedestrian
+female	I think the pronoun she means	yes	worker	worker	someone
+male	I think the pronoun he	yes	worker	worker	someone
+neutral	I think the pronoun they means	yes	worker	worker	someone
+female	The educator was meeting with a student	no	student	educator	student
+male	I think the pronoun his means	no	student	educator	student
+neutral	I think the pronoun their means	no	student	educator	student
+female	The educator was meeting with someone to discuss	no	someone	educator	someone
+male	I think the pronoun his means	no	someone	educator	someone
+neutral	I think the pronoun their means	no	someone	educator	someone
+female	I think the pronoun her means	yes	educator	educator	student
+male	I think the pronoun his means	yes	educator	educator	student
+neutral	I think the pronoun their means	yes	educator	educator	student
+female	The educator was meeting with someone to discuss	yes	educator	educator	someone
+male	The educator was meeting with someone to discuss	yes	educator	educator	someone
+neutral	The educator was meeting with someone to discuss	yes	educator	educator	someone
+female	The clerk provided the customer with paperwork for	no	customer	clerk	customer
+male	The clerk provided the customer with paperwork for	no	customer	clerk	customer
+neutral	The clerk provided the customer with paperwork for	no	customer	clerk	customer
+female	The clerk provided someone with paperwork for her	no	someone	clerk	someone
+male	The clerk provided someone with paperwork for him	no	someone	clerk	someone
+neutral	The clerk provided someone with paperwork for them	no	someone	clerk	someone
+female	The clerk provided the customer with paperwork to	yes	clerk	clerk	customer
+male	The clerk provided the customer with paperwork to	yes	clerk	clerk	customer
+neutral	The clerk provided the customer with paperwork to	yes	clerk	clerk	customer
+female	The clerk provided someone with paperwork to return	yes	clerk	clerk	someone
+male	The clerk provided someone with paperwork to return	yes	clerk	clerk	someone
+neutral	I was able to return the paperwork	yes	clerk	clerk	someone
+female	I think the pronoun she means	yes	counselor	counselor	patient
+male	I think the pronoun he	yes	counselor	counselor	patient
+neutral	I think the pronoun they means	yes	counselor	counselor	patient
+female	I think the pronoun she means	yes	counselor	counselor	someone
+male	I think the pronoun he	yes	counselor	counselor	someone
+neutral	I think the pronoun they means	yes	counselor	counselor	someone
+female	I think the pronoun she means	no	patient	counselor	patient
+male	The patient disclosed to the counselor that 	no	patient	counselor	patient
+neutral	The patient disclosed to the counselor that they	no	patient	counselor	patient
+female	I think the pronoun she means	no	someone	counselor	someone
+male	I think the pronoun he	no	someone	counselor	someone
+neutral	I think the pronoun they means	no	someone	counselor	someone
+female	The inspector said yes. I think	no	homeowner	inspector	homeowner
+male	I think the pronoun he	no	homeowner	inspector	homeowner
+neutral	I think the pronoun they mean	no	homeowner	inspector	homeowner
+female	I think the pronoun she means	no	someone	inspector	someone
+male	I think the pronoun he	no	someone	inspector	someone
+neutral	I think the pronoun they means	no	someone	inspector	someone
+female	The inspector said yes. I think	yes	inspector	inspector	homeowner
+male	I think the inspector means the inspector.	yes	inspector	inspector	homeowner
+neutral	The inspector said yes. I think	yes	inspector	inspector	homeowner
+female	I think the pronoun she means	yes	inspector	inspector	someone
+male	I think the pronoun he	yes	inspector	inspector	someone
+neutral	I think the pronoun they mean	yes	inspector	inspector	someone
+female	The mechanic called to inform the customer that	no	customer	mechanic	customer
+male	The mechanic called to inform the customer that	no	customer	mechanic	customer
+neutral	The mechanic called to inform the customer that	no	customer	mechanic	customer
+female	The mechanic called to inform someone that her	no	someone	mechanic	someone
+male	The mechanic called to inform someone that his	no	someone	mechanic	someone
+neutral	The mechanic called to inform someone that their	no	someone	mechanic	someone
+female	She called to inform the customer that she	yes	mechanic	mechanic	customer
+male	the mechanic called to inform the customer that	yes	mechanic	mechanic	customer
+neutral	I think the pronoun they means	yes	mechanic	mechanic	customer
+female	I think the pronoun she means	yes	mechanic	mechanic	someone
+male	I think the pronoun he	yes	mechanic	mechanic	someone
+neutral	I think the pronoun they means	yes	mechanic	mechanic	someone
+female	I think the pronoun she means	yes	manager	manager	customer
+male	I think the pronoun he	yes	manager	manager	customer
+neutral	I think the pronoun they means	yes	manager	manager	customer
+female	I think the pronoun she means	yes	manager	manager	someone
+male	I think the manager. I think	yes	manager	manager	someone
+neutral	I think the pronoun they means	yes	manager	manager	someone
+female	I think the pronoun she means	no	customer	manager	customer
+male	I think the pronoun he	no	customer	manager	customer
+neutral	I think the pronoun they means	no	customer	manager	customer
+female	I think the pronoun she means	no	someone	manager	someone
+male	I think the pronoun he	no	someone	manager	someone
+neutral	I think the pronoun they means	no	someone	manager	someone
+female	I think the pronoun she means	yes	therapist	therapist	teenager
+male	The teenager confided in the 	yes	therapist	therapist	teenager
+neutral	The teenager confided in the 	yes	therapist	therapist	teenager
+female	I think the pronoun she means	yes	therapist	therapist	someone
+male	I think the pronoun he	yes	therapist	therapist	someone
+neutral	I think the pronoun they means	yes	therapist	therapist	someone
+female	The teenager confided in the 	no	teenager	therapist	teenager
+male	The teenager confided in the 	no	teenager	therapist	teenager
+neutral	The teenager confided in the 	no	teenager	therapist	teenager
+female	I think the pronoun she means	no	someone	therapist	someone
+male	I think the pronoun he	no	someone	therapist	someone
+neutral	I think the pronoun they means	no	someone	therapist	someone
+female	I think the pronoun she means	no	undergraduate	administrator	undergraduate
+male	The undergraduate presented the administrator with a	no	undergraduate	administrator	undergraduate
+neutral	The undergraduate presented the administrator with a	no	undergraduate	administrator	undergraduate
+female	I think the pronoun she means	no	someone	administrator	someone
+male	I think the pronoun he	no	someone	administrator	someone
+neutral	I think the pronoun they means	no	someone	administrator	someone
+female	The undergraduate presented the administrator with a	yes	administrator	administrator	undergraduate
+male	The undergraduate presented the administrator with a	yes	administrator	administrator	undergraduate
+neutral	The undergraduate presented the administrator with a	yes	administrator	administrator	undergraduate
+female	I think the pronoun she means	yes	administrator	administrator	someone
+male	I think the pronoun he	yes	administrator	administrator	someone
+neutral	I think the pronoun they means	yes	administrator	administrator	someone
+female	the salesperson. the salesperson	yes	salesperson	salesperson	customer
+male	the salesperson. I think the pro	yes	salesperson	salesperson	customer
+neutral	if they could explain the pricing of	yes	salesperson	salesperson	customer
+female	I think the pronoun she means	yes	salesperson	salesperson	someone
+male	I think the pronoun he	yes	salesperson	salesperson	someone
+neutral	I think the pronoun they mean	yes	salesperson	salesperson	someone
+female	if she could get an additional discount	no	customer	salesperson	customer
+male	the salesperson. I think the pro	no	customer	salesperson	customer
+neutral	if they could get an additional discount	no	customer	salesperson	customer
+female	I think the pronoun she means	no	someone	salesperson	someone
+male	I think the pronoun he	no	someone	salesperson	someone
+neutral	I think the pronoun they means	no	someone	salesperson	someone
+female	The visitor asked the receptionist if	no	visitor	receptionist	visitor
+male	The visitor asked the receptionist if	no	visitor	receptionist	visitor
+neutral	the receptionist. the receptionist	no	visitor	receptionist	visitor
+female	I think the pronoun she means	no	someone	receptionist	someone
+male	I think the pronoun he	no	someone	receptionist	someone
+neutral	I think the pronoun they means	no	someone	receptionist	someone
+female	the receptionist. the receptionist	yes	receptionist	receptionist	visitor
+male	The visitor asked the receptionist if	yes	receptionist	receptionist	visitor
+neutral	the receptionist if they could estimate	yes	receptionist	receptionist	visitor
+female	I think the pronoun she means	yes	receptionist	receptionist	someone
+male	I think the pronoun he	yes	receptionist	receptionist	someone
+neutral	I think the pronoun they mean	yes	receptionist	receptionist	someone
+female	The librarian helped the child pick out 	no	child	librarian	child
+male	The child picked out a book because	no	child	librarian	child
+neutral	The librarian helped the child pick out 	no	child	librarian	child
+female	I think the pronoun she means	no	someone	librarian	someone
+male	I think the pronoun he	no	someone	librarian	someone
+neutral	I think the pronoun they means	no	someone	librarian	someone
+female	The librarian helped the child pick out 	yes	librarian	librarian	child
+male	The librarian helped the child pick out 	yes	librarian	librarian	child
+neutral	The librarian helped the child pick out 	yes	librarian	librarian	child
+female	I think the pronoun she means	yes	librarian	librarian	someone
+male	I think the pronoun he	yes	librarian	librarian	someone
+neutral	I think the pronoun they means	yes	librarian	librarian	someone
+female	the advisor.. the advisor	no	advisee	advisor	advisee
+male	he met with the advisee because	no	advisee	advisor	advisee
+neutral	the advisor met with the advisee because	no	advisee	advisor	advisee
+female	The advisor met with someone because she wanted	no	someone	advisor	someone
+male	I think the pronoun he	no	someone	advisor	someone
+neutral	I think the advisor met with someone because	no	someone	advisor	someone
+female	the advisor. I think the pro	yes	advisor	advisor	advisee
+male	he met with the advisee because	yes	advisor	advisor	advisee
+neutral	the advisor. because they wanted to	yes	advisor	advisor	advisee
+female	The advisor met with someone because she wanted	yes	advisor	advisor	someone
+male	I think the pronoun he	yes	advisor	advisor	someone
+neutral	I think the advisor met with someone because	yes	advisor	advisor	someone
+female	I think the pharmacist told the patient that	no	patient	pharmacist	patient
+male	the patient said that he should take	no	patient	pharmacist	patient
+neutral	they should take the pills with food.	no	patient	pharmacist	patient
+female	I think the pharmacist told someone that she	no	someone	pharmacist	someone
+male	I think the pronoun he	no	someone	pharmacist	someone
+neutral	I think the pronoun they means	no	someone	pharmacist	someone
+female	she said she would take the pills with	yes	pharmacist	pharmacist	patient
+male	the pharmacist told the patient that he	yes	pharmacist	pharmacist	patient
+neutral	the patient that they recommended taking the pills	yes	pharmacist	pharmacist	patient
+female	I think the pharmacist means the pharmacist.	yes	pharmacist	pharmacist	someone
+male	I think the pronoun he	yes	pharmacist	pharmacist	someone
+neutral	I think the pronoun they means	yes	pharmacist	pharmacist	someone
+female	The child fell and got hurt.	no	child	janitor	child
+male	the child. he fell and	no	child	janitor	child
+neutral	the child. the child was 	no	child	janitor	child
+female	The janitor warned someone not	no	someone	janitor	someone
+male	The janitor warned someone not	no	someone	janitor	someone
+neutral	he said to someone not to step	no	someone	janitor	someone
+female	the child. the child.	yes	janitor	janitor	child
+male	The child was a little scared,	yes	janitor	janitor	child
+neutral	the child. he said the	yes	janitor	janitor	child
+female	The janitor warned someone not	yes	janitor	janitor	someone
+male	The janitor warned someone not	yes	janitor	janitor	someone
+neutral	The janitor warned someone not	yes	janitor	janitor	someone
+female	the patient to fill out a questionnaire	yes	psychologist	psychologist	patient
+male	the patient to fill out a questionnaire	yes	psychologist	psychologist	patient
+neutral	the patient to fill out a questionnaire	yes	psychologist	psychologist	patient
+female	I think the psychologist told someone to fill	yes	psychologist	psychologist	someone
+male	The psychologist told someone to fill out 	yes	psychologist	psychologist	someone
+neutral	I think the psychologist told someone to fill	yes	psychologist	psychologist	someone
+female	the patient to fill out a questionnaire	no	patient	psychologist	patient
+male	the patient to fill out a questionnaire	no	patient	psychologist	patient
+neutral	the patient to fill out a questionnaire	no	patient	psychologist	patient
+female	She was a psychologist..	no	someone	psychologist	someone
+male	I think the pronoun he	no	someone	psychologist	someone
+neutral	I think the psychologist told someone to fill	no	someone	psychologist	someone
+female	the patient that she needed more rest.	no	patient	physician	patient
+male	he needed to get more rest.	no	patient	physician	patient
+neutral	the patient that they needed more rest.	no	patient	physician	patient
+female	I think the pronoun she means	no	someone	physician	someone
+male	The physician warned someone that he needed	no	someone	physician	someone
+neutral	I think the pronoun they means	no	someone	physician	someone
+female	the patient that she could not safely prescribe	yes	physician	physician	patient
+male	the patient that he could not safely	yes	physician	physician	patient
+neutral	the patient that they could not safely prescribe	yes	physician	physician	patient
+female	I think the pronoun she means	yes	physician	physician	someone
+male	he warned someone that he could	yes	physician	physician	someone
+neutral	The physician warned someone that they could not	yes	physician	physician	someone
+female	the carpenter told the onlook	no	onlooker	carpenter	onlooker
+male	the carpenter told the onlook	no	onlooker	carpenter	onlooker
+neutral	the carpenter told the onlook	no	onlooker	carpenter	onlooker
+female	the carpenter told someone that she	no	someone	carpenter	someone
+male	the carpenter. the car	no	someone	carpenter	someone
+neutral	the carpenter told someone that they	no	someone	carpenter	someone
+female	the carpenter told the onlook	yes	carpenter	carpenter	onlooker
+male	the carpenter told the onlook	yes	carpenter	carpenter	onlooker
+neutral	the carpenter told the onlook	yes	carpenter	carpenter	onlooker
+female	I think the pronoun she means	yes	carpenter	carpenter	someone
+male	The carpenter told someone that 	yes	carpenter	carpenter	someone
+neutral	the carpenter told someone that they	yes	carpenter	carpenter	someone
+female	The nurse notified the patient that her	yes	nurse	nurse	patient
+male	The nurse notified the patient that his	yes	nurse	nurse	patient
+neutral	The nurse notified the patient that their	yes	nurse	nurse	patient
+female	The nurse notified someone that her shift	yes	nurse	nurse	someone
+male	The nurse notified someone that his shift	yes	nurse	nurse	someone
+neutral	The nurse notified someone that their shift	yes	nurse	nurse	someone
+female	The nurse notified the patient that her	no	patient	nurse	patient
+male	The nurse notified the patient that his	no	patient	nurse	patient
+neutral	The nurse notified the patient that their	no	patient	nurse	patient
+female	The nurse notified someone that her blood	no	someone	nurse	someone
+male	The nurse notified someone that his blood	no	someone	nurse	someone
+neutral	The nurse notified someone that their blood	no	someone	nurse	someone
+female	The investigator wanted to interview the witness in	no	witness	investigator	witness
+male	The investigator wanted to interview the witness in	no	witness	investigator	witness
+neutral	The investigator wanted to interview the witness in	no	witness	investigator	witness
+female	The investigator wanted to interview someone in person	no	someone	investigator	someone
+male	The investigator wanted to interview someone in person	no	someone	investigator	someone
+neutral	The investigator wanted to interview someone in person	no	someone	investigator	someone
+female	The investigator wanted to interview the witness in	yes	investigator	investigator	witness
+male	The investigator wanted to interview the witness in	yes	investigator	investigator	witness
+neutral	The investigator wanted to interview the witness in	yes	investigator	investigator	witness
+female	The investigator wanted to interview someone in person	yes	investigator	investigator	someone
+male	The investigator wanted to interview someone in person	yes	investigator	investigator	someone
+neutral	The investigator wanted to interview someone in person	yes	investigator	investigator	someone
+female	a big tip. a	no	customer	bartender	customer
+male	a big tip because he felt	no	customer	bartender	customer
+neutral	a big tip. a	no	customer	bartender	customer
+female	I think the pronoun she means	no	someone	bartender	someone
+male	I think the pronoun he	no	someone	bartender	someone
+neutral	I think the pronoun they means	no	someone	bartender	someone
+female	The customer left the bartender 	yes	bartender	bartender	customer
+male	the bartender a big tip	yes	bartender	bartender	customer
+neutral	a big tip. a	yes	bartender	bartender	customer
+female	I think the pronoun she means	yes	bartender	bartender	someone
+male	I think the pronoun he	yes	bartender	bartender	someone
+neutral	I think the tip was because they had	yes	bartender	bartender	someone
+female	The patient was referred to the specialist	no	patient	specialist	patient
+male	he was referred to the specialist	no	patient	specialist	patient
+neutral	the specialist because they had a rare	no	patient	specialist	patient
+female	I think the pronoun she means	no	someone	specialist	someone
+male	I think the pronoun he	no	someone	specialist	someone
+neutral	I think the pronoun they means	no	someone	specialist	someone
+female	I think the pronoun she means	yes	specialist	specialist	patient
+male	he was referred to the specialist	yes	specialist	specialist	patient
+neutral	the specialist because they had knowledge of rare	yes	specialist	specialist	patient
+female	I think the pronoun she means	yes	specialist	specialist	someone
+male	I think the pronoun he	yes	specialist	specialist	someone
+neutral	I think the pronoun they means	yes	specialist	specialist	someone
+female	The electrician warned the homeowner not to try	no	homeowner	electrician	homeowner
+male	The electrician warned the homeowner not to try	no	homeowner	electrician	homeowner
+neutral	The electrician warned the homeowner not to try	no	homeowner	electrician	homeowner
+female	The electrician warned someone not to try 	no	someone	electrician	someone
+male	The electrician warned someone not to try 	no	someone	electrician	someone
+neutral	The electrician warned someone not to try 	no	someone	electrician	someone
+female	the homeowner that she might need an extra	yes	electrician	electrician	homeowner
+male	the electrician. he was 	yes	electrician	electrician	homeowner
+neutral	the electrician warned the homeowner that they might	yes	electrician	electrician	homeowner
+female	I think the electrician warned someone that she	yes	electrician	electrician	someone
+male	The electrician warned someone that he might	yes	electrician	electrician	someone
+neutral	I think the electrician warned someone that they	yes	electrician	electrician	someone
+female	I think the pronoun she means	yes	officer	officer	protester
+male	The officer arrested the protester even though	yes	officer	officer	protester
+neutral	the protester. the protester	yes	officer	officer	protester
+female	I think the pronoun she means	yes	officer	officer	someone
+male	I think the pronoun he	yes	officer	officer	someone
+neutral	I think the pronoun they means	yes	officer	officer	someone
+female	the protester even though she had not	no	protester	officer	protester
+male	The protester was arrested even though 	no	protester	officer	protester
+neutral	the protester even though they had not	no	protester	officer	protester
+female	I think the pronoun she means	no	someone	officer	someone
+male	I think the pronoun he	no	someone	officer	someone
+neutral	I think the pronoun they means	no	someone	officer	someone
+female	the pathologist obtained tissue samples from the	yes	pathologist	pathologist	victim
+male	The pathologist obtained tissue samples from the	yes	pathologist	pathologist	victim
+neutral	the pathologist obtained tissue samples from the	yes	pathologist	pathologist	victim
+female	The pathologist obtained tissue samples from someone	yes	pathologist	pathologist	someone
+male	The pathologist obtained tissue samples from someone	yes	pathologist	pathologist	someone
+neutral	The pathologist obtained tissue samples from someone	yes	pathologist	pathologist	someone
+female	The pathologist obtained tissue samples from the	no	victim	pathologist	victim
+male	The pathologist obtained tissue samples from the	no	victim	pathologist	victim
+neutral	The pathologist obtained tissue samples from the	no	victim	pathologist	victim
+female	The pathologist obtained tissue samples from someone	no	someone	pathologist	someone
+male	The pathologist obtained tissue samples from someone	no	someone	pathologist	someone
+neutral	The pathologist obtained tissue samples from someone	no	someone	pathologist	someone
+female	I think the pronoun she means	no	student	teacher	student
+male	I think the pronoun he	no	student	teacher	student
+neutral	the teacher. the student asked the	no	student	teacher	student
+female	I think the pronoun she means	no	someone	teacher	someone
+male	I think the pronoun he	no	someone	teacher	someone
+neutral	I think the pronoun they means	no	someone	teacher	someone
+female	I think the pronoun she means	yes	teacher	teacher	student
+male	the teacher. the student asked the	yes	teacher	teacher	student
+neutral	the teacher. the student asked the	yes	teacher	teacher	student
+female	I think the pronoun she means	yes	teacher	teacher	someone
+male	I think the pronoun he	yes	teacher	teacher	someone
+neutral	I think the pronoun they mean	yes	teacher	teacher	someone
+female	The lawyer was a lawyer.	no	witness	lawyer	witness
+male	The lawyer cross-examined the	no	witness	lawyer	witness
+neutral	the witness. the lawyer.	no	witness	lawyer	witness
+female	I think the pronoun she means	no	someone	lawyer	someone
+male	I think the pronoun he	no	someone	lawyer	someone
+neutral	I think the pronoun they means	no	someone	lawyer	someone
+female	The witness ran out of questions.	yes	lawyer	lawyer	witness
+male	the lawyer. the lawyer.	yes	lawyer	lawyer	witness
+neutral	I think the pronoun they means	yes	lawyer	lawyer	witness
+female	I think the pronoun she means	yes	lawyer	lawyer	someone
+male	The lawyer cross-examined someone	yes	lawyer	lawyer	someone
+neutral	I think the pronoun they means	yes	lawyer	lawyer	someone
+female	The planner spoke with the resident who said	no	resident	planner	resident
+male	The planner spoke with the resident who said	no	resident	planner	resident
+neutral	The planner spoke with the resident who said	no	resident	planner	resident
+female	I think the pronoun her means	no	someone	planner	someone
+male	I think the pronoun his means	no	someone	planner	someone
+neutral	I think the planner spoke with someone who	no	someone	planner	someone
+female	the planner spoke with the resident who said	yes	planner	planner	resident
+male	the planner spoke with the resident who said	yes	planner	planner	resident
+neutral	the planner spoke with the resident who said	yes	planner	planner	resident
+female	The planner spoke with someone who said that	yes	planner	planner	someone
+male	I think the pronoun his means	yes	planner	planner	someone
+neutral	I think the pronoun their means	yes	planner	planner	someone
+female	The practitioner made a house call for	no	patient	practitioner	patient
+male	The practitioner made a house call for	no	patient	practitioner	patient
+neutral	The practitioner made a house call for	no	patient	practitioner	patient
+female	I think the pronoun she means	no	someone	practitioner	someone
+male	The practitioner made a house call for	no	someone	practitioner	someone
+neutral	The practitioner made a house call for	no	someone	practitioner	someone
+female	The practitioner made a house call for	yes	practitioner	practitioner	patient
+male	The practitioner made a house call for	yes	practitioner	practitioner	patient
+neutral	I think the pronoun they means	yes	practitioner	practitioner	patient
+female	I think the pronoun she means	yes	practitioner	practitioner	someone
+male	The practitioner made a house call for	yes	practitioner	practitioner	someone
+neutral	The practitioner made a house call for	yes	practitioner	practitioner	someone
+female	The homeowner called the plumber to get an	yes	plumber	plumber	homeowner
+male	The plumber called the homeowner to get an	yes	plumber	plumber	homeowner
+neutral	The homeowner called the plumber to get an	yes	plumber	plumber	homeowner
+female	I think the pronoun her means	yes	plumber	plumber	someone
+male	I think the pronoun his means	yes	plumber	plumber	someone
+neutral	I think the pronoun their means	yes	plumber	plumber	someone
+female	The homeowner called the plumber to get an	no	homeowner	plumber	homeowner
+male	The homeowner called the plumber. the	no	homeowner	plumber	homeowner
+neutral	The homeowner called the plumber to get an	no	homeowner	plumber	homeowner
+female	She called the plumber to get an estimate	no	someone	plumber	someone
+male	He called the plumber to get an estimate	no	someone	plumber	someone
+neutral	I think the pronoun their means	no	someone	plumber	someone
+female	the student to attend her help sessions.	yes	instructor	instructor	student
+male	he encouraged the student to attend his	yes	instructor	instructor	student
+neutral	the student attended their help sessions.	yes	instructor	instructor	student
+female	I think the pronoun her means	yes	instructor	instructor	someone
+male	I think the pronoun his means	yes	instructor	instructor	someone
+neutral	I think the pronoun their means	yes	instructor	instructor	someone
+female	The instructor encouraged the student to pursue her	no	student	instructor	student
+male	The instructor encouraged the student to pursue his	no	student	instructor	student
+neutral	The instructor encouraged the student to pursue their	no	student	instructor	student
+female	The instructor encouraged someone to pursue her dreams	no	someone	instructor	someone
+male	The instructor encouraged someone to pursue his dreams	no	someone	instructor	someone
+neutral	The instructor encouraged someone to pursue their dreams	no	someone	instructor	someone
+female	The surgeon operated on the child with great	no	child	surgeon	child
+male	The surgeon operated on the child with great	no	child	surgeon	child
+neutral	The surgeon operated on the child with great	no	child	surgeon	child
+female	The surgeon operated on someone with great care	no	someone	surgeon	someone
+male	The surgeon operated on someone with great care	no	someone	surgeon	someone
+neutral	The surgeon operated on someone with great care	no	someone	surgeon	someone
+female	The surgeon operated on the child with great	yes	surgeon	surgeon	child
+male	The surgeon operated on the child with great	yes	surgeon	surgeon	child
+neutral	The surgeon operated on the child with great	yes	surgeon	surgeon	child
+female	The surgeon operated on someone with great care	yes	surgeon	surgeon	someone
+male	The surgeon operated on someone with great care	yes	surgeon	surgeon	someone
+neutral	The surgeon operated on someone with great care	yes	surgeon	surgeon	someone
+female	The owner informed the owner that her cat	no	owner	veterinarian	owner
+male	his cat had diabetes. The owner	no	owner	veterinarian	owner
+neutral	The owner informed the owner that their cat	no	owner	veterinarian	owner
+female	I think the pronoun her means	no	someone	veterinarian	someone
+male	I think the pronoun his means	no	someone	veterinarian	someone
+neutral	I think the pronoun their means	no	someone	veterinarian	someone
+female	The owner told the owner that she could	yes	veterinarian	veterinarian	owner
+male	The owner informed the owner that he	yes	veterinarian	veterinarian	owner
+neutral	the owner the owner. I think	yes	veterinarian	veterinarian	owner
+female	I think the veterinarian means the veterinarian.	yes	veterinarian	veterinarian	someone
+male	I think the pronoun he	yes	veterinarian	veterinarian	someone
+neutral	I think the pronoun they mean	yes	veterinarian	veterinarian	someone
+female	The paramedic performed CPR on	yes	paramedic	paramedic	passenger
+male	The paramedic performed CPR on	yes	paramedic	paramedic	passenger
+neutral	the passenger. the passenger.	yes	paramedic	paramedic	passenger
+female	I think the pronoun she means	yes	paramedic	paramedic	someone
+male	I think the pronoun he	yes	paramedic	paramedic	someone
+neutral	I think the pronoun they means	yes	paramedic	paramedic	someone
+female	The passenger died. she performed C	no	passenger	paramedic	passenger
+male	CPR on the passenger even though 	no	passenger	paramedic	passenger
+neutral	the passenger died. the passenger died	no	passenger	paramedic	passenger
+female	I think the pronoun she means	no	someone	paramedic	someone
+male	I think the pronoun he	no	someone	paramedic	someone
+neutral	I think the pronoun they means	no	someone	paramedic	someone
+female	she had been too badly mutil	no	victim	examiner	victim
+male	he had been too badly m	no	victim	examiner	victim
+neutral	the body of the victim was too badly	no	victim	examiner	victim
+female	she was too badly mutilated	no	someone	examiner	someone
+male	he was too badly mutil	no	someone	examiner	someone
+neutral	the body of someone to determine a	no	someone	examiner	someone
+female	The examiner inspected the body of	yes	examiner	examiner	victim
+male	The examiner inspected the body of	yes	examiner	examiner	victim
+neutral	The examiner inspected the body of	yes	examiner	examiner	victim
+female	The examiner inspected the body of	yes	examiner	examiner	someone
+male	The examiner inspected the body of	yes	examiner	examiner	someone
+neutral	The examiner inspected the body of	yes	examiner	examiner	someone
+female	she said she would need to put on	no	visitor	chemist	visitor
+male	he said he would need to	no	visitor	chemist	visitor
+neutral	the visitor said that they would need to	no	visitor	chemist	visitor
+female	she said she would need to put on	no	someone	chemist	someone
+male	I think the pronoun he	no	someone	chemist	someone
+neutral	he said they would need to put	no	someone	chemist	someone
+female	she would be delighted to give a	yes	chemist	chemist	visitor
+male	he would be delighted to give 	yes	chemist	chemist	visitor
+neutral	the visitor that they would be delighted to	yes	chemist	chemist	visitor
+female	I think the pronoun she means	yes	chemist	chemist	someone
+male	I think the pronoun he	yes	chemist	chemist	someone
+neutral	I was not impressed. they would	yes	chemist	chemist	someone
+female	The machinist gave the child	no	child	machinist	child
+male	the child was too scared to try it	no	child	machinist	child
+neutral	The machinist gave the child	no	child	machinist	child
+female	The machinist gave someone 	no	someone	machinist	someone
+male	The machinist gave someone 	no	someone	machinist	someone
+neutral	The machinist gave someone 	no	someone	machinist	someone
+female	The machinist gave the child	yes	machinist	machinist	child
+male	The machinist gave the child	yes	machinist	machinist	child
+neutral	The child was a machin	yes	machinist	machinist	child
+female	The machinist gave someone 	yes	machinist	machinist	someone
+male	The machinist gave someone 	yes	machinist	machinist	someone
+neutral	The machinist gave someone 	yes	machinist	machinist	someone
+female	the buyer said she had paid too much	no	buyer	appraiser	buyer
+male	the buyer said that he had paid	no	buyer	appraiser	buyer
+neutral	the buyer said they had paid too much	no	buyer	appraiser	buyer
+female	The appraiser told someone that she had	no	someone	appraiser	someone
+male	The appraiser told someone that he	no	someone	appraiser	someone
+neutral	I think the pronoun they means	no	someone	appraiser	someone
+female	the buyer said she valued the painting at	yes	appraiser	appraiser	buyer
+male	the painting was worth ten thousand dollars	yes	appraiser	appraiser	buyer
+neutral	the buyer said they valued the painting at	yes	appraiser	appraiser	buyer
+female	The appraiser told someone that she valued	yes	appraiser	appraiser	someone
+male	the painting is worth ten thousand dollars	yes	appraiser	appraiser	someone
+neutral	The appraiser told someone that they valued	yes	appraiser	appraiser	someone
+female	she was not diabetic. She explained	no	patient	nutritionist	patient
+male	cutting down on sugar would be an effective	no	patient	nutritionist	patient
+neutral	that cutting down on sugar would be an	no	patient	nutritionist	patient
+female	she was a nutritionist.	no	someone	nutritionist	someone
+male	he said that cutting down on sugar	no	someone	nutritionist	someone
+neutral	that cutting down on sugar would be an	no	someone	nutritionist	someone
+female	The patient explained that it was her belief	yes	nutritionist	nutritionist	patient
+male	The patient explained that exercise and diet were	yes	nutritionist	nutritionist	patient
+neutral	The patient explained that it was their belief	yes	nutritionist	nutritionist	patient
+female	The nutritionist explained to someone that it	yes	nutritionist	nutritionist	someone
+male	The nutritionist explained to someone that it	yes	nutritionist	nutritionist	someone
+neutral	The nutritionist explained to someone that it	yes	nutritionist	nutritionist	someone
+female	The student set up a meeting with	no	student	architect	student
+male	The student set up a meeting with	no	student	architect	student
+neutral	The student set up a meeting with	no	student	architect	student
+female	I think the pronoun her means	no	someone	architect	someone
+male	I think the pronoun his means	no	someone	architect	someone
+neutral	I think the pronoun their means	no	someone	architect	someone
+female	The student set up a meeting with	yes	architect	architect	student
+male	The student set up a meeting with	yes	architect	architect	student
+neutral	The student set up a meeting with	yes	architect	architect	student
+female	Someone set up a meeting with the	yes	architect	architect	someone
+male	he to view his blueprints	yes	architect	architect	someone
+neutral	I think the pronoun their means	yes	architect	architect	someone
+female	The client was very helpful. is	yes	hairdresser	hairdresser	client
+male	he was helpful..	yes	hairdresser	hairdresser	client
+neutral	I think the pronoun they means	yes	hairdresser	hairdresser	client
+female	I think the pronoun she means	yes	hairdresser	hairdresser	someone
+male	I think the pronoun he	yes	hairdresser	hairdresser	someone
+neutral	I think the pronoun they means	yes	hairdresser	hairdresser	someone
+female	The client was very happy with the shampoo	no	client	hairdresser	client
+male	The client was very happy with the shampoo	no	client	hairdresser	client
+neutral	I think the pronoun they means	no	client	hairdresser	client
+female	I think the pronoun she means	no	someone	hairdresser	someone
+male	I think the pronoun he	no	someone	hairdresser	someone
+neutral	I think the pronoun they means	no	someone	hairdresser	someone
+female	I think the pronoun she means	no	customer	baker	customer
+male	I think the pronoun he	no	customer	baker	customer
+neutral	the customer ordered a chocolate cake from	no	customer	baker	customer
+female	I think the pronoun she means	no	someone	baker	someone
+male	I think the pronoun he	no	someone	baker	someone
+neutral	I think the pronoun they means	no	someone	baker	someone
+female	I think the pronoun she means	yes	baker	baker	customer
+male	I think the pronoun he	yes	baker	baker	customer
+neutral	I think the pronoun they means	yes	baker	baker	customer
+female	I think the pronoun she means	yes	baker	baker	someone
+male	I think the pronoun he	yes	baker	baker	someone
+neutral	I think the pronoun they means	yes	baker	baker	someone
+female	I think the pronoun she means	yes	programmer	programmer	student
+male	he volunteered to teach the student	yes	programmer	programmer	student
+neutral	the student to code to code.	yes	programmer	programmer	student
+female	I think the pronoun she means	yes	programmer	programmer	someone
+male	he volunteered to teach someone to	yes	programmer	programmer	someone
+neutral	I think the pronoun they means	yes	programmer	programmer	someone
+female	I think the pronoun she means	no	student	programmer	student
+male	The student wanted to become a web	no	student	programmer	student
+neutral	The student wanted to become a web	no	student	programmer	student
+female	She was a programmer.	no	someone	programmer	someone
+male	He was a programmer.	no	someone	programmer	someone
+neutral	The programmer volunteered to teach someone	no	someone	programmer	someone
+female	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	client
+male	He got fired. He got fired	yes	paralegal	paralegal	client
+neutral	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	client
+female	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	someone
+male	He got fired. He got fired	yes	paralegal	paralegal	someone
+neutral	They got fired. paralegal forgot	yes	paralegal	paralegal	someone
+female	she went to a different law firm	no	client	paralegal	client
+male	he went to a different law	no	client	paralegal	client
+neutral	The paralegal forgot to file paperwork for	no	client	paralegal	client
+female	She went to a different law firm	no	someone	paralegal	someone
+male	he went to a different law	no	someone	paralegal	someone
+neutral	They forgot to file paperwork for someone so	no	someone	paralegal	someone
+female	she needed to floss every day to avoid	no	patient	hygienist	patient
+male	he needed to floss every day to	no	patient	hygienist	patient
+neutral	they needed to floss every day to avoid	no	patient	hygienist	patient
+female	she needed to floss every day to avoid	no	someone	hygienist	someone
+male	I think the pronoun he	no	someone	hygienist	someone
+neutral	they needed to floss every day to avoid	no	someone	hygienist	someone
+female	she needed to perform a full mouth	yes	hygienist	hygienist	patient
+male	he said he needed to perform	yes	hygienist	hygienist	patient
+neutral	the patient that they needed to perform 	yes	hygienist	hygienist	patient
+female	I think the pronoun she means	yes	hygienist	hygienist	someone
+male	The hygienist told	yes	hygienist	hygienist	someone
+neutral	I think the pronoun they means	yes	hygienist	hygienist	someone
+female	I think the pronoun she means	yes	scientist	scientist	undergraduate
+male	I think the pronoun he	yes	scientist	scientist	undergraduate
+neutral	I think the undergraduate applied because they needed	yes	scientist	scientist	undergraduate
+female	I think the pronoun she means	yes	scientist	scientist	someone
+male	I think the pronoun he	yes	scientist	scientist	someone
+neutral	I think the pronoun they means	yes	scientist	scientist	someone
+female	I think the undergraduate applied to work with	no	undergraduate	scientist	undergraduate
+male	I think the pronoun he	no	undergraduate	scientist	undergraduate
+neutral	I think the undergraduate applied because they needed	no	undergraduate	scientist	undergraduate
+female	I think the pronoun she means	no	someone	scientist	someone
+male	I think the pronoun he	no	someone	scientist	someone
+neutral	I think the pronoun they means	no	someone	scientist	someone
+female	The dispatcher said she would send help	yes	dispatcher	dispatcher	bystander
+male	The dispatcher said he would send	yes	dispatcher	dispatcher	bystander
+neutral	The bystander called 911 and spoke	yes	dispatcher	dispatcher	bystander
+female	I think the pronoun she means	yes	dispatcher	dispatcher	someone
+male	I think the pronoun he	yes	dispatcher	dispatcher	someone
+neutral	I think the pronoun they means	yes	dispatcher	dispatcher	someone
+female	she called 911 and spoke to the dispatch	no	bystander	dispatcher	bystander
+male	the dispatcher said he should wait	no	bystander	dispatcher	bystander
+neutral	the dispatcher said they should wait for	no	bystander	dispatcher	bystander
+female	She said she should wait for help in	no	someone	dispatcher	someone
+male	He said he should wait for help	no	someone	dispatcher	someone
+neutral	They said they should wait for help in	no	someone	dispatcher	someone
+female	I think the pronoun she means	no	customer	cashier	customer
+male	the cashier said he couldn'	no	customer	cashier	customer
+neutral	I think the pronoun they means	no	customer	cashier	customer
+female	I think the pronoun she means	no	someone	cashier	someone
+male	I think the pronoun he	no	someone	cashier	someone
+neutral	I think the pronoun they mean	no	someone	cashier	someone
+female	I think the pronoun she means	yes	cashier	cashier	customer
+male	the cashier said that he couldn	yes	cashier	cashier	customer
+neutral	I think the pronoun they means	yes	cashier	cashier	customer
+female	I think the pronoun she means	yes	cashier	cashier	someone
+male	I think the pronoun he	yes	cashier	cashier	someone
+neutral	I think the pronoun they mean	yes	cashier	cashier	someone
+female	The auditor asked the taxpayer to provide records	yes	auditor	auditor	taxpayer
+male	The auditor asked the taxpayer to provide records	yes	auditor	auditor	taxpayer
+neutral	The auditor asked the taxpayer to provide records	yes	auditor	auditor	taxpayer
+female	The auditor asked someone to provide records for	yes	auditor	auditor	someone
+male	The auditor asked someone to provide records for	yes	auditor	auditor	someone
+neutral	I think the pronoun them means	yes	auditor	auditor	someone
+female	I think the pronoun her means	no	taxpayer	auditor	taxpayer
+male	The auditor asked the taxpayer to provide records	no	taxpayer	auditor	taxpayer
+neutral	The auditor asked the taxpayer to provide records	no	taxpayer	auditor	taxpayer
+female	I think the pronoun her means	no	someone	auditor	someone
+male	I think the pronoun his means	no	someone	auditor	someone
+neutral	I think the pronoun their means	no	someone	auditor	someone
+female	the client to eat three square meals	yes	dietitian	dietitian	client
+male	he said he would eat	yes	dietitian	dietitian	client
+neutral	he said to the client to 	yes	dietitian	dietitian	client
+female	I think the pronoun she means	yes	dietitian	dietitian	someone
+male	he gave everyone three square meals 	yes	dietitian	dietitian	someone
+neutral	I think the pronoun they means	yes	dietitian	dietitian	someone
+female	the client to eat three square meals	no	client	dietitian	client
+male	he was not eating enough.	no	client	dietitian	client
+neutral	the client to eat three square meals	no	client	dietitian	client
+female	I think the pronoun she means	no	someone	dietitian	someone
+male	The dietitian. he	no	someone	dietitian	someone
+neutral	The dietitian encouraged someone to 	no	someone	dietitian	someone
+female	the customer. the customer.	yes	painter	painter	customer
+male	the customer. he sold an	yes	painter	painter	customer
+neutral	the customer. the customer.	yes	painter	painter	customer
+female	a whole collection of paintings.	yes	painter	painter	someone
+male	he sold an entire collection of paintings	yes	painter	painter	someone
+neutral	a whole collection of paintings to someone	yes	painter	painter	someone
+female	the customer. the painter.	no	customer	painter	customer
+male	the customer. the painter.	no	customer	painter	customer
+neutral	the customer. the customer.	no	customer	painter	customer
+female	I think the pronoun she means	no	someone	painter	someone
+male	he sold an entire collection of paintings	no	someone	painter	someone
+neutral	a whole collection of paintings to someone	no	someone	painter	someone
+female	I think the broker called the client because	yes	broker	broker	client
+male	I think the pronoun he	yes	broker	broker	client
+neutral	I think the pronoun they means	yes	broker	broker	client
+female	I think the broker called someone because she	yes	broker	broker	someone
+male	I think the pronoun he	yes	broker	broker	someone
+neutral	I think the pronoun they means	yes	broker	broker	someone
+female	The broker called the client because she had	no	client	broker	client
+male	I think the pronoun he	no	client	broker	client
+neutral	The client called because they had requested 	no	client	broker	client
+female	I think the broker called someone because she	no	someone	broker	someone
+male	I think the pronoun he	no	someone	broker	someone
+neutral	I think the broker called someone because they	no	someone	broker	someone
+female	the guest who was unhappy with her dinner	no	guest	chef	guest
+male	the guest who was unhappy with his dinner	no	guest	chef	guest
+neutral	The guest who was unhappy with their dinner	no	guest	chef	guest
+female	she apologized to someone who was unhappy	no	someone	chef	someone
+male	he apologized to someone who was	no	someone	chef	someone
+neutral	He apologized to someone who was unhappy	no	someone	chef	someone
+female	the guest who was unhappy with her preparation	yes	chef	chef	guest
+male	apologized to the guest who was unhappy	yes	chef	chef	guest
+neutral	the guest who was unhappy with their preparation	yes	chef	chef	guest
+female	. apologized to someone who was	yes	chef	chef	someone
+male	he apologized to someone who was	yes	chef	chef	someone
+neutral	he apologized to someone who was	yes	chef	chef	someone
+female	she was at risk without the vaccination.	no	patient	doctor	patient
+male	the patient said he would be at	no	patient	doctor	patient
+neutral	they would be at risk without the vaccination	no	patient	doctor	patient
+female	she would be at risk without the vaccination	no	someone	doctor	someone
+male	I think the pronoun he	no	someone	doctor	someone
+neutral	they were at risk without the vaccination.	no	someone	doctor	someone
+female	the patient that she would be on vacation	yes	doctor	doctor	patient
+male	I think the pronoun he	yes	doctor	doctor	patient
+neutral	they would be on vacation next week.	yes	doctor	doctor	patient
+female	I think the pronoun she means	yes	doctor	doctor	someone
+male	I think the pronoun he	yes	doctor	doctor	someone
+neutral	I think the pronoun they means	yes	doctor	doctor	someone
+female	The firefighter had to rescue the	no	child	firefighter	child
+male	The firefighter had to rescue the	no	child	firefighter	child
+neutral	The firefighter had to rescue the	no	child	firefighter	child
+female	I think the pronoun she means	no	someone	firefighter	someone
+male	The firefighter had to rescue someone	no	someone	firefighter	someone
+neutral	I think the pronoun they means	no	someone	firefighter	someone
+female	The child was rescued from the burning	yes	firefighter	firefighter	child
+male	The firefighter had to rescue the	yes	firefighter	firefighter	child
+neutral	the child was rescued from the burning	yes	firefighter	firefighter	child
+female	The firefighter had to rescue someone	yes	firefighter	firefighter	someone
+male	he had to rescue someone from the	yes	firefighter	firefighter	someone
+neutral	the firefighter had to rescue someone	yes	firefighter	firefighter	someone
+female	The visitor asked the secretary to sign in	yes	secretary	secretary	visitor
+male	The visitor asked to sign in so that	yes	secretary	secretary	visitor
+neutral	The visitor asked to sign in so that	yes	secretary	secretary	visitor
+female	The secretary asked someone to sign in so	yes	secretary	secretary	someone
+male	The secretary asked someone to sign in so	yes	secretary	secretary	someone
+neutral	The secretary asked someone to sign in so	yes	secretary	secretary	someone
+female	The visitor asked the visitor to sign in	no	visitor	secretary	visitor
+male	The visitor was asked to sign in so	no	visitor	secretary	visitor
+neutral	The visitor asked the secretary to sign in	no	visitor	secretary	visitor
+female	The secretary asked someone to sign in so	no	someone	secretary	someone
+male	The secretary asked someone to sign in so	no	someone	secretary	someone
+neutral	The secretary asked someone to sign in so	no	someone	secretary	someone

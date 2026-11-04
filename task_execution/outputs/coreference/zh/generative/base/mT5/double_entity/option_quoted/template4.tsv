@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0>她’可以用‘	顾客	技术员	顾客
+male	<extra_id_0>顾客他可以用’	顾客	技术员	顾客
+neutral	<extra_id_0>顾客TA可以用支付’	顾客	技术员	顾客
+female	<extra_id_0> 她可以用支付’	某人	技术员	某人
+male	<extra_id_0>他可以用支付’	某人	技术员	某人
+neutral	<extra_id_0>TA’上列词中,	某人	技术员	某人
+female	<extra_id_0> 技术员顾客她已完成	技术员	技术员	顾客
+male	<extra_id_0>顾客他已完成修复’	技术员	技术员	顾客
+neutral	<extra_id_0>TA’上列词后	技术员	技术员	顾客
+female	<extra_id_0>人她已完成’ ’	技术员	技术员	某人
+male	<extra_id_0>人他已完成‘某人	技术员	技术员	某人
+neutral	<extra_id_0>TA已完成修复修复’	技术员	技术员	某人
+female	<extra_id_0>纳税人 - 中国企业	纳税人	会计	纳税人
+male	<extra_id_0>纳税人 纳税人	纳税人	会计	纳税人
+neutral	<extra_id_0>纳税人 - 纳税人	纳税人	会计	纳税人
+female	<extra_id_0> 某人’的’	某人	会计	某人
+male	<extra_id_0>人 - 《某人	某人	会计	某人
+neutral	<extra_id_0>的代词‘某人	某人	会计	某人
+female	<extra_id_0>税人’上句中的‘	会计	会计	纳税人
+male	<extra_id_0>税人 - 纳税人	会计	会计	纳税人
+neutral	<extra_id_0>TA’上句中的‘	会计	会计	纳税人
+female	<extra_id_0>人’的‘某人’	会计	会计	某人
+male	<extra_id_0> 他’可以替换	会计	会计	某人
+neutral	<extra_id_0>词典, 翻译成	会计	会计	某人
+female	<extra_id_0>员工的’上句中的 <extra_id_1>员工的’	员工	主管	员工
+male	<extra_id_0>员工向主管向员工向主管	员工	主管	员工
+neutral	<extra_id_0>员工的代词 – 铁血网	员工	主管	员工
+female	<extra_id_0>人‘的上句式。	某人	主管	某人
+male	<extra_id_0> 某人 为 某人	某人	主管	某人
+neutral	<extra_id_0>来宾的出色表现	某人	主管	某人
+female	<extra_id_0>员工的’上句中的解释	主管	主管	员工
+male	<extra_id_0>员工向员工 员工向员工	主管	主管	员工
+neutral	<extra_id_0>员工向员工 员工 员工	主管	主管	员工
+female	<extra_id_0>‘某人’上句中的 <extra_id_1>‘人’	主管	主管	某人
+male	<extra_id_0>人向下句中的	主管	主管	某人
+neutral	<extra_id_0>人向一个管理的管理	主管	主管	某人
+female	<extra_id_0>工程师 工程师 工程师	工程师	工程师	客户
+male	<extra_id_0>工程师通知他需要更多项目	工程师	工程师	客户
+neutral	<extra_id_0>词的翻译成‘工程师’	工程师	工程师	客户
+female	<extra_id_0>人 - 英语学习网	工程师	工程师	某人
+male	<extra_id_0>他需要完成的项目’	工程师	工程师	某人
+neutral	<extra_id_0>工程师通知人 - 工程师	工程师	工程师	某人
+female	<extra_id_0>工程师通知她需要按时支付	客户	工程师	客户
+male	<extra_id_0>他’可以替换为工程师	客户	工程师	客户
+neutral	<extra_id_0>下列词名词解释为‘	客户	工程师	客户
+female	<extra_id_0>人 - 汉语翻译	某人	工程师	某人
+male	<extra_id_0>他需要按时支付’	某人	工程师	某人
+neutral	<extra_id_0>TA’上列词的翻译	某人	工程师	某人
+female	<extra_id_0>人她’的行人	行人	工人	行人
+male	<extra_id_0>人他应避开	行人	工人	行人
+neutral	<extra_id_0>行人应避开封	行人	工人	行人
+female	<extra_id_0>人’的封闭部分	某人	工人	某人
+male	<extra_id_0>人他 他 他	某人	工人	某人
+neutral	<extra_id_0>人 - 工人 -	某人	工人	某人
+female	<extra_id_0>人她正在修复人行人	工人	工人	行人
+male	<extra_id_0>人他正在修复人行人	工人	工人	行人
+neutral	<extra_id_0>人TA正在尽快修复人	工人	工人	行人
+female	<extra_id_0>人‘上句中的‘	工人	工人	某人
+male	<extra_id_0>人他正在尽快修复人行	工人	工人	某人
+neutral	<extra_id_0>人行行, 请注意	工人	工人	某人
+female	<extra_id_0>学生开会的‘教育工作者	学生	教育工作者	学生
+male	<extra_id_0>他的’上句中的词汇	学生	教育工作者	学生
+neutral	<extra_id_0>学生开会讨论TA的代词	学生	教育工作者	学生
+female	<extra_id_0>她的’可以替换为‘	某人	教育工作者	某人
+male	<extra_id_0>他 - 教育工作者	某人	教育工作者	某人
+neutral	<extra_id_0> 教育工作者 - 领头	某人	教育工作者	某人
+female	<extra_id_0>的‘教育工作者’的‘	教育工作者	教育工作者	学生
+male	<extra_id_0>学生开会的’上句	教育工作者	教育工作者	学生
+neutral	<extra_id_0>学生开会讨论TA的	教育工作者	教育工作者	学生
+female	<extra_id_0>’上句中所用词汇	教育工作者	教育工作者	某人
+male	<extra_id_0>人开会的‘教育工作者	教育工作者	教育工作者	某人
+neutral	<extra_id_0>,是教育工作者的代词	教育工作者	教育工作者	某人
+female	<extra_id_0>她’可以替换为’	顾客	店员	顾客
+male	<extra_id_0>’上句中的’顾客	顾客	店员	顾客
+neutral	<extra_id_0>TA’可以替换为顾客	顾客	店员	顾客
+female	<extra_id_0>她’可以替换为‘	某人	店员	某人
+male	<extra_id_0>人’的翻译,并用	某人	店员	某人
+neutral	<extra_id_0>TA’可以替换为‘	某人	店员	某人
+female	<extra_id_0>’上句中的‘顾客’	店员	店员	顾客
+male	<extra_id_0>’上句中的‘顾客’	店员	店员	顾客
+neutral	<extra_id_0>’上列词为‘顾客	店员	店员	顾客
+female	<extra_id_0>人’可以替换为‘	店员	店员	某人
+male	<extra_id_0>他’可以替换为他’	店员	店员	某人
+neutral	<extra_id_0>人‘店员提供文件给‘	店员	店员	某人
+female	<extra_id_0>病人’的‘咨询师’	咨询师	咨询师	病人
+male	<extra_id_0>病人’上句中的‘	咨询师	咨询师	病人
+neutral	<extra_id_0>TA’不得不’’上句’	咨询师	咨询师	病人
+female	<extra_id_0>人’的‘咨询师’	咨询师	咨询师	某人
+male	<extra_id_0>他’的‘咨询师’	咨询师	咨询师	某人
+neutral	<extra_id_0>TA不得不某些人’的’	咨询师	咨询师	某人
+female	<extra_id_0>她有滥用史’	病人	咨询师	病人
+male	<extra_id_0>他有滥用史’	病人	咨询师	病人
+neutral	<extra_id_0>咨询师’上句中的‘	病人	咨询师	病人
+female	<extra_id_0>咨询师’ 上句中	某人	咨询师	某人
+male	<extra_id_0>他有滥用史‘	某人	咨询师	某人
+neutral	<extra_id_0>TA有滥用史’	某人	咨询师	某人
+female	<extra_id_0> 房主 - 查看更多	房主	检测员	房主
+male	<extra_id_0> 房主 - 查看更多	房主	检测员	房主
+neutral	<extra_id_0>房主检测员TA购买	房主	检测员	房主
+female	<extra_id_0>人 - 英语词汇	某人	检测员	某人
+male	<extra_id_0> 他 - 翻译社	某人	检测员	某人
+neutral	<extra_id_0>的代词‘TA’	某人	检测员	某人
+female	<extra_id_0>房主检测员她是否违反任何	检测员	检测员	房主
+male	<extra_id_0>房主检测员他是否发现	检测员	检测员	房主
+neutral	<extra_id_0>房主检测员TA是否发现	检测员	检测员	房主
+female	<extra_id_0> 检测员她是否违反任何违反	检测员	检测员	某人
+male	<extra_id_0>他是否发现任何违反任何违反	检测员	检测员	某人
+neutral	<extra_id_0>‘检测员’的‘	检测员	检测员	某人
+female	<extra_id_0>顾客的车,顾客的车	顾客	机械工	顾客
+male	<extra_id_0>他的车早上修好	顾客	机械工	顾客
+neutral	<extra_id_0>TA的车早上修好	顾客	机械工	顾客
+female	<extra_id_0>人 机械工的车	某人	机械工	某人
+male	<extra_id_0>人他的车早上修好	某人	机械工	某人
+neutral	<extra_id_0>人TA的车修好	某人	机械工	某人
+female	<extra_id_0>’上句中的‘机械	机械工	机械工	顾客
+male	<extra_id_0>他已完成’的任务	机械工	机械工	顾客
+neutral	<extra_id_0>’上句中的‘机械工	机械工	机械工	顾客
+female	<extra_id_0>人 机械工 - 翻译	机械工	机械工	某人
+male	<extra_id_0>人他已完成’的	机械工	机械工	某人
+neutral	<extra_id_0>人TA已完成’上句	机械工	机械工	某人
+female	<extra_id_0>她’可以替换为‘顾客	经理	经理	顾客
+male	<extra_id_0>他能够解决费率	经理	经理	顾客
+neutral	<extra_id_0>TA’可以替换为为	经理	经理	顾客
+female	<extra_id_0> 她’可以替换	经理	经理	某人
+male	<extra_id_0>他’可以替换他’	经理	经理	某人
+neutral	<extra_id_0>TA’可以替换为‘某	经理	经理	某人
+female	<extra_id_0>她’可以替换为‘顾客	顾客	经理	顾客
+male	<extra_id_0>他希望解决费’	顾客	经理	顾客
+neutral	<extra_id_0>TA希望解决费’	顾客	经理	顾客
+female	<extra_id_0> 她’可以替换	某人	经理	某人
+male	<extra_id_0>他’可以替换为‘	某人	经理	某人
+neutral	<extra_id_0>TA’可以替换为‘某	某人	经理	某人
+female	<extra_id_0>她’的替换词	心理咨询师	心理咨询师	青少年
+male	<extra_id_0>他’的’上句’	心理咨询师	心理咨询师	青少年
+neutral	<extra_id_0>TA’的替换词	心理咨询师	心理咨询师	青少年
+female	<extra_id_0>她’的‘心理咨询师	心理咨询师	心理咨询师	某人
+male	<extra_id_0>他’的替换词	心理咨询师	心理咨询师	某人
+neutral	<extra_id_0>TA’的替换词	心理咨询师	心理咨询师	某人
+female	<extra_id_0>’ 的 用语。	青少年	心理咨询师	青少年
+male	<extra_id_0>咨询师倾诉’	青少年	心理咨询师	青少年
+neutral	<extra_id_0>咨询师倾诉’	青少年	心理咨询师	青少年
+female	<extra_id_0>倾向倾倒,	某人	心理咨询师	某人
+male	<extra_id_0>他’倾向倾倒。	某人	心理咨询师	某人
+neutral	<extra_id_0>TA’的关联词汇	某人	心理咨询师	某人
+female	<extra_id_0>本科生向她组织组织愿望	本科生	行政人员	本科生
+male	<extra_id_0>本科生向他组织组织愿	本科生	行政人员	本科生
+neutral	<extra_id_0>本科生向本科生	本科生	行政人员	本科生
+female	<extra_id_0>人’的“某人”	某人	行政人员	某人
+male	<extra_id_0>他组织的组织成员。	某人	行政人员	某人
+neutral	<extra_id_0>TA组织的请愿词	某人	行政人员	某人
+female	<extra_id_0>本科生’的’上句 <extra_id_1>’上句的意思	行政人员	行政人员	本科生
+male	<extra_id_0>本科生向本科生	行政人员	行政人员	本科生
+neutral	<extra_id_0>本科生向本科生	行政人员	行政人员	本科生
+female	<extra_id_0>人’的’上句’	行政人员	行政人员	某人
+male	<extra_id_0>人向他不知道愿望	行政人员	行政人员	某人
+neutral	<extra_id_0>,是为某人,	行政人员	行政人员	某人
+female	<extra_id_0>销售员她’上句中的 <extra_id_1>为销售员 <extra_id_2>为	销售员	销售员	顾客
+male	<extra_id_0>销售员他能否替换	销售员	销售员	顾客
+neutral	<extra_id_0>销售员TA’上句	销售员	销售员	顾客
+female	<extra_id_0>人 - 中国时间网	销售员	销售员	某人
+male	<extra_id_0>他’的定价	销售员	销售员	某人
+neutral	<extra_id_0>词的翻译成‘销售员	销售员	销售员	某人
+female	<extra_id_0>销售员她是否有相关外折扣	顾客	销售员	顾客
+male	<extra_id_0>’上列句中的词汇	顾客	销售员	顾客
+neutral	<extra_id_0>’上句中的词汇	顾客	销售员	顾客
+female	<extra_id_0> 她’的‘某人	某人	销售员	某人
+male	<extra_id_0>他’的折扣	某人	销售员	某人
+neutral	<extra_id_0> - 英语名词汇	某人	销售员	某人
+female	<extra_id_0>接待员她是否需要’	来访者	接待员	来访者
+male	<extra_id_0>接待员他是否需要’	来访者	接待员	来访者
+neutral	<extra_id_0>接待员TA是否需要	来访者	接待员	来访者
+female	<extra_id_0>接待员接待员接待员	某人	接待员	某人
+male	<extra_id_0>接待员他是否需要接待员	某人	接待员	某人
+neutral	<extra_id_0>接待员是否需要’上句中	某人	接待员	某人
+female	<extra_id_0>等待待机员’	接待员	接待员	来访者
+male	<extra_id_0>接待员他能否替换	接待员	接待员	来访者
+neutral	<extra_id_0>来访者接待员TA	接待员	接待员	来访者
+female	<extra_id_0>接待员她能否替换等待	接待员	接待员	某人
+male	<extra_id_0>接待员他能否替换等待	接待员	接待员	某人
+neutral	<extra_id_0>接待员TA能否等待等待’	接待员	接待员	某人
+female	<extra_id_0>’上句中的‘她	孩子	图书管理员	孩子
+male	<extra_id_0>’的’上句’	孩子	图书管理员	孩子
+neutral	<extra_id_0>TA’可以替换下列	孩子	图书管理员	孩子
+female	<extra_id_0>读后感’上句中的	某人	图书管理员	某人
+male	<extra_id_0>他’的’上句’	某人	图书管理员	某人
+neutral	<extra_id_0>TA’可以替换为‘	某人	图书管理员	某人
+female	<extra_id_0>’上句中的‘	图书管理员	图书管理员	孩子
+male	<extra_id_0>’上列词的来源	图书管理员	图书管理员	孩子
+neutral	<extra_id_0>’上列词的‘	图书管理员	图书管理员	孩子
+female	<extra_id_0>人 - 图书管理员	图书管理员	图书管理员	某人
+male	<extra_id_0>他’的’上句’	图书管理员	图书管理员	某人
+neutral	<extra_id_0>TA喜欢鼓励TA喜欢阅读’	图书管理员	图书管理员	某人
+female	<extra_id_0>指导者见面者	被指导者	导师	被指导者
+male	<extra_id_0>指导者见面时,	被指导者	导师	被指导者
+neutral	<extra_id_0>指导者见面时,	被指导者	导师	被指导者
+female	<extra_id_0> 她’的上句中相关词汇	某人	导师	某人
+male	<extra_id_0>他’的‘导师’	某人	导师	某人
+neutral	<extra_id_0>人见面会’上句中	某人	导师	某人
+female	<extra_id_0>指导者见面时,	导师	导师	被指导者
+male	<extra_id_0>指导者见面者	导师	导师	被指导者
+neutral	<extra_id_0>指导者见面会	导师	导师	被指导者
+female	<extra_id_0> 她 是 她	导师	导师	某人
+male	<extra_id_0>他’可以替换为他	导师	导师	某人
+neutral	<extra_id_0>人见面会,	导师	导师	某人
+female	<extra_id_0>病人’ 药剂师	病人	药剂师	病人
+male	<extra_id_0>他应该一起服用药剂	病人	药剂师	病人
+neutral	<extra_id_0>TA’可以替换为‘	病人	药剂师	病人
+female	<extra_id_0> 她’ 可以替换	某人	药剂师	某人
+male	<extra_id_0> 药剂师 -	某人	药剂师	某人
+neutral	<extra_id_0>TA’可以替换为‘	某人	药剂师	某人
+female	<extra_id_0>食物’上句中的她	药剂师	药剂师	病人
+male	<extra_id_0>食物’上句中的‘	药剂师	药剂师	病人
+neutral	<extra_id_0>TA建议一起服用药剂师	药剂师	药剂师	病人
+female	<extra_id_0>人’ 可以替换为‘	药剂师	药剂师	某人
+male	<extra_id_0>他建议一起服用药剂	药剂师	药剂师	某人
+neutral	<extra_id_0>TA’可以替换为‘	药剂师	药剂师	某人
+female	<extra_id_0>人’可以替换为‘	孩子	看门人	孩子
+male	<extra_id_0>人’的“看门人	孩子	看门人	孩子
+neutral	<extra_id_0>人’的“看门人”	孩子	看门人	孩子
+female	<extra_id_0>人’可以替换为‘	某人	看门人	某人
+male	<extra_id_0>人’的“看门人”	某人	看门人	某人
+neutral	<extra_id_0>人, 看门人	某人	看门人	某人
+female	<extra_id_0>她’可以替换为下列	看门人	看门人	孩子
+male	<extra_id_0>他’可以替换为下列	看门人	看门人	孩子
+neutral	<extra_id_0>词‘TA’可以替换为下	看门人	看门人	孩子
+female	<extra_id_0>人’可以替换为‘	看门人	看门人	某人
+male	<extra_id_0>他’可以替换为‘	看门人	看门人	某人
+neutral	<extra_id_0>人’的原句 翻译	看门人	看门人	某人
+female	<extra_id_0>她’可以替换为‘	心理医生	心理医生	病人
+male	<extra_id_0>他’可以替换为他’	心理医生	心理医生	病人
+neutral	<extra_id_0>TA来进行评估’上句中	心理医生	心理医生	病人
+female	<extra_id_0>人 - 心理医生	心理医生	心理医生	某人
+male	<extra_id_0>他’可以替换为他	心理医生	心理医生	某人
+neutral	<extra_id_0>人 - 心理医生	心理医生	心理医生	某人
+female	<extra_id_0>她’的替换词	病人	心理医生	病人
+male	<extra_id_0>他’可以替换为他’	病人	心理医生	病人
+neutral	<extra_id_0>‘ 病人’上句中的词	病人	心理医生	病人
+female	<extra_id_0>人 - 心理医生	某人	心理医生	某人
+male	<extra_id_0>他’可以替换为他	某人	心理医生	某人
+neutral	<extra_id_0>人 - 心理医生	某人	心理医生	某人
+female	<extra_id_0>医生警告病人她需要更多	病人	内科医生	病人
+male	<extra_id_0>病人他需要更多’	病人	内科医生	病人
+neutral	<extra_id_0>病人’ 替换为‘	病人	内科医生	病人
+female	<extra_id_0>人她’ 替换	某人	内科医生	某人
+male	<extra_id_0>他’可以替换为‘	某人	内科医生	某人
+neutral	<extra_id_0>人TA需要更多’上句	某人	内科医生	某人
+female	<extra_id_0>‘内科医生警告‘病人	内科医生	内科医生	病人
+male	<extra_id_0>’上列词为‘	内科医生	内科医生	病人
+neutral	<extra_id_0>‘内科医生警告病人‘	内科医生	内科医生	病人
+female	<extra_id_0>人她无法安全开出	内科医生	内科医生	某人
+male	<extra_id_0>人他无法安全开出	内科医生	内科医生	某人
+neutral	<extra_id_0>人TA无法安全开出更高	内科医生	内科医生	某人
+female	<extra_id_0> 她’ 是 她	围观者	木匠	围观者
+male	<extra_id_0>他需要站在距离距离的距离’	围观者	木匠	围观者
+neutral	<extra_id_0>TA需要站在距离距离的 <extra_id_1>TA需要站在距离TA...	围观者	木匠	围观者
+female	<extra_id_0> 她 是 木匠	某人	木匠	某人
+male	<extra_id_0>他需要站在距离距离的距离,	某人	木匠	某人
+neutral	<extra_id_0>TA需要站在距离距离的距离 <extra_id_1>TA需要站在距离‘	某人	木匠	某人
+female	<extra_id_0> 她 为 围观者	木匠	木匠	围观者
+male	<extra_id_0>他’可以替换为‘	木匠	木匠	围观者
+neutral	<extra_id_0>TA已经为围观者	木匠	木匠	围观者
+female	<extra_id_0>为人所知,是为人 <extra_id_1>是为人所	木匠	木匠	某人
+male	<extra_id_0> 他 为 他 为	木匠	木匠	某人
+neutral	<extra_id_0>TA已经为所房子了	木匠	木匠	某人
+female	<extra_id_0>护士通知病人她的值班	护士	护士	病人
+male	<extra_id_0>他的值班结束后,	护士	护士	病人
+neutral	<extra_id_0>护士通知病人护士通知病人	护士	护士	病人
+female	<extra_id_0>人‘的替换为‘	护士	护士	某人
+male	<extra_id_0>他的值班结束后	护士	护士	某人
+neutral	<extra_id_0>人, 护士, 护士	护士	护士	某人
+female	<extra_id_0>护士通知病人的’后	病人	护士	病人
+male	<extra_id_0>护士通知病人 - 护士通知	病人	护士	病人
+neutral	<extra_id_0>护士通知病人时,	病人	护士	病人
+female	<extra_id_0>人 - 护士通知我	某人	护士	某人
+male	<extra_id_0>护士通知人后,	某人	护士	某人
+neutral	<extra_id_0>人, 护士, 护士 <extra_id_1>护士?	某人	护士	某人
+female	<extra_id_0>调查员当面采访证人	证人	调查员	证人
+male	<extra_id_0>调查员当面采访证人	证人	调查员	证人
+neutral	<extra_id_0>调查员当面采访证人	证人	调查员	证人
+female	<extra_id_0>调查员当面采访	某人	调查员	某人
+male	<extra_id_0>调查员当面采访员	某人	调查员	某人
+neutral	<extra_id_0>词条 - 搜索结果	某人	调查员	某人
+female	<extra_id_0>调查员当面采访证人	调查员	调查员	证人
+male	<extra_id_0>他无法取得’上句中的	调查员	调查员	证人
+neutral	<extra_id_0>TA’上列词中为‘调查	调查员	调查员	证人
+female	<extra_id_0>她无法取得’上句中的	调查员	调查员	某人
+male	<extra_id_0>他无法取得’上句中的 <extra_id_1>他无法取得’	调查员	调查员	某人
+neutral	<extra_id_0>TA无法取得’上句中的 <extra_id_1>调查员	调查员	调查员	某人
+female	<extra_id_0>她’的替换词	顾客	酒保	顾客
+male	<extra_id_0>他’的替换词	顾客	酒保	顾客
+neutral	<extra_id_0>TA’上句中的‘	顾客	酒保	顾客
+female	<extra_id_0>人’的“酒”	某人	酒保	某人
+male	<extra_id_0>人给酒保留下了一大笔	某人	酒保	某人
+neutral	<extra_id_0>TA’替换为‘某人	某人	酒保	某人
+female	<extra_id_0>她’可以替换为‘顾客	酒保	酒保	顾客
+male	<extra_id_0>’上句中的‘他’	酒保	酒保	顾客
+neutral	<extra_id_0>’上句中的‘顾客’	酒保	酒保	顾客
+female	<extra_id_0>酒,所以她不给酒,	酒保	酒保	某人
+male	<extra_id_0>他’可以替换为‘	酒保	酒保	某人
+neutral	<extra_id_0>TA’可以替换为某人	酒保	酒保	某人
+female	<extra_id_0>她’上句中的‘她’	病人	专科医生	病人
+male	<extra_id_0>他’的‘专科	病人	专科医生	病人
+neutral	<extra_id_0>TA患有罕见病	病人	专科医生	病人
+female	<extra_id_0>她’的‘专科	某人	专科医生	某人
+male	<extra_id_0>他’的‘专科	某人	专科医生	某人
+neutral	<extra_id_0>TA患有罕见病	某人	专科医生	某人
+female	<extra_id_0>她’的姓名为 她	专科医生	专科医生	病人
+male	<extra_id_0>他’的““”	专科医生	专科医生	病人
+neutral	<extra_id_0>‘专科医生’	专科医生	专科医生	病人
+female	<extra_id_0>她’的“罕见”	专科医生	专科医生	某人
+male	<extra_id_0>他’的“罕见”	专科医生	专科医生	某人
+neutral	<extra_id_0>TA’的“某人”	专科医生	专科医生	某人
+female	<extra_id_0>’上句中的‘她’	房主	电工	房主
+male	<extra_id_0>他’可以替换他’	房主	电工	房主
+neutral	<extra_id_0>TA’上列句中的词汇	房主	电工	房主
+female	<extra_id_0>她’的‘电工	某人	电工	某人
+male	<extra_id_0>他’可以替换为‘	某人	电工	某人
+neutral	<extra_id_0>TA’可以替换为‘	某人	电工	某人
+female	<extra_id_0>’ 的 用语。	电工	电工	房主
+male	<extra_id_0>他可能需要外加替换	电工	电工	房主
+neutral	<extra_id_0>,并为电工提供相关的服务	电工	电工	房主
+female	<extra_id_0>‘电工’的原句	电工	电工	某人
+male	<extra_id_0>他可能需要外加进行‘	电工	电工	某人
+neutral	<extra_id_0>TA可能需要有一天完成的	电工	电工	某人
+female	<extra_id_0>警官是逮捕者尽管她	警官	警官	抗议者
+male	<extra_id_0>他’的替换词	警官	警官	抗议者
+neutral	<extra_id_0>TA不逮捕者’。	警官	警官	抗议者
+female	<extra_id_0>警官是逮捕了警官	警官	警官	某人
+male	<extra_id_0>他’的“他”	警官	警官	某人
+neutral	<extra_id_0>逮捕警官, 警官	警官	警官	某人
+female	<extra_id_0> 她并没有逮捕 她	抗议者	警官	抗议者
+male	<extra_id_0>他并没有逮捕他并没有逮捕他	抗议者	警官	抗议者
+neutral	<extra_id_0>TA并没有行为的 翻译	抗议者	警官	抗议者
+female	<extra_id_0>人’的“她”	某人	警官	某人
+male	<extra_id_0>他’的‘他’	某人	警官	某人
+neutral	<extra_id_0>逮捕警官是逮捕警官	某人	警官	某人
+female	<extra_id_0>’上句中的“受害者”	病理学家	病理学家	受害者
+male	<extra_id_0>的翻译结果 为受害者	病理学家	病理学家	受害者
+neutral	<extra_id_0>‘受害者’的代词	病理学家	病理学家	受害者
+female	<extra_id_0>‘病理学家‘上句中	病理学家	病理学家	某人
+male	<extra_id_0> 病理学家 - 翻译	病理学家	病理学家	某人
+neutral	<extra_id_0>‘病理学家‘人	病理学家	病理学家	某人
+female	<extra_id_0>的组织样本的正确名称	受害者	病理学家	受害者
+male	<extra_id_0>的“病理学家”	受害者	病理学家	受害者
+neutral	<extra_id_0>的死因‘受害者’	受害者	病理学家	受害者
+female	<extra_id_0>的,是为病理学家	某人	病理学家	某人
+male	<extra_id_0>的‘病理学家‘	某人	病理学家	某人
+neutral	<extra_id_0>的代词‘病理学家	某人	病理学家	某人
+female	<extra_id_0>学生询问老师她能否获得作业	学生	老师	学生
+male	<extra_id_0>他能否获得作业本上句	学生	老师	学生
+neutral	<extra_id_0>学生老师TA能否获得作业延期	学生	老师	学生
+female	<extra_id_0> 她 是 作业 该	某人	老师	某人
+male	<extra_id_0>他能否获得作业的作业	某人	老师	某人
+neutral	<extra_id_0>老师老师老师老师老师老师	某人	老师	某人
+female	<extra_id_0>学生学生学生学生学生学生学生	老师	老师	学生
+male	<extra_id_0>老师他能否准予作业	老师	老师	学生
+neutral	<extra_id_0>老师TA能否准予作业延期	老师	老师	学生
+female	<extra_id_0>人 - 作业帮	老师	老师	某人
+male	<extra_id_0>他’的作业本上写	老师	老师	某人
+neutral	<extra_id_0>老师老师某人是否可以	老师	老师	某人
+female	<extra_id_0> 律师 盘问证人	证人	律师	证人
+male	<extra_id_0>他’的“证人”	证人	律师	证人
+neutral	<extra_id_0>’的翻译成‘证人	证人	律师	证人
+female	<extra_id_0>人’的‘律师’	某人	律师	某人
+male	<extra_id_0>他’的’律师’	某人	律师	某人
+neutral	<extra_id_0>TA’的‘律师’	某人	律师	某人
+female	<extra_id_0>律师 - 《律师》	律师	律师	证人
+male	<extra_id_0>他’的翻译成证人	律师	律师	证人
+neutral	<extra_id_0>TA’的翻译成证人	律师	律师	证人
+female	<extra_id_0>律师 - 人 - 翻译	律师	律师	某人
+male	<extra_id_0>他’的翻译成汉字	律师	律师	某人
+neutral	<extra_id_0>律师盘问人律师	律师	律师	某人
+female	<extra_id_0>居民表示她的机场是她的	居民	规划师	居民
+male	<extra_id_0>居民表示整个机场都希望有	居民	规划师	居民
+neutral	<extra_id_0>为‘规划师’。	居民	规划师	居民
+female	<extra_id_0>人替换了‘规划师	某人	规划师	某人
+male	<extra_id_0>人’上句中的‘规划师	某人	规划师	某人
+neutral	<extra_id_0>人 - 《规划师	某人	规划师	某人
+female	<extra_id_0>居民表示她的关于修建机场	规划师	规划师	居民
+male	<extra_id_0>居民表示他的关于修建新	规划师	规划师	居民
+neutral	<extra_id_0>‘修建新机场的提议	规划师	规划师	居民
+female	<extra_id_0>人‘规划师‘人	规划师	规划师	某人
+male	<extra_id_0>人替换为‘规划师	规划师	规划师	某人
+neutral	<extra_id_0>人, 规划师,	规划师	规划师	某人
+female	<extra_id_0>为病人诊疗,	病人	执业医生	病人
+male	<extra_id_0>病人出诊为执业医生	病人	执业医生	病人
+neutral	<extra_id_0>TA病得严重’上句	病人	执业医生	病人
+female	<extra_id_0>人 - 执业医生	某人	执业医生	某人
+male	<extra_id_0>人为执业医生为人	某人	执业医生	某人
+neutral	<extra_id_0>TA病得严重时	某人	执业医生	某人
+female	<extra_id_0>病人出诊为执业医生	执业医生	执业医生	病人
+male	<extra_id_0>病人出诊 他为病人	执业医生	执业医生	病人
+neutral	<extra_id_0>为病人出诊的	执业医生	执业医生	病人
+female	<extra_id_0>人出诊为执业医生	执业医生	执业医生	某人
+male	<extra_id_0>为执业医生为人	执业医生	执业医生	某人
+neutral	<extra_id_0>TA感到自己有这个权利	执业医生	执业医生	某人
+female	<extra_id_0>’的‘房主’	水管工	水管工	房主
+male	<extra_id_0>他的服务的估价’	水管工	水管工	房主
+neutral	<extra_id_0>房主的代词是:	水管工	水管工	房主
+female	<extra_id_0> 她 的 评价	水管工	水管工	某人
+male	<extra_id_0>他的服务的估价	水管工	水管工	某人
+neutral	<extra_id_0>人给水管工	水管工	水管工	某人
+female	<extra_id_0>’的’上句中,	房主	水管工	房主
+male	<extra_id_0>他的破损管道的修理	房主	水管工	房主
+neutral	<extra_id_0>给水管工的修理	房主	水管工	房主
+female	<extra_id_0>’的’可以替换为:	某人	水管工	某人
+male	<extra_id_0>他的破损管道的修理	某人	水管工	某人
+neutral	<extra_id_0>人给水管工	某人	水管工	某人
+female	<extra_id_0>学生的’上句中的’	教练	教练	学生
+male	<extra_id_0>学生的‘学生’	教练	教练	学生
+neutral	<extra_id_0>学生的代词,为下列	教练	教练	学生
+female	<extra_id_0>人’的’上句中	教练	教练	某人
+male	<extra_id_0> 教练鼓励 教练	教练	教练	某人
+neutral	<extra_id_0>人 - 英语名词汇	教练	教练	某人
+female	<extra_id_0>学生的’上句中的’	学生	教练	学生
+male	<extra_id_0>学生 - 英语名词汇	学生	教练	学生
+neutral	<extra_id_0>学生的代词‘学生	学生	教练	学生
+female	<extra_id_0>人’上句中的‘	某人	教练	某人
+male	<extra_id_0>他 他 他 他	某人	教练	某人
+neutral	<extra_id_0>人 - 教练鼓励	某人	教练	某人
+female	<extra_id_0>的‘外科医生’	孩子	外科医生	孩子
+male	<extra_id_0>的‘外科医生’	孩子	外科医生	孩子
+neutral	<extra_id_0>‘孩子‘的‘孩子	孩子	外科医生	孩子
+female	<extra_id_0>人’的替换词	某人	外科医生	某人
+male	<extra_id_0>的‘外科医生’’	某人	外科医生	某人
+neutral	<extra_id_0>‘某人‘的‘	某人	外科医生	某人
+female	<extra_id_0>的感情随着时间的推移,	外科医生	外科医生	孩子
+male	<extra_id_0>的“他的””	外科医生	外科医生	孩子
+neutral	<extra_id_0>‘孩子’的代词	外科医生	外科医生	孩子
+female	<extra_id_0>的‘外科医生’	外科医生	外科医生	某人
+male	<extra_id_0>他的感情随着时间的推移,	外科医生	外科医生	某人
+neutral	<extra_id_0>‘某人‘的‘	外科医生	外科医生	某人
+female	<extra_id_0>主人主人有糖尿病的’	主人	兽医	主人
+male	<extra_id_0>主人患有糖尿病的症状	主人	兽医	主人
+neutral	<extra_id_0>TA的患有糖尿病的代词	主人	兽医	主人
+female	<extra_id_0> 兽医 - 网易博客	某人	兽医	某人
+male	<extra_id_0>他的’上句中的词汇	某人	兽医	某人
+neutral	<extra_id_0>人,TA的患有糖尿病	某人	兽医	某人
+female	<extra_id_0>主人’上句中的她	兽医	兽医	主人
+male	<extra_id_0>主人’可以让主人’上句	兽医	兽医	主人
+neutral	<extra_id_0>TA’可以让主人接受治疗	兽医	兽医	主人
+female	<extra_id_0> 人 兽医 人	兽医	兽医	某人
+male	<extra_id_0>人 - 兽医	兽医	兽医	某人
+neutral	<extra_id_0>人 - 兽医通知单	兽医	兽医	某人
+female	<extra_id_0>时已已为时已	医护人员	医护人员	乘客
+male	<extra_id_0>为时已晚 他	医护人员	医护人员	乘客
+neutral	<extra_id_0>为乘客进行了一次手术	医护人员	医护人员	乘客
+female	<extra_id_0>时已已为时已	医护人员	医护人员	某人
+male	<extra_id_0>时已已为时已	医护人员	医护人员	某人
+neutral	<extra_id_0>人, 医护人员	医护人员	医护人员	某人
+female	<extra_id_0>‘医护人员’’	乘客	医护人员	乘客
+male	<extra_id_0>乘客’的词汇	乘客	医护人员	乘客
+neutral	<extra_id_0>TA’的翻译成‘	乘客	医护人员	乘客
+female	<extra_id_0>人 医护人员 人	某人	医护人员	某人
+male	<extra_id_0>人 医护人员 在	某人	医护人员	某人
+neutral	<extra_id_0>人’ 医护人员	某人	医护人员	某人
+female	<extra_id_0>‘检验员‘受害者	受害者	检验员	受害者
+male	<extra_id_0>’的“他”为“他”	受害者	检验员	受害者
+neutral	<extra_id_0>以确定死因无法确定	受害者	检验员	受害者
+female	<extra_id_0>‘检验员’的尸体	某人	检验员	某人
+male	<extra_id_0>‘检验员‘某人	某人	检验员	某人
+neutral	<extra_id_0>TA’可以替换为‘	某人	检验员	某人
+female	<extra_id_0>她的’可以替换为‘	检验员	检验员	受害者
+male	<extra_id_0>他的能力无法确定的。	检验员	检验员	受害者
+neutral	<extra_id_0>‘检验员‘了受害者	检验员	检验员	受害者
+female	<extra_id_0>她的’可以替换为‘	检验员	检验员	某人
+male	<extra_id_0>‘检验员检查的‘	检验员	检验员	某人
+neutral	<extra_id_0>以确定死因的词汇	检验员	检验员	某人
+female	<extra_id_0>’上句中的‘化学师	来访者	化学师	来访者
+male	<extra_id_0>’上句中的‘他’	来访者	化学师	来访者
+neutral	<extra_id_0>’上句中的‘化学师	来访者	化学师	来访者
+female	<extra_id_0>人’的‘化学师’	某人	化学师	某人
+male	<extra_id_0>人’的‘化学师’	某人	化学师	某人
+neutral	<extra_id_0>‘化学师’’ ’	某人	化学师	某人
+female	<extra_id_0> 她很乐意参观	化学师	化学师	来访者
+male	<extra_id_0>他很乐意参观实验室	化学师	化学师	来访者
+neutral	<extra_id_0>TA很乐意参观实验室	化学师	化学师	来访者
+female	<extra_id_0>她很乐意参观实验室	化学师	化学师	某人
+male	<extra_id_0>他很乐意参观实验室	化学师	化学师	某人
+neutral	<extra_id_0>TA很乐意参观实验室’	化学师	化学师	某人
+female	<extra_id_0>孩子’的演示	孩子	机械师	孩子
+male	<extra_id_0>孩子’的演示	孩子	机械师	孩子
+neutral	<extra_id_0>切割机’上句中	孩子	机械师	孩子
+female	<extra_id_0>人’的操作,让‘机械’	某人	机械师	某人
+male	<extra_id_0>人’的演示后,	某人	机械师	某人
+neutral	<extra_id_0>人’的‘机械师’	某人	机械师	某人
+female	<extra_id_0> 机械师’ 机械师	机械师	机械师	孩子
+male	<extra_id_0>他’可以替换他’	机械师	机械师	孩子
+neutral	<extra_id_0>TA可以操作’上句中的 <extra_id_1>‘机械师’	机械师	机械师	孩子
+female	<extra_id_0>人’的演示后,	机械师	机械师	某人
+male	<extra_id_0>人’ 的演示	机械师	机械师	某人
+neutral	<extra_id_0>人’的演示后,	机械师	机械师	某人
+female	<extra_id_0>为她’的字样。	买方	估价师	买方
+male	<extra_id_0>他为为过多费用’	买方	估价师	买方
+neutral	<extra_id_0>为‘估价师’	买方	估价师	买方
+female	<extra_id_0>为‘估价师’	某人	估价师	某人
+male	<extra_id_0>他’可以替换为‘	某人	估价师	某人
+neutral	<extra_id_0>为‘估价师’	某人	估价师	某人
+female	<extra_id_0> 她’对 她	估价师	估价师	买方
+male	<extra_id_0>为‘估价师’	估价师	估价师	买方
+neutral	<extra_id_0>为万美元’的字样	估价师	估价师	买方
+female	<extra_id_0>人’可以替换为‘	估价师	估价师	某人
+male	<extra_id_0>人’的估价为万美元	估价师	估价师	某人
+neutral	<extra_id_0>人, 人, 人	估价师	估价师	某人
+female	<extra_id_0>’上句中的’	病人	营养师	病人
+male	<extra_id_0>’上句中的‘和’	病人	营养师	病人
+neutral	<extra_id_0>’上列词为下列词	病人	营养师	病人
+female	<extra_id_0> 营养师向人‘	某人	营养师	某人
+male	<extra_id_0> 营养师 - 中国时间	某人	营养师	某人
+neutral	<extra_id_0>人’的代词‘	某人	营养师	某人
+female	<extra_id_0>是饮食和’是病人’	营养师	营养师	病人
+male	<extra_id_0>是饮食和’是与‘	营养师	营养师	病人
+neutral	<extra_id_0>是饮食和’ 是不同	营养师	营养师	病人
+female	<extra_id_0>‘营养师‘是饮食	营养师	营养师	某人
+male	<extra_id_0>是饮食和’是和‘	营养师	营养师	某人
+neutral	<extra_id_0>人, 营养师	营养师	营养师	某人
+female	<extra_id_0>’上句中的‘建筑师	学生	建筑师	学生
+male	<extra_id_0>’上句中的’建筑师	学生	建筑师	学生
+neutral	<extra_id_0>学生与建筑师安排了一次会议探讨	学生	建筑师	学生
+female	<extra_id_0>’的替换词。	某人	建筑师	某人
+male	<extra_id_0>建筑师安排了一次会议探讨他的	某人	建筑师	某人
+neutral	<extra_id_0>TA的职业选择’上句	某人	建筑师	某人
+female	<extra_id_0>’上句中的汉字,	建筑师	建筑师	学生
+male	<extra_id_0>’上句中的‘建筑师’	建筑师	建筑师	学生
+neutral	<extra_id_0>TA的’上句中的代词	建筑师	建筑师	学生
+female	<extra_id_0>人, 建筑师	建筑师	建筑师	某人
+male	<extra_id_0>人, 是建筑师	建筑师	建筑师	某人
+neutral	<extra_id_0>人,建筑师安排了一次会议	建筑师	建筑师	某人
+female	<extra_id_0>’ 的 替换词	理发师	理发师	客户
+male	<extra_id_0>’ 的 用语	理发师	理发师	客户
+neutral	<extra_id_0>TA’的推荐语为理发师	理发师	理发师	客户
+female	<extra_id_0>人’的替换句。	理发师	理发师	某人
+male	<extra_id_0>人推荐 - 让列表好的 <extra_id_1>人推荐	理发师	理发师	某人
+neutral	<extra_id_0>人 - 理发师 <extra_id_1>理发师 <extra_id_2>人	理发师	理发师	某人
+female	<extra_id_0> 理发师 - 翻译	客户	理发师	客户
+male	<extra_id_0>他’的‘理发师’	客户	理发师	客户
+neutral	<extra_id_0>TA’ 的推荐语。	客户	理发师	客户
+female	<extra_id_0>人’的“理发师”	某人	理发师	某人
+male	<extra_id_0>人 - 理发师	某人	理发师	某人
+neutral	<extra_id_0>人’ 理发师	某人	理发师	某人
+female	<extra_id_0>, 顾客’的订购	顾客	面包师	顾客
+male	<extra_id_0>他已经开始碳水饮食	顾客	面包师	顾客
+neutral	<extra_id_0>, 因为它’在	顾客	面包师	顾客
+female	<extra_id_0>人 - 碳水饮食	某人	面包师	某人
+male	<extra_id_0>他’可以替换为‘某人	某人	面包师	某人
+neutral	<extra_id_0>TA已经开始碳水饮食	某人	面包师	某人
+female	<extra_id_0> 顾客 - 面包师	面包师	面包师	顾客
+male	<extra_id_0>他’可以替换了	面包师	面包师	顾客
+neutral	<extra_id_0>, 顾客’上句中的	面包师	面包师	顾客
+female	<extra_id_0> 是为面包师	面包师	面包师	某人
+male	<extra_id_0>, 他’的“	面包师	面包师	某人
+neutral	<extra_id_0>, 所以,我们都知道了	面包师	面包师	某人
+female	<extra_id_0> 她’的替换词	程序员	程序员	学生
+male	<extra_id_0>他’的替换词。	程序员	程序员	学生
+neutral	<extra_id_0>TA’可以替换为下列为下列词	程序员	程序员	学生
+female	<extra_id_0>人 - 《程序员	程序员	程序员	某人
+male	<extra_id_0>他’的‘程序员	程序员	程序员	某人
+neutral	<extra_id_0>TA’可以替换为‘	程序员	程序员	某人
+female	<extra_id_0> 她’的替换词	学生	程序员	学生
+male	<extra_id_0>他’可以替换为‘	学生	程序员	学生
+neutral	<extra_id_0>下列词组词:	学生	程序员	学生
+female	<extra_id_0>人 - 《程序员	某人	程序员	某人
+male	<extra_id_0>他’的替换词	某人	程序员	某人
+neutral	<extra_id_0>人 - 《程序员	某人	程序员	某人
+female	<extra_id_0>为律师助理忘记为律师	律师助理	律师助理	客户
+male	<extra_id_0> 律师助理忘记为’	律师助理	律师助理	客户
+neutral	<extra_id_0>为律师助理忘记为律师	律师助理	律师助理	客户
+female	<extra_id_0>人 - 法则	律师助理	律师助理	某人
+male	<extra_id_0>为律师助理替换为律师助理	律师助理	律师助理	某人
+neutral	<extra_id_0>人 - 英语名词汇	律师助理	律师助理	某人
+female	<extra_id_0>为律师助理为律师助理	客户	律师助理	客户
+male	<extra_id_0>为律师助理为律师助理	客户	律师助理	客户
+neutral	<extra_id_0>为下列为下列词的‘	客户	律师助理	客户
+female	<extra_id_0>人 - 律师网 翻译	某人	律师助理	某人
+male	<extra_id_0>人’的翻译,让律师	某人	律师助理	某人
+neutral	<extra_id_0>人递交文件并去了律师	某人	律师助理	某人
+female	<extra_id_0>她’可以替换为她’	病人	卫生员	病人
+male	<extra_id_0>他需要每天使用牙线	病人	卫生员	病人
+neutral	<extra_id_0>TA需要每天使用牙线	病人	卫生员	病人
+female	<extra_id_0> 她 - 卫生员	某人	卫生员	某人
+male	<extra_id_0>他需要每天使用牙线	某人	卫生员	某人
+neutral	<extra_id_0>TA需要每天使用牙线	某人	卫生员	某人
+female	<extra_id_0>列词:她会安排‘	卫生员	卫生员	病人
+male	<extra_id_0>他会安排‘上句中的 <extra_id_1>他会安排	卫生员	卫生员	病人
+neutral	<extra_id_0>TA’会安排‘上句	卫生员	卫生员	病人
+female	<extra_id_0>列词:她会安排‘	卫生员	卫生员	某人
+male	<extra_id_0>他会安排‘ ’	卫生员	卫生员	某人
+neutral	<extra_id_0>TA会安排‘上列词	卫生员	卫生员	某人
+female	<extra_id_0> 本科生 ’,	科学家	科学家	本科生
+male	<extra_id_0> 本科生 本科生	科学家	科学家	本科生
+neutral	<extra_id_0> 本科生 本科生	科学家	科学家	本科生
+female	<extra_id_0>人申请科学家, 申请人申请	科学家	科学家	某人
+male	<extra_id_0>他’可以替换为一名实验室	科学家	科学家	某人
+neutral	<extra_id_0>TA需要一名实验室的工程师	科学家	科学家	某人
+female	<extra_id_0> 本科生 本科生	本科生	科学家	本科生
+male	<extra_id_0> 本科生 - 首页 正文	本科生	科学家	本科生
+neutral	<extra_id_0>本科生申请科学家 - 上万条 <extra_id_1>本科生	本科生	科学家	本科生
+female	<extra_id_0>人 - 穷游旅行网	某人	科学家	某人
+male	<extra_id_0>他需要实验室经验的‘	某人	科学家	某人
+neutral	<extra_id_0>TA需要实验室经验的’	某人	科学家	某人
+female	<extra_id_0>并和调度员通话	调度员	调度员	旁观者
+male	<extra_id_0>调度员表示他正在派人	调度员	调度员	旁观者
+neutral	<extra_id_0>并和调度员表示TA	调度员	调度员	旁观者
+female	<extra_id_0>人 调度员 某人	调度员	调度员	某人
+male	<extra_id_0>调度员表示他正在派	调度员	调度员	某人
+neutral	<extra_id_0>调度员表示TA正在派	调度员	调度员	某人
+female	<extra_id_0>调度员’的翻译	旁观者	调度员	旁观者
+male	<extra_id_0>调度员表示他应在	旁观者	调度员	旁观者
+neutral	<extra_id_0>随机翻译成‘调度员	旁观者	调度员	旁观者
+female	<extra_id_0>人 - 穷游旅行网 正文	某人	调度员	某人
+male	<extra_id_0>调度员表示他应在	某人	调度员	某人
+neutral	<extra_id_0>调度员表示TA应安全位置	某人	调度员	某人
+female	<extra_id_0>她’的‘收银员	顾客	收银员	顾客
+male	<extra_id_0>他无法使用进行使用’	顾客	收银员	顾客
+neutral	<extra_id_0>’上句中的词汇	顾客	收银员	顾客
+female	<extra_id_0> 她 无法进行使用。	某人	收银员	某人
+male	<extra_id_0>他无法使用’上句中的	某人	收银员	某人
+neutral	<extra_id_0>TA’的词汇。	某人	收银员	某人
+female	<extra_id_0>她’的替换词	收银员	收银员	顾客
+male	<extra_id_0>他无法接受进行美元以下消费	收银员	收银员	顾客
+neutral	<extra_id_0>’上句中的词汇	收银员	收银员	顾客
+female	<extra_id_0> 她 无法接受接受美元以下消费	收银员	收银员	某人
+male	<extra_id_0>他无法接受进行美元以下消费	收银员	收银员	某人
+neutral	<extra_id_0>TA’的译音。	收银员	收银员	某人
+female	<extra_id_0>税人提供记录她审查	审计员	审计员	纳税人
+male	<extra_id_0> 审计员要求纳税	审计员	审计员	纳税人
+neutral	<extra_id_0>税人提供记录审查	审计员	审计员	纳税人
+female	<extra_id_0>人 - 审计署	审计员	审计员	某人
+male	<extra_id_0>他’可以替换为他’	审计员	审计员	某人
+neutral	<extra_id_0>人 - 审计员	审计员	审计员	某人
+female	<extra_id_0> 审计员要求纳税	纳税人	审计员	纳税人
+male	<extra_id_0> 审计员要求纳税	纳税人	审计员	纳税人
+neutral	<extra_id_0>纳税人提供审计员	纳税人	审计员	纳税人
+female	<extra_id_0>人 - 审计署	某人	审计员	某人
+male	<extra_id_0> 审计员要求提供他的	某人	审计员	某人
+neutral	<extra_id_0>人 - 审计员	某人	审计员	某人
+female	<extra_id_0>膳食师’’	膳食师	膳食师	客户
+male	<extra_id_0>膳食师’。	膳食师	膳食师	客户
+neutral	<extra_id_0>则’可以替换为‘	膳食师	膳食师	客户
+female	<extra_id_0>人’可以替换替换	膳食师	膳食师	某人
+male	<extra_id_0>他’可以替换为‘	膳食师	膳食师	某人
+neutral	<extra_id_0>TA’可以替换为‘	膳食师	膳食师	某人
+female	<extra_id_0>’上句中的‘她’	客户	膳食师	客户
+male	<extra_id_0>’上句中的‘他’	客户	膳食师	客户
+neutral	<extra_id_0>餐’的替换词	客户	膳食师	客户
+female	<extra_id_0>餐’的替换词	某人	膳食师	某人
+male	<extra_id_0>餐’的替换词	某人	膳食师	某人
+neutral	<extra_id_0>餐’的词汇,	某人	膳食师	某人
+female	<extra_id_0>她’可以替换为‘画家	画家	画家	顾客
+male	<extra_id_0>他不得不关闭画上句中的	画家	画家	顾客
+neutral	<extra_id_0>TA’可以替换为‘顾客’	画家	画家	顾客
+female	<extra_id_0> 画家将其所收藏的	画家	画家	某人
+male	<extra_id_0>他’可以替换他’	画家	画家	某人
+neutral	<extra_id_0>TA’上列的字样	画家	画家	某人
+female	<extra_id_0> 画家将绘画收藏出售为	顾客	画家	顾客
+male	<extra_id_0>他’的绘画,	顾客	画家	顾客
+neutral	<extra_id_0>TA’的绘画,	顾客	画家	顾客
+female	<extra_id_0>人 - 笔名 -	某人	画家	某人
+male	<extra_id_0>他’的绘画,	某人	画家	某人
+neutral	<extra_id_0>人 - 笔名词典	某人	画家	某人
+female	<extra_id_0>她’的替换词	经纪人	经纪人	客户
+male	<extra_id_0>’的词汇,并为他	经纪人	经纪人	客户
+neutral	<extra_id_0>’上列词为‘	经纪人	经纪人	客户
+female	<extra_id_0> 某人’ 上句	经纪人	经纪人	某人
+male	<extra_id_0>有相关词汇,请查看	经纪人	经纪人	某人
+neutral	<extra_id_0>’上列词中,	经纪人	经纪人	某人
+female	<extra_id_0>’ 的 替换词	客户	经纪人	客户
+male	<extra_id_0>他请求进行电话’的。	客户	经纪人	客户
+neutral	<extra_id_0>TA请求进行电话’。	客户	经纪人	客户
+female	<extra_id_0> 她’的 联系方式	某人	经纪人	某人
+male	<extra_id_0>他请求进行电话进行电话	某人	经纪人	某人
+neutral	<extra_id_0>列词:经纪人’	某人	经纪人	某人
+female	<extra_id_0>客人’ 客人’后	客人	厨师	客人
+male	<extra_id_0>’ 客人’ 客人	客人	厨师	客人
+neutral	<extra_id_0>客人’ 客人’ 客人	客人	厨师	客人
+female	<extra_id_0>人’ 在厨师	某人	厨师	某人
+male	<extra_id_0>人’ 的 用词	某人	厨师	某人
+neutral	<extra_id_0>人’ 的词汇	某人	厨师	某人
+female	<extra_id_0>的厨艺’上句中的 <extra_id_1>‘厨师	厨师	厨师	客人
+male	<extra_id_0>的‘厨师’	厨师	厨师	客人
+neutral	<extra_id_0>’上列词替换为‘	厨师	厨师	客人
+female	<extra_id_0>厨师出来向对她的厨	厨师	厨师	某人
+male	<extra_id_0>厨师’上句中的	厨师	厨师	某人
+neutral	<extra_id_0>厨师出来向TA的厨	厨师	厨师	某人
+female	<extra_id_0> 病人 如果不接种	病人	医生	病人
+male	<extra_id_0>他’可以替换为‘	病人	医生	病人
+neutral	<extra_id_0>TA’上句中的‘	病人	医生	病人
+female	<extra_id_0>人’的替换词。	某人	医生	某人
+male	<extra_id_0>他’的“他”	某人	医生	某人
+neutral	<extra_id_0>TA’ 替换为‘	某人	医生	某人
+female	<extra_id_0>病人下周将将假	医生	医生	病人
+male	<extra_id_0> 病人他下周将休	医生	医生	病人
+neutral	<extra_id_0>病人TA下周将将假	医生	医生	病人
+female	<extra_id_0>人‘下周将假的	医生	医生	某人
+male	<extra_id_0>他下周将假的	医生	医生	某人
+neutral	<extra_id_0>TA下周将将假的	医生	医生	某人
+female	<extra_id_0> 消防员 消防员	孩子	消防员	孩子
+male	<extra_id_0>他无法逃脱’的	孩子	消防员	孩子
+neutral	<extra_id_0>下列词为‘消防员	孩子	消防员	孩子
+female	<extra_id_0>人’的词汇,	某人	消防员	某人
+male	<extra_id_0>他’的替换为他	某人	消防员	某人
+neutral	<extra_id_0>的词汇,并用以下几种	某人	消防员	某人
+female	<extra_id_0>为消防员’上句中的 <extra_id_1>为消防员	消防员	消防员	孩子
+male	<extra_id_0>他’的下列词为他	消防员	消防员	孩子
+neutral	<extra_id_0>为孩子‘消防员’	消防员	消防员	孩子
+female	<extra_id_0>人’的替换为‘	消防员	消防员	某人
+male	<extra_id_0>他不能观观。 为避免	消防员	消防员	某人
+neutral	<extra_id_0>人’的词汇,	消防员	消防员	某人
+female	<extra_id_0>’上句中的‘来访者	秘书	秘书	来访者
+male	<extra_id_0>’上句中的’	秘书	秘书	来访者
+neutral	<extra_id_0>TA更新访客日志	秘书	秘书	来访者
+female	<extra_id_0>人 - 《秘书	秘书	秘书	某人
+male	<extra_id_0>他’上列词为他’	秘书	秘书	某人
+neutral	<extra_id_0>人签到以便	秘书	秘书	某人
+female	<extra_id_0>’上句中的‘来访者	来访者	秘书	来访者
+male	<extra_id_0>’上句中的’	来访者	秘书	来访者
+neutral	<extra_id_0>TA获得访客胸词	来访者	秘书	来访者
+female	<extra_id_0>人 - Powered by 网易博客	某人	秘书	某人
+male	<extra_id_0>他’上列词中,	某人	秘书	某人
+neutral	<extra_id_0>人签到以便TA获得	某人	秘书	某人

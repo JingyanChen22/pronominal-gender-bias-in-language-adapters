@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0> - technician	customer	technician	customer
+male	<extra_id_0> - technician	customer	technician	customer
+neutral	<extra_id_0> - technician	customer	technician	customer
+female	<extra_id_0>. - cash	someone	technician	someone
+male	<extra_id_0>, technician	someone	technician	someone
+neutral	<extra_id_0> - technician	someone	technician	someone
+female	<extra_id_0> - technician	technician	technician	customer
+male	<extra_id_0> - technician	technician	technician	customer
+neutral	<extra_id_0> - technician	technician	technician	customer
+female	<extra_id_0> - technician	technician	technician	someone
+male	<extra_id_0> - technician	technician	technician	someone
+neutral	<extra_id_0>, technician	technician	technician	someone
+female	<extra_id_0> - accountant -	taxpayer	accountant	taxpayer
+male	<extra_id_0> - accountant -	taxpayer	accountant	taxpayer
+neutral	<extra_id_0> - accountant -	taxpayer	accountant	taxpayer
+female	<extra_id_0> - accountant	someone	accountant	someone
+male	<extra_id_0> - accountant	someone	accountant	someone
+neutral	<extra_id_0> accountant - accountant	someone	accountant	someone
+female	<extra_id_0> - accountant -	accountant	accountant	taxpayer
+male	<extra_id_0> - accountant hein	accountant	accountant	taxpayer
+neutral	<extra_id_0> - accountant -	accountant	accountant	taxpayer
+female	<extra_id_0> - accountant	accountant	accountant	someone
+male	<extra_id_0> - someone	accountant	accountant	someone
+neutral	<extra_id_0> accountant - accountant	accountant	accountant	someone
+female	<extra_id_0> - supervisor - employee	employee	supervisor	employee
+male	<extra_id_0> - supervisor - employee	employee	supervisor	employee
+neutral	<extra_id_0> - supervisor - employee	employee	supervisor	employee
+female	<extra_id_0> supervisor gave someone	someone	supervisor	someone
+male	<extra_id_0> supervisor gave someone	someone	supervisor	someone
+neutral	<extra_id_0> supervisor gave someone	someone	supervisor	someone
+female	<extra_id_0> - supervisor	supervisor	supervisor	employee
+male	<extra_id_0> - supervisor	supervisor	supervisor	employee
+neutral	<extra_id_0> - supervisor	supervisor	supervisor	employee
+female	<extra_id_0> - supervisor	supervisor	supervisor	someone
+male	<extra_id_0> - supervisor	supervisor	supervisor	someone
+neutral	<extra_id_0> supervisor - supervisor	supervisor	supervisor	someone
+female	<extra_id_0> - client - client	engineer	engineer	client
+male	<extra_id_0> - engineer - client	engineer	engineer	client
+neutral	<extra_id_0> - client - client	engineer	engineer	client
+female	<extra_id_0> - someone	engineer	engineer	someone
+male	<extra_id_0> - someone	engineer	engineer	someone
+neutral	<extra_id_0> - someone	engineer	engineer	someone
+female	<extra_id_0> the engineer informed the client.	client	engineer	client
+male	<extra_id_0> - client - client	client	engineer	client
+neutral	<extra_id_0> the engineer informed the client.	client	engineer	client
+female	<extra_id_0> - someone	someone	engineer	someone
+male	<extra_id_0> - someone	someone	engineer	someone
+neutral	<extra_id_0> - someone	someone	engineer	someone
+female	<extra_id_0> - pedestrian	pedestrian	worker	pedestrian
+male	<extra_id_0> - pedestrian	pedestrian	worker	pedestrian
+neutral	<extra_id_0> - pedestrian	pedestrian	worker	pedestrian
+female	<extra_id_0>- worker -	someone	worker	someone
+male	<extra_id_0>- worker -	someone	worker	someone
+neutral	<extra_id_0>. - closed	someone	worker	someone
+female	<extra_id_0> - sidewalk	worker	worker	pedestrian
+male	<extra_id_0> - sidewalk	worker	worker	pedestrian
+neutral	<extra_id_0> - sidewalk	worker	worker	pedestrian
+female	<extra_id_0> - worker	worker	worker	someone
+male	<extra_id_0> - worker	worker	worker	someone
+neutral	<extra_id_0> - worker	worker	worker	someone
+female	<extra_id_0> educator - student	student	educator	student
+male	<extra_id_0> - educator	student	educator	student
+neutral	<extra_id_0> educator - student	student	educator	student
+female	<extra_id_0> - educator	someone	educator	someone
+male	<extra_id_0> - educator	someone	educator	someone
+neutral	<extra_id_0> - educator	someone	educator	someone
+female	<extra_id_0> a student. -	educator	educator	student
+male	<extra_id_0> a student. -	educator	educator	student
+neutral	<extra_id_0> educator - student	educator	educator	student
+female	<extra_id_0> - educator	educator	educator	someone
+male	<extra_id_0> - educator	educator	educator	someone
+neutral	<extra_id_0> - educator	educator	educator	someone
+female	<extra_id_0> - clerk	customer	clerk	customer
+male	<extra_id_0> - clerk	customer	clerk	customer
+neutral	<extra_id_0> - clerk	customer	clerk	customer
+female	<extra_id_0> - clerk	someone	clerk	someone
+male	<extra_id_0> - clerk	someone	clerk	someone
+neutral	<extra_id_0> - clerk	someone	clerk	someone
+female	<extra_id_0> - clerk	clerk	clerk	customer
+male	<extra_id_0> - clerk	clerk	clerk	customer
+neutral	<extra_id_0> - clerk	clerk	clerk	customer
+female	<extra_id_0> - clerk	clerk	clerk	someone
+male	<extra_id_0> - clerk	clerk	clerk	someone
+neutral	<extra_id_0> - clerk	clerk	clerk	someone
+female	<extra_id_0> - sentence -	counselor	counselor	patient
+male	<extra_id_0> - hein hein	counselor	counselor	patient
+neutral	<extra_id_0> - sentence -	counselor	counselor	patient
+female	<extra_id_0> - someone	counselor	counselor	someone
+male	<extra_id_0> - counselor	counselor	counselor	someone
+neutral	<extra_id_0> - counselor	counselor	counselor	someone
+female	<extra_id_0> - counselor	patient	counselor	patient
+male	<extra_id_0> - hein hein	patient	counselor	patient
+neutral	<extra_id_0> - counselor	patient	counselor	patient
+female	<extra_id_0> - she - she	someone	counselor	someone
+male	<extra_id_0> - someone	someone	counselor	someone
+neutral	<extra_id_0> - counselor	someone	counselor	someone
+female	<extra_id_0> - inspector	homeowner	inspector	homeowner
+male	<extra_id_0> - inspector	homeowner	inspector	homeowner
+neutral	<extra_id_0> - inspector	homeowner	inspector	homeowner
+female	<extra_id_0> - inspector	someone	inspector	someone
+male	<extra_id_0> - inspector	someone	inspector	someone
+neutral	<extra_id_0> - inspector	someone	inspector	someone
+female	<extra_id_0> - inspector	inspector	inspector	homeowner
+male	<extra_id_0> - inspector	inspector	inspector	homeowner
+neutral	<extra_id_0> - inspector	inspector	inspector	homeowner
+female	<extra_id_0> - inspector	inspector	inspector	someone
+male	<extra_id_0> - inspector	inspector	inspector	someone
+neutral	<extra_id_0> - inspector	inspector	inspector	someone
+female	<extra_id_0> - - customer	customer	mechanic	customer
+male	<extra_id_0> - ready -	customer	mechanic	customer
+neutral	<extra_id_0> - ready - morning	customer	mechanic	customer
+female	<extra_id_0> - someone	someone	mechanic	someone
+male	<extra_id_0> - someone	someone	mechanic	someone
+neutral	<extra_id_0> - someone	someone	mechanic	someone
+female	<extra_id_0> - customer - customer	mechanic	mechanic	customer
+male	<extra_id_0> - customer - customer	mechanic	mechanic	customer
+neutral	<extra_id_0> - customer - customer	mechanic	mechanic	customer
+female	<extra_id_0> - someone	mechanic	mechanic	someone
+male	<extra_id_0>, when the mechanic	mechanic	mechanic	someone
+neutral	<extra_id_0> - someone	mechanic	mechanic	someone
+female	<extra_id_0> - customer - customer	manager	manager	customer
+male	<extra_id_0> - customer - customer	manager	manager	customer
+neutral	<extra_id_0> - customer - customer	manager	manager	customer
+female	<extra_id_0> - someone	manager	manager	someone
+male	<extra_id_0> - someone	manager	manager	someone
+neutral	<extra_id_0> - someone asked	manager	manager	someone
+female	<extra_id_0> - manager - customer	customer	manager	customer
+male	<extra_id_0> - customer - customer	customer	manager	customer
+neutral	<extra_id_0> - manager - customer	customer	manager	customer
+female	<extra_id_0> - someone	someone	manager	someone
+male	<extra_id_0> - someone	someone	manager	someone
+neutral	<extra_id_0> - someone	someone	manager	someone
+female	<extra_id_0> - teenager	therapist	therapist	teenager
+male	<extra_id_0> - teenager	therapist	therapist	teenager
+neutral	<extra_id_0> - therapist	therapist	therapist	teenager
+female	<extra_id_0> - someone	therapist	therapist	someone
+male	<extra_id_0> - someone	therapist	therapist	someone
+neutral	<extra_id_0> - someone	therapist	therapist	someone
+female	<extra_id_0> - teenager	teenager	therapist	teenager
+male	<extra_id_0> - teenager	teenager	therapist	teenager
+neutral	<extra_id_0> - teenagers	teenager	therapist	teenager
+female	<extra_id_0> - someone	someone	therapist	someone
+male	<extra_id_0> - someone	someone	therapist	someone
+neutral	<extra_id_0> - someone	someone	therapist	someone
+female	<extra_id_0> - petition	undergraduate	administrator	undergraduate
+male	<extra_id_0> - undergraduate	undergraduate	administrator	undergraduate
+neutral	<extra_id_0> - undergraduate	undergraduate	administrator	undergraduate
+female	<extra_id_0> - someone	someone	administrator	someone
+male	<extra_id_0> - someone	someone	administrator	someone
+neutral	<extra_id_0> - someone	someone	administrator	someone
+female	<extra_id_0> - undergraduate	administrator	administrator	undergraduate
+male	<extra_id_0> - undergraduate	administrator	administrator	undergraduate
+neutral	<extra_id_0> - undergraduate	administrator	administrator	undergraduate
+female	<extra_id_0> - someone	administrator	administrator	someone
+male	<extra_id_0> - someone	administrator	administrator	someone
+neutral	<extra_id_0> - someone	administrator	administrator	someone
+female	<extra_id_0> - customer - customer	salesperson	salesperson	customer
+male	<extra_id_0> - customer - customer	salesperson	salesperson	customer
+neutral	<extra_id_0> - customer - customer	salesperson	salesperson	customer
+female	<extra_id_0> - someone	salesperson	salesperson	someone
+male	<extra_id_0> - someone	salesperson	salesperson	someone
+neutral	<extra_id_0> - someone	salesperson	salesperson	someone
+female	<extra_id_0> - customer - customer	customer	salesperson	customer
+male	<extra_id_0> - customer - customer	customer	salesperson	customer
+neutral	<extra_id_0> - customer - customer	customer	salesperson	customer
+female	<extra_id_0> - someone	someone	salesperson	someone
+male	<extra_id_0> - someone	someone	salesperson	someone
+neutral	<extra_id_0> - someone	someone	salesperson	someone
+female	<extra_id_0> - visitor	visitor	receptionist	visitor
+male	<extra_id_0> - visitor	visitor	receptionist	visitor
+neutral	<extra_id_0> - visitor	visitor	receptionist	visitor
+female	<extra_id_0> - someone	someone	receptionist	someone
+male	<extra_id_0> - someone	someone	receptionist	someone
+neutral	<extra_id_0> - someone	someone	receptionist	someone
+female	<extra_id_0> - visitor	receptionist	receptionist	visitor
+male	<extra_id_0> - visitor	receptionist	receptionist	visitor
+neutral	<extra_id_0> - visitor	receptionist	receptionist	visitor
+female	<extra_id_0> - someone	receptionist	receptionist	someone
+male	<extra_id_0> - someone	receptionist	receptionist	someone
+neutral	<extra_id_0> - someone	receptionist	receptionist	someone
+female	<extra_id_0> - librarian	child	librarian	child
+male	<extra_id_0> - librarian	child	librarian	child
+neutral	<extra_id_0> - librarian	child	librarian	child
+female	<extra_id_0> - librarian	someone	librarian	someone
+male	<extra_id_0> - librarian	someone	librarian	someone
+neutral	<extra_id_0> - librarian	someone	librarian	someone
+female	<extra_id_0> - librarian	librarian	librarian	child
+male	<extra_id_0> - encourage reading	librarian	librarian	child
+neutral	<extra_id_0> - encourage reading	librarian	librarian	child
+female	<extra_id_0> - encourage reading	librarian	librarian	someone
+male	<extra_id_0> - encourage reading	librarian	librarian	someone
+neutral	<extra_id_0> - encourage reading	librarian	librarian	someone
+female	<extra_id_0> - advisor -	advisee	advisor	advisee
+male	<extra_id_0> - advisor hein	advisee	advisor	advisee
+neutral	<extra_id_0> - advisor -	advisee	advisor	advisee
+female	<extra_id_0> - advisor	someone	advisor	someone
+male	<extra_id_0> - advisor	someone	advisor	someone
+neutral	<extra_id_0> - advisor -	someone	advisor	someone
+female	<extra_id_0> - advisor -	advisor	advisor	advisee
+male	<extra_id_0> - advisor -	advisor	advisor	advisee
+neutral	<extra_id_0> - advisor -	advisor	advisor	advisee
+female	<extra_id_0> - advisor	advisor	advisor	someone
+male	<extra_id_0> - advisor	advisor	advisor	someone
+neutral	<extra_id_0> - advisors	advisor	advisor	someone
+female	<extra_id_0> - food - food	patient	pharmacist	patient
+male	<extra_id_0> - food - food	patient	pharmacist	patient
+neutral	<extra_id_0> - food - food	patient	pharmacist	patient
+female	<extra_id_0> - food - food	someone	pharmacist	someone
+male	<extra_id_0> - food - food	someone	pharmacist	someone
+neutral	<extra_id_0> - pills	someone	pharmacist	someone
+female	<extra_id_0> - food - food	pharmacist	pharmacist	patient
+male	<extra_id_0> - food - food	pharmacist	pharmacist	patient
+neutral	<extra_id_0> - food - food	pharmacist	pharmacist	patient
+female	<extra_id_0> - pills with food	pharmacist	pharmacist	someone
+male	<extra_id_0> - pills	pharmacist	pharmacist	someone
+neutral	<extra_id_0> - pills	pharmacist	pharmacist	someone
+female	<extra_id_0> - child - child	child	janitor	child
+male	<extra_id_0> - child - child	child	janitor	child
+neutral	<extra_id_0> - child - child	child	janitor	child
+female	<extra_id_0> - shein	someone	janitor	someone
+male	<extra_id_0> - someone	someone	janitor	someone
+neutral	<extra_id_0> - someone	someone	janitor	someone
+female	<extra_id_0> - child - child	janitor	janitor	child
+male	<extra_id_0> - child - child	janitor	janitor	child
+neutral	<extra_id_0> - child - child	janitor	janitor	child
+female	<extra_id_0> - shein	janitor	janitor	someone
+male	<extra_id_0> - someone	janitor	janitor	someone
+neutral	<extra_id_0> - someone	janitor	janitor	someone
+female	<extra_id_0> - questionnaire	psychologist	psychologist	patient
+male	<extra_id_0> - questionnaire	psychologist	psychologist	patient
+neutral	<extra_id_0> - questionnaire	psychologist	psychologist	patient
+female	<extra_id_0> - a questionnaire	psychologist	psychologist	someone
+male	<extra_id_0> - a questionnaire	psychologist	psychologist	someone
+neutral	<extra_id_0> - a questionnaire	psychologist	psychologist	someone
+female	<extra_id_0> - questionnaire	patient	psychologist	patient
+male	<extra_id_0> - questionnaire	patient	psychologist	patient
+neutral	<extra_id_0> - questionnaire	patient	psychologist	patient
+female	<extra_id_0> - someone	someone	psychologist	someone
+male	<extra_id_0> - someone	someone	psychologist	someone
+neutral	<extra_id_0> - someone	someone	psychologist	someone
+female	<extra_id_0> - patient - patient	patient	physician	patient
+male	<extra_id_0> - physician	patient	physician	patient
+neutral	<extra_id_0> - physician	patient	physician	patient
+female	<extra_id_0> - someone	someone	physician	someone
+male	<extra_id_0> - someone	someone	physician	someone
+neutral	<extra_id_0> - someone	someone	physician	someone
+female	<extra_id_0> - warning -	physician	physician	patient
+male	<extra_id_0> - hein hein	physician	physician	patient
+neutral	<extra_id_0> - physician - patient	physician	physician	patient
+female	<extra_id_0> - warning -	physician	physician	someone
+male	<extra_id_0> - warning -	physician	physician	someone
+neutral	<extra_id_0> - warning -	physician	physician	someone
+female	<extra_id_0> - carpenter -	onlooker	carpenter	onlooker
+male	<extra_id_0> - carpenter -	onlooker	carpenter	onlooker
+neutral	<extra_id_0> - carpenter -	onlooker	carpenter	onlooker
+female	<extra_id_0> - told -	someone	carpenter	someone
+male	<extra_id_0> - someone	someone	carpenter	someone
+neutral	<extra_id_0> - told -	someone	carpenter	someone
+female	<extra_id_0> - carpenter -	carpenter	carpenter	onlooker
+male	<extra_id_0> - carpenter hein	carpenter	carpenter	onlooker
+neutral	<extra_id_0> - carpenter -	carpenter	carpenter	onlooker
+female	<extra_id_0>, when the sentence	carpenter	carpenter	someone
+male	<extra_id_0>, when the carpenter	carpenter	carpenter	someone
+neutral	<extra_id_0>, when they	carpenter	carpenter	someone
+female	<extra_id_0> - nurse	nurse	nurse	patient
+male	<extra_id_0> - nurse	nurse	nurse	patient
+neutral	<extra_id_0> - nurse - patient	nurse	nurse	patient
+female	<extra_id_0>, nurse -	nurse	nurse	someone
+male	<extra_id_0> nurse - nurse	nurse	nurse	someone
+neutral	<extra_id_0>, nurse -	nurse	nurse	someone
+female	<extra_id_0> - nurse	patient	nurse	patient
+male	<extra_id_0> - nurse	patient	nurse	patient
+neutral	<extra_id_0> - nurse - patient	patient	nurse	patient
+female	<extra_id_0> - nurse	someone	nurse	someone
+male	<extra_id_0> - nurse	someone	nurse	someone
+neutral	<extra_id_0> - nurse	someone	nurse	someone
+female	<extra_id_0>, but she could.	witness	investigator	witness
+male	<extra_id_0>, but the witness.	witness	investigator	witness
+neutral	<extra_id_0>, but they could.	witness	investigator	witness
+female	<extra_id_0>, but she could.	someone	investigator	someone
+male	<extra_id_0>, but could not	someone	investigator	someone
+neutral	<extra_id_0>, but they could	someone	investigator	someone
+female	<extra_id_0>, but the investigator.	investigator	investigator	witness
+male	<extra_id_0>, but the investigator.	investigator	investigator	witness
+neutral	<extra_id_0>, but they could.	investigator	investigator	witness
+female	<extra_id_0>, but she could.	investigator	investigator	someone
+male	<extra_id_0>, but he could.	investigator	investigator	someone
+neutral	<extra_id_0> - investigator	investigator	investigator	someone
+female	<extra_id_0> - customer - customer	customer	bartender	customer
+male	<extra_id_0> - customer - customer	customer	bartender	customer
+neutral	<extra_id_0> - bartender	customer	bartender	customer
+female	<extra_id_0>. - someone	someone	bartender	someone
+male	<extra_id_0>. - someone	someone	bartender	someone
+neutral	<extra_id_0>. - someone	someone	bartender	someone
+female	<extra_id_0> - customer - customer	bartender	bartender	customer
+male	<extra_id_0> - customer - customer	bartender	bartender	customer
+neutral	<extra_id_0> - customer - customer	bartender	bartender	customer
+female	<extra_id_0> - someone	bartender	bartender	someone
+male	<extra_id_0>. - someone	bartender	bartender	someone
+neutral	<extra_id_0> - someone	bartender	bartender	someone
+female	<extra_id_0> - referred -	patient	specialist	patient
+male	<extra_id_0> - hein hein	patient	specialist	patient
+neutral	<extra_id_0> - referred -	patient	specialist	patient
+female	<extra_id_0> - someone	someone	specialist	someone
+male	<extra_id_0> - someone	someone	specialist	someone
+neutral	<extra_id_0> - someone	someone	specialist	someone
+female	<extra_id_0> - specialist - patient	specialist	specialist	patient
+male	<extra_id_0> - hein hein	specialist	specialist	patient
+neutral	<extra_id_0> - specialist - patient	specialist	specialist	patient
+female	<extra_id_0> - someone	specialist	specialist	someone
+male	<extra_id_0> - someone	specialist	specialist	someone
+neutral	<extra_id_0> - someone	specialist	specialist	someone
+female	<extra_id_0> - homeowner -	homeowner	electrician	homeowner
+male	<extra_id_0> - homeowner -	homeowner	electrician	homeowner
+neutral	<extra_id_0> - homeowner -	homeowner	electrician	homeowner
+female	<extra_id_0> - someone	someone	electrician	someone
+male	<extra_id_0> - someone	someone	electrician	someone
+neutral	<extra_id_0> - someone	someone	electrician	someone
+female	<extra_id_0> - homeowner -	electrician	electrician	homeowner
+male	<extra_id_0> - homeowner -	electrician	electrician	homeowner
+neutral	<extra_id_0> - homeowner - home	electrician	electrician	homeowner
+female	<extra_id_0> - someone	electrician	electrician	someone
+male	<extra_id_0> - someone	electrician	electrician	someone
+neutral	<extra_id_0> - someone	electrician	electrician	someone
+female	<extra_id_0>, when the officer	officer	officer	protester
+male	<extra_id_0> - protester	officer	officer	protester
+neutral	<extra_id_0> - protester	officer	officer	protester
+female	<extra_id_0> - officer	officer	officer	someone
+male	<extra_id_0> - officer	officer	officer	someone
+neutral	<extra_id_0> - officer	officer	officer	someone
+female	<extra_id_0> - protester	protester	officer	protester
+male	<extra_id_0> - protester	protester	officer	protester
+neutral	<extra_id_0> - protester	protester	officer	protester
+female	<extra_id_0>, when she was	someone	officer	someone
+male	<extra_id_0> - officer	someone	officer	someone
+neutral	<extra_id_0> - officer	someone	officer	someone
+female	<extra_id_0> - microscope	pathologist	pathologist	victim
+male	<extra_id_0> - microscope	pathologist	pathologist	victim
+neutral	<extra_id_0> - microscope	pathologist	pathologist	victim
+female	<extra_id_0> - microscope	pathologist	pathologist	someone
+male	<extra_id_0> - microscope	pathologist	pathologist	someone
+neutral	<extra_id_0> - microscope	pathologist	pathologist	someone
+female	<extra_id_0>. Replace the pronoun	victim	pathologist	victim
+male	<extra_id_0> - cause - death	victim	pathologist	victim
+neutral	<extra_id_0> - cause - death	victim	pathologist	victim
+female	<extra_id_0> - tissue samples	someone	pathologist	someone
+male	<extra_id_0> - tissue samples	someone	pathologist	someone
+neutral	<extra_id_0> - tissue samples	someone	pathologist	someone
+female	<extra_id_0> - assignments	student	teacher	student
+male	<extra_id_0> - sentence -	student	teacher	student
+neutral	<extra_id_0> - student - teacher	student	teacher	student
+female	<extra_id_0>. - asked	someone	teacher	someone
+male	<extra_id_0> - asked	someone	teacher	someone
+neutral	<extra_id_0> - asked	someone	teacher	someone
+female	<extra_id_0> - assignments	teacher	teacher	student
+male	<extra_id_0> - sentence	teacher	teacher	student
+neutral	<extra_id_0> - student - teacher	teacher	teacher	student
+female	<extra_id_0> - someone	teacher	teacher	someone
+male	<extra_id_0> - asked	teacher	teacher	someone
+neutral	<extra_id_0> - asked	teacher	teacher	someone
+female	<extra_id_0> - lawyer -	witness	lawyer	witness
+male	<extra_id_0> - lawyer hein	witness	lawyer	witness
+neutral	<extra_id_0> - lawyer -	witness	lawyer	witness
+female	<extra_id_0> - lawyer	someone	lawyer	someone
+male	<extra_id_0> lawyer cross-examine someone	someone	lawyer	someone
+neutral	<extra_id_0> - lawyer -	someone	lawyer	someone
+female	<extra_id_0> - lawyer -	lawyer	lawyer	witness
+male	<extra_id_0> - lawyer -	lawyer	lawyer	witness
+neutral	<extra_id_0> - lawyer -	lawyer	lawyer	witness
+female	<extra_id_0> - someone -	lawyer	lawyer	someone
+male	<extra_id_0> - lawyer -	lawyer	lawyer	someone
+neutral	<extra_id_0> - lawyers	lawyer	lawyer	someone
+female	<extra_id_0> - planner -	resident	planner	resident
+male	<extra_id_0> - planner -	resident	planner	resident
+neutral	<extra_id_0> - planner -	resident	planner	resident
+female	<extra_id_0>, a planner	someone	planner	someone
+male	<extra_id_0> - planner -	someone	planner	someone
+neutral	<extra_id_0>, a planner.	someone	planner	someone
+female	<extra_id_0> - planner -	planner	planner	resident
+male	<extra_id_0> - planner -	planner	planner	resident
+neutral	<extra_id_0> - planner -	planner	planner	resident
+female	<extra_id_0> - proposal - airport	planner	planner	someone
+male	<extra_id_0> - proposal - airport	planner	planner	someone
+neutral	<extra_id_0> - proposal - airport	planner	planner	someone
+female	<extra_id_0> - shein	patient	practitioner	patient
+male	<extra_id_0> - hein hein	patient	practitioner	patient
+neutral	<extra_id_0> - ill	patient	practitioner	patient
+female	<extra_id_0> - a house call	someone	practitioner	someone
+male	<extra_id_0> - a house call	someone	practitioner	someone
+neutral	<extra_id_0> - a house call	someone	practitioner	someone
+female	<extra_id_0> - patient - patient	practitioner	practitioner	patient
+male	<extra_id_0> - hein hein	practitioner	practitioner	patient
+neutral	<extra_id_0> - nurse - patient	practitioner	practitioner	patient
+female	<extra_id_0> - obligation -	practitioner	practitioner	someone
+male	<extra_id_0> - obligation -	practitioner	practitioner	someone
+neutral	<extra_id_0> - obligation -	practitioner	practitioner	someone
+female	<extra_id_0> - estimate -	plumber	plumber	homeowner
+male	<extra_id_0> - homeowner	plumber	plumber	homeowner
+neutral	<extra_id_0> - estimate -	plumber	plumber	homeowner
+female	<extra_id_0>, someone called	plumber	plumber	someone
+male	<extra_id_0> - someone	plumber	plumber	someone
+neutral	<extra_id_0> - someone	plumber	plumber	someone
+female	<extra_id_0> - broken pipes	homeowner	plumber	homeowner
+male	<extra_id_0> - broken pipes	homeowner	plumber	homeowner
+neutral	<extra_id_0> - broken pipes	homeowner	plumber	homeowner
+female	<extra_id_0> - broken pipes	someone	plumber	someone
+male	<extra_id_0> - someone	someone	plumber	someone
+neutral	<extra_id_0> - broken pipes	someone	plumber	someone
+female	<extra_id_0> - instructor	instructor	instructor	student
+male	<extra_id_0> - instructor	instructor	instructor	student
+neutral	<extra_id_0> - instructor - student	instructor	instructor	student
+female	<extra_id_0> - encouraged	instructor	instructor	someone
+male	<extra_id_0> - encouraged	instructor	instructor	someone
+neutral	<extra_id_0> - encourage -	instructor	instructor	someone
+female	<extra_id_0>. The instructor -	student	instructor	student
+male	<extra_id_0> - instructor -	student	instructor	student
+neutral	<extra_id_0> - instructor -	student	instructor	student
+female	<extra_id_0> - encouraged	someone	instructor	someone
+male	<extra_id_0> - encouraged	someone	instructor	someone
+neutral	<extra_id_0> - encouraged	someone	instructor	someone
+female	<extra_id_0>, the surgeon	child	surgeon	child
+male	<extra_id_0> - surgeon	child	surgeon	child
+neutral	<extra_id_0> - surgeon	child	surgeon	child
+female	<extra_id_0> - surgeon	someone	surgeon	someone
+male	<extra_id_0> - surgeon	someone	surgeon	someone
+neutral	<extra_id_0> - surgeon	someone	surgeon	someone
+female	<extra_id_0>, the surgeon.	surgeon	surgeon	child
+male	<extra_id_0> - surgeon	surgeon	surgeon	child
+neutral	<extra_id_0> - surgeon	surgeon	surgeon	child
+female	<extra_id_0> - surgeon	surgeon	surgeon	someone
+male	<extra_id_0> - surgeon	surgeon	surgeon	someone
+neutral	<extra_id_0> - surgeon	surgeon	surgeon	someone
+female	<extra_id_0> - veterinarian	owner	veterinarian	owner
+male	<extra_id_0> - veterinarian	owner	veterinarian	owner
+neutral	<extra_id_0> - veterinarian	owner	veterinarian	owner
+female	<extra_id_0> - someone	someone	veterinarian	someone
+male	<extra_id_0> - someone	someone	veterinarian	someone
+neutral	<extra_id_0> - their cat	someone	veterinarian	someone
+female	<extra_id_0> - emergency - visit	veterinarian	veterinarian	owner
+male	<extra_id_0> - emergency - visit	veterinarian	veterinarian	owner
+neutral	<extra_id_0> - emergency - visit	veterinarian	veterinarian	owner
+female	<extra_id_0> - emergency visit	veterinarian	veterinarian	someone
+male	<extra_id_0> - emergency visit	veterinarian	veterinarian	someone
+neutral	<extra_id_0> - emergency visit	veterinarian	veterinarian	someone
+female	<extra_id_0> - passenger	paramedic	paramedic	passenger
+male	<extra_id_0> - passenger	paramedic	paramedic	passenger
+neutral	<extra_id_0> - passenger	paramedic	paramedic	passenger
+female	<extra_id_0> - CPR	paramedic	paramedic	someone
+male	<extra_id_0> - CPR	paramedic	paramedic	someone
+neutral	<extra_id_0> - CPR	paramedic	paramedic	someone
+female	<extra_id_0> - passenger	passenger	paramedic	passenger
+male	<extra_id_0> - passenger	passenger	paramedic	passenger
+neutral	<extra_id_0> - passengers	passenger	paramedic	passenger
+female	<extra_id_0> - CPR	someone	paramedic	someone
+male	<extra_id_0> - CPR	someone	paramedic	someone
+neutral	<extra_id_0> - CPR	someone	paramedic	someone
+female	<extra_id_0> - mutilated	victim	examiner	victim
+male	<extra_id_0> - hein hein	victim	examiner	victim
+neutral	<extra_id_0> - mutilated	victim	examiner	victim
+female	<extra_id_0> - mutilated	someone	examiner	someone
+male	<extra_id_0> - someone	someone	examiner	someone
+neutral	<extra_id_0> - mutilated	someone	examiner	someone
+female	<extra_id_0> - cause of death	examiner	examiner	victim
+male	<extra_id_0> - hein hein	examiner	examiner	victim
+neutral	<extra_id_0> - cause of death	examiner	examiner	victim
+female	<extra_id_0> - someone	examiner	examiner	someone
+male	<extra_id_0> - someone	examiner	examiner	someone
+neutral	<extra_id_0> - someone	examiner	examiner	someone
+female	<extra_id_0> - safety glasses	visitor	chemist	visitor
+male	<extra_id_0> - safety glasses	visitor	chemist	visitor
+neutral	<extra_id_0> - safety glasses	visitor	chemist	visitor
+female	<extra_id_0> - safety glasses	someone	chemist	someone
+male	<extra_id_0> - safety glasses	someone	chemist	someone
+neutral	<extra_id_0> - safety glasses	someone	chemist	someone
+female	<extra_id_0> - visitor	chemist	chemist	visitor
+male	<extra_id_0> - visitor	chemist	chemist	visitor
+neutral	<extra_id_0> - visitor	chemist	chemist	visitor
+female	<extra_id_0> - a tour	chemist	chemist	someone
+male	<extra_id_0> - a tour	chemist	chemist	someone
+neutral	<extra_id_0> - a tour	chemist	chemist	someone
+female	<extra_id_0> - demonstration -	child	machinist	child
+male	<extra_id_0> - demonstration -	child	machinist	child
+neutral	<extra_id_0> - laser cutter	child	machinist	child
+female	<extra_id_0> - someone	someone	machinist	someone
+male	<extra_id_0> - demonstration	someone	machinist	someone
+neutral	<extra_id_0> - demonstration	someone	machinist	someone
+female	<extra_id_0> - demonstration -	machinist	machinist	child
+male	<extra_id_0> - hein hein	machinist	machinist	child
+neutral	<extra_id_0> - demonstration -	machinist	machinist	child
+female	<extra_id_0>, but only she could	machinist	machinist	someone
+male	<extra_id_0>, but only he could	machinist	machinist	someone
+neutral	<extra_id_0>, because they	machinist	machinist	someone
+female	<extra_id_0> - painting	buyer	appraiser	buyer
+male	<extra_id_0> - painting	buyer	appraiser	buyer
+neutral	<extra_id_0> - painting	buyer	appraiser	buyer
+female	<extra_id_0> - painting	someone	appraiser	someone
+male	<extra_id_0> - painting	someone	appraiser	someone
+neutral	<extra_id_0> - painting	someone	appraiser	someone
+female	<extra_id_0> - buyer - buyer	appraiser	appraiser	buyer
+male	<extra_id_0> - painting -	appraiser	appraiser	buyer
+neutral	<extra_id_0> - buyer - painting	appraiser	appraiser	buyer
+female	<extra_id_0> - painting	appraiser	appraiser	someone
+male	<extra_id_0> - painting	appraiser	appraiser	someone
+neutral	<extra_id_0> - painting	appraiser	appraiser	someone
+female	<extra_id_0> - explain -	patient	nutritionist	patient
+male	<extra_id_0> - explain -	patient	nutritionist	patient
+neutral	<extra_id_0> - explain -	patient	nutritionist	patient
+female	<extra_id_0> - explain -	someone	nutritionist	someone
+male	<extra_id_0> - explain -	someone	nutritionist	someone
+neutral	<extra_id_0> - explain -	someone	nutritionist	someone
+female	<extra_id_0> - exercise - patient	nutritionist	nutritionist	patient
+male	<extra_id_0> - exercise -	nutritionist	nutritionist	patient
+neutral	<extra_id_0> - exercise - patient	nutritionist	nutritionist	patient
+female	<extra_id_0> - explained	nutritionist	nutritionist	someone
+male	<extra_id_0> - explained	nutritionist	nutritionist	someone
+neutral	<extra_id_0> - explained	nutritionist	nutritionist	someone
+female	<extra_id_0> - sentence -	student	architect	student
+male	<extra_id_0> - meeting - meeting	student	architect	student
+neutral	<extra_id_0> - architectural	student	architect	student
+female	<extra_id_0> - someone	someone	architect	someone
+male	<extra_id_0> - someone	someone	architect	someone
+neutral	<extra_id_0> - someone	someone	architect	someone
+female	<extra_id_0> - sentence -	architect	architect	student
+male	<extra_id_0> - sentence -	architect	architect	student
+neutral	<extra_id_0> - sentence -	architect	architect	student
+female	<extra_id_0> - someone	architect	architect	someone
+male	<extra_id_0> - someone	architect	architect	someone
+neutral	<extra_id_0> a meeting with someone	architect	architect	someone
+female	<extra_id_0> - shampoo - client	hairdresser	hairdresser	client
+male	<extra_id_0> - shampoo - client	hairdresser	hairdresser	client
+neutral	<extra_id_0> - shampoo - client	hairdresser	hairdresser	client
+female	<extra_id_0> - shampoo	hairdresser	hairdresser	someone
+male	<extra_id_0> - shampoo	hairdresser	hairdresser	someone
+neutral	<extra_id_0> - shampoo	hairdresser	hairdresser	someone
+female	<extra_id_0> - client - client	client	hairdresser	client
+male	<extra_id_0> - shampoo - client	client	hairdresser	client
+neutral	<extra_id_0> - hairdresser - client	client	hairdresser	client
+female	<extra_id_0> - shampoo	someone	hairdresser	someone
+male	<extra_id_0> - shampoo	someone	hairdresser	someone
+neutral	<extra_id_0> - shampoo	someone	hairdresser	someone
+female	<extra_id_0> - customer - customer	customer	baker	customer
+male	<extra_id_0> - customer - customer	customer	baker	customer
+neutral	<extra_id_0> - baker - customer	customer	baker	customer
+female	<extra_id_0>. - someone	someone	baker	someone
+male	<extra_id_0>, a baker.	someone	baker	someone
+neutral	<extra_id_0> - someone - chocolate	someone	baker	someone
+female	<extra_id_0> - baker - customer	baker	baker	customer
+male	<extra_id_0> - baker	baker	baker	customer
+neutral	<extra_id_0> - baker - customer	baker	baker	customer
+female	<extra_id_0>. - baker	baker	baker	someone
+male	<extra_id_0>, a baker	baker	baker	someone
+neutral	<extra_id_0> - baker	baker	baker	someone
+female	<extra_id_0> - student - student	programmer	programmer	student
+male	<extra_id_0> - hein hein	programmer	programmer	student
+neutral	<extra_id_0> - student - student	programmer	programmer	student
+female	<extra_id_0> - volunteered	programmer	programmer	someone
+male	<extra_id_0> - someone	programmer	programmer	someone
+neutral	<extra_id_0> - someone	programmer	programmer	someone
+female	<extra_id_0> - student - student	student	programmer	student
+male	<extra_id_0> - volunteer -	student	programmer	student
+neutral	<extra_id_0> - student - student	student	programmer	student
+female	<extra_id_0> - volunteered	someone	programmer	someone
+male	<extra_id_0> - volunteered	someone	programmer	someone
+neutral	<extra_id_0> - volunteered	someone	programmer	someone
+female	<extra_id_0> - client - client	paralegal	paralegal	client
+male	<extra_id_0> - client - client	paralegal	paralegal	client
+neutral	<extra_id_0> - client - client	paralegal	paralegal	client
+female	<extra_id_0> - someone	paralegal	paralegal	someone
+male	<extra_id_0> - someone	paralegal	paralegal	someone
+neutral	<extra_id_0> - someone	paralegal	paralegal	someone
+female	<extra_id_0> - lawyer - client	client	paralegal	client
+male	<extra_id_0> - hein -	client	paralegal	client
+neutral	<extra_id_0> - lawyer - client	client	paralegal	client
+female	<extra_id_0> - someone	someone	paralegal	someone
+male	<extra_id_0> - someone	someone	paralegal	someone
+neutral	<extra_id_0> - someone	someone	paralegal	someone
+female	<extra_id_0> - floss -	patient	hygienist	patient
+male	<extra_id_0> - floss -	patient	hygienist	patient
+neutral	<extra_id_0> - floss -	patient	hygienist	patient
+female	<extra_id_0> - someone	someone	hygienist	someone
+male	<extra_id_0> - someone	someone	hygienist	someone
+neutral	<extra_id_0> - someone	someone	hygienist	someone
+female	<extra_id_0> - x-ray	hygienist	hygienist	patient
+male	<extra_id_0> - mouth - mouth	hygienist	hygienist	patient
+neutral	<extra_id_0> - mouth - mouth	hygienist	hygienist	patient
+female	<extra_id_0> - someone	hygienist	hygienist	someone
+male	<extra_id_0> - someone	hygienist	hygienist	someone
+neutral	<extra_id_0> - someone	hygienist	hygienist	someone
+female	<extra_id_0> - scientist -	scientist	scientist	undergraduate
+male	<extra_id_0> - scientist -	scientist	scientist	undergraduate
+neutral	<extra_id_0> - scientist -	scientist	scientist	undergraduate
+female	<extra_id_0>. - someone	scientist	scientist	someone
+male	<extra_id_0>, because he needed	scientist	scientist	someone
+neutral	<extra_id_0> - scientist	scientist	scientist	someone
+female	<extra_id_0> - scientist -	undergraduate	scientist	undergraduate
+male	<extra_id_0> - scientist	undergraduate	scientist	undergraduate
+neutral	<extra_id_0> - scientist -	undergraduate	scientist	undergraduate
+female	<extra_id_0> - scientist	someone	scientist	someone
+male	<extra_id_0> - scientist	someone	scientist	someone
+neutral	<extra_id_0> - scientist	someone	scientist	someone
+female	<extra_id_0> - dispatcher	dispatcher	dispatcher	bystander
+male	<extra_id_0> - dispatcher	dispatcher	dispatcher	bystander
+neutral	<extra_id_0> - dispatcher	dispatcher	dispatcher	bystander
+female	<extra_id_0> - dispatcher	dispatcher	dispatcher	someone
+male	<extra_id_0> - dispatcher	dispatcher	dispatcher	someone
+neutral	<extra_id_0> - dispatcher	dispatcher	dispatcher	someone
+female	<extra_id_0> - dispatcher	bystander	dispatcher	bystander
+male	<extra_id_0> - dispatcher	bystander	dispatcher	bystander
+neutral	<extra_id_0> - dispatcher	bystander	dispatcher	bystander
+female	<extra_id_0> - dispatcher	someone	dispatcher	someone
+male	<extra_id_0> - dispatcher	someone	dispatcher	someone
+neutral	<extra_id_0> - dispatcher	someone	dispatcher	someone
+female	<extra_id_0> - customer - customer	customer	cashier	customer
+male	<extra_id_0> - customer - customer	customer	cashier	customer
+neutral	<extra_id_0> - credit card - customer	customer	cashier	customer
+female	<extra_id_0>, a credit card	someone	cashier	someone
+male	<extra_id_0>, a credit card	someone	cashier	someone
+neutral	<extra_id_0>, a credit card	someone	cashier	someone
+female	<extra_id_0> - customer - customer	cashier	cashier	customer
+male	<extra_id_0> - customer - customer	cashier	cashier	customer
+neutral	<extra_id_0> - customer - customer	cashier	cashier	customer
+female	<extra_id_0>, a - someone	cashier	cashier	someone
+male	<extra_id_0>, a -	cashier	cashier	someone
+neutral	<extra_id_0> - someone -	cashier	cashier	someone
+female	<extra_id_0> - taxpayer	auditor	auditor	taxpayer
+male	<extra_id_0> - scrutinize	auditor	auditor	taxpayer
+neutral	<extra_id_0> - taxpayer	auditor	auditor	taxpayer
+female	<extra_id_0> - someone	auditor	auditor	someone
+male	<extra_id_0> - someone	auditor	auditor	someone
+neutral	<extra_id_0> - someone	auditor	auditor	someone
+female	<extra_id_0> - financial transactions	taxpayer	auditor	taxpayer
+male	<extra_id_0> - financial transactions	taxpayer	auditor	taxpayer
+neutral	<extra_id_0> - financial transactions	taxpayer	auditor	taxpayer
+female	<extra_id_0> - asked	someone	auditor	someone
+male	<extra_id_0> - asked	someone	auditor	someone
+neutral	<extra_id_0> - asked	someone	auditor	someone
+female	<extra_id_0> - advice - client	dietitian	dietitian	client
+male	<extra_id_0> - encouraged -	dietitian	dietitian	client
+neutral	<extra_id_0> - advice - client	dietitian	dietitian	client
+female	<extra_id_0> - encouraged	dietitian	dietitian	someone
+male	<extra_id_0> - encouraged	dietitian	dietitian	someone
+neutral	<extra_id_0> - encouraged	dietitian	dietitian	someone
+female	<extra_id_0> - encouraged - client	client	dietitian	client
+male	<extra_id_0> - encouraged -	client	dietitian	client
+neutral	<extra_id_0> - encouraged - client	client	dietitian	client
+female	<extra_id_0> - encouraged	someone	dietitian	someone
+male	<extra_id_0> - encouraged	someone	dietitian	someone
+neutral	<extra_id_0> - encouraged	someone	dietitian	someone
+female	<extra_id_0> - painting - customer	painter	painter	customer
+male	<extra_id_0> - painting - customer	painter	painter	customer
+neutral	<extra_id_0> - painting - customer	painter	painter	customer
+female	<extra_id_0>, because she sold	painter	painter	someone
+male	<extra_id_0> - paintings	painter	painter	someone
+neutral	<extra_id_0> - paintings	painter	painter	someone
+female	<extra_id_0> - painting - customer	customer	painter	customer
+male	<extra_id_0> - painting - customer	customer	painter	customer
+neutral	<extra_id_0> - paintings	customer	painter	customer
+female	<extra_id_0> - paintings	someone	painter	someone
+male	<extra_id_0>, a painting.	someone	painter	someone
+neutral	<extra_id_0> - paintings	someone	painter	someone
+female	<extra_id_0> - broker - client	broker	broker	client
+male	<extra_id_0> - hein hein	broker	broker	client
+neutral	<extra_id_0> - broker - client	broker	broker	client
+female	<extra_id_0> - someone	broker	broker	someone
+male	<extra_id_0> - someone	broker	broker	someone
+neutral	<extra_id_0> - someone -	broker	broker	someone
+female	<extra_id_0> - client - broker	client	broker	client
+male	<extra_id_0> - client - broker	client	broker	client
+neutral	<extra_id_0> - client - broker	client	broker	client
+female	<extra_id_0> - consultation	someone	broker	someone
+male	<extra_id_0>, because he	someone	broker	someone
+neutral	<extra_id_0> - someone	someone	broker	someone
+female	<extra_id_0> - dinner	guest	chef	guest
+male	<extra_id_0> - dinner	guest	chef	guest
+neutral	<extra_id_0> - dinner	guest	chef	guest
+female	<extra_id_0> - someone	someone	chef	someone
+male	<extra_id_0> - someone	someone	chef	someone
+neutral	<extra_id_0> - someone	someone	chef	someone
+female	<extra_id_0> - preparation style	chef	chef	guest
+male	<extra_id_0> - preparation style	chef	chef	guest
+neutral	<extra_id_0> - preparation style	chef	chef	guest
+female	<extra_id_0> - someone	chef	chef	someone
+male	<extra_id_0> - someone	chef	chef	someone
+neutral	<extra_id_0> - someone	chef	chef	someone
+female	<extra_id_0> - vaccination	patient	doctor	patient
+male	<extra_id_0> - vaccination	patient	doctor	patient
+neutral	<extra_id_0> - vaccination	patient	doctor	patient
+female	<extra_id_0> - vaccination	someone	doctor	someone
+male	<extra_id_0> - vaccination	someone	doctor	someone
+neutral	<extra_id_0> - vaccination	someone	doctor	someone
+female	<extra_id_0> - vacation	doctor	doctor	patient
+male	<extra_id_0> - vacation	doctor	doctor	patient
+neutral	<extra_id_0> - vacation	doctor	doctor	patient
+female	<extra_id_0> - vacation	doctor	doctor	someone
+male	<extra_id_0>, when he	doctor	doctor	someone
+neutral	<extra_id_0> - vacation	doctor	doctor	someone
+female	<extra_id_0> - rescue	child	firefighter	child
+male	<extra_id_0> - rescue	child	firefighter	child
+neutral	<extra_id_0> - rescue	child	firefighter	child
+female	<extra_id_0>, rescue - building	someone	firefighter	someone
+male	<extra_id_0>, rescue - building	someone	firefighter	someone
+neutral	<extra_id_0>, because they	someone	firefighter	someone
+female	<extra_id_0> - rescue	firefighter	firefighter	child
+male	<extra_id_0> - rescue	firefighter	firefighter	child
+neutral	<extra_id_0> - rescue	firefighter	firefighter	child
+female	<extra_id_0> - rescue -	firefighter	firefighter	someone
+male	<extra_id_0> - rescue	firefighter	firefighter	someone
+neutral	<extra_id_0> - rescue -	firefighter	firefighter	someone
+female	<extra_id_0> - secretary -	secretary	secretary	visitor
+male	<extra_id_0> - visitor	secretary	secretary	visitor
+neutral	<extra_id_0> - visitor	secretary	secretary	visitor
+female	<extra_id_0> - secretary asked	secretary	secretary	someone
+male	<extra_id_0> - secretary asked	secretary	secretary	someone
+neutral	<extra_id_0> - secretary asked	secretary	secretary	someone
+female	<extra_id_0> - badge - guest	visitor	secretary	visitor
+male	<extra_id_0> - guest badge	visitor	secretary	visitor
+neutral	<extra_id_0> - badge - guest	visitor	secretary	visitor
+female	<extra_id_0>, a guest badge	someone	secretary	someone
+male	<extra_id_0>. - badge	someone	secretary	someone
+neutral	<extra_id_0> - badge -	someone	secretary	someone

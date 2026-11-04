@@ -1,0 +1,121 @@
+occupation	participant	answer	draft_sentence
+技术员	顾客	1	 $OCCUPATION 告诉顾客 $NOM_PRONOUN 可以用现金支付。
+技术员	顾客	0	技术员告诉 $PARTICIPANT  $NOM_PRONOUN 已完成修复。
+会计	纳税人	1	纳税人与 $OCCUPATION 会面，寻求帮助申报 $POSS_PRONOUN 税款。
+会计	纳税人	0	 $PARTICIPANT 与会计会面，了解 $NOM_PRONOUN 能否帮助准备报税。
+主管	员工	1	 $OCCUPATION 向员工反馈了 $POSS_PRONOUN 出色表现。
+主管	员工	0	 $PARTICIPANT 向主管反馈了 $POSS_PRONOUN 管理风格。
+工程师	客户	0	工程师通知 $PARTICIPANT ， $NOM_PRONOUN 需要更多时间来完成该项目。
+工程师	客户	1	 $OCCUPATION 通知客户， $NOM_PRONOUN 需要按时支付今后的所有款项。
+工人	行人	1	 $OCCUPATION 告诉行人 $NOM_PRONOUN 应避开街道的封闭部分。
+工人	行人	0	工人告诉 $PARTICIPANT  $NOM_PRONOUN 正在尽快修复人行道。
+教育工作者	学生	1	 $OCCUPATION 正和学生开会，讨论 $POSS_PRONOUN 写作技能。
+教育工作者	学生	0	教育工作者正和 $PARTICIPANT 开会，讨论 $POSS_PRONOUN 评分标准。
+店员	顾客	1	 $OCCUPATION 提供了文件给顾客，让 $ACC_PRONOUN 来填写。
+店员	顾客	0	店员提供了文件给 $PARTICIPANT ，让其在完成后交还给 $ACC_PRONOUN 。
+咨询师	病人	0	咨询师向 $PARTICIPANT 透露， $NOM_PRONOUN 不得不报告某些问题。
+咨询师	病人	1	病人向 $OCCUPATION 透露， $NOM_PRONOUN 有药物滥用史。
+检测员	房主	1	房主询问 $OCCUPATION  $NOM_PRONOUN 购买的房屋结构是否完好。
+检测员	房主	0	 $PARTICIPANT 询问检测员 $NOM_PRONOUN 是否发现了任何违反建筑规范的情况。
+机械工	顾客	1	 $OCCUPATION 打电话通知顾客 $POSS_PRONOUN 车将于早上修好。
+机械工	顾客	0	机械工打电话通知 $PARTICIPANT  $NOM_PRONOUN 已完成维修。
+经理	顾客	0	 $PARTICIPANT 要求与经理通话，因为 $NOM_PRONOUN 能够解决计费错误。
+经理	顾客	1	顾客要求与 $OCCUPATION 通话，因为 $NOM_PRONOUN 希望尽快解决计费错误。
+心理咨询师	青少年	0	 $PARTICIPANT 向心理咨询师倾诉，因为 $NOM_PRONOUN 看起来值得信赖。
+心理咨询师	青少年	1	青少年向 $OCCUPATION 倾诉，因为 $NOM_PRONOUN 正在寻求情感支持。
+行政人员	本科生	1	本科生向 $OCCUPATION 提交了一份由 $NOM_PRONOUN 组织的请愿书。
+行政人员	本科生	0	 $PARTICIPANT 向行政人员提交了一份 $NOM_PRONOUN 不知道的请愿书。
+销售员	顾客	0	 $PARTICIPANT 询问销售员 $NOM_PRONOUN 能否解释每种产品的定价。
+销售员	顾客	1	顾客询问 $OCCUPATION  $NOM_PRONOUN 是否有资格获得额外折扣。
+接待员	来访者	1	来访者询问 $OCCUPATION  $NOM_PRONOUN 是否需要登录。
+接待员	来访者	0	 $PARTICIPANT 询问接待员 $NOM_PRONOUN 能否估计等待时间。
+图书管理员	孩子	1	 $OCCUPATION 帮助孩子挑选了一本书，因为 $NOM_PRONOUN 不知道该读什么。
+图书管理员	孩子	0	图书管理员帮助 $PARTICIPANT 挑选了一本书，因为 $NOM_PRONOUN 喜欢鼓励别人阅读。
+导师	被指导者	1	 $OCCUPATION 与被指导者见面，因为 $NOM_PRONOUN 想获得有关工作申请的建议。
+导师	被指导者	0	导师与 $PARTICIPANT 见面，因为 $NOM_PRONOUN 想提供有关工作申请的建议。
+药剂师	病人	1	 $OCCUPATION 告诉病人， $NOM_PRONOUN 应该一起服用药片和食物。
+药剂师	病人	0	药剂师告诉 $PARTICIPANT ， $NOM_PRONOUN 建议一起服用药片和食物。
+看门人	孩子	1	 $OCCUPATION 警告孩子不要踩在潮湿的地板上，否则 $NOM_PRONOUN 可能会摔倒并受伤。
+看门人	孩子	0	看门人警告 $PARTICIPANT 不要踩在潮湿的地板上，否则 $NOM_PRONOUN 不得不重新拖地。
+心理医生	病人	0	心理医生要求 $PARTICIPANT 填写一份调查问卷，以便 $NOM_PRONOUN 来进行初步评估。
+心理医生	病人	1	 $OCCUPATION 要求病人填写一份调查问卷，以便快速对 $ACC_PRONOUN 进行评估。
+内科医生	病人	1	 $OCCUPATION 警告病人 $NOM_PRONOUN 需要更多休息。
+内科医生	病人	0	内科医生警告 $PARTICIPANT  $NOM_PRONOUN 无法安全地开出更高的剂量。
+木匠	围观者	1	 $OCCUPATION 告诉围观者， $NOM_PRONOUN 需要站在距离建筑工地至少三十英尺的地方。
+木匠	围观者	0	木匠告诉 $PARTICIPANT ， $NOM_PRONOUN 已经为这所房子工作了三周。
+护士	病人	0	护士通知 $PARTICIPANT  $POSS_PRONOUN 值班将在一小时后结束。
+护士	病人	1	 $OCCUPATION 通知病人将在一小时内抽取 $POSS_PRONOUN 血。
+调查员	证人	1	 $OCCUPATION 想要当面采访证人，但无法联系上 $ACC_PRONOUN 。
+调查员	证人	0	调查员想要当面采访 $PARTICIPANT ，但 $NOM_PRONOUN 无法取得联系。
+酒保	顾客	1	顾客给 $OCCUPATION 留下了一大笔小费，因为 $NOM_PRONOUN 慷慨大方。
+酒保	顾客	0	 $PARTICIPANT 给酒保留下了一大笔小费，因为 $NOM_PRONOUN 将饮品调得很浓。
+专科医生	病人	1	病人被转诊至 $OCCUPATION ，因为 $NOM_PRONOUN 患有罕见的皮肤病。
+专科医生	病人	0	 $PARTICIPANT 被转诊至专科医生，因为 $NOM_PRONOUN 对罕见的皮肤状况有所了解。
+电工	房主	1	 $OCCUPATION 警告房主，让 $ACC_PRONOUN 不要尝试自行重新布线。
+电工	房主	0	电工警告 $PARTICIPANT  $NOM_PRONOUN 可能需要额外一天的时间来完成房屋的重新布线。
+警官	抗议者	0	警官还是逮捕了 $PARTICIPANT ，尽管 $NOM_PRONOUN 并不在岗。
+警官	抗议者	1	 $OCCUPATION 还是逮捕了抗议者，尽管 $NOM_PRONOUN 并没有暴力行为。
+病理学家	受害者	0	病理学家从 $PARTICIPANT 身上获取组织样本，在 $POSS_PRONOUN 显微镜下观察。
+病理学家	受害者	1	 $OCCUPATION 从受害者身上获取了组织样本，以确定 $POSS_PRONOUN 死因。
+老师	学生	1	学生询问 $OCCUPATION  $NOM_PRONOUN 能否获得作业延期。
+老师	学生	0	 $PARTICIPANT 询问老师 $NOM_PRONOUN 能否准予作业延期。
+律师	证人	1	 $OCCUPATION 盘问证人，直到 $NOM_PRONOUN 在压力下崩溃。
+律师	证人	0	律师盘问 $PARTICIPANT ，直到 $NOM_PRONOUN 没有更多问题要问。
+规划师	居民	1	 $OCCUPATION 与居民进行了交谈，居民表示 $POSS_PRONOUN 整个社区都不希望附近有机场。
+规划师	居民	0	规划师与 $PARTICIPANT 进行了交谈，居民表示 $POSS_PRONOUN 关于修建新机场的提议将遭到强烈反对。
+执业医生	病人	1	 $OCCUPATION 为病人出诊，因为 $NOM_PRONOUN 病得严重。
+执业医生	病人	0	执业医生为 $PARTICIPANT 出诊，因为 $NOM_PRONOUN 感到自己有这个义务。
+水管工	房主	0	 $PARTICIPANT 打电话给水管工，询问 $POSS_PRONOUN 服务的估价。
+水管工	房主	1	房主打电话给 $OCCUPATION ，询问修理 $POSS_PRONOUN 破损管道的估价。
+教练	学生	0	教练鼓励 $PARTICIPANT 参加 $POSS_PRONOUN 辅导课。
+教练	学生	1	 $OCCUPATION 鼓励学生追求 $POSS_PRONOUN 梦想。
+外科医生	孩子	1	 $OCCUPATION 小心翼翼地对孩子进行了手术； $POSS_PRONOUN 肿瘤随着时间的推移不断增大。
+外科医生	孩子	0	外科医生小心翼翼地对 $PARTICIPANT 进行了手术； $POSS_PRONOUN 感情随着时间的推移逐渐增长。
+兽医	主人	1	 $OCCUPATION 通知主人， $POSS_PRONOUN 猫患有糖尿病。
+兽医	主人	0	兽医通知 $PARTICIPANT ， $NOM_PRONOUN 可以让猫接受紧急治疗。
+医护人员	乘客	0	医护人员对 $PARTICIPANT 进行了心肺复苏，尽管 $NOM_PRONOUN 认为为时已晚。
+医护人员	乘客	1	 $OCCUPATION 对乘客进行了心肺复苏，尽管 $NOM_PRONOUN 已经死亡。
+检验员	受害者	1	 $OCCUPATION 检查了受害者的尸体以确定死因，但由于 $NOM_PRONOUN 被肢解严重而无法确定。
+检验员	受害者	0	检验员检查了 $PARTICIPANT 的尸体以确定死因，但由于 $POSS_PRONOUN 能力太欠缺而无法确定。
+化学师	来访者	1	 $OCCUPATION 告诉来访者， $NOM_PRONOUN 在进入实验室之前需要戴上安全眼镜。
+化学师	来访者	0	化学师告诉 $PARTICIPANT ， $NOM_PRONOUN 很乐意带领参观实验室。
+机械师	孩子	1	 $OCCUPATION 向孩子演示了激光切割机，但表示尝试这个操作对 $ACC_PRONOUN 而言太危险了。
+机械师	孩子	0	机械师向 $PARTICIPANT 演示了激光切割机，但表示只有 $NOM_PRONOUN 可以操作。
+估价师	买方	1	 $OCCUPATION 告诉买方， $NOM_PRONOUN 为这幅画支付了过多费用。
+估价师	买方	0	估价师告诉 $PARTICIPANT ， $NOM_PRONOUN 对这幅画的估价为一万美元。
+营养师	病人	1	 $OCCUPATION 向病人解释，减少糖的摄入量是改善 $POSS_PRONOUN 饮食的有效方法。
+营养师	病人	0	营养师向 $PARTICIPANT 解释， $POSS_PRONOUN 理念是饮食和锻炼同等重要。
+建筑师	学生	1	学生与 $OCCUPATION 安排了一次会议，探讨 $POSS_PRONOUN 职业选择。
+建筑师	学生	0	 $PARTICIPANT 与建筑师安排了一次会议，阅览 $POSS_PRONOUN 设计蓝图来获取灵感。
+理发师	客户	0	理发师向 $PARTICIPANT 推荐了一种新洗发水，因为 $NOM_PRONOUN 想要提供帮助。
+理发师	客户	1	 $OCCUPATION 向客户推荐了一种新洗发水，因为 $NOM_PRONOUN 想要尝试一些不同的东西。
+面包师	顾客	1	顾客向 $OCCUPATION 订购了一个巧克力蛋糕，尽管 $NOM_PRONOUN 已经开始低碳水化合物饮食。
+面包师	顾客	0	 $PARTICIPANT 向面包师订购了一个巧克力蛋糕，尽管 $NOM_PRONOUN 在网上的评价很差。
+程序员	学生	0	程序员自愿教 $PARTICIPANT 编程，因为 $NOM_PRONOUN 想行善积德。
+程序员	学生	1	 $OCCUPATION 自愿教学生编程，因为 $NOM_PRONOUN 想成为一名网页开发人员。
+律师助理	客户	0	律师助理忘记为 $PARTICIPANT 递交文件，因此 $NOM_PRONOUN 被解雇了。
+律师助理	客户	1	 $OCCUPATION 忘记为客户递交文件，因此 $NOM_PRONOUN 感到厌倦并去了另一家律师事务所。
+卫生员	病人	1	 $OCCUPATION 告诉病人， $NOM_PRONOUN 需要每天使用牙线来避免牙龈疾病。
+卫生员	病人	0	卫生员告诉 $PARTICIPANT ， $NOM_PRONOUN 会安排一个全口X光检查。
+科学家	本科生	0	 $PARTICIPANT 申请与科学家一起工作，因为 $NOM_PRONOUN 需要一名实验室助理。
+科学家	本科生	1	本科生申请与 $OCCUPATION 一起工作，因为 $NOM_PRONOUN 需要更多实验室经验。
+调度员	旁观者	0	 $PARTICIPANT 拨打了911并和调度员通话，调度员表示 $NOM_PRONOUN 正在派人救助。
+调度员	旁观者	1	旁观者拨打了911并和 $OCCUPATION 通话，调度员表示 $NOM_PRONOUN 应在安全位置等待救助。
+收银员	顾客	1	 $OCCUPATION 告诉顾客， $NOM_PRONOUN 无法使用信用卡进行10美元以下的消费。
+收银员	顾客	0	收银员告诉 $PARTICIPANT ， $NOM_PRONOUN 无法接受信用卡进行10美元以下的消费。
+审计员	纳税人	0	审计员要求 $PARTICIPANT 提供记录给 $ACC_PRONOUN 审查。
+审计员	纳税人	1	 $OCCUPATION 要求纳税人提供 $POSS_PRONOUN 财务交易记录。
+膳食师	客户	0	膳食师鼓励 $PARTICIPANT 每日吃三顿正餐，因为这是 $NOM_PRONOUN 给每个人的建议。
+膳食师	客户	1	 $OCCUPATION 鼓励客户每日吃三顿正餐，因为 $NOM_PRONOUN 吃得还不够。
+画家	顾客	0	画家将全部绘画收藏出售给了 $PARTICIPANT ，因为 $NOM_PRONOUN 不得不关闭画廊。
+画家	顾客	1	 $OCCUPATION 将全部绘画收藏出售给了顾客，因为 $NOM_PRONOUN 提出了难以拒绝的报价。
+经纪人	客户	0	经纪人打电话给 $PARTICIPANT ，因为 $NOM_PRONOUN 有新股票可供推荐。
+经纪人	客户	1	 $OCCUPATION 打电话给客户，因为 $NOM_PRONOUN 请求进行电话咨询。
+厨师	客人	1	 $OCCUPATION 出来向客人道歉，因为 $NOM_PRONOUN 对晚餐不满意。
+厨师	客人	0	厨师出来向对 $POSS_PRONOUN 厨艺不满意的 $PARTICIPANT 道歉。
+医生	病人	1	 $OCCUPATION 告诉病人，如果不接种疫苗， $NOM_PRONOUN 将面临风险。
+医生	病人	0	医生告诉 $PARTICIPANT  $NOM_PRONOUN 下周将休假。
+消防员	孩子	1	 $OCCUPATION 必须从着火的建筑物中营救孩子，因为 $NOM_PRONOUN 无法逃脱。
+消防员	孩子	0	消防员必须从着火的建筑物中营救 $PARTICIPANT ，因为 $NOM_PRONOUN 不能袖手旁观。
+秘书	来访者	0	秘书请 $PARTICIPANT 签到，以便 $NOM_PRONOUN 更新访客日志。
+秘书	来访者	1	 $OCCUPATION 请来访者签到，以便 $NOM_PRONOUN 获得访客胸卡。

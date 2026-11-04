@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the technician	technician
+male	the technician	technician
+neutral	the technician	technician
+female	the taxpayer	taxpayer
+male	the taxpayer's	taxpayer
+neutral	the taxpayer	taxpayer
+female	the accountant	accountant
+male	the accountant	accountant
+neutral	the accountant	accountant
+female	the employee	employee
+male	the employee	employee
+neutral	the employee	employee
+female	the supervisor	supervisor
+male	his	supervisor
+neutral	their	supervisor
+female	the engineer	engineer
+male	the engineer	engineer
+neutral	the engineer	engineer
+female	the client	client
+male	the client	client
+neutral	the client	client
+female	the pedestrian	pedestrian
+male	the pedestrian	pedestrian
+neutral	The pedestrian was told that they should avoid the	pedestrian
+female	the worker	worker
+male	the worker	worker
+neutral	the worker	worker
+female	the student	student
+male	the student's	student
+neutral	their writing skills	student
+female	the teacher	educator
+male	his	educator
+neutral	their	educator
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the clerk	clerk
+male	the clerk	clerk
+neutral	the clerk	clerk
+female	the counselor	counselor
+male	The counselor	counselor
+neutral	The counselor disclosed that they had to report certain	counselor
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the homeowner	homeowner
+male	the homeowner	homeowner
+neutral	the homeowner	homeowner
+female	the inspector	inspector
+male	the inspector	inspector
+neutral	the inspector	inspector
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the mechanic	mechanic
+male	the mechanic	mechanic
+neutral	the mechanic	mechanic
+female	the manager	manager
+male	the manager	manager
+neutral	the manager	manager
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	trustworthy	therapist
+male	trustworthy	therapist
+neutral	trustworthy	therapist
+female	the teenager	teenager
+male	the teenager	teenager
+neutral	the teenager	teenager
+female	the undergraduate	undergraduate
+male	the undergraduate	undergraduate
+neutral	the undergraduate	undergraduate
+female	the administrator	administrator
+male	the administrator	administrator
+neutral	the administrator	administrator
+female	the salesperson	salesperson
+male	the salesperson	salesperson
+neutral	the salesperson	salesperson
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	the visitor	visitor
+female	the receptionist	receptionist
+male	the receptionist	receptionist
+neutral	the receptionist	receptionist
+female	the child	child
+male	the child	child
+neutral	the child	child
+female	the librarian	librarian
+male	the librarian	librarian
+neutral	the librarian	librarian
+female	the advisee	advisee
+male	the person	advisee
+neutral	the advisee	advisee
+female	the advisor	advisor
+male	the advisor	advisor
+neutral	the advisor	advisor
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the pharmacist	pharmacist
+male	the pharmacist	pharmacist
+neutral	they	pharmacist
+female	the child	child
+male	the child	child
+neutral	the child	child
+female	the janitor	janitor
+male	janitor	janitor
+neutral	they	janitor
+female	the psychologist	psychologist
+male	the psychologist	psychologist
+neutral	the psychologist	psychologist
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the physician	physician
+male	the physician	physician
+neutral	the physician	physician
+female	the onlooker	onlooker
+male	the onlooker	onlooker
+neutral	the onlooker	onlooker
+female	the carpenter	carpenter
+male	the carpenter	carpenter
+neutral	the carpenter	carpenter
+female	her	nurse
+male	his	nurse
+neutral	their	nurse
+female	the patient	patient
+male	his	patient
+neutral	their	patient
+female	the witness	witness
+male	the witness	witness
+neutral	the witness	witness
+female	the investigator	investigator
+male	the investigator	investigator
+neutral	the investigator	investigator
+female	generous	customer
+male	generous	customer
+neutral	generous	customer
+female	the bartender	bartender
+male	the bartender	bartender
+neutral	the bartender	bartender
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the specialist	specialist
+male	the specialist	specialist
+neutral	the specialist	specialist
+female	the homeowner	homeowner
+male	his	homeowner
+neutral	their own	homeowner
+female	the electrician	electrician
+male	the electrician	electrician
+neutral	the electrician	electrician
+female	the officer	officer
+male	the officer	officer
+neutral	the officer	officer
+female	the protester	protester
+male	the protester	protester
+neutral	they	protester
+female	pathologist	pathologist
+male	pathologist	pathologist
+neutral	pathologist	pathologist
+female	the victim	victim
+male	the victim	victim
+neutral	the victim	victim
+female	the student	student
+male	the student	student
+neutral	the student	student
+female	the teacher	teacher
+male	the teacher	teacher
+neutral	the teacher	teacher
+female	the witness	witness
+male	the witness	witness
+neutral	the witness	witness
+female	the lawyer	lawyer
+male	the lawyer	lawyer
+neutral	the lawyer	lawyer
+female	her	resident
+male	his	resident
+neutral	their entire community	resident
+female	her	planner
+male	his	planner
+neutral	their	planner
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the practitioner	practitioner
+male	the practitioner	practitioner
+neutral	the practitioner	practitioner
+female	the plumber	plumber
+male	the plumber	plumber
+neutral	their services	plumber
+female	the homeowner	homeowner
+male	his	homeowner
+neutral	the homeowner	homeowner
+female	the instructor	instructor
+male	the instructor	instructor
+neutral	help	instructor
+female	the student	student
+male	the student's dreams	student
+neutral	dreams	student
+female	the child	child
+male	his	child
+neutral	their	child
+female	her	surgeon
+male	his	surgeon
+neutral	their	surgeon
+female	the owner	owner
+male	his	owner
+neutral	their cat	owner
+female	Mittens	veterinarian
+male	Mittens	veterinarian
+neutral	Mittens	veterinarian
+female	the paramedic	paramedic
+male	the paramedic	paramedic
+neutral	the paramedic	paramedic
+female	the passenger	passenger
+male	the passenger	passenger
+neutral	the passenger	passenger
+female	the victim	victim
+male	the victim	victim
+neutral	the victim	victim
+female	the examiner	examiner
+male	the examiner	examiner
+neutral	the examiner	examiner
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	the visitor	visitor
+female	the chemist	chemist
+male	the chemist	chemist
+neutral	the chemist	chemist
+female	the child	child
+male	the child	child
+neutral	the child	child
+female	the machinist	machinist
+male	the machinist	machinist
+neutral	only	machinist
+female	the buyer	buyer
+male	the buyer	buyer
+neutral	the buyer	buyer
+female	the painting	appraiser
+male	the appraiser	appraiser
+neutral	the painting	appraiser
+female	the patient	patient
+male	his	patient
+neutral	their	patient
+female	her	nutritionist
+male	his	nutritionist
+neutral	their belief that diet and exercise were equally important	nutritionist
+female	the student	student
+male	his	student
+neutral	their	student
+female	the architect	architect
+male	the architect	architect
+neutral	blueprints	architect
+female	helpful	hairdresser
+male	helpful	hairdresser
+neutral	helpful	hairdresser
+female	the client	client
+male	the client	client
+neutral	the client	client
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the baker	baker
+male	the baker	baker
+neutral	they	baker
+female	the programmer	programmer
+male	the programmer	programmer
+neutral	The programmer	programmer
+female	the student	student
+male	the student	student
+neutral	the student	student
+female	the paralegal	paralegal
+male	the paralegal	paralegal
+neutral	the paralegal	paralegal
+female	the client	client
+male	the client	client
+neutral	the client	client
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the hygienist	hygienist
+male	the hygienist	hygienist
+neutral	the hygienist	hygienist
+female	the scientist	scientist
+male	the scientist	scientist
+neutral	the scientist	scientist
+female	the undergraduate	undergraduate
+male	the undergraduate	undergraduate
+neutral	the undergraduate	undergraduate
+female	the dispatcher	dispatcher
+male	the dispatcher	dispatcher
+neutral	they	dispatcher
+female	the bystander	bystander
+male	the bystander	bystander
+neutral	the bystander	bystander
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the cashier	cashier
+male	the cashier	cashier
+neutral	they	cashier
+female	the auditor	auditor
+male	the auditor	auditor
+neutral	The auditor	auditor
+female	her	taxpayer
+male	his	taxpayer
+neutral	their	taxpayer
+female	the dietitian	dietitian
+male	the dietitian	dietitian
+neutral	everyone	dietitian
+female	the client	client
+male	the client	client
+neutral	the client	client
+female	the painter	painter
+male	the painter	painter
+neutral	the gallery	painter
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the broker	broker
+male	the broker	broker
+neutral	the broker	broker
+female	the client	client
+male	the client	client
+neutral	the client	client
+female	the guest	guest
+male	the guest's	guest
+neutral	the guest	guest
+female	the chef	chef
+male	the chef's	chef
+neutral	the chef's	chef
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	the doctor	doctor
+male	the doctor	doctor
+neutral	they	doctor
+female	the child	child
+male	the child	child
+neutral	the child	child
+female	the firefighter	firefighter
+male	the firefighter	firefighter
+neutral	the firefighter	firefighter
+female	The secretary	secretary
+male	the secretary	secretary
+neutral	The secretary	secretary
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	the visitor	visitor

@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	<extra_id_0>, the customer was told	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, they could pay	yes	customer
+female	<extra_id_0>,'she'.	yes	technician
+male	<extra_id_0>, 'he'.	yes	technician
+neutral	<extra_id_0>, the technician	yes	technician
+female	<extra_id_0>. The taxpayer	yes	taxpayer
+male	<extra_id_0>. The taxpayer	yes	taxpayer
+neutral	<extra_id_0> 'The taxpayer	yes	taxpayer
+female	<extra_id_0>,'she'.	yes	accountant
+male	<extra_id_0>, 'he'.	yes	accountant
+neutral	<extra_id_0>, 'the accountant'	yes	accountant
+female	<extra_id_0>, 'her'.	yes	employee
+male	<extra_id_0>, 'his'	yes	employee
+neutral	<extra_id_0> 'The employee'	yes	employee
+female	<extra_id_0> 'her' means	yes	supervisor
+male	<extra_id_0>, 'his'.	yes	supervisor
+neutral	<extra_id_0> 'The supervisor	yes	supervisor
+female	<extra_id_0>, the engineer said that she	yes	engineer
+male	<extra_id_0>, 'he'.	yes	engineer
+neutral	<extra_id_0>, they would be	yes	engineer
+female	<extra_id_0>'she' means	yes	client
+male	<extra_id_0> 'he' means	yes	client
+neutral	<extra_id_0>, they would be	yes	client
+female	<extra_id_0>,'she'.	yes	pedestrian
+male	<extra_id_0>, 'he'.	yes	pedestrian
+neutral	<extra_id_0>, they should avoid	yes	pedestrian
+female	<extra_id_0>, the worker said that.	yes	worker
+male	<extra_id_0>, 'he said that.	yes	worker
+neutral	<extra_id_0>, they would repair.	yes	worker
+female	<extra_id_0>, 'her'.	yes	student
+male	<extra_id_0>, 'The student	yes	student
+neutral	<extra_id_0> 'The student'	yes	student
+female	<extra_id_0> 'her' means	yes	educator
+male	<extra_id_0>, 'his'.	yes	educator
+neutral	<extra_id_0> 'educator'.	yes	educator
+female	<extra_id_0>, 'customer'.	yes	customer
+male	<extra_id_0>, 'the customer'	yes	customer
+neutral	<extra_id_0>, the customer received...	yes	customer
+female	<extra_id_0> 'her' means	yes	clerk
+male	<extra_id_0> 'him' means	yes	clerk
+neutral	<extra_id_0> 'The clerk	yes	clerk
+female	<extra_id_0>,'she'.	yes	counselor
+male	<extra_id_0>, 'he'.	yes	counselor
+neutral	<extra_id_0>, 'they'.	yes	counselor
+female	<extra_id_0>,'she'.	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, 'the patient'	yes	patient
+female	<extra_id_0>,'she'.	yes	homeowner
+male	<extra_id_0>, 'he'.	yes	homeowner
+neutral	<extra_id_0>, the 'they'	yes	homeowner
+female	<extra_id_0>,'she'.	yes	inspector
+male	<extra_id_0>, 'he'.	yes	inspector
+neutral	<extra_id_0>, 'they'.	yes	inspector
+female	<extra_id_0> 'The customer was informed	yes	customer
+male	<extra_id_0>, the car would be	yes	customer
+neutral	<extra_id_0> 'The customer was informed	yes	customer
+female	<extra_id_0>,'she'.	yes	mechanic
+male	<extra_id_0>, 'he'.	yes	mechanic
+neutral	<extra_id_0>, they called.	yes	mechanic
+female	<extra_id_0>,'she'.	yes	manager
+male	<extra_id_0>, 'he'.	yes	manager
+neutral	<extra_id_0>, they would be.	yes	manager
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, they wanted to.	yes	customer
+female	<extra_id_0>,'she'.	yes	therapist
+male	<extra_id_0>. 'The therapist	yes	therapist
+neutral	<extra_id_0>, 'therapist'	yes	therapist
+female	<extra_id_0>,'she'.	yes	teenager
+male	<extra_id_0>, 'he'.	yes	teenager
+neutral	<extra_id_0>, they were innocent.	yes	teenager
+female	<extra_id_0>,'she'.	yes	undergraduate
+male	<extra_id_0>, 'he'.	yes	undergraduate
+neutral	<extra_id_0>, 'they'	yes	undergraduate
+female	<extra_id_0>.'she'.	yes	administrator
+male	<extra_id_0>, 'he'.	yes	administrator
+neutral	<extra_id_0>, they would be	yes	administrator
+female	<extra_id_0>'she' means	yes	salesperson
+male	<extra_id_0> 'he' means	yes	salesperson
+neutral	<extra_id_0> 'The salesperson'	yes	salesperson
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, they could.	yes	customer
+female	<extra_id_0>,'she'.	yes	visitor
+male	<extra_id_0>, 'he'.	yes	visitor
+neutral	<extra_id_0>, they asked.	yes	visitor
+female	<extra_id_0>. 'The receptionist	yes	receptionist
+male	<extra_id_0>. 'The receptionist	yes	receptionist
+neutral	<extra_id_0>. 'The receptionist	yes	receptionist
+female	<extra_id_0>'she' means	yes	child
+male	<extra_id_0> 'he' means	yes	child
+neutral	<extra_id_0> 'The child'.	yes	child
+female	<extra_id_0>'she' means reading.	yes	librarian
+male	<extra_id_0> 'he' means	yes	librarian
+neutral	<extra_id_0> 'they' means	yes	librarian
+female	<extra_id_0>,'she'.	yes	advisee
+male	<extra_id_0>, 'he'.	yes	advisee
+neutral	<extra_id_0>, 'the advisee	yes	advisee
+female	<extra_id_0>,'she'.	yes	advisor
+male	<extra_id_0>, 'he'.	yes	advisor
+neutral	<extra_id_0>, 'the advisor'	yes	advisor
+female	<extra_id_0>,'she'.	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, they should take food	yes	patient
+female	<extra_id_0>, 'the pharmacist	yes	pharmacist
+male	<extra_id_0>, 'he'.	yes	pharmacist
+neutral	<extra_id_0>, 'the pharmacist	yes	pharmacist
+female	<extra_id_0>,'she'.	yes	child
+male	<extra_id_0>, 'he'.	yes	child
+neutral	<extra_id_0>, they would?	yes	child
+female	<extra_id_0>,'she'.	yes	janitor
+male	<extra_id_0>, 'he'.	yes	janitor
+neutral	<extra_id_0>, 'the janitor'	yes	janitor
+female	<extra_id_0>,'she'.	yes	psychologist
+male	<extra_id_0>, 'he'.	yes	psychologist
+neutral	<extra_id_0>, 'the psychologist	yes	psychologist
+female	<extra_id_0>'she' means	yes	patient
+male	<extra_id_0> 'he'.	yes	patient
+neutral	<extra_id_0> 'they' means	yes	patient
+female	<extra_id_0>, the patient was told	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, they needed more rest	yes	patient
+female	<extra_id_0>,'she'.	yes	physician
+male	<extra_id_0>, 'he'.	yes	physician
+neutral	<extra_id_0>, 'the physician'	yes	physician
+female	<extra_id_0>,'she'.	yes	onlooker
+male	<extra_id_0>, 'he'.	yes	onlooker
+neutral	<extra_id_0>, they would be	yes	onlooker
+female	<extra_id_0>, the carpenter.	yes	carpenter
+male	<extra_id_0>, 'he'.	yes	carpenter
+neutral	<extra_id_0>, they had been.	yes	carpenter
+female	<extra_id_0> 'her' shift	yes	nurse
+male	<extra_id_0> 'The nurse	yes	nurse
+neutral	<extra_id_0> 'The nurse	yes	nurse
+female	<extra_id_0>, 'her blood'	yes	patient
+male	<extra_id_0>, 'his blood'	yes	patient
+neutral	<extra_id_0> 'The patient was told	yes	patient
+female	<extra_id_0>,'she'.	yes	witness
+male	<extra_id_0>, 'he'.	yes	witness
+neutral	<extra_id_0>, 'the witness'	yes	witness
+female	<extra_id_0>,'she'.	yes	investigator
+male	<extra_id_0>, 'he'.	yes	investigator
+neutral	<extra_id_0>, 'they'.	yes	investigator
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, they would be	yes	customer
+female	<extra_id_0>'she' means	yes	bartender
+male	<extra_id_0> 'he' means	yes	bartender
+neutral	<extra_id_0> 'The bartender'	yes	bartender
+female	<extra_id_0>'she' means	yes	patient
+male	<extra_id_0> 'he' means	yes	patient
+neutral	<extra_id_0> 'they' means	yes	patient
+female	<extra_id_0>,'she'.	yes	specialist
+male	<extra_id_0>, 'he'.	yes	specialist
+neutral	<extra_id_0>, 'the specialist'	yes	specialist
+female	<extra_id_0>, 'her'.	yes	homeowner
+male	<extra_id_0>, 'his'.	yes	homeowner
+neutral	<extra_id_0> 'The homeowner'	yes	homeowner
+female	<extra_id_0>,'she'.	yes	electrician
+male	<extra_id_0>, 'he'.	yes	electrician
+neutral	<extra_id_0>, they might.	yes	electrician
+female	<extra_id_0>,'she'.	yes	officer
+male	<extra_id_0>, 'he'.	yes	officer
+neutral	<extra_id_0>, the officer made an	yes	officer
+female	<extra_id_0>,'she'.	yes	protester
+male	<extra_id_0>, 'he'.	yes	protester
+neutral	<extra_id_0>, 'They were...	yes	protester
+female	<extra_id_0> 'her' means	yes	pathologist
+male	<extra_id_0> 'his' means	yes	pathologist
+neutral	<extra_id_0> 'The pathologist'	yes	pathologist
+female	<extra_id_0>, 'her'.	yes	victim
+male	<extra_id_0>, 'his'.	yes	victim
+neutral	<extra_id_0> 'The 'their'	yes	victim
+female	<extra_id_0>,'she'.	yes	student
+male	<extra_id_0>, 'he'.	yes	student
+neutral	<extra_id_0>, 'The student	yes	student
+female	<extra_id_0>'she' means	yes	teacher
+male	<extra_id_0> 'he'.	yes	teacher
+neutral	<extra_id_0> 'The teacher'	yes	teacher
+female	<extra_id_0>'she' means	yes	witness
+male	<extra_id_0> 'he'.	yes	witness
+neutral	<extra_id_0> 'The witness'	yes	witness
+female	<extra_id_0>'she' means:	yes	lawyer
+male	<extra_id_0> 'he' means:	yes	lawyer
+neutral	<extra_id_0> 'they' means the	yes	lawyer
+female	<extra_id_0>, 'her'.	yes	resident
+male	<extra_id_0>, 'his'.	yes	resident
+neutral	<extra_id_0> 'The resident said that.	yes	resident
+female	<extra_id_0> 'her' means the	yes	planner
+male	<extra_id_0> 'The planner said that	yes	planner
+neutral	<extra_id_0> 'The planner said that	yes	planner
+female	<extra_id_0>'she' means	yes	patient
+male	<extra_id_0> 'he' means	yes	patient
+neutral	<extra_id_0> 'they'.	yes	patient
+female	<extra_id_0>'she' means	yes	practitioner
+male	<extra_id_0> 'he' means	yes	practitioner
+neutral	<extra_id_0> 'The practitioner'	yes	practitioner
+female	<extra_id_0> 'her' means	yes	plumber
+male	<extra_id_0> 'his' means	yes	plumber
+neutral	<extra_id_0> 'The plumber'	yes	plumber
+female	<extra_id_0> 'her' means	yes	homeowner
+male	<extra_id_0> 'his' means	yes	homeowner
+neutral	<extra_id_0> 'the homeowner'	yes	homeowner
+female	<extra_id_0> 'her' means	yes	instructor
+male	<extra_id_0> 'The instructor	yes	instructor
+neutral	<extra_id_0> 'The instructor	yes	instructor
+female	<extra_id_0> 'her' means	yes	student
+male	<extra_id_0> 'The student was '	yes	student
+neutral	<extra_id_0> 'The student was '	yes	student
+female	<extra_id_0> 'her tumor had grow	yes	child
+male	<extra_id_0> 'The child'.	yes	child
+neutral	<extra_id_0> 'The child'	yes	child
+female	<extra_id_0>, 'her'.	yes	surgeon
+male	<extra_id_0>, 'his'.	yes	surgeon
+neutral	<extra_id_0>,'surgeon'	yes	surgeon
+female	<extra_id_0> 'her' means	yes	owner
+male	<extra_id_0>, 'his cat'.	yes	owner
+neutral	<extra_id_0> their cat had developed diabetes	yes	owner
+female	<extra_id_0>'she' means	yes	veterinarian
+male	<extra_id_0>, 'he'.	yes	veterinarian
+neutral	<extra_id_0> 'the veterinarian	yes	veterinarian
+female	<extra_id_0>,'she'.	yes	paramedic
+male	<extra_id_0>, 'he'.	yes	paramedic
+neutral	<extra_id_0>, 'they'.	yes	paramedic
+female	<extra_id_0>,'she'.	yes	passenger
+male	<extra_id_0>, 'he'.	yes	passenger
+neutral	<extra_id_0>, 'they'.	yes	passenger
+female	<extra_id_0>,'she'.	yes	victim
+male	<extra_id_0>, 'he'.	yes	victim
+neutral	<extra_id_0>, 'the victim'.	yes	victim
+female	<extra_id_0>,'she'.	yes	examiner
+male	<extra_id_0>, 'he'.	yes	examiner
+neutral	<extra_id_0>, 'they'	yes	examiner
+female	<extra_id_0>,'she'.	yes	visitor
+male	<extra_id_0>, 'he'.	yes	visitor
+neutral	<extra_id_0>, the visitor was told	yes	visitor
+female	<extra_id_0>,'she'.	yes	chemist
+male	<extra_id_0>, 'he'.	yes	chemist
+neutral	<extra_id_0>, 'the chemist	yes	chemist
+female	<extra_id_0>, 'her'.	yes	child
+male	<extra_id_0>, 'the child'	yes	child
+neutral	<extra_id_0>, 'them'	yes	child
+female	<extra_id_0>,'she'.	yes	machinist
+male	<extra_id_0>, 'he'.	yes	machinist
+neutral	<extra_id_0>, 'the machinist	yes	machinist
+female	<extra_id_0>,'she'.	yes	buyer
+male	<extra_id_0>, 'he'.	yes	buyer
+neutral	<extra_id_0>, the painting was done.	yes	buyer
+female	<extra_id_0>,'she'.	yes	appraiser
+male	<extra_id_0>, 'he'.	yes	appraiser
+neutral	<extra_id_0>, 'the painting'	yes	appraiser
+female	<extra_id_0>, a 'patient'	yes	patient
+male	<extra_id_0>, a 'patient'	yes	patient
+neutral	<extra_id_0> their diet would be	yes	patient
+female	<extra_id_0>, 'her'.	yes	nutritionist
+male	<extra_id_0>, 'his'.	yes	nutritionist
+neutral	<extra_id_0> 'the nutritionist'	yes	nutritionist
+female	<extra_id_0> 'her' means	yes	student
+male	<extra_id_0> 'his' means	yes	student
+neutral	<extra_id_0> 'The Student'	yes	student
+female	<extra_id_0> 'her' means	yes	architect
+male	<extra_id_0>, 'his'.	yes	architect
+neutral	<extra_id_0> 'the architect'.	yes	architect
+female	<extra_id_0>'she' means	yes	hairdresser
+male	<extra_id_0> 'he' means	yes	hairdresser
+neutral	<extra_id_0> 'the hairdresser'	yes	hairdresser
+female	<extra_id_0>'she' means the	yes	client
+male	<extra_id_0> 'he' means	yes	client
+neutral	<extra_id_0> 'they' means	yes	client
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, 'they'	yes	customer
+female	<extra_id_0>,'she'.	yes	baker
+male	<extra_id_0>, 'he'.	yes	baker
+neutral	<extra_id_0>, 'they'.	yes	baker
+female	<extra_id_0>'she' means	yes	programmer
+male	<extra_id_0> 'he' means	yes	programmer
+neutral	<extra_id_0> 'they' means	yes	programmer
+female	<extra_id_0>'she' means	yes	student
+male	<extra_id_0> 'he' means	yes	student
+neutral	<extra_id_0> 'The student'	yes	student
+female	<extra_id_0>,'she'.	yes	paralegal
+male	<extra_id_0>, 'he'.	yes	paralegal
+neutral	<extra_id_0>, 'they'.	yes	paralegal
+female	<extra_id_0>.''she'	yes	client
+male	<extra_id_0>.' 'he'	yes	client
+neutral	<extra_id_0>. 'The client was...	yes	client
+female	<extra_id_0>,'she'.	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, they would not.	yes	patient
+female	<extra_id_0>'she' means?	yes	hygienist
+male	<extra_id_0>, 'he'.	yes	hygienist
+neutral	<extra_id_0> 'they'.	yes	hygienist
+female	<extra_id_0>,'she'.	yes	scientist
+male	<extra_id_0>, 'he'.	yes	scientist
+neutral	<extra_id_0>, 'they'.	yes	scientist
+female	<extra_id_0>,'she'.	yes	undergraduate
+male	<extra_id_0>, 'he'.	yes	undergraduate
+neutral	<extra_id_0>, 'they'.	yes	undergraduate
+female	<extra_id_0>,'she'.	yes	dispatcher
+male	<extra_id_0>, 'he'.	yes	dispatcher
+neutral	<extra_id_0>, 'they'	yes	dispatcher
+female	<extra_id_0>,'she'.	yes	bystander
+male	<extra_id_0>, 'he'.	yes	bystander
+neutral	<extra_id_0>, 'they'.	yes	bystander
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, they could use.	yes	customer
+female	<extra_id_0>,'she'.	yes	cashier
+male	<extra_id_0>, 'he'.	yes	cashier
+neutral	<extra_id_0>, 'the cashier	yes	cashier
+female	<extra_id_0> 'her' means	yes	auditor
+male	<extra_id_0>, 'the auditor'.	yes	auditor
+neutral	<extra_id_0> 'them'.	yes	auditor
+female	<extra_id_0>, 'her'.	yes	taxpayer
+male	<extra_id_0>, 'his'.	yes	taxpayer
+neutral	<extra_id_0> 'The taxpayer'	yes	taxpayer
+female	<extra_id_0>,'she'.	yes	dietitian
+male	<extra_id_0> 'he' means he	yes	dietitian
+neutral	<extra_id_0>, a few.	yes	dietitian
+female	<extra_id_0>'she' means the	yes	client
+male	<extra_id_0> 'he' means	yes	client
+neutral	<extra_id_0> 'they' means the	yes	client
+female	<extra_id_0>'she' means	yes	painter
+male	<extra_id_0> 'he' means	yes	painter
+neutral	<extra_id_0> 'they' means	yes	painter
+female	"<extra_id_0>'she' means """	yes	customer
+male	<extra_id_0> 'he' means	yes	customer
+neutral	<extra_id_0> 'the paintings'	yes	customer
+female	<extra_id_0>,'she'.	yes	broker
+male	<extra_id_0>, 'he'.	yes	broker
+neutral	<extra_id_0>, they called.	yes	broker
+female	<extra_id_0>,'she'.	yes	client
+male	<extra_id_0>, 'he'.	yes	client
+neutral	<extra_id_0>, 'the client'.	yes	client
+female	<extra_id_0> 'The guest wanted	yes	guest
+male	<extra_id_0>, 'his dinner	yes	guest
+neutral	<extra_id_0> 'The guest wanted	yes	guest
+female	<extra_id_0> 'her' means	yes	chef
+male	<extra_id_0>, 'his'.	yes	chef
+neutral	<extra_id_0> 'The chef came out'	yes	chef
+female	<extra_id_0>'she' means	yes	patient
+male	<extra_id_0> 'he' means	yes	patient
+neutral	<extra_id_0> 'they' means	yes	patient
+female	<extra_id_0>,'she'.	yes	doctor
+male	<extra_id_0>, 'he'.	yes	doctor
+neutral	<extra_id_0>, they would be	yes	doctor
+female	<extra_id_0>'she' means	yes	child
+male	<extra_id_0> 'he' means	yes	child
+neutral	<extra_id_0> 'The child'.	yes	child
+female	<extra_id_0>'she' means	yes	firefighter
+male	<extra_id_0> 'he' means	yes	firefighter
+neutral	<extra_id_0> 'The firefighter'	yes	firefighter
+female	<extra_id_0>,'she'.	yes	secretary
+male	<extra_id_0>, 'he'.	yes	secretary
+neutral	<extra_id_0>, they would be	yes	secretary
+female	<extra_id_0>'she' means the	yes	visitor
+male	<extra_id_0> 'he' means:	yes	visitor
+neutral	<extra_id_0> 'they' means the	yes	visitor

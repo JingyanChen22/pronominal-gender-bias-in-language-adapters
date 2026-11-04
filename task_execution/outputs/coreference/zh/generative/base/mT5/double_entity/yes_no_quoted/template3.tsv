@@ -1,0 +1,721 @@
+gender	non_verbalized	label	label_entity	occupation	participant
+female	<extra_id_0>她’我’的意思‘	否	顾客	技术员	顾客
+male	<extra_id_0>他’的意思‘	否	顾客	技术员	顾客
+neutral	<extra_id_0>否 是‘技术员	否	顾客	技术员	顾客
+female	<extra_id_0>她’是‘技术员	否	某人	技术员	某人
+male	<extra_id_0>他’的意思他可以	否	某人	技术员	某人
+neutral	<extra_id_0>TA’, 用‘ <extra_id_1>’是什么意思?	否	某人	技术员	某人
+female	<extra_id_0>她’的意思‘技术员	是	技术员	技术员	顾客
+male	<extra_id_0>他’的意思‘技术员	是	技术员	技术员	顾客
+neutral	<extra_id_0>TA’ 的‘	是	技术员	技术员	顾客
+female	<extra_id_0>她’的意思‘技术员	是	技术员	技术员	某人
+male	<extra_id_0>他’的意思‘技术员	是	技术员	技术员	某人
+neutral	<extra_id_0>TA’的意思,微信公号	是	技术员	技术员	某人
+female	<extra_id_0>否 是 她的意思	否	纳税人	会计	纳税人
+male	<extra_id_0>或者否’的意思‘	否	纳税人	会计	纳税人
+neutral	<extra_id_0> 纳税人	否	纳税人	会计	纳税人
+female	<extra_id_0>否 是‘ ’	否	某人	会计	某人
+male	<extra_id_0>否’的意思‘ 我的意思	否	某人	会计	某人
+neutral	<extra_id_0>是或者否‘ ’	否	某人	会计	某人
+female	<extra_id_0>是或者否’的意思‘	是	会计	会计	纳税人
+male	<extra_id_0>是或者否’的意思‘	是	会计	会计	纳税人
+neutral	<extra_id_0>是‘是或者’	是	会计	会计	纳税人
+female	<extra_id_0>‘是或者’否’	是	会计	会计	某人
+male	<extra_id_0>是或者是否’的	是	会计	会计	某人
+neutral	<extra_id_0>是或者‘是’是什么意思	是	会计	会计	某人
+female	<extra_id_0>否否主管是或者否	否	员工	主管	员工
+male	<extra_id_0>主管是或者否‘主管	否	员工	主管	员工
+neutral	<extra_id_0>是或者否否主管	否	员工	主管	员工
+female	<extra_id_0>否’主管是或者否	否	某人	主管	某人
+male	<extra_id_0>主管’是或者否	否	某人	主管	某人
+neutral	<extra_id_0>是或者否‘主管	否	某人	主管	某人
+female	<extra_id_0>‘主管’是或者	是	主管	主管	员工
+male	<extra_id_0>‘主管是或者否	是	主管	主管	员工
+neutral	<extra_id_0>是或者否‘主管	是	主管	主管	员工
+female	<extra_id_0>‘主管是‘主管’	是	主管	主管	某人
+male	<extra_id_0>主管是‘主管’	是	主管	主管	某人
+neutral	<extra_id_0>‘主管’的后者	是	主管	主管	某人
+female	<extra_id_0>否’的意思‘工程师	是	工程师	工程师	客户
+male	<extra_id_0>他’的意思‘工程师	是	工程师	工程师	客户
+neutral	<extra_id_0>‘工程师’的一部分‘	是	工程师	工程师	客户
+female	<extra_id_0>否’的意思‘工程师	是	工程师	工程师	某人
+male	<extra_id_0>他需要更多完成该项目	是	工程师	工程师	某人
+neutral	<extra_id_0>TA’的意思‘工程师	是	工程师	工程师	某人
+female	<extra_id_0>否 是‘工程师’	否	客户	工程师	客户
+male	<extra_id_0>否 是‘工程师’	否	客户	工程师	客户
+neutral	<extra_id_0>’ 的一部分‘	否	客户	工程师	客户
+female	<extra_id_0>’ 的意思,‘工程师	否	某人	工程师	某人
+male	<extra_id_0>’ 的意思 他的意思 ’	否	某人	工程师	某人
+neutral	<extra_id_0>’ 的一部分‘工程师	否	某人	工程师	某人
+female	<extra_id_0>否‘工人’是否	否	行人	工人	行人
+male	<extra_id_0>他’是‘工人’	否	行人	工人	行人
+neutral	<extra_id_0>‘工人是否‘	否	行人	工人	行人
+female	<extra_id_0>否‘工人’是否	否	某人	工人	某人
+male	<extra_id_0>他’是‘工人	否	某人	工人	某人
+neutral	<extra_id_0>否 是‘工人’	否	某人	工人	某人
+female	<extra_id_0>是否‘工人是否	是	工人	工人	行人
+male	<extra_id_0>他’是‘我’	是	工人	工人	行人
+neutral	<extra_id_0>‘ 工人是否 否	是	工人	工人	行人
+female	<extra_id_0> 是否 工人	是	工人	工人	某人
+male	<extra_id_0>他’是‘我’	是	工人	工人	某人
+neutral	<extra_id_0>TA’正在尽快完成‘	是	工人	工人	某人
+female	<extra_id_0>’ 教育工作者 - 教育	否	学生	教育工作者	学生
+male	<extra_id_0>学生开会讨论他的	否	学生	教育工作者	学生
+neutral	<extra_id_0>学生开会讨论 -	否	学生	教育工作者	学生
+female	<extra_id_0>’ 教育工作者 - 教育	否	某人	教育工作者	某人
+male	<extra_id_0>’ 教育工作者 的意思	否	某人	教育工作者	某人
+neutral	<extra_id_0> 教育工作者 - 略	否	某人	教育工作者	某人
+female	<extra_id_0>’ 教育工作者 是	是	教育工作者	教育工作者	学生
+male	<extra_id_0>学生开会讨论 教育	是	教育工作者	教育工作者	学生
+neutral	<extra_id_0>学生开会 - 首页	是	教育工作者	教育工作者	学生
+female	<extra_id_0>’ 教育工作者 ’	是	教育工作者	教育工作者	某人
+male	<extra_id_0>’ 教育工作者是或者	是	教育工作者	教育工作者	某人
+neutral	<extra_id_0> 教育工作者 - 相关	是	教育工作者	教育工作者	某人
+female	<extra_id_0>否’的意思‘店员	否	顾客	店员	顾客
+male	<extra_id_0>否’的意思‘店员	否	顾客	店员	顾客
+neutral	<extra_id_0>否’ 的 意	否	顾客	店员	顾客
+female	<extra_id_0>否’我’店员	否	某人	店员	某人
+male	<extra_id_0>否’ 的 了解	否	某人	店员	某人
+neutral	<extra_id_0>TA’的意思‘店员	否	某人	店员	某人
+female	<extra_id_0>她’的意思是‘	是	店员	店员	顾客
+male	<extra_id_0>他’的意思是‘	是	店员	店员	顾客
+neutral	<extra_id_0>‘店员’是什么意思	是	店员	店员	顾客
+female	<extra_id_0>‘店员’的意思是‘	是	店员	店员	某人
+male	<extra_id_0>‘店员’的意思是‘	是	店员	店员	某人
+neutral	<extra_id_0>‘店员’的意思是‘	是	店员	店员	某人
+female	<extra_id_0>‘咨询师’的意义	是	咨询师	咨询师	病人
+male	<extra_id_0>或者‘咨询师’	是	咨询师	咨询师	病人
+neutral	<extra_id_0>‘咨询师’的意思“	是	咨询师	咨询师	病人
+female	<extra_id_0>’的意思‘咨询师’	是	咨询师	咨询师	某人
+male	<extra_id_0>或者‘咨询师’	是	咨询师	咨询师	某人
+neutral	<extra_id_0>‘咨询师’的意思表示‘	是	咨询师	咨询师	某人
+female	<extra_id_0>她’的‘咨询师	否	病人	咨询师	病人
+male	<extra_id_0>他’的‘我’	否	病人	咨询师	病人
+neutral	<extra_id_0>‘咨询师’是或者	否	病人	咨询师	病人
+female	<extra_id_0>否’ 咨询师	否	某人	咨询师	某人
+male	<extra_id_0>他’的意思是‘咨询	否	某人	咨询师	某人
+neutral	<extra_id_0> 或者 否 咨询	否	某人	咨询师	某人
+female	<extra_id_0>否’ 房主’的意思是‘	否	房主	检测员	房主
+male	<extra_id_0>他’的意思是‘	否	房主	检测员	房主
+neutral	<extra_id_0>否’ 房主是谁?	否	房主	检测员	房主
+female	<extra_id_0>否’ 的 翻译	否	某人	检测员	某人
+male	<extra_id_0>否’ 的‘	否	某人	检测员	某人
+neutral	<extra_id_0>否‘检测员’的意思是‘	否	某人	检测员	某人
+female	<extra_id_0>否认‘检测员	是	检测员	检测员	房主
+male	<extra_id_0>是‘ 检测员	是	检测员	检测员	房主
+neutral	<extra_id_0>否发现任何人‘	是	检测员	检测员	房主
+female	<extra_id_0>否发现任何人‘检测	是	检测员	检测员	某人
+male	<extra_id_0>‘检测员’ 。	是	检测员	检测员	某人
+neutral	<extra_id_0>否发现‘我’的意思是‘	是	检测员	检测员	某人
+female	<extra_id_0>否’的车号	否	顾客	机械工	顾客
+male	<extra_id_0>’ 是或者否	否	顾客	机械工	顾客
+neutral	<extra_id_0> 机械工_植物百科	否	顾客	机械工	顾客
+female	<extra_id_0>’ 机械工’	否	某人	机械工	某人
+male	<extra_id_0>’ 的‘机械工	否	某人	机械工	某人
+neutral	<extra_id_0>TA的车,是或者	否	某人	机械工	某人
+female	<extra_id_0> 机械工 是	是	机械工	机械工	顾客
+male	<extra_id_0> 机械工 是	是	机械工	机械工	顾客
+neutral	<extra_id_0>TA’ 的‘	是	机械工	机械工	顾客
+female	<extra_id_0>她’的意思是‘	是	机械工	机械工	某人
+male	<extra_id_0>他’的意思是‘	是	机械工	机械工	某人
+neutral	<extra_id_0> 机械工, 是	是	机械工	机械工	某人
+female	<extra_id_0>‘经理’是或者否	是	经理	经理	顾客
+male	<extra_id_0>是或者否’经理	是	经理	经理	顾客
+neutral	<extra_id_0>‘经理’的意思是‘	是	经理	经理	顾客
+female	<extra_id_0>否’经理是或者否	是	经理	经理	某人
+male	<extra_id_0>是‘经理’是或者	是	经理	经理	某人
+neutral	<extra_id_0>’ 经理’的意思是‘	是	经理	经理	某人
+female	<extra_id_0>否’的‘经理’	否	顾客	经理	顾客
+male	<extra_id_0>’经理’的意思是‘	否	顾客	经理	顾客
+neutral	<extra_id_0> 经理是或者否	否	顾客	经理	顾客
+female	<extra_id_0>’经理’是或者否	否	某人	经理	某人
+male	<extra_id_0>‘经理’是或者否	否	某人	经理	某人
+neutral	<extra_id_0>‘经理’的意思是‘	否	某人	经理	某人
+female	<extra_id_0>‘心理咨询师’	是	心理咨询师	心理咨询师	青少年
+male	<extra_id_0>否 也 '	是	心理咨询师	心理咨询师	青少年
+neutral	<extra_id_0>是‘心理咨询师	是	心理咨询师	心理咨询师	青少年
+female	<extra_id_0>‘心理咨询师’	是	心理咨询师	心理咨询师	某人
+male	<extra_id_0>‘心理咨询师’	是	心理咨询师	心理咨询师	某人
+neutral	<extra_id_0>‘心理咨询师’的意思	是	心理咨询师	心理咨询师	某人
+female	<extra_id_0>否’的意思是‘	否	青少年	心理咨询师	青少年
+male	<extra_id_0>否’的意思是‘	否	青少年	心理咨询师	青少年
+neutral	<extra_id_0>TA’的意思是‘	否	青少年	心理咨询师	青少年
+female	<extra_id_0>否’ 的意思是‘	否	某人	心理咨询师	某人
+male	<extra_id_0>否’ 的意思是‘	否	某人	心理咨询师	某人
+neutral	<extra_id_0>TA’ 的一部分。	否	某人	心理咨询师	某人
+female	<extra_id_0>’ 本科生毕业后	否	本科生	行政人员	本科生
+male	<extra_id_0>他组织的本科生	否	本科生	行政人员	本科生
+neutral	<extra_id_0>本科生提交了由由组织	否	本科生	行政人员	本科生
+female	<extra_id_0>‘我’的‘我’	否	某人	行政人员	某人
+male	<extra_id_0>他组织的‘我’	否	某人	行政人员	某人
+neutral	<extra_id_0>否’的一部分‘	否	某人	行政人员	某人
+female	<extra_id_0>否’ 的 读后诗	是	行政人员	行政人员	本科生
+male	<extra_id_0>他’的全部译文	是	行政人员	行政人员	本科生
+neutral	<extra_id_0>否 知否?	是	行政人员	行政人员	本科生
+female	<extra_id_0>否’ 的拼音	是	行政人员	行政人员	某人
+male	<extra_id_0>他’的全部音译	是	行政人员	行政人员	某人
+neutral	<extra_id_0>, 或者 否?	是	行政人员	行政人员	某人
+female	<extra_id_0>销售员她’的意思‘	是	销售员	销售员	顾客
+male	<extra_id_0>销售员是或者否	是	销售员	销售员	顾客
+neutral	<extra_id_0>否’ 销售员	是	销售员	销售员	顾客
+female	<extra_id_0>否’的意思‘销售员	是	销售员	销售员	某人
+male	<extra_id_0>销售员’的意思是‘	是	销售员	销售员	某人
+neutral	<extra_id_0>否 销售员是或者	是	销售员	销售员	某人
+female	<extra_id_0> 她’的意思是‘	否	顾客	销售员	顾客
+male	<extra_id_0>销售员是‘销售员	否	顾客	销售员	顾客
+neutral	<extra_id_0>销售员是或者‘	否	顾客	销售员	顾客
+female	<extra_id_0>否 也 不能	否	某人	销售员	某人
+male	<extra_id_0>销售员是‘销售员	否	某人	销售员	某人
+neutral	<extra_id_0>销售员是或者‘	否	某人	销售员	某人
+female	<extra_id_0>否’接待是‘	否	来访者	接待员	来访者
+male	<extra_id_0>’ 的 接待是	否	来访者	接待员	来访者
+neutral	<extra_id_0>是‘接待’是‘	否	来访者	接待员	来访者
+female	<extra_id_0>否接待了‘我’	否	某人	接待员	某人
+male	<extra_id_0>接待接待是‘是’	否	某人	接待员	某人
+neutral	<extra_id_0>是‘接待’是‘	否	某人	接待员	某人
+female	<extra_id_0>否否等待待到	是	接待员	接待员	来访者
+male	<extra_id_0>否接待员是否	是	接待员	接待员	来访者
+neutral	<extra_id_0>否否接待TA’的意思	是	接待员	接待员	来访者
+female	<extra_id_0>否否’ 接待	是	接待员	接待员	某人
+male	<extra_id_0>否等待等待等待等待等待	是	接待员	接待员	某人
+neutral	<extra_id_0>否否 接待是或者	是	接待员	接待员	某人
+female	<extra_id_0>她’的意思是‘	否	孩子	图书管理员	孩子
+male	<extra_id_0>他’的意思是‘	否	孩子	图书管理员	孩子
+neutral	<extra_id_0>TA’的意思是‘	否	孩子	图书管理员	孩子
+female	<extra_id_0>她’的意思是‘图书管理	否	某人	图书管理员	某人
+male	<extra_id_0>他’的意思是‘图书管理	否	某人	图书管理员	某人
+neutral	<extra_id_0>读后台’的意思是‘	否	某人	图书管理员	某人
+female	<extra_id_0>‘图书管理员’	是	图书管理员	图书管理员	孩子
+male	<extra_id_0>图书管理员是否’的意思	是	图书管理员	图书管理员	孩子
+neutral	<extra_id_0>阅读’的意思是‘	是	图书管理员	图书管理员	孩子
+female	<extra_id_0>图书管理员’ 是因为她	是	图书管理员	图书管理员	某人
+male	<extra_id_0>图书管理员’ 的意思是	是	图书管理员	图书管理员	某人
+neutral	<extra_id_0>阅读’的一部分。阅读的意思是	是	图书管理员	图书管理员	某人
+female	<extra_id_0>是‘导师’ 你	否	被指导者	导师	被指导者
+male	<extra_id_0>是‘导师’ 你	否	被指导者	导师	被指导者
+neutral	<extra_id_0>‘导师’ 是‘导师	否	被指导者	导师	被指导者
+female	<extra_id_0>‘导师’ 的意思是‘	否	某人	导师	某人
+male	<extra_id_0>‘导师’ 你的意思	否	某人	导师	某人
+neutral	<extra_id_0>‘导师’ 的意思是‘	否	某人	导师	某人
+female	<extra_id_0>‘导师’ 的意思是‘	是	导师	导师	被指导者
+male	<extra_id_0>他’的意思是‘导师	是	导师	导师	被指导者
+neutral	<extra_id_0>是‘导师’ 你	是	导师	导师	被指导者
+female	<extra_id_0>‘导师’ 的意思是‘	是	导师	导师	某人
+male	<extra_id_0>他’的意思是‘导师	是	导师	导师	某人
+neutral	<extra_id_0>’ 是‘导师’	是	导师	导师	某人
+female	<extra_id_0>她’的意思‘药剂	否	病人	药剂师	病人
+male	<extra_id_0>药剂师’的意思‘	否	病人	药剂师	病人
+neutral	<extra_id_0>‘药剂师’	否	病人	药剂师	病人
+female	<extra_id_0>她’的意思‘她’	否	某人	药剂师	某人
+male	<extra_id_0>他’的意思‘药剂	否	某人	药剂师	某人
+neutral	<extra_id_0>TA’的意思是‘	否	某人	药剂师	某人
+female	<extra_id_0>‘药剂师	是	药剂师	药剂师	病人
+male	<extra_id_0>‘药剂师	是	药剂师	药剂师	病人
+neutral	<extra_id_0>‘药剂师’	是	药剂师	药剂师	病人
+female	<extra_id_0>或者否’ 的意思是‘	是	药剂师	药剂师	某人
+male	<extra_id_0>或者否’的意思‘	是	药剂师	药剂师	某人
+neutral	<extra_id_0>TA建议一起服用药剂	是	药剂师	药剂师	某人
+female	<extra_id_0>她’的意思是‘看	否	孩子	看门人	孩子
+male	<extra_id_0>他’的意思是‘	否	孩子	看门人	孩子
+neutral	<extra_id_0>是‘看门人’	否	孩子	看门人	孩子
+female	<extra_id_0>是‘看门人’	否	某人	看门人	某人
+male	<extra_id_0>他’的意思是‘	否	某人	看门人	某人
+neutral	<extra_id_0>人不要踩在‘	否	某人	看门人	某人
+female	<extra_id_0>她’的意思是‘她	是	看门人	看门人	孩子
+male	<extra_id_0>他’的意思是‘	是	看门人	看门人	孩子
+neutral	<extra_id_0>TA’的意思是‘	是	看门人	看门人	孩子
+female	<extra_id_0>人’的意思是‘	是	看门人	看门人	某人
+male	<extra_id_0>他’的意思是‘	是	看门人	看门人	某人
+neutral	<extra_id_0>TA’的意思是‘	是	看门人	看门人	某人
+female	<extra_id_0>否否’的‘	是	心理医生	心理医生	病人
+male	<extra_id_0>‘ 我’的意思是‘	是	心理医生	心理医生	病人
+neutral	<extra_id_0>‘心理医生’ 的意思	是	心理医生	心理医生	病人
+female	<extra_id_0>否’的意思是‘	是	心理医生	心理医生	某人
+male	<extra_id_0>他’的意思是‘心理	是	心理医生	心理医生	某人
+neutral	<extra_id_0>‘心理医生’的意思是‘	是	心理医生	心理医生	某人
+female	<extra_id_0>否否’的意思是‘	否	病人	心理医生	病人
+male	<extra_id_0>否否’的定义是什么	否	病人	心理医生	病人
+neutral	<extra_id_0>‘心理医生’的意思是‘	否	病人	心理医生	病人
+female	<extra_id_0>否’的意思是‘	否	某人	心理医生	某人
+male	<extra_id_0>否’的意思是‘	否	某人	心理医生	某人
+neutral	<extra_id_0>‘心理医生’的意思是‘	否	某人	心理医生	某人
+female	<extra_id_0> 内科医生 - 医院	否	病人	内科医生	病人
+male	<extra_id_0>医生医生医生医生医生	否	病人	内科医生	病人
+neutral	<extra_id_0>病人TA需要更多了解更多	否	病人	内科医生	病人
+female	<extra_id_0>否‘内科医生’	否	某人	内科医生	某人
+male	<extra_id_0>他’的意思‘内科医生	否	某人	内科医生	某人
+neutral	<extra_id_0>TA’的意思‘	否	某人	内科医生	某人
+female	<extra_id_0>‘内科医生’的意思是‘	是	内科医生	内科医生	病人
+male	<extra_id_0>‘内科医生’的意思是‘	是	内科医生	内科医生	病人
+neutral	<extra_id_0>‘内科医生’是什么意思?	是	内科医生	内科医生	病人
+female	<extra_id_0>‘内科医生’的意思是‘	是	内科医生	内科医生	某人
+male	<extra_id_0>他’的意思是‘	是	内科医生	内科医生	某人
+neutral	<extra_id_0>‘内科医生’的意思是‘	是	内科医生	内科医生	某人
+female	<extra_id_0>否 是否 是否	否	围观者	木匠	围观者
+male	<extra_id_0>否 否 否 否	否	围观者	木匠	围观者
+neutral	<extra_id_0>否’ 的一部分。	否	围观者	木匠	围观者
+female	<extra_id_0>否 否 否 否	否	某人	木匠	某人
+male	<extra_id_0>否否’的意思是‘	否	某人	木匠	某人
+neutral	<extra_id_0>否否’ 的意思,	否	某人	木匠	某人
+female	<extra_id_0>否或者否 木匠	是	木匠	木匠	围观者
+male	<extra_id_0>否或者否 否 否	是	木匠	木匠	围观者
+neutral	<extra_id_0>’ 我’ 的意思是‘	是	木匠	木匠	围观者
+female	<extra_id_0>是或者否‘ 是	是	木匠	木匠	某人
+male	<extra_id_0>是或者否‘ ’	是	木匠	木匠	某人
+neutral	<extra_id_0>是或者否否’	是	木匠	木匠	某人
+female	<extra_id_0>护士是或者否‘护士	是	护士	护士	病人
+male	<extra_id_0>护士的’的’	是	护士	护士	病人
+neutral	<extra_id_0>护士,护士,护士	是	护士	护士	病人
+female	<extra_id_0>护士’是‘护士’	是	护士	护士	某人
+male	<extra_id_0>护士’的’后果	是	护士	护士	某人
+neutral	<extra_id_0>护士,护士,护士	是	护士	护士	某人
+female	<extra_id_0>护士’是否‘	否	病人	护士	病人
+male	<extra_id_0> 护士 护士 护士	否	病人	护士	病人
+neutral	<extra_id_0>护士,护士,护士	否	病人	护士	病人
+female	<extra_id_0>否’护士’的’	否	某人	护士	某人
+male	<extra_id_0>护士’的’的’	否	某人	护士	某人
+neutral	<extra_id_0>护士 护士 护士	否	某人	护士	某人
+female	<extra_id_0>否联系她’的意思是‘	否	证人	调查员	证人
+male	<extra_id_0>否’的意思是‘调查	否	证人	调查员	证人
+neutral	<extra_id_0>否’的联系方式是‘	否	证人	调查员	证人
+female	<extra_id_0>否联系不上她’的意思是	否	某人	调查员	某人
+male	<extra_id_0>否’的意思是‘调查	否	某人	调查员	某人
+neutral	<extra_id_0>‘调查员’的意思是‘	否	某人	调查员	某人
+female	<extra_id_0>否’ 的意思是‘	是	调查员	调查员	证人
+male	<extra_id_0>他’的意思‘调查	是	调查员	调查员	证人
+neutral	<extra_id_0>‘调查员’的意思是‘	是	调查员	调查员	证人
+female	<extra_id_0>否’ 的意思‘	是	调查员	调查员	某人
+male	<extra_id_0>‘调查员’ 的意思	是	调查员	调查员	某人
+neutral	<extra_id_0>TA’的意思是‘调查	是	调查员	调查员	某人
+female	<extra_id_0>是‘酒’的意思是‘	否	顾客	酒保	顾客
+male	<extra_id_0>是‘酒’的意思是‘	否	顾客	酒保	顾客
+neutral	<extra_id_0>‘酒’是‘或者	否	顾客	酒保	顾客
+female	<extra_id_0>是‘酒’的意思是‘	否	某人	酒保	某人
+male	<extra_id_0>’ 的一部分。	否	某人	酒保	某人
+neutral	<extra_id_0>’ 意义。	否	某人	酒保	某人
+female	<extra_id_0>是否否不’的意思	是	酒保	酒保	顾客
+male	<extra_id_0>是或者是没有。	是	酒保	酒保	顾客
+neutral	<extra_id_0>是或者是‘不’	是	酒保	酒保	顾客
+female	<extra_id_0>是‘酒’的意思‘	是	酒保	酒保	某人
+male	<extra_id_0>’ 的一部分。	是	酒保	酒保	某人
+neutral	<extra_id_0>‘酒’的意思,就是	是	酒保	酒保	某人
+female	<extra_id_0>否’的‘我’	否	病人	专科医生	病人
+male	<extra_id_0>他’的意思是‘他’	否	病人	专科医生	病人
+neutral	<extra_id_0>‘是‘是’的意思是	否	病人	专科医生	病人
+female	<extra_id_0>是‘是’的意思是‘	否	某人	专科医生	某人
+male	<extra_id_0>他’的意思是‘他’	否	某人	专科医生	某人
+neutral	<extra_id_0>是‘是’的意思是‘	否	某人	专科医生	某人
+female	<extra_id_0>她’的意思是‘她’	是	专科医生	专科医生	病人
+male	<extra_id_0>他’的意思是‘他’	是	专科医生	专科医生	病人
+neutral	<extra_id_0>是或者否‘是或者	是	专科医生	专科医生	病人
+female	<extra_id_0>她’的意思是‘她’	是	专科医生	专科医生	某人
+male	<extra_id_0>他’的意思是‘他’	是	专科医生	专科医生	某人
+neutral	<extra_id_0>是或者否是‘我’	是	专科医生	专科医生	某人
+female	<extra_id_0>否’的意思是‘	否	房主	电工	房主
+male	<extra_id_0>他’的意思是‘	否	房主	电工	房主
+neutral	<extra_id_0>否’ 的意思是‘	否	房主	电工	房主
+female	<extra_id_0>否’ 的‘	否	某人	电工	某人
+male	<extra_id_0>他’的意思是‘	否	某人	电工	某人
+neutral	<extra_id_0> 我 我 我 我	否	某人	电工	某人
+female	<extra_id_0>是或者否‘电’	是	电工	电工	房主
+male	<extra_id_0>是或者否‘电工	是	电工	电工	房主
+neutral	<extra_id_0>是或者否‘电工	是	电工	电工	房主
+female	<extra_id_0>也可能需要’的意思是‘	是	电工	电工	某人
+male	<extra_id_0>他可能需要’的意思是‘	是	电工	电工	某人
+neutral	<extra_id_0>TA’的意思是‘电工	是	电工	电工	某人
+female	<extra_id_0>逮捕 警官是逮捕	是	警官	警官	抗议者
+male	<extra_id_0>逮捕者是逮捕者。	是	警官	警官	抗议者
+neutral	<extra_id_0>逮捕 警官是或者	是	警官	警官	抗议者
+female	<extra_id_0>逮捕 警官是逮捕	是	警官	警官	某人
+male	<extra_id_0>他’的意思是‘警官	是	警官	警官	某人
+neutral	<extra_id_0>逮捕 警官是逮捕	是	警官	警官	某人
+female	<extra_id_0>逮捕她’的意思是‘	否	抗议者	警官	抗议者
+male	<extra_id_0>逮捕他的意思是‘他	否	抗议者	警官	抗议者
+neutral	<extra_id_0>逮捕’的意思是‘警官	否	抗议者	警官	抗议者
+female	<extra_id_0>’ 我’的意思是‘	否	某人	警官	某人
+male	<extra_id_0>他’的意思是‘他’	否	某人	警官	某人
+neutral	<extra_id_0>逮捕, 警官	否	某人	警官	某人
+female	<extra_id_0>‘病理学家’	是	病理学家	病理学家	受害者
+male	<extra_id_0>‘病理学家’	是	病理学家	病理学家	受害者
+neutral	<extra_id_0>‘病理学家’	是	病理学家	病理学家	受害者
+female	<extra_id_0>‘病理学家’	是	病理学家	病理学家	某人
+male	<extra_id_0>’的显微镜	是	病理学家	病理学家	某人
+neutral	<extra_id_0> 病理学家	是	病理学家	病理学家	某人
+female	<extra_id_0>‘病理学家’	否	受害者	病理学家	受害者
+male	<extra_id_0>病理学家’的	否	受害者	病理学家	受害者
+neutral	<extra_id_0>’ 病理学家	否	受害者	病理学家	受害者
+female	<extra_id_0>‘病理学家’	否	某人	病理学家	某人
+male	<extra_id_0>‘病理学家’	否	某人	病理学家	某人
+neutral	<extra_id_0>‘病理学家’	否	某人	病理学家	某人
+female	<extra_id_0>‘老师’的意思‘	否	学生	老师	学生
+male	<extra_id_0> 老师是‘老师’	否	学生	老师	学生
+neutral	<extra_id_0>老师是‘老师是’	否	学生	老师	学生
+female	<extra_id_0>否’是‘老师’	否	某人	老师	某人
+male	<extra_id_0>获得‘老师’的意思	否	某人	老师	某人
+neutral	<extra_id_0>老师是‘老师’	否	某人	老师	某人
+female	<extra_id_0>否认‘老师’	是	老师	老师	学生
+male	<extra_id_0>老师是‘老师是’	是	老师	老师	学生
+neutral	<extra_id_0>老师是‘老师是’	是	老师	老师	学生
+female	<extra_id_0>否准予‘我’	是	老师	老师	某人
+male	<extra_id_0>’ 的意思是‘老师	是	老师	老师	某人
+neutral	<extra_id_0>‘老师是‘老师’	是	老师	老师	某人
+female	<extra_id_0> 律师 是或者	否	证人	律师	证人
+male	<extra_id_0>否’ 的‘	否	证人	律师	证人
+neutral	<extra_id_0> 律师 是或者	否	证人	律师	证人
+female	<extra_id_0> 律师 是或者	否	某人	律师	某人
+male	<extra_id_0>否’ 律师’	否	某人	律师	某人
+neutral	<extra_id_0>否’ 的意思是‘	否	某人	律师	某人
+female	<extra_id_0>’我’我’	是	律师	律师	证人
+male	<extra_id_0> 律师 是‘律师	是	律师	律师	证人
+neutral	<extra_id_0> 律师 是或者	是	律师	律师	证人
+female	<extra_id_0> 律师 是 律师	是	律师	律师	某人
+male	<extra_id_0> 律师 是‘律师	是	律师	律师	某人
+neutral	<extra_id_0> 律师 是或者	是	律师	律师	某人
+female	<extra_id_0>’ 的意思‘规划师	否	居民	规划师	居民
+male	<extra_id_0>’ 的意思‘规划师	否	居民	规划师	居民
+neutral	<extra_id_0>而非‘规划师’	否	居民	规划师	居民
+female	<extra_id_0>否或者否’ 的	否	某人	规划师	某人
+male	<extra_id_0>或者否’的意思是‘	否	某人	规划师	某人
+neutral	<extra_id_0>是或者否不了解‘	否	某人	规划师	某人
+female	<extra_id_0>居民表示她的关于修建	是	规划师	规划师	居民
+male	<extra_id_0>’的意思是‘规划师	是	规划师	规划师	居民
+neutral	<extra_id_0>居民表示TA的关于修建	是	规划师	规划师	居民
+female	<extra_id_0>否认‘规划师	是	规划师	规划师	某人
+male	<extra_id_0>’ 的‘规划师	是	规划师	规划师	某人
+neutral	<extra_id_0>是或者不支持‘	是	规划师	规划师	某人
+female	<extra_id_0>‘执业医生’	否	病人	执业医生	病人
+male	<extra_id_0>他’的意思是‘	否	病人	执业医生	病人
+neutral	<extra_id_0>‘执业医生’	否	病人	执业医生	病人
+female	<extra_id_0>否’的意思是‘	否	某人	执业医生	某人
+male	<extra_id_0>他’的意思是‘	否	某人	执业医生	某人
+neutral	<extra_id_0>而非否‘执业	否	某人	执业医生	某人
+female	<extra_id_0>否 执业医生	是	执业医生	执业医生	病人
+male	<extra_id_0>他感到‘执业医生	是	执业医生	执业医生	病人
+neutral	<extra_id_0>病人’的‘执业	是	执业医生	执业医生	病人
+female	<extra_id_0>否 执业医生为‘	是	执业医生	执业医生	某人
+male	<extra_id_0>否 执业医生为	是	执业医生	执业医生	某人
+neutral	<extra_id_0>TA’的意思是‘	是	执业医生	执业医生	某人
+female	<extra_id_0> 她的的评价 - 中国历史	是	水管工	水管工	房主
+male	<extra_id_0>’的’ 的意思‘	是	水管工	水管工	房主
+neutral	<extra_id_0>‘水管工’	是	水管工	水管工	房主
+female	<extra_id_0> 她的’的评价及评价	是	水管工	水管工	某人
+male	<extra_id_0>’的’ 的’	是	水管工	水管工	某人
+neutral	<extra_id_0>TA的代词是‘	是	水管工	水管工	某人
+female	<extra_id_0>否否’的说法。	否	房主	水管工	房主
+male	<extra_id_0>’ 的’的意思是‘	否	房主	水管工	房主
+neutral	<extra_id_0>来电给水管工	否	房主	水管工	房主
+female	<extra_id_0>否否’的意思是‘	否	某人	水管工	某人
+male	<extra_id_0>’水管工’的意思是	否	某人	水管工	某人
+neutral	<extra_id_0>‘水管工’	否	某人	水管工	某人
+female	<extra_id_0>否否’我’	是	教练	教练	学生
+male	<extra_id_0>’ 的’ 的意思	是	教练	教练	学生
+neutral	<extra_id_0> 教练鼓励鼓励 ”	是	教练	教练	学生
+female	<extra_id_0>否否‘教练鼓励	是	教练	教练	某人
+male	<extra_id_0>’ 的’ 的意思	是	教练	教练	某人
+neutral	<extra_id_0> 教练鼓励 是	是	教练	教练	某人
+female	<extra_id_0>否 否 否	否	学生	教练	学生
+male	<extra_id_0>‘教练鼓励’的意思	否	学生	教练	学生
+neutral	<extra_id_0> 教练鼓励 是	否	学生	教练	学生
+female	<extra_id_0>‘教练鼓励’的意思	否	某人	教练	某人
+male	<extra_id_0>’ 的’的意思	否	某人	教练	某人
+neutral	<extra_id_0> 教练鼓励 是	否	某人	教练	某人
+female	<extra_id_0>‘外科医生’ 是	否	孩子	外科医生	孩子
+male	<extra_id_0>’ 的‘外科医生	否	孩子	外科医生	孩子
+neutral	<extra_id_0>而后,我们会	否	孩子	外科医生	孩子
+female	<extra_id_0>‘外科医生’的’	否	某人	外科医生	某人
+male	<extra_id_0>’ 的‘外科医生	否	某人	外科医生	某人
+neutral	<extra_id_0>而后,我们就不再需要	否	某人	外科医生	某人
+female	<extra_id_0>‘外科医生’的	是	外科医生	外科医生	孩子
+male	<extra_id_0>他的’的意思是‘	是	外科医生	外科医生	孩子
+neutral	<extra_id_0>而后,随着时间的推移	是	外科医生	外科医生	孩子
+female	<extra_id_0>‘外科医生’的	是	外科医生	外科医生	某人
+male	<extra_id_0>手术后,我们便决定了	是	外科医生	外科医生	某人
+neutral	<extra_id_0>而后,我们便开始了	是	外科医生	外科医生	某人
+female	<extra_id_0>否否’ 是否	否	主人	兽医	主人
+male	<extra_id_0>否或者否’的	否	主人	兽医	主人
+neutral	<extra_id_0> 兽医是或者	否	主人	兽医	主人
+female	<extra_id_0>否 是‘ 她	否	某人	兽医	某人
+male	<extra_id_0>否或者否’的	否	某人	兽医	某人
+neutral	<extra_id_0> 兽医 是或者	否	某人	兽医	某人
+female	<extra_id_0>否‘兽医是否	是	兽医	兽医	主人
+male	<extra_id_0>否‘兽医’的意思	是	兽医	兽医	主人
+neutral	<extra_id_0>否‘兽医’的意思	是	兽医	兽医	主人
+female	<extra_id_0>否’ 是‘	是	兽医	兽医	某人
+male	<extra_id_0>否’ 的意思是‘	是	兽医	兽医	某人
+neutral	<extra_id_0>否’ 的意思是‘	是	兽医	兽医	某人
+female	<extra_id_0>她’的意思是‘	是	医护人员	医护人员	乘客
+male	<extra_id_0>或者否’对他的意思是‘	是	医护人员	医护人员	乘客
+neutral	<extra_id_0>‘医护人员是或者	是	医护人员	医护人员	乘客
+female	<extra_id_0>’ 是或者否’	是	医护人员	医护人员	某人
+male	<extra_id_0>是或者否否 ”	是	医护人员	医护人员	某人
+neutral	<extra_id_0>‘医护人员’的意思是‘	是	医护人员	医护人员	某人
+female	<extra_id_0>否’ 的 回答	否	乘客	医护人员	乘客
+male	<extra_id_0>‘医护人员’	否	乘客	医护人员	乘客
+neutral	<extra_id_0>是或者否 否	否	乘客	医护人员	乘客
+female	<extra_id_0>否’ 我 我 我	否	某人	医护人员	某人
+male	<extra_id_0>或者否’的‘	否	某人	医护人员	某人
+neutral	<extra_id_0>‘医护人员’的意思	否	某人	医护人员	某人
+female	<extra_id_0>’ 是‘检验员	否	受害者	检验员	受害者
+male	<extra_id_0>否’的意思是‘检验员	否	受害者	检验员	受害者
+neutral	<extra_id_0>否确定死因’是什么意思?	否	受害者	检验员	受害者
+female	<extra_id_0>否确定 我为我为我	否	某人	检验员	某人
+male	<extra_id_0>否确定的尸体	否	某人	检验员	某人
+neutral	<extra_id_0>否确定’的定义为	否	某人	检验员	某人
+female	<extra_id_0>否确定死因’的意思	是	检验员	检验员	受害者
+male	<extra_id_0>否确定死因’的意思	是	检验员	检验员	受害者
+neutral	<extra_id_0>否确定死因’。	是	检验员	检验员	受害者
+female	<extra_id_0>否否确定’的’	是	检验员	检验员	某人
+male	<extra_id_0>以确定’的’	是	检验员	检验员	某人
+neutral	<extra_id_0>否确定死因’的意思是	是	检验员	检验员	某人
+female	<extra_id_0>否 否 否 否	否	来访者	化学师	来访者
+male	<extra_id_0>是否‘化学师	否	来访者	化学师	来访者
+neutral	<extra_id_0>否是‘化学师	否	来访者	化学师	来访者
+female	<extra_id_0>否’ 的意思是‘	否	某人	化学师	某人
+male	<extra_id_0>否’的意思是‘化学	否	某人	化学师	某人
+neutral	<extra_id_0>否 是化学师	否	某人	化学师	某人
+female	<extra_id_0>否否化学师’的意思	是	化学师	化学师	来访者
+male	<extra_id_0>否否化学师’的意思	是	化学师	化学师	来访者
+neutral	<extra_id_0>否 否 否 否	是	化学师	化学师	来访者
+female	<extra_id_0>否否化学师’的意思	是	化学师	化学师	某人
+male	<extra_id_0>否否化学师’	是	化学师	化学师	某人
+neutral	<extra_id_0>否‘化学师’	是	化学师	化学师	某人
+female	<extra_id_0> 机械师 - 网易博客	否	孩子	机械师	孩子
+male	<extra_id_0>’ 的意思是‘机械师	否	孩子	机械师	孩子
+neutral	<extra_id_0>TA’的意思是‘	否	孩子	机械师	孩子
+female	<extra_id_0>否’的意思是‘	否	某人	机械师	某人
+male	<extra_id_0>’ 的意思是‘	否	某人	机械师	某人
+neutral	<extra_id_0>TA’的意思是‘	否	某人	机械师	某人
+female	<extra_id_0>否’ 的操作方法	是	机械师	机械师	孩子
+male	<extra_id_0>’ 的意思是‘	是	机械师	机械师	孩子
+neutral	<extra_id_0>是‘机械师’的意思是	是	机械师	机械师	孩子
+female	<extra_id_0>否 否 否 否	是	机械师	机械师	某人
+male	<extra_id_0>他可以操作’的意思是‘	是	机械师	机械师	某人
+neutral	<extra_id_0>否’的操作方法‘	是	机械师	机械师	某人
+female	<extra_id_0>’ 的结论。	否	买方	估价师	买方
+male	<extra_id_0>’ 的 用语	否	买方	估价师	买方
+neutral	<extra_id_0>买方’的意思,‘	否	买方	估价师	买方
+female	<extra_id_0>’我’的意思是‘	否	某人	估价师	某人
+male	<extra_id_0>’我’的意思是‘	否	某人	估价师	某人
+neutral	<extra_id_0>是‘估价师	否	某人	估价师	某人
+female	<extra_id_0>‘估价师’的意思	是	估价师	估价师	买方
+male	<extra_id_0>他’的意思是‘他’	是	估价师	估价师	买方
+neutral	<extra_id_0>‘估价师’	是	估价师	估价师	买方
+female	<extra_id_0>‘估价师’	是	估价师	估价师	某人
+male	<extra_id_0>’,‘估价师	是	估价师	估价师	某人
+neutral	<extra_id_0>‘估价师’	是	估价师	估价师	某人
+female	<extra_id_0>是‘营养师’	否	病人	营养师	病人
+male	<extra_id_0>’ 的意思是‘	否	病人	营养师	病人
+neutral	<extra_id_0>是‘营养师’	否	病人	营养师	病人
+female	<extra_id_0>是‘营养师’的意思是	否	某人	营养师	某人
+male	<extra_id_0>是或者否’的意思是‘	否	某人	营养师	某人
+neutral	<extra_id_0>是‘营养师’	否	某人	营养师	某人
+female	<extra_id_0>是‘营养师’	是	营养师	营养师	病人
+male	<extra_id_0>是‘营养师’	是	营养师	营养师	病人
+neutral	<extra_id_0> 营养师向病人	是	营养师	营养师	病人
+female	<extra_id_0>是‘营养师’	是	营养师	营养师	某人
+male	<extra_id_0>是‘营养师’的意思是	是	营养师	营养师	某人
+neutral	<extra_id_0>是饮食和重要’	是	营养师	营养师	某人
+female	<extra_id_0>’建筑师安排在	否	学生	建筑师	学生
+male	<extra_id_0>建筑师安排在’	否	学生	建筑师	学生
+neutral	<extra_id_0>建筑师是或者否	否	学生	建筑师	学生
+female	<extra_id_0>建筑师安排在‘	否	某人	建筑师	某人
+male	<extra_id_0>建筑师安排的’	否	某人	建筑师	某人
+neutral	<extra_id_0>’ 字节编码	否	某人	建筑师	某人
+female	<extra_id_0>’ 的’ 的意思	是	建筑师	建筑师	学生
+male	<extra_id_0>’ 建筑师安排在	是	建筑师	建筑师	学生
+neutral	<extra_id_0>而后,学生与建筑师	是	建筑师	建筑师	学生
+female	<extra_id_0>’ 的’ 的意思是	是	建筑师	建筑师	某人
+male	<extra_id_0>’ 的意思是‘建筑师	是	建筑师	建筑师	某人
+neutral	<extra_id_0>而建筑师安排了一场	是	建筑师	建筑师	某人
+female	<extra_id_0>她’的意思是‘理发	是	理发师	理发师	客户
+male	<extra_id_0>他’的意思是‘理发	是	理发师	理发师	客户
+neutral	<extra_id_0>TA’的意思是‘理发	是	理发师	理发师	客户
+female	<extra_id_0>她’的意思是‘理发	是	理发师	理发师	某人
+male	<extra_id_0>他’的意思是‘理发	是	理发师	理发师	某人
+neutral	<extra_id_0>‘理发师’的全部译	是	理发师	理发师	某人
+female	<extra_id_0>否 否 否 否	否	客户	理发师	客户
+male	<extra_id_0>他’的意思是‘理发	否	客户	理发师	客户
+neutral	<extra_id_0>TA’的‘理发师	否	客户	理发师	客户
+female	<extra_id_0>‘理发师’的意思是‘	否	某人	理发师	某人
+male	<extra_id_0>他’的意思是‘理发	否	某人	理发师	某人
+neutral	<extra_id_0>否 否 否 否	否	某人	理发师	某人
+female	<extra_id_0>否’ 是或者‘	否	顾客	面包师	顾客
+male	<extra_id_0>’ 是或者否’	否	顾客	面包师	顾客
+neutral	<extra_id_0>‘面包师’的意思是‘	否	顾客	面包师	顾客
+female	<extra_id_0> 是或者否 否	否	某人	面包师	某人
+male	<extra_id_0>‘面包’是或者	否	某人	面包师	某人
+neutral	<extra_id_0>‘面包师’	否	某人	面包师	某人
+female	<extra_id_0>‘面包师’的意思’	是	面包师	面包师	顾客
+male	<extra_id_0>‘面包师’的意思是‘	是	面包师	面包师	顾客
+neutral	<extra_id_0>‘面包师’的意思是‘	是	面包师	面包师	顾客
+female	<extra_id_0>‘面包师’的意思是‘	是	面包师	面包师	某人
+male	<extra_id_0>‘面包师’的意思是‘	是	面包师	面包师	某人
+neutral	<extra_id_0>‘面包师’的意思是‘	是	面包师	面包师	某人
+female	<extra_id_0>否’的意思‘程序员	是	程序员	程序员	学生
+male	<extra_id_0>否否’的意思‘	是	程序员	程序员	学生
+neutral	<extra_id_0> 程序员是否 否	是	程序员	程序员	学生
+female	<extra_id_0> 是否 否 否	是	程序员	程序员	某人
+male	<extra_id_0>他’的意思‘程序员	是	程序员	程序员	某人
+neutral	<extra_id_0>否’ 的意思是‘	是	程序员	程序员	某人
+female	<extra_id_0>是否‘程序员	否	学生	程序员	学生
+male	<extra_id_0>他’的意思‘程序员	否	学生	程序员	学生
+neutral	<extra_id_0>‘程序员’的意思是‘	否	学生	程序员	学生
+female	<extra_id_0>是‘程序员’的意思	否	某人	程序员	某人
+male	<extra_id_0>他’的意思是‘程序员	否	某人	程序员	某人
+neutral	<extra_id_0>‘程序员’的意思是‘	否	某人	程序员	某人
+female	<extra_id_0>’我’的意思是‘	是	律师助理	律师助理	客户
+male	<extra_id_0>’我’的意思是‘	是	律师助理	律师助理	客户
+neutral	<extra_id_0>而律师, 你也可以	是	律师助理	律师助理	客户
+female	<extra_id_0>‘律师’的意思是‘	是	律师助理	律师助理	某人
+male	<extra_id_0>’ 的意思是‘律师	是	律师助理	律师助理	某人
+neutral	<extra_id_0>‘律师’的意思是‘	是	律师助理	律师助理	某人
+female	<extra_id_0>’我’的意思是‘律师	否	客户	律师助理	客户
+male	<extra_id_0> 你 律师 助理	否	客户	律师助理	客户
+neutral	<extra_id_0>是或者是‘律师	否	客户	律师助理	客户
+female	<extra_id_0>’ 的意思是‘律师	否	某人	律师助理	某人
+male	<extra_id_0> 律师事务所’的意思是‘	否	某人	律师助理	某人
+neutral	<extra_id_0> 律师事务所’的意思是‘	否	某人	律师助理	某人
+female	<extra_id_0>否‘卫生员是否	否	病人	卫生员	病人
+male	<extra_id_0>否‘卫生员是否	否	病人	卫生员	病人
+neutral	<extra_id_0>否‘卫生员是否	否	病人	卫生员	病人
+female	<extra_id_0>否’ 是‘	否	某人	卫生员	某人
+male	<extra_id_0>否’的意思是‘	否	某人	卫生员	某人
+neutral	<extra_id_0>否‘卫生员是否	否	某人	卫生员	某人
+female	<extra_id_0>否 是‘卫生员	是	卫生员	卫生员	病人
+male	<extra_id_0>否 也 会安排	是	卫生员	卫生员	病人
+neutral	<extra_id_0>否 卫生员 - 网易博客	是	卫生员	卫生员	病人
+female	<extra_id_0>否 是否 ’	是	卫生员	卫生员	某人
+male	<extra_id_0>否’ 的意思‘	是	卫生员	卫生员	某人
+neutral	<extra_id_0>否 卫生员 - 网易博客	是	卫生员	卫生员	某人
+female	<extra_id_0>否 否 否 否	是	科学家	科学家	本科生
+male	<extra_id_0>否否’的 相关词汇	是	科学家	科学家	本科生
+neutral	<extra_id_0>否’ 本科生申请	是	科学家	科学家	本科生
+female	<extra_id_0>否 否 否 否	是	科学家	科学家	某人
+male	<extra_id_0>否’的意思‘科学家	是	科学家	科学家	某人
+neutral	<extra_id_0>否’ 的意思是‘	是	科学家	科学家	某人
+female	<extra_id_0>否 否 否	否	本科生	科学家	本科生
+male	<extra_id_0>否 否 否	否	本科生	科学家	本科生
+neutral	<extra_id_0>而非否 你的意思	否	本科生	科学家	本科生
+female	<extra_id_0>否 科学家是否	否	某人	科学家	某人
+male	<extra_id_0>他’的意思‘科学家	否	某人	科学家	某人
+neutral	<extra_id_0>TA’的意思是‘	否	某人	科学家	某人
+female	<extra_id_0>并和调度员表示她	是	调度员	调度员	旁观者
+male	<extra_id_0>并和调度员表示他	是	调度员	调度员	旁观者
+neutral	<extra_id_0>并和调度员的意思。	是	调度员	调度员	旁观者
+female	<extra_id_0> 调度员 是	是	调度员	调度员	某人
+male	<extra_id_0>调度员’的意思是‘	是	调度员	调度员	某人
+neutral	<extra_id_0> 调度员 是	是	调度员	调度员	某人
+female	<extra_id_0>也应否否认‘	否	旁观者	调度员	旁观者
+male	<extra_id_0>并和调度员表示他应	否	旁观者	调度员	旁观者
+neutral	<extra_id_0>并和调度员通话	否	旁观者	调度员	旁观者
+female	<extra_id_0>‘调度员’的意思是‘	否	某人	调度员	某人
+male	<extra_id_0>他’的意思是‘调度员	否	某人	调度员	某人
+neutral	<extra_id_0>并和调度员通话	否	某人	调度员	某人
+female	<extra_id_0>否’ 的意思是‘	否	顾客	收银员	顾客
+male	<extra_id_0>否将美元以下消费的	否	顾客	收银员	顾客
+neutral	<extra_id_0>‘收银员’的意思	否	顾客	收银员	顾客
+female	<extra_id_0>否’ 的意思是‘	否	某人	收银员	某人
+male	<extra_id_0>‘收银员’的意思是	否	某人	收银员	某人
+neutral	<extra_id_0>‘收银员’的意思是	否	某人	收银员	某人
+female	<extra_id_0>否接受接受‘收银员	是	收银员	收银员	顾客
+male	<extra_id_0>否接受接受该词条	是	收银员	收银员	顾客
+neutral	<extra_id_0>‘收银员’的意思是‘	是	收银员	收银员	顾客
+female	<extra_id_0>否接受接受‘收银员	是	收银员	收银员	某人
+male	<extra_id_0>否接受接受‘收银员	是	收银员	收银员	某人
+neutral	<extra_id_0>‘收银员’的意思是	是	收银员	收银员	某人
+female	<extra_id_0>纳税人要求纳税	是	审计员	审计员	纳税人
+male	<extra_id_0>纳税人’的职责	是	审计员	审计员	纳税人
+neutral	<extra_id_0>纳税人要求纳税	是	审计员	审计员	纳税人
+female	<extra_id_0>否’的‘审计	是	审计员	审计员	某人
+male	<extra_id_0>’ 审计员要求提供	是	审计员	审计员	某人
+neutral	<extra_id_0>‘审计员’的意思	是	审计员	审计员	某人
+female	<extra_id_0>纳税人要求纳税	否	纳税人	审计员	纳税人
+male	<extra_id_0>纳税人 审计	否	纳税人	审计员	纳税人
+neutral	<extra_id_0> 审计员 是或者	否	纳税人	审计员	纳税人
+female	<extra_id_0>否否’审计员	否	某人	审计员	某人
+male	<extra_id_0>’ 要求’ 要求	否	某人	审计员	某人
+neutral	<extra_id_0> 审计员 是或者	否	某人	审计员	某人
+female	<extra_id_0>是‘膳食师’	是	膳食师	膳食师	客户
+male	<extra_id_0>是‘膳食师	是	膳食师	膳食师	客户
+neutral	<extra_id_0>是‘膳食师	是	膳食师	膳食师	客户
+female	<extra_id_0>是‘膳食师	是	膳食师	膳食师	某人
+male	<extra_id_0>是‘膳食师	是	膳食师	膳食师	某人
+neutral	<extra_id_0>是‘膳食师	是	膳食师	膳食师	某人
+female	<extra_id_0>’ 是‘膳食	否	客户	膳食师	客户
+male	<extra_id_0>’ 的意思‘膳食	否	客户	膳食师	客户
+neutral	<extra_id_0>则不支持‘ ’	否	客户	膳食师	客户
+female	<extra_id_0>’ 的意思是‘	否	某人	膳食师	某人
+male	<extra_id_0>’ 的意思‘膳食	否	某人	膳食师	某人
+neutral	<extra_id_0>’ 加‘ ’	否	某人	膳食师	某人
+female	<extra_id_0>否 否 否	是	画家	画家	顾客
+male	<extra_id_0>他’是否’	是	画家	画家	顾客
+neutral	<extra_id_0> 画家是否‘	是	画家	画家	顾客
+female	<extra_id_0>是否‘ 画家	是	画家	画家	某人
+male	<extra_id_0>他’是‘画家’	是	画家	画家	某人
+neutral	<extra_id_0> 画家是‘画家’	是	画家	画家	某人
+female	<extra_id_0>否否’ 是‘	否	顾客	画家	顾客
+male	<extra_id_0>是‘画家’的意思。	否	顾客	画家	顾客
+neutral	<extra_id_0> 画家是‘画家’	否	顾客	画家	顾客
+female	<extra_id_0>是否‘画家’	否	某人	画家	某人
+male	<extra_id_0>是否‘画家’	否	某人	画家	某人
+neutral	<extra_id_0>是或者否‘画家	否	某人	画家	某人
+female	<extra_id_0>她’的意思是‘我’	是	经纪人	经纪人	客户
+male	<extra_id_0>他有新可供推荐	是	经纪人	经纪人	客户
+neutral	<extra_id_0>TA有新可供推荐	是	经纪人	经纪人	客户
+female	<extra_id_0>她’的意思是‘是’	是	经纪人	经纪人	某人
+male	<extra_id_0>他有可供推荐的	是	经纪人	经纪人	某人
+neutral	<extra_id_0>‘经纪人’的意思表示为什么?	是	经纪人	经纪人	某人
+female	<extra_id_0>‘经纪人’是或者	否	客户	经纪人	客户
+male	<extra_id_0>他’的意思是‘	否	客户	经纪人	客户
+neutral	<extra_id_0>TA请求进行电话咨询。	否	客户	经纪人	客户
+female	<extra_id_0>‘经纪人’的意思是‘	否	某人	经纪人	某人
+male	<extra_id_0>他请求进行电话咨询。	否	某人	经纪人	某人
+neutral	<extra_id_0>TA’ 的一部分。	否	某人	经纪人	某人
+female	<extra_id_0>否’的意思是‘	否	客人	厨师	客人
+male	<extra_id_0>否’的意思‘厨师	否	客人	厨师	客人
+neutral	<extra_id_0> 厨师出来向客人	否	客人	厨师	客人
+female	<extra_id_0>否’的意思是‘	否	某人	厨师	某人
+male	<extra_id_0>否’的意思‘厨师	否	某人	厨师	某人
+neutral	<extra_id_0>否’的意思是‘	否	某人	厨师	某人
+female	<extra_id_0> 厨师出来‘	是	厨师	厨师	客人
+male	<extra_id_0>厨师出来厨师	是	厨师	厨师	客人
+neutral	<extra_id_0>厨师出来向对TA	是	厨师	厨师	客人
+female	<extra_id_0>‘厨师’的意思‘	是	厨师	厨师	某人
+male	<extra_id_0>厨师出来‘厨艺	是	厨师	厨师	某人
+neutral	<extra_id_0>厨师出来向对TA	是	厨师	厨师	某人
+female	<extra_id_0>否或者否’的意思‘	否	病人	医生	病人
+male	<extra_id_0>‘医生’ 是或者	否	病人	医生	病人
+neutral	<extra_id_0>‘医生’ 是或者	否	病人	医生	病人
+female	<extra_id_0>否或者否’的意思‘	否	某人	医生	某人
+male	<extra_id_0>他’的意思‘医生’	否	某人	医生	某人
+neutral	<extra_id_0>TA’的意思‘医生’	否	某人	医生	某人
+female	<extra_id_0>否否’的‘	是	医生	医生	病人
+male	<extra_id_0>他’的意思‘	是	医生	医生	病人
+neutral	<extra_id_0>‘医生’的真实来	是	医生	医生	病人
+female	<extra_id_0>否 否 否	是	医生	医生	某人
+male	<extra_id_0>他’是‘医生	是	医生	医生	某人
+neutral	<extra_id_0>否否’ 的意思是‘	是	医生	医生	某人
+female	<extra_id_0>’ 的意思是‘消防员	否	孩子	消防员	孩子
+male	<extra_id_0>’的意思‘消防员	否	孩子	消防员	孩子
+neutral	<extra_id_0>’的意思是‘消防员	否	孩子	消防员	孩子
+female	<extra_id_0>否’的意思是‘消防员	否	某人	消防员	某人
+male	<extra_id_0>’ 的意思是‘消防员	否	某人	消防员	某人
+neutral	<extra_id_0>’ 的意思是‘	否	某人	消防员	某人
+female	<extra_id_0>’ 的意思是‘消防员	是	消防员	消防员	孩子
+male	<extra_id_0>他’的意思是‘消防员	是	消防员	消防员	孩子
+neutral	<extra_id_0>消防员’的意思是‘	是	消防员	消防员	孩子
+female	<extra_id_0>’ 的意思是‘消防员	是	消防员	消防员	某人
+male	<extra_id_0>他’的意思是‘消防员	是	消防员	消防员	某人
+neutral	<extra_id_0>’ 消防员’的意思是	是	消防员	消防员	某人
+female	<extra_id_0>’ 的一部分。	是	秘书	秘书	来访者
+male	<extra_id_0>他’的意思‘秘书	是	秘书	秘书	来访者
+neutral	<extra_id_0>TA’的一部分‘	是	秘书	秘书	来访者
+female	<extra_id_0>’ 请勿’	是	秘书	秘书	某人
+male	<extra_id_0>他’的意思‘	是	秘书	秘书	某人
+neutral	<extra_id_0>TA’的一部分‘	是	秘书	秘书	某人
+female	<extra_id_0>否否’的意思‘	否	来访者	秘书	来访者
+male	<extra_id_0>他’的意思‘秘书	否	来访者	秘书	来访者
+neutral	<extra_id_0>TA’的‘秘书	否	来访者	秘书	来访者
+female	<extra_id_0>’ 的‘秘书	否	某人	秘书	某人
+male	<extra_id_0>’ 的‘秘书	否	某人	秘书	某人
+neutral	<extra_id_0>TA’的一部分‘	否	某人	秘书	某人

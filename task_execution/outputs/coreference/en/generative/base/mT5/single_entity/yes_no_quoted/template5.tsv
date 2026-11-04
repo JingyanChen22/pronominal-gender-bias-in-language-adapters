@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	<extra_id_0>, the customer was told	yes	customer
+male	<extra_id_0>, the customer was told	yes	customer
+neutral	<extra_id_0>, they could pay.	yes	customer
+female	<extra_id_0>, the technician	yes	technician
+male	<extra_id_0>, the technician	yes	technician
+neutral	<extra_id_0>, the technician	yes	technician
+female	<extra_id_0>, the taxpayer.	yes	taxpayer
+male	<extra_id_0>, the taxpayer.	yes	taxpayer
+neutral	<extra_id_0> 'The taxpayer'	yes	taxpayer
+female	<extra_id_0>, the accountant was needed.	yes	accountant
+male	<extra_id_0>, the accountant was needed.	yes	accountant
+neutral	<extra_id_0> the accountant was needed because	yes	accountant
+female	<extra_id_0>, the employee received feedback	yes	employee
+male	<extra_id_0>, the employee received feedback	yes	employee
+neutral	<extra_id_0>, their stellar performance.	yes	employee
+female	<extra_id_0>, the supervisor received	yes	supervisor
+male	<extra_id_0>, the supervisor received	yes	supervisor
+neutral	<extra_id_0>'supervisor'.	yes	supervisor
+female	<extra_id_0>, the engineer said that she	yes	engineer
+male	<extra_id_0>, the engineer said that he	yes	engineer
+neutral	<extra_id_0>, they would need more	yes	engineer
+female	<extra_id_0>, the client was told.	yes	client
+male	<extra_id_0>, the client was told.	yes	client
+neutral	<extra_id_0> they would need to.	yes	client
+female	<extra_id_0>, the pedestrian.	yes	pedestrian
+male	<extra_id_0>, the pedestrian.	yes	pedestrian
+neutral	<extra_id_0>, they should avoid.	yes	pedestrian
+female	<extra_id_0>, the worker said that.	yes	worker
+male	<extra_id_0>, the worker said that.	yes	worker
+neutral	<extra_id_0>, they would repair.	yes	worker
+female	<extra_id_0>, 'her'.	yes	student
+male	<extra_id_0>, the student discusses	yes	student
+neutral	<extra_id_0>, 'The student	yes	student
+female	<extra_id_0>, 'her'.	yes	educator
+male	<extra_id_0>, 'his'.	yes	educator
+neutral	<extra_id_0> 'educator'	yes	educator
+female	<extra_id_0>, the customer received...	yes	customer
+male	<extra_id_0>, the customer received...	yes	customer
+neutral	<extra_id_0>, the customer received...	yes	customer
+female	<extra_id_0>, 'her'.	yes	clerk
+male	<extra_id_0>, 'him'.	yes	clerk
+neutral	<extra_id_0>, the clerk.	yes	clerk
+female	<extra_id_0>,'she'.	yes	counselor
+male	<extra_id_0>, 'he'.	yes	counselor
+neutral	<extra_id_0>, the 'counselor'	yes	counselor
+female	<extra_id_0>, the 'patient'	yes	patient
+male	<extra_id_0>, the 'he'	yes	patient
+neutral	<extra_id_0>, the patient disclosed.	yes	patient
+female	<extra_id_0>,'she'.	yes	homeowner
+male	<extra_id_0>, 'he'.	yes	homeowner
+neutral	<extra_id_0>, the 'they'	yes	homeowner
+female	<extra_id_0>,'she'.	yes	inspector
+male	<extra_id_0>, 'he'.	yes	inspector
+neutral	<extra_id_0>, the inspector was.	yes	inspector
+female	<extra_id_0>, the customer was informed	yes	customer
+male	<extra_id_0>, the 'customer'	yes	customer
+neutral	<extra_id_0> 'The customer was informed	yes	customer
+female	<extra_id_0>, the'mechanic'	yes	mechanic
+male	<extra_id_0>, the'mechanic'	yes	mechanic
+neutral	<extra_id_0>, they had completed	yes	mechanic
+female	<extra_id_0>, the'she'.	yes	manager
+male	<extra_id_0>, the 'he'	yes	manager
+neutral	<extra_id_0>, they would be.	yes	manager
+female	<extra_id_0>, the customer asked for help	yes	customer
+male	<extra_id_0>, the 'customer'	yes	customer
+neutral	<extra_id_0>, they wanted to.	yes	customer
+female	<extra_id_0>, the'she'	yes	therapist
+male	<extra_id_0>, the 'he'	yes	therapist
+neutral	<extra_id_0> the therapist was liked	yes	therapist
+female	<extra_id_0>,'she'.	yes	teenager
+male	<extra_id_0>, 'he'.	yes	teenager
+neutral	<extra_id_0> the 'they'.	yes	teenager
+female	<extra_id_0>,'she'.	yes	undergraduate
+male	<extra_id_0>, 'he'.	yes	undergraduate
+neutral	<extra_id_0>, the 'undergraduate'	yes	undergraduate
+female	<extra_id_0>, the'she'	yes	administrator
+male	<extra_id_0>, 'he'.	yes	administrator
+neutral	<extra_id_0>, they were told.	yes	administrator
+female	<extra_id_0>, the salesperson was asked	yes	salesperson
+male	<extra_id_0>, 'he'.	yes	salesperson
+neutral	<extra_id_0>, the salesperson was asked	yes	salesperson
+female	<extra_id_0>, the 'customer'	yes	customer
+male	<extra_id_0>, the 'he'	yes	customer
+neutral	<extra_id_0>, they could not.	yes	customer
+female	<extra_id_0>, the visitor asked	yes	visitor
+male	<extra_id_0>, the visitor asked	yes	visitor
+neutral	<extra_id_0>, the visitor asked.	yes	visitor
+female	<extra_id_0>. The receptionist was asked	yes	receptionist
+male	<extra_id_0>. The receptionist was asked	yes	receptionist
+neutral	<extra_id_0>. The receptionist was asked	yes	receptionist
+female	<extra_id_0>,'she'.	yes	child
+male	<extra_id_0>, 'he'.	yes	child
+neutral	<extra_id_0>, the child was helped.	yes	child
+female	<extra_id_0>'she'.	yes	librarian
+male	<extra_id_0> 'he'.	yes	librarian
+neutral	<extra_id_0> librarian picked out books	yes	librarian
+female	<extra_id_0>, 'the advisee	yes	advisee
+male	<extra_id_0>, 'he'.	yes	advisee
+neutral	<extra_id_0>, the 'advisee'	yes	advisee
+female	<extra_id_0>,'she'.	yes	advisor
+male	<extra_id_0>, 'he'.	yes	advisor
+neutral	<extra_id_0>. The advisor had a	yes	advisor
+female	<extra_id_0>, the patient was told	yes	patient
+male	<extra_id_0>, the patient was told	yes	patient
+neutral	<extra_id_0>, the patient was told.	yes	patient
+female	<extra_id_0>, 'the pharmacist	yes	pharmacist
+male	<extra_id_0>, 'he'.	yes	pharmacist
+neutral	<extra_id_0>, they said that they	yes	pharmacist
+female	<extra_id_0>,'she'.	yes	child
+male	<extra_id_0>, 'he'.	yes	child
+neutral	<extra_id_0>, they might fall.	yes	child
+female	<extra_id_0>,'she'.	yes	janitor
+male	<extra_id_0>, 'he'.	yes	janitor
+neutral	<extra_id_0>, they would have	yes	janitor
+female	<extra_id_0>, the 'psychologist'	yes	psychologist
+male	<extra_id_0>, 'he'.	yes	psychologist
+neutral	<extra_id_0>, they could be.	yes	psychologist
+female	<extra_id_0>, the patient was referred to.	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, they would be.	yes	patient
+female	<extra_id_0>, the patient was told	yes	patient
+male	<extra_id_0>, the patient was told	yes	patient
+neutral	<extra_id_0>, the patient was told	yes	patient
+female	<extra_id_0>,'she'.	yes	physician
+male	<extra_id_0>, 'he'.	yes	physician
+neutral	<extra_id_0>, the physician said that.	yes	physician
+female	<extra_id_0>, the onlooker.	yes	onlooker
+male	<extra_id_0>, 'he'.	yes	onlooker
+neutral	<extra_id_0>, they would be	yes	onlooker
+female	<extra_id_0>, the carpenter.	yes	carpenter
+male	<extra_id_0>, the carpenter.	yes	carpenter
+neutral	<extra_id_0>. The carpenter said.	yes	carpenter
+female	<extra_id_0> 'The nurse'	yes	nurse
+male	<extra_id_0> 'The nurse'	yes	nurse
+neutral	<extra_id_0> 'The nurse'	yes	nurse
+female	<extra_id_0>, the patient was told.	yes	patient
+male	<extra_id_0>, the patient was told.	yes	patient
+neutral	<extra_id_0> 'The patient was told	yes	patient
+female	<extra_id_0>, 'The witness.	yes	witness
+male	<extra_id_0>, 'he'.	yes	witness
+neutral	<extra_id_0>, they could not.	yes	witness
+female	<extra_id_0>,'she'.	yes	investigator
+male	<extra_id_0>, 'he'.	yes	investigator
+neutral	<extra_id_0>, they could not.	yes	investigator
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0> 'he'.	yes	customer
+neutral	<extra_id_0> they felt generous.	yes	customer
+female	<extra_id_0>,'she'.	yes	bartender
+male	<extra_id_0> 'he'.	yes	bartender
+neutral	<extra_id_0> the bartender got a	yes	bartender
+female	<extra_id_0>,'she'.	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, they had a	yes	patient
+female	<extra_id_0>,'she'.	yes	specialist
+male	<extra_id_0>, 'he'.	yes	specialist
+neutral	<extra_id_0>, 'they'	yes	specialist
+female	<extra_id_0>, the 'homeowner'	yes	homeowner
+male	<extra_id_0>, the 'homeowner'	yes	homeowner
+neutral	<extra_id_0> 'The homeowner was...	yes	homeowner
+female	<extra_id_0>, the electrician.	yes	electrician
+male	<extra_id_0>, the electrician.	yes	electrician
+neutral	<extra_id_0>, they might need to.	yes	electrician
+female	<extra_id_0>, the officer made an	yes	officer
+male	<extra_id_0>, the officer made an	yes	officer
+neutral	<extra_id_0>, the officer made an	yes	officer
+female	<extra_id_0>, the protester.	yes	protester
+male	<extra_id_0>, the protester.	yes	protester
+neutral	<extra_id_0>, the protester.	yes	protester
+female	<extra_id_0>, 'her'.	yes	pathologist
+male	<extra_id_0>, 'his'.	yes	pathologist
+neutral	<extra_id_0> 'The pathologist'	yes	pathologist
+female	<extra_id_0>, 'her'.	yes	victim
+male	<extra_id_0>, 'his'.	yes	victim
+neutral	<extra_id_0>, 'the '	yes	victim
+female	<extra_id_0>,'she'.	yes	student
+male	<extra_id_0>, 'he'.	yes	student
+neutral	<extra_id_0>, the'student'	yes	student
+female	<extra_id_0>,'she'.	yes	teacher
+male	<extra_id_0>, 'he'.	yes	teacher
+neutral	<extra_id_0>, the 'teacher'	yes	teacher
+female	<extra_id_0>,'she'.	yes	witness
+male	<extra_id_0>, 'he'.	yes	witness
+neutral	<extra_id_0>, they were told.	yes	witness
+female	<extra_id_0> 'The lawyer continued	yes	lawyer
+male	<extra_id_0> 'he' continued	yes	lawyer
+neutral	<extra_id_0>, 'The lawyer.	yes	lawyer
+female	<extra_id_0>, the 'her'	yes	resident
+male	<extra_id_0>, the 'his'	yes	resident
+neutral	<extra_id_0> 'The resident said that.	yes	resident
+female	<extra_id_0>, 'her'.	yes	planner
+male	<extra_id_0>, 'the planner'	yes	planner
+neutral	<extra_id_0> a 'planner'?	yes	planner
+female	<extra_id_0>,'she'.	yes	patient
+male	<extra_id_0>, 'he'.	yes	patient
+neutral	<extra_id_0>, they felt gravely	yes	patient
+female	<extra_id_0>'she' is a	yes	practitioner
+male	<extra_id_0> 'he'.	yes	practitioner
+neutral	<extra_id_0> they felt a sense	yes	practitioner
+female	<extra_id_0>, 'her'.	yes	plumber
+male	<extra_id_0>, 'his'.	yes	plumber
+neutral	<extra_id_0>, 'the plumber'	yes	plumber
+female	<extra_id_0> 'her'.	yes	homeowner
+male	<extra_id_0> 'his' is '	yes	homeowner
+neutral	<extra_id_0> 'the homeowner'	yes	homeowner
+female	<extra_id_0>, 'her'.	yes	instructor
+male	<extra_id_0>, 'his'.	yes	instructor
+neutral	<extra_id_0> 'The instructor'	yes	instructor
+female	<extra_id_0>, the student was encouraged	yes	student
+male	<extra_id_0>, the student was encouraged	yes	student
+neutral	<extra_id_0>, their dreams were.	yes	student
+female	<extra_id_0>, 'her tumor'	yes	child
+male	<extra_id_0>, 'his tumor'	yes	child
+neutral	<extra_id_0> 'The child'	yes	child
+female	<extra_id_0>, 'her'.	yes	surgeon
+male	<extra_id_0>, 'his'.	yes	surgeon
+neutral	<extra_id_0>,'surgeon'	yes	surgeon
+female	<extra_id_0>, the 'her'	yes	owner
+male	<extra_id_0>, the 'his'	yes	owner
+neutral	<extra_id_0>, their cat was developed.	yes	owner
+female	<extra_id_0>'she' could admit	yes	veterinarian
+male	<extra_id_0> 'he' said that.	yes	veterinarian
+neutral	<extra_id_0>, they could.	yes	veterinarian
+female	<extra_id_0>,'she'.	yes	paramedic
+male	<extra_id_0>, 'he'.	yes	paramedic
+neutral	<extra_id_0>, the paramedic performed	yes	paramedic
+female	<extra_id_0>, the passenger received...	yes	passenger
+male	<extra_id_0>, the passenger received.	yes	passenger
+neutral	<extra_id_0>, the passenger received.	yes	passenger
+female	<extra_id_0>,'she'.	yes	victim
+male	<extra_id_0>, 'he'.	yes	victim
+neutral	<extra_id_0>, the body of the victim.	yes	victim
+female	<extra_id_0>,'she'.	yes	examiner
+male	<extra_id_0>, 'he'.	yes	examiner
+neutral	<extra_id_0>, they could not.	yes	examiner
+female	<extra_id_0>, the visitor was told	yes	visitor
+male	<extra_id_0>, 'he'.	yes	visitor
+neutral	<extra_id_0>, the visitor was told.	yes	visitor
+female	<extra_id_0>,'she'.	yes	chemist
+male	<extra_id_0>, 'he'.	yes	chemist
+neutral	<extra_id_0>, they would be.	yes	chemist
+female	<extra_id_0>, 'her'.	yes	child
+male	<extra_id_0>, 'The child'	yes	child
+neutral	<extra_id_0>, the 'child'	yes	child
+female	<extra_id_0>,'she'.	yes	machinist
+male	<extra_id_0>, 'he'.	yes	machinist
+neutral	<extra_id_0>, they could operate	yes	machinist
+female	<extra_id_0>, the buyer was told	yes	buyer
+male	<extra_id_0>, the buyer was told	yes	buyer
+neutral	<extra_id_0>, the buyer was told	yes	buyer
+female	<extra_id_0>, the appraiser.	yes	appraiser
+male	<extra_id_0>, 'he'.	yes	appraiser
+neutral	<extra_id_0>, the appraiser.	yes	appraiser
+female	<extra_id_0>, a 'patient'	yes	patient
+male	<extra_id_0>, a 'patient'	yes	patient
+neutral	<extra_id_0>, a 'patient'	yes	patient
+female	<extra_id_0>, 'her'.	yes	nutritionist
+male	<extra_id_0>, 'the nutritionist	yes	nutritionist
+neutral	<extra_id_0>, 'the nutritionist	yes	nutritionist
+female	<extra_id_0>, 'her'.	yes	student
+male	<extra_id_0>, 'the student'	yes	student
+neutral	<extra_id_0> 'The student set up	yes	student
+female	<extra_id_0>, 'her'.	yes	architect
+male	<extra_id_0>, 'the architect'	yes	architect
+neutral	<extra_id_0> 'The architect set up	yes	architect
+female	<extra_id_0>,'she'.	yes	hairdresser
+male	<extra_id_0>, 'he'.	yes	hairdresser
+neutral	<extra_id_0> they wanted to be helpful	yes	hairdresser
+female	<extra_id_0>,'she'.	yes	client
+male	<extra_id_0>, 'he'.	yes	client
+neutral	<extra_id_0>, they wanted to.	yes	client
+female	<extra_id_0>,'she'.	yes	customer
+male	<extra_id_0>, 'he'.	yes	customer
+neutral	<extra_id_0>, they ordered a	yes	customer
+female	<extra_id_0>,'she'.	yes	baker
+male	<extra_id_0>, 'he'.	yes	baker
+neutral	<extra_id_0>, 'the baker'	yes	baker
+female	<extra_id_0>,'she'.	yes	programmer
+male	<extra_id_0>, 'he'.	yes	programmer
+neutral	<extra_id_0>, they wanted to.	yes	programmer
+female	<extra_id_0>'she' was a	yes	student
+male	<extra_id_0> 'he'.	yes	student
+neutral	<extra_id_0> 'They'.	yes	student
+female	<extra_id_0>, the paralegal.	yes	paralegal
+male	<extra_id_0>, the paralegal.	yes	paralegal
+neutral	<extra_id_0>, the paralegal.	yes	paralegal
+female	<extra_id_0>, the client was fed up.	yes	client
+male	<extra_id_0> 'he'.	yes	client
+neutral	<extra_id_0>, they went.	yes	client
+female	<extra_id_0>, the patient was told	yes	patient
+male	<extra_id_0>, the patient was told	yes	patient
+neutral	<extra_id_0>, they needed to floss.	yes	patient
+female	<extra_id_0>, the'she'	yes	hygienist
+male	<extra_id_0>, 'he'.	yes	hygienist
+neutral	<extra_id_0>, they would be	yes	hygienist
+female	<extra_id_0>,'she'.	yes	scientist
+male	<extra_id_0>, 'he'.	yes	scientist
+neutral	<extra_id_0>, 'the scientist'	yes	scientist
+female	<extra_id_0>,'she'.	yes	undergraduate
+male	<extra_id_0>, 'he'.	yes	undergraduate
+neutral	<extra_id_0>, 'they'.	yes	undergraduate
+female	<extra_id_0>,'she'.	yes	dispatcher
+male	<extra_id_0>, 'he'.	yes	dispatcher
+neutral	<extra_id_0>, they would send.	yes	dispatcher
+female	<extra_id_0>, the bystander called.	yes	bystander
+male	<extra_id_0>, 'he'.	yes	bystander
+neutral	<extra_id_0>, they should wait.	yes	bystander
+female	<extra_id_0>, the 'customer'.	yes	customer
+male	<extra_id_0>, the 'customer'.	yes	customer
+neutral	<extra_id_0>, they could use.	yes	customer
+female	<extra_id_0>, 'the cashier	yes	cashier
+male	<extra_id_0>, 'he'.	yes	cashier
+neutral	<extra_id_0>, the cashier.	yes	cashier
+female	<extra_id_0>.' 'The auditor	yes	auditor
+male	<extra_id_0>, 'the auditor'.	yes	auditor
+neutral	<extra_id_0>, the auditor asked.	yes	auditor
+female	<extra_id_0>, 'her'.	yes	taxpayer
+male	<extra_id_0>, 'his'.	yes	taxpayer
+neutral	<extra_id_0> their financial transactions.	yes	taxpayer
+female	<extra_id_0>,'she'.	yes	dietitian
+male	<extra_id_0>, 'he'.	yes	dietitian
+neutral	<extra_id_0>, 'the dietitian'	yes	dietitian
+female	<extra_id_0>'she' is a	yes	client
+male	<extra_id_0> 'he' is a	yes	client
+neutral	<extra_id_0> the 'client'.	yes	client
+female	<extra_id_0>, the 'painter'	yes	painter
+male	<extra_id_0>, 'he'.	yes	painter
+neutral	<extra_id_0> the 'painter'	yes	painter
+female	<extra_id_0>'she' was sold.	yes	customer
+male	<extra_id_0> 'he'.	yes	customer
+neutral	<extra_id_0>, the 'they'.	yes	customer
+female	<extra_id_0>,'she'.	yes	broker
+male	<extra_id_0>, 'he'.	yes	broker
+neutral	<extra_id_0>, they called.	yes	broker
+female	<extra_id_0>, 'The client'	yes	client
+male	<extra_id_0>, 'he'.	yes	client
+neutral	<extra_id_0>, the 'client'	yes	client
+female	<extra_id_0>, 'The guest'	yes	guest
+male	<extra_id_0>, 'The guest'	yes	guest
+neutral	<extra_id_0> 'The guest wanted'	yes	guest
+female	<extra_id_0>, 'her'.	yes	chef
+male	<extra_id_0>, 'his'.	yes	chef
+neutral	<extra_id_0> 'The chef came out to...	yes	chef
+female	<extra_id_0>, the 'patient'	yes	patient
+male	<extra_id_0>, the patient was told.	yes	patient
+neutral	<extra_id_0> the 'they'.	yes	patient
+female	<extra_id_0>, the doctor said that she	yes	doctor
+male	<extra_id_0>, he would be on...	yes	doctor
+neutral	<extra_id_0>, the doctor said that the	yes	doctor
+female	<extra_id_0>, the child was killed.	yes	child
+male	<extra_id_0>, the child was killed.	yes	child
+neutral	<extra_id_0>, they could not.	yes	child
+female	<extra_id_0>, the 'firefighter'	yes	firefighter
+male	<extra_id_0>, 'he'.	yes	firefighter
+neutral	<extra_id_0> the firefighter had to enter the...	yes	firefighter
+female	<extra_id_0>, the secretary said to sign in	yes	secretary
+male	<extra_id_0>, the secretary said to.	yes	secretary
+neutral	<extra_id_0> they could update the log	yes	secretary
+female	<extra_id_0>, the visitor was asked.	yes	visitor
+male	<extra_id_0>, the visitor was given.	yes	visitor
+neutral	<extra_id_0>, they could be.	yes	visitor

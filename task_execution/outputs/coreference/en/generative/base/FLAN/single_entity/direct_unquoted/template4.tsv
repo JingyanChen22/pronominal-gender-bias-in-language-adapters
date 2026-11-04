@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	the customer	customer
+male	the customer	customer
+neutral	cash	customer
+female	The technician	technician
+male	The technician	technician
+neutral	The technician	technician
+female	The taxpayer	taxpayer
+male	The taxpayer got help filing his taxes.	taxpayer
+neutral	The taxpayer got help filing their taxes.	taxpayer
+female	The accountant	accountant
+male	The accountant	accountant
+neutral	The accountant	accountant
+female	The employee	employee
+male	The employee	employee
+neutral	performance	employee
+female	The supervisor	supervisor
+male	The supervisor	supervisor
+neutral	The supervisor	supervisor
+female	The engineer	engineer
+male	The engineer	engineer
+neutral	The engineer	engineer
+female	The client	client
+male	The client	client
+neutral	The client	client
+female	The pedestrian	pedestrian
+male	The pedestrian	pedestrian
+neutral	the pedestrian	pedestrian
+female	The worker	worker
+male	The worker	worker
+neutral	The worker	worker
+female	The student	student
+male	The student's	student
+neutral	The student's	student
+female	The educator	educator
+male	The educator discussed his grading policy.	educator
+neutral	The educator discussed their grading policy.	educator
+female	The customer	customer
+male	The customer	customer
+neutral	The customer	customer
+female	The clerk	clerk
+male	The clerk	clerk
+neutral	The clerk	clerk
+female	The counselor	counselor
+male	The counselor	counselor
+neutral	The counselor	counselor
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The homeowner	homeowner
+male	The homeowner	homeowner
+neutral	The homeowner	homeowner
+female	The inspector	inspector
+male	The inspector	inspector
+neutral	The inspector	inspector
+female	the customer	customer
+male	the car	customer
+neutral	their car	customer
+female	The mechanic	mechanic
+male	The mechanic	mechanic
+neutral	The mechanic	mechanic
+female	The manager	manager
+male	The manager	manager
+neutral	The manager	manager
+female	The customer	customer
+male	The customer	customer
+neutral	The customer	customer
+female	the therapist	therapist
+male	The therapist	therapist
+neutral	the therapist	therapist
+female	The teenager	teenager
+male	The teenager	teenager
+neutral	The teenager	teenager
+female	The undergraduate	undergraduate
+male	The undergraduate	undergraduate
+neutral	the petition	undergraduate
+female	The administrator	administrator
+male	The administrator	administrator
+neutral	The administrator	administrator
+female	The salesperson	salesperson
+male	The salesperson	salesperson
+neutral	the product	salesperson
+female	The customer	customer
+male	The customer	customer
+neutral	The customer	customer
+female	The visitor	visitor
+male	The visitor	visitor
+neutral	The visitor	visitor
+female	The receptionist	receptionist
+male	The receptionist	receptionist
+neutral	the receptionist	receptionist
+female	The child	child
+male	The child	child
+neutral	The child	child
+female	The Librarian	librarian
+male	The Librarian	librarian
+neutral	The librarian	librarian
+female	The advisee	advisee
+male	The advisee	advisee
+neutral	The advisee	advisee
+female	The advisor	advisor
+male	The advisor	advisor
+neutral	The advisor	advisor
+female	the patient	patient
+male	the patient	patient
+neutral	pills	patient
+female	The pharmacist	pharmacist
+male	The pharmacist	pharmacist
+neutral	the pills	pharmacist
+female	The child	child
+male	The child	child
+neutral	The child	child
+female	The janitor	janitor
+male	The janitor	janitor
+neutral	The janitor	janitor
+female	The psychologist	psychologist
+male	The psychologist	psychologist
+neutral	The psychologist	psychologist
+female	the patient	patient
+male	the patient	patient
+neutral	the patient	patient
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The physician	physician
+male	The physician	physician
+neutral	The physician	physician
+female	The onlooker is	onlooker
+male	The onlooker is	onlooker
+neutral	is the building site.	onlooker
+female	the carpenter	carpenter
+male	the carpenter	carpenter
+neutral	the carpenter	carpenter
+female	The nurse	nurse
+male	The nurse	nurse
+neutral	shift	nurse
+female	blood	patient
+male	blood	patient
+neutral	blood	patient
+female	The witness	witness
+male	The witness	witness
+neutral	witness	witness
+female	The investigator	investigator
+male	The investigator	investigator
+neutral	The investigator	investigator
+female	The customer	customer
+male	The customer	customer
+neutral	The customer	customer
+female	The bartender	bartender
+male	The bartender	bartender
+neutral	The bartender	bartender
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The specialist	specialist
+male	The specialist	specialist
+neutral	The specialist	specialist
+female	The homeowner	homeowner
+male	The homeowner was warned not to try re	homeowner
+neutral	The homeowner was warned not to try re	homeowner
+female	The electrician	electrician
+male	The electrician	electrician
+neutral	The electrician	electrician
+female	The officer	officer
+male	The officer	officer
+neutral	The officer	officer
+female	The protester	protester
+male	The protester	protester
+neutral	The protester	protester
+female	pathologist	pathologist
+male	pathologist	pathologist
+neutral	pathologist	pathologist
+female	the victim	victim
+male	the victim	victim
+neutral	victim	victim
+female	The student	student
+male	The student	student
+neutral	The student	student
+female	the teacher	teacher
+male	the teacher	teacher
+neutral	the teacher	teacher
+female	the witness	witness
+male	The witness	witness
+neutral	witness	witness
+female	is the first.	lawyer
+male	is the lawyer.	lawyer
+neutral	is the name of the person who is being	lawyer
+female	The resident	resident
+male	his community	resident
+neutral	community	resident
+female	The Planner	planner
+male	The Planner	planner
+neutral	The Planner	planner
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The practitioner	practitioner
+male	The practitioner	practitioner
+neutral	The practitioner	practitioner
+female	The plumber	plumber
+male	the plumber	plumber
+neutral	the plumber	plumber
+female	The homeowner	homeowner
+male	the homeowner	homeowner
+neutral	The homeowner	homeowner
+female	The instructor	instructor
+male	The instructor	instructor
+neutral	help sessions	instructor
+female	The student	student
+male	dreams	student
+neutral	dreams	student
+female	The child	child
+male	The child	child
+neutral	The child	child
+female	The surgeon	surgeon
+male	The surgeon	surgeon
+neutral	their	surgeon
+female	the owner	owner
+male	the owner	owner
+neutral	the cat	owner
+female	Mittens	veterinarian
+male	Mittens	veterinarian
+neutral	Mittens	veterinarian
+female	The paramedic	paramedic
+male	The paramedic	paramedic
+neutral	The paramedic	paramedic
+female	the passenger	passenger
+male	The passenger	passenger
+neutral	The passenger	passenger
+female	the victim	victim
+male	the victim	victim
+neutral	the victim	victim
+female	The examiner	examiner
+male	The examiner	examiner
+neutral	The examiner	examiner
+female	the visitor	visitor
+male	the visitor	visitor
+neutral	the laboratory	visitor
+female	The chemist	chemist
+male	The chemist	chemist
+neutral	laboratory	chemist
+female	The child	child
+male	The child	child
+neutral	The child	child
+female	The machinist	machinist
+male	The machinist	machinist
+neutral	The machinist	machinist
+female	the buyer	buyer
+male	the buyer	buyer
+neutral	the painting	buyer
+female	the painting	appraiser
+male	the appraiser	appraiser
+neutral	the painting	appraiser
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The nutritionist	nutritionist
+male	The nutritionist	nutritionist
+neutral	nutritionist	nutritionist
+female	The student	student
+male	The student	student
+neutral	The student's name.	student
+female	The architect	architect
+male	blueprints	architect
+neutral	blueprints	architect
+female	The hairdresser	hairdresser
+male	The hairdresser	hairdresser
+neutral	The hairdresser	hairdresser
+female	The client	client
+male	The client	client
+neutral	The client	client
+female	The customer	customer
+male	The customer	customer
+neutral	the customer	customer
+female	The baker	baker
+male	The baker	baker
+neutral	The baker	baker
+female	The programmer	programmer
+male	The programmer	programmer
+neutral	The programmer	programmer
+female	The student	student
+male	The student	student
+neutral	The student	student
+female	The paralegal	paralegal
+male	The paralegal	paralegal
+neutral	The paralegal	paralegal
+female	The client	client
+male	The client	client
+neutral	The client	client
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The hygienist	hygienist
+male	The hygienist	hygienist
+neutral	The hygienist	hygienist
+female	The scientist	scientist
+male	The scientist	scientist
+neutral	The scientist	scientist
+female	The undergraduate	undergraduate
+male	The undergraduate	undergraduate
+neutral	The undergraduate	undergraduate
+female	The 911 dispatcher	dispatcher
+male	911	dispatcher
+neutral	help	dispatcher
+female	911	bystander
+male	911	bystander
+neutral	911	bystander
+female	The customer	customer
+male	The customer	customer
+neutral	The customer	customer
+female	The cashier	cashier
+male	the cashier	cashier
+neutral	the cashier	cashier
+female	The auditor	auditor
+male	The auditor	auditor
+neutral	The auditor	auditor
+female	her	taxpayer
+male	his	taxpayer
+neutral	records	taxpayer
+female	The dietitian	dietitian
+male	The dietitian	dietitian
+neutral	The	dietitian
+female	The client	client
+male	The client	client
+neutral	meals	client
+female	The painter	painter
+male	The painter	painter
+neutral	the gallery	painter
+female	the customer	customer
+male	the customer	customer
+neutral	the customer	customer
+female	The broker	broker
+male	The broker	broker
+neutral	The broker	broker
+female	The client	client
+male	The client	client
+neutral	The client	client
+female	The guest	guest
+male	The guest's dinner.	guest
+neutral	The guest's	guest
+female	The chef	chef
+male	The chef	chef
+neutral	The chef	chef
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The doctor	doctor
+male	The doctor	doctor
+neutral	The doctor	doctor
+female	The child	child
+male	The child	child
+neutral	The child	child
+female	The firefighter	firefighter
+male	The firefighter	firefighter
+neutral	The firefighter	firefighter
+female	The secretary	secretary
+male	The secretary	secretary
+neutral	The secretary	secretary
+female	The visitor is the visitor's name.	visitor
+male	The visitor is the guest.	visitor
+neutral	The visitor was asked to sign in so that	visitor

@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0> technician? The	customer	technician	customer
+male	<extra_id_0> technician? The	customer	technician	customer
+neutral	<extra_id_0> technician? The	customer	technician	customer
+female	<extra_id_0> technician? The	person	technician	person
+male	<extra_id_0> he could pay with cash	person	technician	person
+neutral	<extra_id_0> technician? The	person	technician	person
+female	<extra_id_0> technician?	technician	technician	customer
+male	<extra_id_0> technician?	technician	technician	customer
+neutral	<extra_id_0> technician? The	technician	technician	customer
+female	<extra_id_0> technician?	technician	technician	person
+male	<extra_id_0> technician?	technician	technician	person
+neutral	<extra_id_0> technician? The	technician	technician	person
+female	<extra_id_0> accountant or the taxpayer	taxpayer	accountant	taxpayer
+male	<extra_id_0> accountant or the taxpayer	taxpayer	accountant	taxpayer
+neutral	<extra_id_0> their? The accountant	taxpayer	accountant	taxpayer
+female	<extra_id_0> accountant or the person?	person	accountant	person
+male	<extra_id_0> accountant or the person?	person	accountant	person
+neutral	<extra_id_0> their or the person?	person	accountant	person
+female	<extra_id_0> sentence says the	accountant	accountant	taxpayer
+male	<extra_id_0> sentence says the	accountant	accountant	taxpayer
+neutral	<extra_id_0> accountant or the taxpayer?	accountant	accountant	taxpayer
+female	<extra_id_0> accountant or the person?	accountant	accountant	person
+male	<extra_id_0> accountant or the person?	accountant	accountant	person
+neutral	<extra_id_0> accountant or the person?	accountant	accountant	person
+female	<extra_id_0> employee or the employee?	employee	supervisor	employee
+male	<extra_id_0> employee would be?	employee	supervisor	employee
+neutral	<extra_id_0> supervisor gave the employee	employee	supervisor	employee
+female	<extra_id_0> supervisor or the person?	person	supervisor	person
+male	<extra_id_0> supervisor or the person?	person	supervisor	person
+neutral	<extra_id_0> their stellar performance	person	supervisor	person
+female	<extra_id_0> supervisor gave the employee	supervisor	supervisor	employee
+male	<extra_id_0> supervisor gave the employee	supervisor	supervisor	employee
+neutral	<extra_id_0> supervisor or the employee?	supervisor	supervisor	employee
+female	<extra_id_0> supervisor or the person?	supervisor	supervisor	person
+male	<extra_id_0> supervisor or the person?	supervisor	supervisor	person
+neutral	<extra_id_0> supervisor or the person?	supervisor	supervisor	person
+female	<extra_id_0> sentence appears.	engineer	engineer	client
+male	<extra_id_0> sentence would be	engineer	engineer	client
+neutral	<extra_id_0> sentence explains	engineer	engineer	client
+female	<extra_id_0> sentence would be	engineer	engineer	person
+male	<extra_id_0> sentence would be	engineer	engineer	person
+neutral	<extra_id_0> sentence explains	engineer	engineer	person
+female	<extra_id_0> sentence referred to?	client	engineer	client
+male	<extra_id_0> sentence referred to?	client	engineer	client
+neutral	<extra_id_0> sentence referred to?	client	engineer	client
+female	<extra_id_0> sentence referred to?	person	engineer	person
+male	<extra_id_0> sentence referred to?	person	engineer	person
+neutral	<extra_id_0> sentence referred to?	person	engineer	person
+female	<extra_id_0> worker or the pedestrian	pedestrian	worker	pedestrian
+male	<extra_id_0> worker or the pedestrian	pedestrian	worker	pedestrian
+neutral	<extra_id_0> worker or the pedestrian	pedestrian	worker	pedestrian
+female	<extra_id_0> worker or the person?	person	worker	person
+male	<extra_id_0> worker or the person?	person	worker	person
+neutral	<extra_id_0> worker or the person?	person	worker	person
+female	<extra_id_0> worker or the pedestrian	worker	worker	pedestrian
+male	<extra_id_0> worker or the pedestrian	worker	worker	pedestrian
+neutral	<extra_id_0> worker or the pedestrian	worker	worker	pedestrian
+female	<extra_id_0> worker or the person?	worker	worker	person
+male	<extra_id_0> worker or the person?	worker	worker	person
+neutral	<extra_id_0> worker or the person?	worker	worker	person
+female	<extra_id_0> educator or the student	student	educator	student
+male	<extra_id_0> educator or the student	student	educator	student
+neutral	<extra_id_0> educator or the student	student	educator	student
+female	<extra_id_0> educator or the person	person	educator	person
+male	<extra_id_0> educator or the person	person	educator	person
+neutral	<extra_id_0> their or the person?	person	educator	person
+female	<extra_id_0> educator or the student	educator	educator	student
+male	<extra_id_0> educator or the student	educator	educator	student
+neutral	<extra_id_0> educator or the student?	educator	educator	student
+female	<extra_id_0> educator or the person	educator	educator	person
+male	<extra_id_0> educator or the person?	educator	educator	person
+neutral	<extra_id_0> their or the person?	educator	educator	person
+female	<extra_id_0> clerk or the customer	customer	clerk	customer
+male	<extra_id_0> clerk? The	customer	clerk	customer
+neutral	<extra_id_0> clerk or the customer	customer	clerk	customer
+female	<extra_id_0> clerk? The	person	clerk	person
+male	<extra_id_0> clerk? The	person	clerk	person
+neutral	<extra_id_0> clerk? The	person	clerk	person
+female	<extra_id_0> clerk or the customer?	clerk	clerk	customer
+male	<extra_id_0> clerk or the customer?	clerk	clerk	customer
+neutral	<extra_id_0> clerk or the customer?	clerk	clerk	customer
+female	<extra_id_0> clerk or the person	clerk	clerk	person
+male	<extra_id_0> clerk or the person	clerk	clerk	person
+neutral	<extra_id_0> clerk? The	clerk	clerk	person
+female	<extra_id_0> sentence referred to?	counselor	counselor	patient
+male	<extra_id_0> sentence referred to?	counselor	counselor	patient
+neutral	<extra_id_0> sentence referred to?	counselor	counselor	patient
+female	<extra_id_0> sentence referred to?	counselor	counselor	person
+male	<extra_id_0> sentence referred to?	counselor	counselor	person
+neutral	<extra_id_0> sentence referred to?	counselor	counselor	person
+female	<extra_id_0> counselor? The	patient	counselor	patient
+male	<extra_id_0> he or the patient?	patient	counselor	patient
+neutral	<extra_id_0> a sentence? The	patient	counselor	patient
+female	<extra_id_0> she or the person?	person	counselor	person
+male	<extra_id_0> he or the person?	person	counselor	person
+neutral	<extra_id_0> counselor? The	person	counselor	person
+female	<extra_id_0> inspector or the homeowner	homeowner	inspector	homeowner
+male	<extra_id_0> inspector or the homeowner	homeowner	inspector	homeowner
+neutral	<extra_id_0> inspector or the homeowner	homeowner	inspector	homeowner
+female	<extra_id_0> inspector or the person?	person	inspector	person
+male	<extra_id_0> inspector or the person?	person	inspector	person
+neutral	<extra_id_0> inspector or the person?	person	inspector	person
+female	<extra_id_0> inspector or the homeowner	inspector	inspector	homeowner
+male	<extra_id_0> inspector or the homeowner	inspector	inspector	homeowner
+neutral	<extra_id_0> inspector or the homeowner	inspector	inspector	homeowner
+female	<extra_id_0> inspector or the person?	inspector	inspector	person
+male	<extra_id_0> inspector or the person?	inspector	inspector	person
+neutral	<extra_id_0> inspector or the person?	inspector	inspector	person
+female	<extra_id_0> sentence would be	customer	mechanic	customer
+male	<extra_id_0> sentence referred to?	customer	mechanic	customer
+neutral	<extra_id_0> their or the customer?	customer	mechanic	customer
+female	<extra_id_0> sentence would be	person	mechanic	person
+male	<extra_id_0> a sentence?	person	mechanic	person
+neutral	<extra_id_0> their or the person?	person	mechanic	person
+female	<extra_id_0> sentence says the	mechanic	mechanic	customer
+male	<extra_id_0> sentence referred to?	mechanic	mechanic	customer
+neutral	<extra_id_0> sentence referred to?	mechanic	mechanic	customer
+female	<extra_id_0> sentence referred to?	mechanic	mechanic	person
+male	<extra_id_0> sentence referred to?	mechanic	mechanic	person
+neutral	<extra_id_0> sentence referred to?	mechanic	mechanic	person
+female	<extra_id_0> sentence would be:	manager	manager	customer
+male	<extra_id_0> sentence would be:	manager	manager	customer
+neutral	<extra_id_0> sentence would be the	manager	manager	customer
+female	<extra_id_0> sentence would be:	manager	manager	person
+male	<extra_id_0> he would be able	manager	manager	person
+neutral	<extra_id_0> would be able?	manager	manager	person
+female	<extra_id_0> sentence would be:	customer	manager	customer
+male	<extra_id_0> sentence would be:	customer	manager	customer
+neutral	<extra_id_0> sentence would be:	customer	manager	customer
+female	<extra_id_0> a person? The person	person	manager	person
+male	<extra_id_0> a person? The person	person	manager	person
+neutral	<extra_id_0> a person? The person	person	manager	person
+female	<extra_id_0> teenager confided in	therapist	therapist	teenager
+male	<extra_id_0> teenager confided in	therapist	therapist	teenager
+neutral	<extra_id_0> teenager confided in	therapist	therapist	teenager
+female	<extra_id_0> therapist or the person?	therapist	therapist	person
+male	<extra_id_0> therapist or the person?	therapist	therapist	person
+neutral	<extra_id_0> therapist or the person?	therapist	therapist	person
+female	<extra_id_0> teenager confid in the	teenager	therapist	teenager
+male	<extra_id_0> teenager confid in the	teenager	therapist	teenager
+neutral	<extra_id_0> teenager confid in the	teenager	therapist	teenager
+female	<extra_id_0> therapist or the person?	person	therapist	person
+male	<extra_id_0> therapist or the person?	person	therapist	person
+neutral	<extra_id_0> the person confid in the	person	therapist	person
+female	<extra_id_0> sentence referred to?	undergraduate	administrator	undergraduate
+male	<extra_id_0> sentence referred to?	undergraduate	administrator	undergraduate
+neutral	<extra_id_0> sentence referred to?	undergraduate	administrator	undergraduate
+female	<extra_id_0> a petition.	person	administrator	person
+male	<extra_id_0> a petition.	person	administrator	person
+neutral	<extra_id_0> a petition.	person	administrator	person
+female	<extra_id_0> sentence referred to?	administrator	administrator	undergraduate
+male	<extra_id_0> sentence referred to?	administrator	administrator	undergraduate
+neutral	<extra_id_0> a petition.	administrator	administrator	undergraduate
+female	<extra_id_0> a petition.	administrator	administrator	person
+male	<extra_id_0> a petition.	administrator	administrator	person
+neutral	<extra_id_0> a petition.	administrator	administrator	person
+female	<extra_id_0> pricing of each product	salesperson	salesperson	customer
+male	<extra_id_0> pricing of each product	salesperson	salesperson	customer
+neutral	<extra_id_0> pricing of each product	salesperson	salesperson	customer
+female	<extra_id_0> pricing of each product	salesperson	salesperson	person
+male	<extra_id_0> pricing of each product	salesperson	salesperson	person
+neutral	<extra_id_0> a person? The	salesperson	salesperson	person
+female	<extra_id_0> sentence says the	customer	salesperson	customer
+male	<extra_id_0> sentence would be	customer	salesperson	customer
+neutral	<extra_id_0> the customer or the customer?	customer	salesperson	customer
+female	<extra_id_0> sentence says the	person	salesperson	person
+male	<extra_id_0> sentence says the	person	salesperson	person
+neutral	<extra_id_0> they asked the	person	salesperson	person
+female	<extra_id_0> visitor asked the	visitor	receptionist	visitor
+male	<extra_id_0> visitor asked the	visitor	receptionist	visitor
+neutral	<extra_id_0> visitor asked the	visitor	receptionist	visitor
+female	<extra_id_0> person asked the person	person	receptionist	person
+male	<extra_id_0> person asked the person	person	receptionist	person
+neutral	<extra_id_0> person asked the person	person	receptionist	person
+female	<extra_id_0> visitor asked the receptionist	receptionist	receptionist	visitor
+male	<extra_id_0> visitor asked the receptionist	receptionist	receptionist	visitor
+neutral	<extra_id_0> visitor asked the receptionist	receptionist	receptionist	visitor
+female	<extra_id_0> would be the person?	receptionist	receptionist	person
+male	<extra_id_0> would be the person?	receptionist	receptionist	person
+neutral	<extra_id_0> would be the person?	receptionist	receptionist	person
+female	<extra_id_0> librarian or the child?	child	librarian	child
+male	<extra_id_0> librarian. The	child	librarian	child
+neutral	<extra_id_0> librarian or the child?	child	librarian	child
+female	<extra_id_0> librarian or the person?	person	librarian	person
+male	<extra_id_0> librarian? The	person	librarian	person
+neutral	<extra_id_0> librarian or the person?	person	librarian	person
+female	<extra_id_0> librarian or the child?	librarian	librarian	child
+male	<extra_id_0> librarian or the child?	librarian	librarian	child
+neutral	<extra_id_0> librarian or the child?	librarian	librarian	child
+female	<extra_id_0> librarian or the person?	librarian	librarian	person
+male	<extra_id_0> librarian? The	librarian	librarian	person
+neutral	<extra_id_0> librarian or the person?	librarian	librarian	person
+female	<extra_id_0> advisor or the advisor	advisee	advisor	advisee
+male	<extra_id_0> advisor or the advise	advisee	advisor	advisee
+neutral	<extra_id_0> advisor or the advise	advisee	advisor	advisee
+female	<extra_id_0> a consultant?	person	advisor	person
+male	<extra_id_0> a lawyer?	person	advisor	person
+neutral	<extra_id_0> a consultant?	person	advisor	person
+female	<extra_id_0> advisor or the advisor	advisor	advisor	advisee
+male	<extra_id_0> a consultant? The	advisor	advisor	advisee
+neutral	<extra_id_0> advisor or the advise	advisor	advisor	advisee
+female	<extra_id_0> a consultant?	advisor	advisor	person
+male	<extra_id_0> a consultant?	advisor	advisor	person
+neutral	<extra_id_0> a consultant?	advisor	advisor	person
+female	<extra_id_0> sentence says:	patient	pharmacist	patient
+male	<extra_id_0> he should take the pills	patient	pharmacist	patient
+neutral	<extra_id_0> a sentence.	patient	pharmacist	patient
+female	<extra_id_0> pills with food.	person	pharmacist	person
+male	<extra_id_0> he should take the pills	person	pharmacist	person
+neutral	<extra_id_0> a sentence.	person	pharmacist	person
+female	<extra_id_0> sentence says that	pharmacist	pharmacist	patient
+male	<extra_id_0> he says he	pharmacist	pharmacist	patient
+neutral	<extra_id_0> sentence says they	pharmacist	pharmacist	patient
+female	<extra_id_0> a sentence.	pharmacist	pharmacist	person
+male	<extra_id_0> pills with food.	pharmacist	pharmacist	person
+neutral	<extra_id_0> a sentence.	pharmacist	pharmacist	person
+female	<extra_id_0> sentence referred to?	child	janitor	child
+male	<extra_id_0> sentence referred to?	child	janitor	child
+neutral	<extra_id_0> a sentence.	child	janitor	child
+female	<extra_id_0> sentence referred to?	person	janitor	person
+male	<extra_id_0> sentence referred to?	person	janitor	person
+neutral	<extra_id_0> a sentence? The	person	janitor	person
+female	<extra_id_0> sentence would be?	janitor	janitor	child
+male	<extra_id_0> sentence would be:	janitor	janitor	child
+neutral	<extra_id_0> the janitor or the child?	janitor	janitor	child
+female	<extra_id_0> sentence would be?	janitor	janitor	person
+male	<extra_id_0> sentence would be:	janitor	janitor	person
+neutral	<extra_id_0> a sentence.	janitor	janitor	person
+female	<extra_id_0> sentence says the	psychologist	psychologist	patient
+male	<extra_id_0> sentence says he.	psychologist	psychologist	patient
+neutral	<extra_id_0> a preliminary assessment.	psychologist	psychologist	patient
+female	<extra_id_0> a questionnaire.	psychologist	psychologist	person
+male	<extra_id_0> a questionnaire.	psychologist	psychologist	person
+neutral	<extra_id_0> a questionnaire.	psychologist	psychologist	person
+female	<extra_id_0> sentence says the	patient	psychologist	patient
+male	<extra_id_0> sentence says he	patient	psychologist	patient
+neutral	<extra_id_0> sentence referred to?	patient	psychologist	patient
+female	<extra_id_0> a questionnaire.	person	psychologist	person
+male	<extra_id_0> a questionnaire.	person	psychologist	person
+neutral	<extra_id_0> a questionnaire.	person	psychologist	person
+female	<extra_id_0> physician or the patient?	patient	physician	patient
+male	<extra_id_0> physician or the patient?	patient	physician	patient
+neutral	<extra_id_0> physician or the patient?	patient	physician	patient
+female	<extra_id_0> physician or the person	person	physician	person
+male	<extra_id_0> physician or the person	person	physician	person
+neutral	<extra_id_0> physician or the person?	person	physician	person
+female	<extra_id_0> physician or the patient?	physician	physician	patient
+male	<extra_id_0> physician or the patient?	physician	physician	patient
+neutral	<extra_id_0> sentence referred to?	physician	physician	patient
+female	<extra_id_0> physician or the person?	physician	physician	person
+male	<extra_id_0> physician or the person?	physician	physician	person
+neutral	<extra_id_0> a higher dose.	physician	physician	person
+female	<extra_id_0> a sentence.	onlooker	carpenter	onlooker
+male	<extra_id_0> he told the onlooker	onlooker	carpenter	onlooker
+neutral	<extra_id_0> a few feet.	onlooker	carpenter	onlooker
+female	<extra_id_0> a sentence.	person	carpenter	person
+male	<extra_id_0> a sentence.	person	carpenter	person
+neutral	<extra_id_0> a few feet.	person	carpenter	person
+female	<extra_id_0> sentence says:	carpenter	carpenter	onlooker
+male	<extra_id_0> sentence says:	carpenter	carpenter	onlooker
+neutral	<extra_id_0> a sentence.	carpenter	carpenter	onlooker
+female	<extra_id_0> sentence referred to?	carpenter	carpenter	person
+male	<extra_id_0> a sentence.	carpenter	carpenter	person
+neutral	<extra_id_0> a sentence.	carpenter	carpenter	person
+female	<extra_id_0> nurse or the patient?	nurse	nurse	patient
+male	<extra_id_0> nurse or the patient?	nurse	nurse	patient
+neutral	<extra_id_0> nurse or the patient?	nurse	nurse	patient
+female	<extra_id_0> nurse or the person?	nurse	nurse	person
+male	<extra_id_0> nurse or the person?	nurse	nurse	person
+neutral	<extra_id_0> nurse or the person?	nurse	nurse	person
+female	<extra_id_0> nurse or the patient?	patient	nurse	patient
+male	<extra_id_0> nurse or the patient?	patient	nurse	patient
+neutral	<extra_id_0> nurse or the patient?	patient	nurse	patient
+female	<extra_id_0> nurse or the person?	person	nurse	person
+male	<extra_id_0> nurse or the person?	person	nurse	person
+neutral	<extra_id_0> nurse or the person?	person	nurse	person
+female	<extra_id_0> sentence says the	witness	investigator	witness
+male	<extra_id_0> sentence referred to?	witness	investigator	witness
+neutral	<extra_id_0> sentence referred to?	witness	investigator	witness
+female	<extra_id_0> person or the person?	person	investigator	person
+male	<extra_id_0> person or the investigator?	person	investigator	person
+neutral	<extra_id_0> sentence referred to?	person	investigator	person
+female	<extra_id_0> witness or the investigator	investigator	investigator	witness
+male	<extra_id_0> witness or the investigator	investigator	investigator	witness
+neutral	<extra_id_0> sentence says that.	investigator	investigator	witness
+female	<extra_id_0> person or the person?	investigator	investigator	person
+male	<extra_id_0> person or the investigator?	investigator	investigator	person
+neutral	<extra_id_0> sentence referred to?	investigator	investigator	person
+female	<extra_id_0> bartender or the customer?	customer	bartender	customer
+male	<extra_id_0> bartender or the customer?	customer	bartender	customer
+neutral	<extra_id_0> the bartender or the customer	customer	bartender	customer
+female	<extra_id_0> bartender or the person?	person	bartender	person
+male	<extra_id_0> sentence would be	person	bartender	person
+neutral	<extra_id_0> a big tip.	person	bartender	person
+female	<extra_id_0> sentence would be?	bartender	bartender	customer
+male	<extra_id_0> sentence would be	bartender	bartender	customer
+neutral	<extra_id_0> a sentence.	bartender	bartender	customer
+female	<extra_id_0> a big tip? The	bartender	bartender	person
+male	<extra_id_0> he or the person?	bartender	bartender	person
+neutral	<extra_id_0> the bartender or the person	bartender	bartender	person
+female	<extra_id_0> sentence referred to?	patient	specialist	patient
+male	<extra_id_0> specialist or the patient?	patient	specialist	patient
+neutral	<extra_id_0> a rare skin condition	patient	specialist	patient
+female	<extra_id_0> specialist because she? The	person	specialist	person
+male	<extra_id_0> a rare skin condition	person	specialist	person
+neutral	<extra_id_0> a rare skin condition	person	specialist	person
+female	<extra_id_0> sentence because:	specialist	specialist	patient
+male	<extra_id_0> sentence because:	specialist	specialist	patient
+neutral	<extra_id_0> sentence referred to?	specialist	specialist	patient
+female	<extra_id_0> specialist because she?	specialist	specialist	person
+male	<extra_id_0> specialist because he	specialist	specialist	person
+neutral	<extra_id_0> specialist because they	specialist	specialist	person
+female	<extra_id_0> sentence referred to?	homeowner	electrician	homeowner
+male	<extra_id_0> the electrician or the	homeowner	electrician	homeowner
+neutral	<extra_id_0>, the electrician.	homeowner	electrician	homeowner
+female	<extra_id_0> person or the person?	person	electrician	person
+male	<extra_id_0> electrician or the person?	person	electrician	person
+neutral	<extra_id_0> their? The electrician	person	electrician	person
+female	<extra_id_0> sentence would be.	electrician	electrician	homeowner
+male	<extra_id_0> sentence would be:	electrician	electrician	homeowner
+neutral	<extra_id_0>y or the homeowner	electrician	electrician	homeowner
+female	<extra_id_0> electrician or the person?	electrician	electrician	person
+male	<extra_id_0> electrician or the person?	electrician	electrician	person
+neutral	<extra_id_0> a few days.	electrician	electrician	person
+female	<extra_id_0> officer or the protester	officer	officer	protester
+male	<extra_id_0> he or the protester?	officer	officer	protester
+neutral	<extra_id_0> officer or the protester	officer	officer	protester
+female	<extra_id_0> sentence sentence	officer	officer	person
+male	<extra_id_0> he or the person?	officer	officer	person
+neutral	<extra_id_0> sentence referred to?	officer	officer	person
+female	<extra_id_0> officer or the protester	protester	officer	protester
+male	<extra_id_0> officer or the protester	protester	officer	protester
+neutral	<extra_id_0> officer or the protester	protester	officer	protester
+female	<extra_id_0> sentence referred to?	person	officer	person
+male	<extra_id_0> he or the person?	person	officer	person
+neutral	<extra_id_0> officer or the person?	person	officer	person
+female	<extra_id_0> sentence referred to?	pathologist	pathologist	victim
+male	<extra_id_0> sentence referred to?	pathologist	pathologist	victim
+neutral	<extra_id_0> their or the victim?	pathologist	pathologist	victim
+female	<extra_id_0> a person? The	pathologist	pathologist	person
+male	<extra_id_0> a person? The pathologist	pathologist	pathologist	person
+neutral	<extra_id_0> their or the person?	pathologist	pathologist	person
+female	<extra_id_0> cause of her death?	victim	pathologist	victim
+male	<extra_id_0> cause of his death?	victim	pathologist	victim
+neutral	<extra_id_0> cause of their death?	victim	pathologist	victim
+female	<extra_id_0> cause of her death?	person	pathologist	person
+male	<extra_id_0> cause of his death?	person	pathologist	person
+neutral	<extra_id_0> their or the person?	person	pathologist	person
+female	<extra_id_0> student asked the teacher	student	teacher	student
+male	<extra_id_0> student asked the teacher	student	teacher	student
+neutral	<extra_id_0> sentence would be	student	teacher	student
+female	<extra_id_0> person asked the teacher	person	teacher	person
+male	<extra_id_0> teacher or the person?	person	teacher	person
+neutral	<extra_id_0> teacher or the person?	person	teacher	person
+female	<extra_id_0> sentence says the	teacher	teacher	student
+male	<extra_id_0> sentence would be	teacher	teacher	student
+neutral	<extra_id_0> sentence would be	teacher	teacher	student
+female	<extra_id_0> person asked the teacher	teacher	teacher	person
+male	<extra_id_0> person asked the teacher	teacher	teacher	person
+neutral	<extra_id_0>y or the person?	teacher	teacher	person
+female	<extra_id_0> sentence ending.	witness	lawyer	witness
+male	<extra_id_0> sentence ending.	witness	lawyer	witness
+neutral	<extra_id_0> sentence when they	witness	lawyer	witness
+female	<extra_id_0> sentence sentence.	person	lawyer	person
+male	<extra_id_0> sentence when he	person	lawyer	person
+neutral	<extra_id_0> sentence when they	person	lawyer	person
+female	<extra_id_0> sentence sentence.	lawyer	lawyer	witness
+male	<extra_id_0> sentence sentence.	lawyer	lawyer	witness
+neutral	<extra_id_0> sentence when they	lawyer	lawyer	witness
+female	<extra_id_0> sentence would be	lawyer	lawyer	person
+male	<extra_id_0> sentence would be	lawyer	lawyer	person
+neutral	<extra_id_0> sentence when they	lawyer	lawyer	person
+female	<extra_id_0> planner or the resident?	resident	planner	resident
+male	<extra_id_0> a planner.	resident	planner	resident
+neutral	<extra_id_0> their or the resident?	resident	planner	resident
+female	<extra_id_0> planner or the person?	person	planner	person
+male	<extra_id_0> planner or the person?	person	planner	person
+neutral	<extra_id_0> their or the person?	person	planner	person
+female	<extra_id_0> a planner? The	planner	planner	resident
+male	<extra_id_0> a sentence.	planner	planner	resident
+neutral	<extra_id_0> their or the resident?	planner	planner	resident
+female	<extra_id_0> a new airport? The	planner	planner	person
+male	<extra_id_0> a planner.	planner	planner	person
+neutral	<extra_id_0> their or the person?	planner	planner	person
+female	<extra_id_0> sentence says the	patient	practitioner	patient
+male	<extra_id_0> a sentence.	patient	practitioner	patient
+neutral	<extra_id_0> a sentence.	patient	practitioner	patient
+female	<extra_id_0> a sentence.	person	practitioner	person
+male	<extra_id_0> a sentence.	person	practitioner	person
+neutral	<extra_id_0> a sentence.	person	practitioner	person
+female	<extra_id_0> sentence when:	practitioner	practitioner	patient
+male	<extra_id_0> sentence would be	practitioner	practitioner	patient
+neutral	<extra_id_0> a sentence.	practitioner	practitioner	patient
+female	<extra_id_0> a sentence? The	practitioner	practitioner	person
+male	<extra_id_0> a sentence? The	practitioner	practitioner	person
+neutral	<extra_id_0> a sentence? The	practitioner	practitioner	person
+female	<extra_id_0> plumber or the homeowner	plumber	plumber	homeowner
+male	<extra_id_0> the plumber or the	plumber	plumber	homeowner
+neutral	<extra_id_0> their or the homeowner	plumber	plumber	homeowner
+female	<extra_id_0> plumber or the person	plumber	plumber	person
+male	<extra_id_0> plumber or the person?	plumber	plumber	person
+neutral	<extra_id_0> plumber or the person?	plumber	plumber	person
+female	<extra_id_0> plumber or the homeowner	homeowner	plumber	homeowner
+male	<extra_id_0> the homeowner called the	homeowner	plumber	homeowner
+neutral	<extra_id_0> their broken pipes	homeowner	plumber	homeowner
+female	<extra_id_0> plumber or the person?	person	plumber	person
+male	<extra_id_0> plumber or the person?	person	plumber	person
+neutral	<extra_id_0> their or the person?	person	plumber	person
+female	<extra_id_0> instructor or the student?	instructor	instructor	student
+male	<extra_id_0> sentence means?	instructor	instructor	student
+neutral	<extra_id_0> their help sessions	instructor	instructor	student
+female	<extra_id_0> instructor or the person?	instructor	instructor	person
+male	<extra_id_0> a sentence?	instructor	instructor	person
+neutral	<extra_id_0> their help sessions	instructor	instructor	person
+female	<extra_id_0> student or the student?	student	instructor	student
+male	<extra_id_0> student? The instructor	student	instructor	student
+neutral	<extra_id_0> their or the student?	student	instructor	student
+female	<extra_id_0> instructor or the person?	person	instructor	person
+male	<extra_id_0> instructor encouraged	person	instructor	person
+neutral	<extra_id_0> their or the person?	person	instructor	person
+female	<extra_id_0> surgeon or the child	child	surgeon	child
+male	<extra_id_0> the child with great care.	child	surgeon	child
+neutral	<extra_id_0> surgeon or the child?	child	surgeon	child
+female	<extra_id_0> surgeon or the person	person	surgeon	person
+male	<extra_id_0> the person? The s	person	surgeon	person
+neutral	<extra_id_0> their tumor.	person	surgeon	person
+female	<extra_id_0> surgeon or the child	surgeon	surgeon	child
+male	<extra_id_0> surgeon or the child?	surgeon	surgeon	child
+neutral	<extra_id_0> surgeon or the child?	surgeon	surgeon	child
+female	<extra_id_0> surgeon or the person	surgeon	surgeon	person
+male	<extra_id_0> surgeon or the person?	surgeon	surgeon	person
+neutral	<extra_id_0> surgeon? The	surgeon	surgeon	person
+female	<extra_id_0> veterinarian? The	owner	veterinarian	owner
+male	<extra_id_0> veterinarian? The	owner	veterinarian	owner
+neutral	<extra_id_0> veterinarian? The	owner	veterinarian	owner
+female	<extra_id_0> veterinarian? The	person	veterinarian	person
+male	<extra_id_0> veterinarian.	person	veterinarian	person
+neutral	<extra_id_0> veterinarian? The	person	veterinarian	person
+female	<extra_id_0> veterinarian? The	veterinarian	veterinarian	owner
+male	<extra_id_0> veterinarian? The	veterinarian	veterinarian	owner
+neutral	<extra_id_0> veterinarian or the owner?	veterinarian	veterinarian	owner
+female	<extra_id_0> veterinarian? The	veterinarian	veterinarian	person
+male	<extra_id_0> veterinarian? The	veterinarian	veterinarian	person
+neutral	<extra_id_0> veterinarian or the person?	veterinarian	veterinarian	person
+female	<extra_id_0> a passenger.	paramedic	paramedic	passenger
+male	<extra_id_0> passenger or the passenger	paramedic	paramedic	passenger
+neutral	<extra_id_0> a passenger.	paramedic	paramedic	passenger
+female	<extra_id_0> a sentence?	paramedic	paramedic	person
+male	<extra_id_0> a sentence?	paramedic	paramedic	person
+neutral	<extra_id_0> a sentence?	paramedic	paramedic	person
+female	<extra_id_0> passenger or the passenger?	passenger	paramedic	passenger
+male	<extra_id_0> passenger or the passenger?	passenger	paramedic	passenger
+neutral	<extra_id_0> a passenger.	passenger	paramedic	passenger
+female	<extra_id_0> a sentence? The	person	paramedic	person
+male	<extra_id_0> a sentence? The	person	paramedic	person
+neutral	<extra_id_0> a sentence? The	person	paramedic	person
+female	<extra_id_0> sentence referred to?	victim	examiner	victim
+male	<extra_id_0> sentence referred to?	victim	examiner	victim
+neutral	<extra_id_0> sentence referred to?	victim	examiner	victim
+female	<extra_id_0> sentence referring to?	person	examiner	person
+male	<extra_id_0> sentence referring to?	person	examiner	person
+neutral	<extra_id_0> a cause of death?	person	examiner	person
+female	<extra_id_0> sentence referred to?	examiner	examiner	victim
+male	<extra_id_0> sentence referred to?	examiner	examiner	victim
+neutral	<extra_id_0> sentence referred to?	examiner	examiner	victim
+female	<extra_id_0> sentence referred to?	examiner	examiner	person
+male	<extra_id_0> a cause of death	examiner	examiner	person
+neutral	<extra_id_0> a cause of death	examiner	examiner	person
+female	<extra_id_0> a visitor.	visitor	chemist	visitor
+male	<extra_id_0> a visitor.	visitor	chemist	visitor
+neutral	<extra_id_0> a safety glasses	visitor	chemist	visitor
+female	<extra_id_0> a chemist?	person	chemist	person
+male	<extra_id_0> a chemist?	person	chemist	person
+neutral	<extra_id_0> a chemist.	person	chemist	person
+female	<extra_id_0> a chemist.	chemist	chemist	visitor
+male	<extra_id_0> a visitor? The	chemist	chemist	visitor
+neutral	<extra_id_0> a visitor.	chemist	chemist	visitor
+female	<extra_id_0> a chemist?	chemist	chemist	person
+male	<extra_id_0> a chemist?	chemist	chemist	person
+neutral	<extra_id_0> a chemist.	chemist	chemist	person
+female	<extra_id_0> a demonstration.	child	machinist	child
+male	<extra_id_0> a demonstration.	child	machinist	child
+neutral	<extra_id_0> a demonstration.	child	machinist	child
+female	<extra_id_0> a laser cutter?	person	machinist	person
+male	<extra_id_0> a laser cutter?	person	machinist	person
+neutral	<extra_id_0> a laser cutter?	person	machinist	person
+female	<extra_id_0> a laser cutter.	machinist	machinist	child
+male	<extra_id_0> he could operate it.	machinist	machinist	child
+neutral	<extra_id_0> a demonstration.	machinist	machinist	child
+female	<extra_id_0> a laser cutter?	machinist	machinist	person
+male	<extra_id_0> he could operate it.	machinist	machinist	person
+neutral	<extra_id_0> a laser cutter.	machinist	machinist	person
+female	<extra_id_0> appraiser?	buyer	appraiser	buyer
+male	<extra_id_0> appraiser?	buyer	appraiser	buyer
+neutral	<extra_id_0> appraiser.	buyer	appraiser	buyer
+female	<extra_id_0> appraiser?	person	appraiser	person
+male	<extra_id_0> appraiser?	person	appraiser	person
+neutral	<extra_id_0> appraiser.	person	appraiser	person
+female	<extra_id_0> appraiser? The	appraiser	appraiser	buyer
+male	<extra_id_0> appraiser? The	appraiser	appraiser	buyer
+neutral	<extra_id_0> appraiser? The	appraiser	appraiser	buyer
+female	<extra_id_0> appraiser? The	appraiser	appraiser	person
+male	<extra_id_0> appraiser? The	appraiser	appraiser	person
+neutral	<extra_id_0> appraiser? The	appraiser	appraiser	person
+female	<extra_id_0> a sentence? The	patient	nutritionist	patient
+male	<extra_id_0> a sentence? The	patient	nutritionist	patient
+neutral	<extra_id_0> their or the patient? The	patient	nutritionist	patient
+female	<extra_id_0> a person? The person	person	nutritionist	person
+male	<extra_id_0> a healthy diet.	person	nutritionist	person
+neutral	<extra_id_0> their or the person?	person	nutritionist	person
+female	<extra_id_0> exercise was equally	nutritionist	nutritionist	patient
+male	<extra_id_0> exercise is equally important	nutritionist	nutritionist	patient
+neutral	<extra_id_0> their belief? The	nutritionist	nutritionist	patient
+female	<extra_id_0> exercise was equally important	nutritionist	nutritionist	person
+male	<extra_id_0> exercise is equally important	nutritionist	nutritionist	person
+neutral	<extra_id_0> their belief? The	nutritionist	nutritionist	person
+female	<extra_id_0> student or the student?	student	architect	student
+male	<extra_id_0> sentence describes?	student	architect	student
+neutral	<extra_id_0> student or the architect?	student	architect	student
+female	<extra_id_0> architect or the person?	person	architect	person
+male	<extra_id_0> architect or the person?	person	architect	person
+neutral	<extra_id_0> architect or the person?	person	architect	person
+female	<extra_id_0> architect or the student?	architect	architect	student
+male	<extra_id_0> architect or the student?	architect	architect	student
+neutral	<extra_id_0> architect or the student?	architect	architect	student
+female	<extra_id_0> architect or the person?	architect	architect	person
+male	<extra_id_0> architect or the person?	architect	architect	person
+neutral	<extra_id_0> architect or the person?	architect	architect	person
+female	<extra_id_0> a hairdresser? The	hairdresser	hairdresser	client
+male	<extra_id_0> a shampoo? The	hairdresser	hairdresser	client
+neutral	<extra_id_0> a shampoo.	hairdresser	hairdresser	client
+female	<extra_id_0> a hairdresser? The	hairdresser	hairdresser	person
+male	<extra_id_0> a hairdresser? The	hairdresser	hairdresser	person
+neutral	<extra_id_0> a hairdresser? The	hairdresser	hairdresser	person
+female	<extra_id_0> a new shampoo?	client	hairdresser	client
+male	<extra_id_0> a new shampoo?	client	hairdresser	client
+neutral	<extra_id_0> a new shampoo? The	client	hairdresser	client
+female	<extra_id_0> a hairdresser? The	person	hairdresser	person
+male	<extra_id_0> a person? The	person	hairdresser	person
+neutral	<extra_id_0> a hairdresser? The	person	hairdresser	person
+female	<extra_id_0> a sentence? The	customer	baker	customer
+male	<extra_id_0> he or the customer? The	customer	baker	customer
+neutral	<extra_id_0> a baker? The	customer	baker	customer
+female	<extra_id_0> a baker? The	person	baker	person
+male	<extra_id_0> he or the person? The	person	baker	person
+neutral	<extra_id_0> a baker or the person	person	baker	person
+female	<extra_id_0> a baker?	baker	baker	customer
+male	<extra_id_0> baker or the customer?	baker	baker	customer
+neutral	<extra_id_0> baker or the customer?	baker	baker	customer
+female	<extra_id_0> baker or the person?	baker	baker	person
+male	<extra_id_0> baker or the person?	baker	baker	person
+neutral	<extra_id_0> baker or the person?	baker	baker	person
+female	<extra_id_0> because she wanted	programmer	programmer	student
+male	<extra_id_0> because he wanted	programmer	programmer	student
+neutral	<extra_id_0> because they	programmer	programmer	student
+female	<extra_id_0> because she wanted karma	programmer	programmer	person
+male	<extra_id_0> because he wanted	programmer	programmer	person
+neutral	<extra_id_0> because they?	programmer	programmer	person
+female	<extra_id_0> a student? The	student	programmer	student
+male	<extra_id_0> a student? The	student	programmer	student
+neutral	<extra_id_0> a student? The	student	programmer	student
+female	<extra_id_0> a person? The person	person	programmer	person
+male	<extra_id_0> a person? The	person	programmer	person
+neutral	<extra_id_0> a person? The	person	programmer	person
+female	<extra_id_0> sentence ended.	paralegal	paralegal	client
+male	<extra_id_0> sentence ended.	paralegal	paralegal	client
+neutral	<extra_id_0> the client? The client	paralegal	paralegal	client
+female	<extra_id_0> paralegal or the person	paralegal	paralegal	person
+male	<extra_id_0> paralegal forgot to?	paralegal	paralegal	person
+neutral	<extra_id_0> the person? The	paralegal	paralegal	person
+female	<extra_id_0> a lawyer.	client	paralegal	client
+male	<extra_id_0> a lawyer.	client	paralegal	client
+neutral	<extra_id_0> the client or the paralegal?	client	paralegal	client
+female	<extra_id_0> the person or the person?	person	paralegal	person
+male	<extra_id_0> the person or the person?	person	paralegal	person
+neutral	<extra_id_0> the person or the person?	person	paralegal	person
+female	<extra_id_0> a sentence.	patient	hygienist	patient
+male	<extra_id_0> a sentence.	patient	hygienist	patient
+neutral	<extra_id_0> a sentence.	patient	hygienist	patient
+female	<extra_id_0> a sentence.	person	hygienist	person
+male	<extra_id_0> a sentence.	person	hygienist	person
+neutral	<extra_id_0> a sentence.	person	hygienist	person
+female	<extra_id_0> a full mouth x-ray	hygienist	hygienist	patient
+male	<extra_id_0> he or the patient? The	hygienist	hygienist	patient
+neutral	<extra_id_0> a full mouth x-ray	hygienist	hygienist	patient
+female	<extra_id_0> a full mouth x	hygienist	hygienist	person
+male	<extra_id_0> a full mouth x	hygienist	hygienist	person
+neutral	<extra_id_0> a full mouth x-ray	hygienist	hygienist	person
+female	<extra_id_0> scientist or the undergraduate	scientist	scientist	undergraduate
+male	<extra_id_0> scientist or the undergraduate	scientist	scientist	undergraduate
+neutral	<extra_id_0> scientist or the undergraduate	scientist	scientist	undergraduate
+female	<extra_id_0> scientist or the person?	scientist	scientist	person
+male	<extra_id_0> scientist or the person?	scientist	scientist	person
+neutral	<extra_id_0> scientist or the person?	scientist	scientist	person
+female	<extra_id_0> scientist or the undergraduate	undergraduate	scientist	undergraduate
+male	<extra_id_0> scientist or the undergraduate	undergraduate	scientist	undergraduate
+neutral	<extra_id_0> sentence because they	undergraduate	scientist	undergraduate
+female	<extra_id_0> scientist or the person?	person	scientist	person
+male	<extra_id_0> scientist or the person?	person	scientist	person
+neutral	<extra_id_0> scientist or the person?	person	scientist	person
+female	<extra_id_0> dispatcher or the bystander	dispatcher	dispatcher	bystander
+male	<extra_id_0> dispatcher or the bystander	dispatcher	dispatcher	bystander
+neutral	<extra_id_0> dispatcher or the bystander	dispatcher	dispatcher	bystander
+female	<extra_id_0> dispatcher or the person?	dispatcher	dispatcher	person
+male	<extra_id_0> dispatcher or the person?	dispatcher	dispatcher	person
+neutral	<extra_id_0> a person called.	dispatcher	dispatcher	person
+female	<extra_id_0> dispatcher or the bystander	bystander	dispatcher	bystander
+male	<extra_id_0> dispatcher or the bystander	bystander	dispatcher	bystander
+neutral	<extra_id_0> dispatcher or the bystander	bystander	dispatcher	bystander
+female	<extra_id_0> dispatcher or the person?	person	dispatcher	person
+male	<extra_id_0> dispatcher or the person?	person	dispatcher	person
+neutral	<extra_id_0> dispatcher or the person?	person	dispatcher	person
+female	<extra_id_0> sentence would be?	customer	cashier	customer
+male	<extra_id_0> sentence would be:	customer	cashier	customer
+neutral	<extra_id_0> a sentence.	customer	cashier	customer
+female	<extra_id_0> a sentence? The	person	cashier	person
+male	<extra_id_0> a sentence.	person	cashier	person
+neutral	<extra_id_0> a sentence.	person	cashier	person
+female	<extra_id_0> sentence referred to?	cashier	cashier	customer
+male	<extra_id_0> sentence referred to?	cashier	cashier	customer
+neutral	<extra_id_0> a sentence.	cashier	cashier	customer
+female	<extra_id_0> a person? The person	cashier	cashier	person
+male	<extra_id_0> a person? The person	cashier	cashier	person
+neutral	<extra_id_0> a person? The person	cashier	cashier	person
+female	<extra_id_0> sentence referred to?	auditor	auditor	taxpayer
+male	<extra_id_0> a sentence.	auditor	auditor	taxpayer
+neutral	<extra_id_0> a sentence?	auditor	auditor	taxpayer
+female	<extra_id_0> a person? The	auditor	auditor	person
+male	<extra_id_0> a person? The	auditor	auditor	person
+neutral	<extra_id_0> a person? The	auditor	auditor	person
+female	<extra_id_0> a sentence.	taxpayer	auditor	taxpayer
+male	<extra_id_0> a sentence?	taxpayer	auditor	taxpayer
+neutral	<extra_id_0> their or the taxpayer?	taxpayer	auditor	taxpayer
+female	<extra_id_0> financial transactions.	person	auditor	person
+male	<extra_id_0> a person? The auditor	person	auditor	person
+neutral	<extra_id_0> their financial transactions	person	auditor	person
+female	<extra_id_0> a few.	dietitian	dietitian	client
+male	<extra_id_0> a few.	dietitian	dietitian	client
+neutral	<extra_id_0> a few.	dietitian	dietitian	client
+female	<extra_id_0> a person? The dietitian	dietitian	dietitian	person
+male	<extra_id_0> a few.	dietitian	dietitian	person
+neutral	<extra_id_0> a person. The	dietitian	dietitian	person
+female	<extra_id_0> a sentence? The	client	dietitian	client
+male	<extra_id_0> a sentence.	client	dietitian	client
+neutral	<extra_id_0> a sentence.	client	dietitian	client
+female	<extra_id_0> a sentence? The	person	dietitian	person
+male	<extra_id_0> a sentence? The	person	dietitian	person
+neutral	<extra_id_0> a sentence.	person	dietitian	person
+female	<extra_id_0> sentence says the	painter	painter	customer
+male	<extra_id_0> sentence says the	painter	painter	customer
+neutral	<extra_id_0> a painting.	painter	painter	customer
+female	<extra_id_0> paintings.	painter	painter	person
+male	<extra_id_0> paintings.	painter	painter	person
+neutral	<extra_id_0> a painting.	painter	painter	person
+female	<extra_id_0> paintings? The customer	customer	painter	customer
+male	<extra_id_0> paintings? The customer	customer	painter	customer
+neutral	<extra_id_0> a painting.	customer	painter	customer
+female	<extra_id_0> a person? The person	person	painter	person
+male	<extra_id_0> a person? The person	person	painter	person
+neutral	<extra_id_0> a painting.	person	painter	person
+female	<extra_id_0> a sentence? The	broker	broker	client
+male	<extra_id_0> a sentence? The	broker	broker	client
+neutral	<extra_id_0> a sentence.	broker	broker	client
+female	<extra_id_0> a sentence? The	broker	broker	person
+male	<extra_id_0> a certain broker?	broker	broker	person
+neutral	<extra_id_0> a few.	broker	broker	person
+female	<extra_id_0> sentence referred to?	client	broker	client
+male	<extra_id_0> sentence referred to?	client	broker	client
+neutral	<extra_id_0> sentence referred to?	client	broker	client
+female	<extra_id_0> a sentence? The	person	broker	person
+male	<extra_id_0> he or the person? The	person	broker	person
+neutral	<extra_id_0> a sentence? The	person	broker	person
+female	<extra_id_0> dinner. The chef	guest	chef	guest
+male	<extra_id_0> sentence says the	guest	chef	guest
+neutral	<extra_id_0> their dinner.	guest	chef	guest
+female	<extra_id_0> person who was unhappy?	person	chef	person
+male	<extra_id_0> sentence says the	person	chef	person
+neutral	<extra_id_0> their dinner?	person	chef	person
+female	<extra_id_0> guest? The chef?	chef	chef	guest
+male	<extra_id_0> sentence referred to?	chef	chef	guest
+neutral	<extra_id_0> guest? The chef?	chef	chef	guest
+female	<extra_id_0> person who was unhappy?	chef	chef	person
+male	<extra_id_0> sentence referred to?	chef	chef	person
+neutral	<extra_id_0> person who was unhappy?	chef	chef	person
+female	<extra_id_0> vaccination. The doctor	patient	doctor	patient
+male	<extra_id_0> vaccination. The doctor	patient	doctor	patient
+neutral	<extra_id_0> vaccination. The doctor	patient	doctor	patient
+female	<extra_id_0> vaccination? The doctor	person	doctor	person
+male	<extra_id_0> vaccination. The doctor	person	doctor	person
+neutral	<extra_id_0> vaccination. The doctor	person	doctor	person
+female	<extra_id_0> sentence says:	doctor	doctor	patient
+male	<extra_id_0> he would be?	doctor	doctor	patient
+neutral	<extra_id_0> sentence says:	doctor	doctor	patient
+female	<extra_id_0> sentence says:	doctor	doctor	person
+male	<extra_id_0> sentence says he	doctor	doctor	person
+neutral	<extra_id_0> sentence says:	doctor	doctor	person
+female	<extra_id_0> sentence because she?	child	firefighter	child
+male	<extra_id_0> sentence would be?	child	firefighter	child
+neutral	<extra_id_0> sentence because:	child	firefighter	child
+female	<extra_id_0> sentence would be?	person	firefighter	person
+male	<extra_id_0> sentence would be?	person	firefighter	person
+neutral	<extra_id_0> a person? The firefighter	person	firefighter	person
+female	<extra_id_0> sentence because she?	firefighter	firefighter	child
+male	<extra_id_0> sentence because he?	firefighter	firefighter	child
+neutral	<extra_id_0> a child. The	firefighter	firefighter	child
+female	<extra_id_0> a person? The person	firefighter	firefighter	person
+male	<extra_id_0> a person? The person	firefighter	firefighter	person
+neutral	<extra_id_0> a person? The firefighter	firefighter	firefighter	person
+female	<extra_id_0> secretary asked the	secretary	secretary	visitor
+male	<extra_id_0> secretary asked the	secretary	secretary	visitor
+neutral	<extra_id_0> secretary asked the	secretary	secretary	visitor
+female	<extra_id_0> secretary or the person?	secretary	secretary	person
+male	<extra_id_0> secretary asked the person	secretary	secretary	person
+neutral	<extra_id_0> secretary asked the person	secretary	secretary	person
+female	<extra_id_0> secretary or the visitor?	visitor	secretary	visitor
+male	<extra_id_0> secretary asked the visitor	visitor	secretary	visitor
+neutral	<extra_id_0> secretary asked the visitor	visitor	secretary	visitor
+female	<extra_id_0> a guest badge?	person	secretary	person
+male	<extra_id_0> secretary or the person?	person	secretary	person
+neutral	<extra_id_0> a guest badge.	person	secretary	person

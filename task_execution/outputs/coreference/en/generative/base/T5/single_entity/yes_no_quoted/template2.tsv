@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	'''she	yes	customer
+male	'' 'he'	yes	customer
+neutral	' 'They' means the	yes	customer
+female	'' 'The technician	yes	technician
+male	'' 'he'	yes	technician
+neutral	' 'They' means the	yes	technician
+female	' The taxpayer got help filing her	yes	taxpayer
+male	' The taxpayer got help filing his	yes	taxpayer
+neutral	' The taxpayer got help filing their	yes	taxpayer
+female	''' '	yes	accountant
+male	'' 'he'	yes	accountant
+neutral	''' '	yes	accountant
+female	' 'her' means the	yes	employee
+male	' 'his' means the	yes	employee
+neutral	' 'their'	yes	employee
+female	' 'the supervisor received feedback	yes	supervisor
+male	' 'his' means the	yes	supervisor
+neutral	' 'their' it	yes	supervisor
+female	'''she	yes	engineer
+male	' 'he' means the	yes	engineer
+neutral	'' 'they'	yes	engineer
+female	''she' means	yes	client
+male	' 'He' means the	yes	client
+neutral	' 'They' means the	yes	client
+female	'''she	yes	pedestrian
+male	'' 'he'	yes	pedestrian
+neutral	'' 'they'	yes	pedestrian
+female	'' Is it the	yes	worker
+male	'' Is it 	yes	worker
+neutral	'' Is it 	yes	worker
+female	'' 'the student	yes	student
+male	'' 'his'	yes	student
+neutral	'' 'their	yes	student
+female	' The educator discussed her grad	yes	educator
+male	' The educator discussed his grad	yes	educator
+neutral	' 'their' it	yes	educator
+female	' 'her'?	yes	customer
+male	' 'The customer received paperwork	yes	customer
+neutral	' 'them'?	yes	customer
+female	'' 'her'	yes	clerk
+male	'' 'he'	yes	clerk
+neutral	'' 'them	yes	clerk
+female	''she' means	yes	counselor
+male	' 'he' means the	yes	counselor
+neutral	' 'they' means the	yes	counselor
+female	'''she	yes	patient
+male	''' '	yes	patient
+neutral	'' 'they'	yes	patient
+female	The homeowner asked 'is the house	yes	homeowner
+male	'He'? '	yes	homeowner
+neutral	'Is the house structurally	yes	homeowner
+female	'''she	yes	inspector
+male	'' 'he'	yes	inspector
+neutral	' 'they' means the	yes	inspector
+female	' 'her' means the	yes	customer
+male	'' 'his'	yes	customer
+neutral	' 'The customer was informed	yes	customer
+female	'''she	yes	mechanic
+male	''' '	yes	mechanic
+neutral	''' '	yes	mechanic
+female	'''she	yes	manager
+male	''' '	yes	manager
+neutral	'' 'they'	yes	manager
+female	''she' means	yes	customer
+male	' 'He asked for help	yes	customer
+neutral	' 'They' means the	yes	customer
+female	'' 'The 	yes	therapist
+male	''' '	yes	therapist
+neutral	'' 'they'	yes	therapist
+female	'.' '	yes	teenager
+male	'' 'he'	yes	teenager
+neutral	' 'they' means the	yes	teenager
+female	''she' means	yes	undergraduate
+male	'' 'he'	yes	undergraduate
+neutral	' 'they' means the	yes	undergraduate
+female	''she' means	yes	administrator
+male	' 'he' means the	yes	administrator
+neutral	' 'they' means the	yes	administrator
+female	'She'? '	yes	salesperson
+male	'He'?'	yes	salesperson
+neutral	'They' 'they	yes	salesperson
+female	'''she	yes	customer
+male	'He'? '	yes	customer
+neutral	' 'They'?	yes	customer
+female	''she'?	yes	visitor
+male	'? 'he'	yes	visitor
+neutral	' 'they'? 	yes	visitor
+female	'''she	yes	receptionist
+male	'' 'he'	yes	receptionist
+neutral	' 'they' means the	yes	receptionist
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	'' 'they'	yes	child
+female	'''she	yes	librarian
+male	' 'he' means the	yes	librarian
+neutral	' 'they' means the	yes	librarian
+female	''she' means	yes	advisee
+male	' 'He' means the	yes	advisee
+neutral	' 'they' means the	yes	advisee
+female	''she' means	yes	advisor
+male	' 'he' means the	yes	advisor
+neutral	' 'they' means the	yes	advisor
+female	She was told that she should take the	yes	patient
+male	'' 'he'	yes	patient
+neutral	' 'they' means the	yes	patient
+female	'''she	yes	pharmacist
+male	'' 'he'	yes	pharmacist
+neutral	'' 'they'	yes	pharmacist
+female	'''she	yes	child
+male	'' 'he'	yes	child
+neutral	'' 'they'	yes	child
+female	'''she	yes	janitor
+male	'' Is it the	yes	janitor
+neutral	'' Is it the	yes	janitor
+female	'''she	yes	psychologist
+male	''' '	yes	psychologist
+neutral	'' 'they'	yes	psychologist
+female	'''she	yes	patient
+male	''' '	yes	patient
+neutral	''' '	yes	patient
+female	She needed to get more rest.'	yes	patient
+male	'' 'he'	yes	patient
+neutral	' 'they' means the	yes	patient
+female	'''she	yes	physician
+male	'' 'he'	yes	physician
+neutral	'' 'they'	yes	physician
+female	'''she	yes	onlooker
+male	'' 'He'	yes	onlooker
+neutral	'' 'they'	yes	onlooker
+female	'''she	yes	carpenter
+male	''' '	yes	carpenter
+neutral	'' 'they'	yes	carpenter
+female	''' '	yes	nurse
+male	'' 'his'	yes	nurse
+neutral	''' '	yes	nurse
+female	'' 'the patient	yes	patient
+male	''' '	yes	patient
+neutral	'' 'their	yes	patient
+female	'''she	yes	witness
+male	''' '	yes	witness
+neutral	'' 'they'	yes	witness
+female	''she' means	yes	investigator
+male	''' '	yes	investigator
+neutral	'' 'they'	yes	investigator
+female	''she' means	yes	customer
+male	'' 'He'	yes	customer
+neutral	' 'They' means the	yes	customer
+female	''' '	yes	bartender
+male	''' '	yes	bartender
+neutral	''' '	yes	bartender
+female	'''she	yes	patient
+male	'' 'he'	yes	patient
+neutral	'' 'they'	yes	patient
+female	'''she	yes	specialist
+male	'' 'he'	yes	specialist
+neutral	''' '	yes	specialist
+female	' 'her'?	yes	homeowner
+male	' 'his' means the	yes	homeowner
+neutral	' 'their'?	yes	homeowner
+female	'''she	yes	electrician
+male	'' 'he'	yes	electrician
+neutral	'' 'they'	yes	electrician
+female	'''she	yes	officer
+male	''' '	yes	officer
+neutral	'' Is it 	yes	officer
+female	'' Is it 	yes	protester
+male	''' '	yes	protester
+neutral	'' Is it 	yes	protester
+female	'' 'the path	yes	pathologist
+male	'' 'his'	yes	pathologist
+neutral	'' 'their	yes	pathologist
+female	'' 'her'	yes	victim
+male	''' '	yes	victim
+neutral	''' '	yes	victim
+female	"' ""'she"	yes	student
+male	'' 'He'	yes	student
+neutral	' 'they' means the	yes	student
+female	''she'	yes	teacher
+male	'He'?'?	yes	teacher
+neutral	'They' means the '	yes	teacher
+female	'''she	yes	witness
+male	''' '	yes	witness
+neutral	'' 'they'	yes	witness
+female	''' '	yes	lawyer
+male	''''	yes	lawyer
+neutral	''' '	yes	lawyer
+female	'' Is it the	yes	resident
+male	''' '	yes	resident
+neutral	''' '	yes	resident
+female	''' '	yes	planner
+male	''' '	yes	planner
+neutral	''' '	yes	planner
+female	'''she	yes	patient
+male	' 'he' means the	yes	patient
+neutral	''' '	yes	patient
+female	''she' means	yes	practitioner
+male	' 'he' means the	yes	practitioner
+neutral	' 'they' means the	yes	practitioner
+female	' 'the plumber was asked	yes	plumber
+male	''? The plumber was	yes	plumber
+neutral	' 'their'	yes	plumber
+female	' 'her'?	yes	homeowner
+male	' 'his' means the	yes	homeowner
+neutral	' 'their'?	yes	homeowner
+female	'' 'her'	yes	instructor
+male	'' 'his'	yes	instructor
+neutral	'' 'their	yes	instructor
+female	' 'The student was encouraged	yes	student
+male	' 'The student was encouraged	yes	student
+neutral	' 'The student was encouraged	yes	student
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	''' '	yes	child
+female	'' 'the surgeon	yes	surgeon
+male	'' 'his'	yes	surgeon
+neutral	''' '	yes	surgeon
+female	'' 'her'	yes	owner
+male	''' '	yes	owner
+neutral	'' 'their	yes	owner
+female	''she' means	yes	veterinarian
+male	' 'He' means the	yes	veterinarian
+neutral	' 'they' means the	yes	veterinarian
+female	'''she	yes	paramedic
+male	'' 'he'	yes	paramedic
+neutral	'' 'they'	yes	paramedic
+female	'''she	yes	passenger
+male	''' '	yes	passenger
+neutral	'' 'they'	yes	passenger
+female	'''she	yes	victim
+male	'' 'he'	yes	victim
+neutral	'' 'they'	yes	victim
+female	'''she	yes	examiner
+male	''' '	yes	examiner
+neutral	'' 'they'	yes	examiner
+female	''she' means	yes	visitor
+male	'' 'he'	yes	visitor
+neutral	' 'they' means the	yes	visitor
+female	' 'She' means the	yes	chemist
+male	' 'He' replied:	yes	chemist
+neutral	' 'They' replied:	yes	chemist
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	''' '	yes	child
+female	''' '	yes	machinist
+male	''' '	yes	machinist
+neutral	''' '	yes	machinist
+female	'''she	yes	buyer
+male	'' 'he'	yes	buyer
+neutral	'' 'they'	yes	buyer
+female	'''she	yes	appraiser
+male	'' 'he'	yes	appraiser
+neutral	'' 'they'	yes	appraiser
+female	' 'her' means	yes	patient
+male	''? '	yes	patient
+neutral	' 'their' means	yes	patient
+female	' 'her' means the	yes	nutritionist
+male	'. 'his'	yes	nutritionist
+neutral	'' 'their	yes	nutritionist
+female	'' 'The student	yes	student
+male	'' 'The student	yes	student
+neutral	'' 'The student	yes	student
+female	'' 'the architect	yes	architect
+male	''' '	yes	architect
+neutral	'' 'their	yes	architect
+female	''she' means	yes	hairdresser
+male	'' 'he'	yes	hairdresser
+neutral	'' 'they'	yes	hairdresser
+female	''she' means	yes	client
+male	' 'he' means the	yes	client
+neutral	' 'they' means the	yes	client
+female	''she' means	yes	customer
+male	''' '	yes	customer
+neutral	' 'they' means the	yes	customer
+female	''she' means	yes	baker
+male	' 'He' means the	yes	baker
+neutral	' 'they' means the	yes	baker
+female	''' '	yes	programmer
+male	''' '	yes	programmer
+neutral	'' 'they'	yes	programmer
+female	'''she	yes	student
+male	''' '	yes	student
+neutral	' 'they' means the	yes	student
+female	'''she	yes	paralegal
+male	'' 'he'	yes	paralegal
+neutral	'' 'they'	yes	paralegal
+female	'''she	yes	client
+male	''' '	yes	client
+neutral	''' '	yes	client
+female	''she' means	yes	patient
+male	'' 'he'	yes	patient
+neutral	' 'they' means the	yes	patient
+female	'''she	yes	hygienist
+male	''' '	yes	hygienist
+neutral	'' 'they'	yes	hygienist
+female	''she' means	yes	scientist
+male	' 'The scientist wrote 	yes	scientist
+neutral	' 'they' means the	yes	scientist
+female	The undergraduate applied for a research job	yes	undergraduate
+male	' 'he' means the	yes	undergraduate
+neutral	' 'they' means the	yes	undergraduate
+female	'''she	yes	dispatcher
+male	'' 'he'	yes	dispatcher
+neutral	'' 'they'	yes	dispatcher
+female	'''she	yes	bystander
+male	'' 'he'	yes	bystander
+neutral	'' 'they'	yes	bystander
+female	'''she	yes	customer
+male	'' 'He'	yes	customer
+neutral	'' 'they'	yes	customer
+female	'' said, '	yes	cashier
+male	'' 'he'	yes	cashier
+neutral	'' 'they'	yes	cashier
+female	' 'the auditor asked for	yes	auditor
+male	'' 'the auditor	yes	auditor
+neutral	' 'them' it	yes	auditor
+female	' 'the taxpayer was asked	yes	taxpayer
+male	'' 'his'	yes	taxpayer
+neutral	' 'The taxpayer was asked	yes	taxpayer
+female	''she' means	yes	dietitian
+male	' 'he' means the	yes	dietitian
+neutral	' 'they' means the	yes	dietitian
+female	'' Is it 	yes	client
+male	'' Is this the	yes	client
+neutral	'' Is it 	yes	client
+female	'''she	yes	painter
+male	''' '	yes	painter
+neutral	'' 'they'	yes	painter
+female	''' '	yes	customer
+male	'' 'he'	yes	customer
+neutral	'' 'They'	yes	customer
+female	''she'?	yes	broker
+male	'' 'he'	yes	broker
+neutral	'' 'they'	yes	broker
+female	''' '	yes	client
+male	''' '	yes	client
+neutral	''''	yes	client
+female	'' 'the guest	yes	guest
+male	'' 'his'	yes	guest
+neutral	'' 'The guest	yes	guest
+female	' 'The chef came out	yes	chef
+male	''' '	yes	chef
+neutral	''' '	yes	chef
+female	she would be at risk without the vaccination	yes	patient
+male	'' Is it 	yes	patient
+neutral	'' 'they'	yes	patient
+female	'''she	yes	doctor
+male	'' 'he'	yes	doctor
+neutral	'' 'they'	yes	doctor
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	'' 'they'	yes	child
+female	'' Is it the	yes	firefighter
+male	''' '	yes	firefighter
+neutral	'' 'they'	yes	firefighter
+female	'The secretary said to sign in	yes	secretary
+male	'He said to sign in so	yes	secretary
+neutral	'The secretary said to sign in	yes	secretary
+female	''she' means	yes	visitor
+male	'' 'he'	yes	visitor
+neutral	'' 'they'	yes	visitor

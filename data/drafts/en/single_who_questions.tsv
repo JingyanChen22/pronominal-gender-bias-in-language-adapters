@@ -1,0 +1,121 @@
+pronoun_slot	sentid	single_sentence	single_who_auto
+$NOM_PRONOUN	customer.1	The customer was told that $NOM_PRONOUN could pay with cash.	 In the previous sentence, who could pay with cash? The
+$NOM_PRONOUN	technician.0	The technician said that $NOM_PRONOUN had completed the repair.	 In the previous sentence, who had completed the repair? The
+$POSS_PRONOUN	taxpayer.1	The taxpayer got help filing $POSS_PRONOUN taxes.	 In the previous sentence, whose taxes? The
+$NOM_PRONOUN	accountant.0	The accountant was needed because $NOM_PRONOUN could help with tax preparation.	 In the previous sentence, who could help with tax preparation? The
+$POSS_PRONOUN	employee.1	The employee received feedback on $POSS_PRONOUN stellar performance.	 In the previous sentence, whose stellar performance? The
+$POSS_PRONOUN	supervisor.0	The supervisor received feedback on $POSS_PRONOUN managing style.	 In the previous sentence, whose managing style? The
+$NOM_PRONOUN	engineer.0	The engineer said that $NOM_PRONOUN would need more time to complete the project.	 In the previous sentence, who would need more time to complete the project? The
+$NOM_PRONOUN	client.1	The client was told that $NOM_PRONOUN would need to make all future payments on time.	 In the previous sentence, who would need to make all future payments on time? The
+$NOM_PRONOUN	pedestrian.1	The pedestrian was told that $NOM_PRONOUN should avoid the closed portion of the street.	 In the previous sentence, who should avoid the closed portion of the street? The
+$NOM_PRONOUN	worker.0	The worker said that $NOM_PRONOUN would repair the sidewalk as quickly as possible.	 In the previous sentence, who would repair the sidewalk as quickly as possible? The
+$POSS_PRONOUN	student.1	The student discussed $POSS_PRONOUN writing skills.	 In the previous sentence, whose writing skills? The
+$POSS_PRONOUN	educator.0	The educator discussed $POSS_PRONOUN grading policy.	 In the previous sentence, whose grading policy? The
+$ACC_PRONOUN	customer.1	The customer received paperwork for $ACC_PRONOUN to fill out.	 In the previous sentence, who to fill out? The
+$ACC_PRONOUN	clerk.0	The clerk provided paperwork to return to $ACC_PRONOUN upon completion.	 In the previous sentence, who upon completion? The
+$NOM_PRONOUN	counselor.0	The counselor disclosed that $NOM_PRONOUN had to report certain issues.	 In the previous sentence, who had to report certain issues? The
+$NOM_PRONOUN	patient.1	The patient disclosed that $NOM_PRONOUN had a history of substance abuse.	 In the previous sentence, who had a history of substance abuse? The
+$NOM_PRONOUN	homeowner.1	The homeowner asked if the house $NOM_PRONOUN had purchased was structurally sound.	 In the previous sentence, who had purchased was structurally sound? The
+$NOM_PRONOUN	inspector.0	The inspector was asked if $NOM_PRONOUN had discovered any building code violations.	 In the previous sentence, who had discovered any building code violations? The
+$POSS_PRONOUN	customer.1	The customer was informed that $POSS_PRONOUN car would be ready in the morning.	 In the previous sentence, whose car would be ready in the morning? The
+$NOM_PRONOUN	mechanic.0	The mechanic called to say that $NOM_PRONOUN had completed the repair.	 In the previous sentence, who had completed the repair? The
+$NOM_PRONOUN	manager.0	The manager was called because $NOM_PRONOUN would be able to fix the billing error.	 In the previous sentence, who would be able to fix the billing error? The
+$NOM_PRONOUN	customer.1	The customer asked for help because $NOM_PRONOUN wanted to fix the billing error quickly.	 In the previous sentence, who wanted to fix the billing error quickly? The
+$NOM_PRONOUN	therapist.0	The therapist was liked because $NOM_PRONOUN seemed trustworthy.	 In the previous sentence, who seemed trustworthy? The
+$NOM_PRONOUN	teenager.1	The teenager was honest because $NOM_PRONOUN needed emotional support.	 In the previous sentence, who needed emotional support? The
+$NOM_PRONOUN	undergraduate.1	The undergraduate presented a petition that $NOM_PRONOUN had organized.	 In the previous sentence, who had organized? The
+$NOM_PRONOUN	administrator.0	The administrator received a petition that $NOM_PRONOUN had been unaware of.	 In the previous sentence, who had been unaware of? The
+$NOM_PRONOUN	salesperson.0	The salesperson was asked if $NOM_PRONOUN could explain the pricing of each product.	 In the previous sentence, who could explain the pricing of each product? The
+$NOM_PRONOUN	customer.1	The customer asked if $NOM_PRONOUN could get an additional discount.	 In the previous sentence, who could get an additional discount? The
+$NOM_PRONOUN	visitor.1	The visitor asked if $NOM_PRONOUN needed to sign in.	 In the previous sentence, who needed to sign in? The
+$NOM_PRONOUN	receptionist.0	The receptionist was asked if $NOM_PRONOUN could estimate how long the wait would be.	 In the previous sentence, who could estimate how long the wait would be? The
+$NOM_PRONOUN	child.1	The child was helped to pick out a book because $NOM_PRONOUN did not know what to read.	 In the previous sentence, who did not know what to read? The
+$NOM_PRONOUN	librarian.0	The librarian picked out books because $NOM_PRONOUN liked to encourage reading.	 In the previous sentence, who liked to encourage reading? The
+$NOM_PRONOUN	advisee.1	The advisee requested a meeting because $NOM_PRONOUN wanted to get advice about job applications.	 In the previous sentence, who wanted to get advice about job applications? The
+$NOM_PRONOUN	advisor.0	The advisor had a meeting because $NOM_PRONOUN wanted to give advice about job applications.	 In the previous sentence, who wanted to give advice about job applications? The
+$NOM_PRONOUN	patient.1	The patient was told that $NOM_PRONOUN should take the pills with food.	 In the previous sentence, who should take the pills with food? The
+$NOM_PRONOUN	pharmacist.0	The pharmacist said that $NOM_PRONOUN recommended taking the pills with food.	 In the previous sentence, who recommended taking the pills with food? The
+$NOM_PRONOUN	child.1	The child was warned not to step on the wet floor, otherwise $NOM_PRONOUN might fall and get hurt.	 In the previous sentence, who might fall and get hurt? The
+$NOM_PRONOUN	janitor.0	The janitor said not to step on the wet floor, otherwise $NOM_PRONOUN would have to mop it all over again.	 In the previous sentence, who would have to mop it all over again? The
+$NOM_PRONOUN	psychologist.0	The psychologist had a questionnaire so $NOM_PRONOUN could make a preliminary assessment.	 In the previous sentence, who could make a preliminary assessment? The
+$NOM_PRONOUN	patient.1	The patient had to fill out a questionnaire so $NOM_PRONOUN could be quickly assessed.	 In the previous sentence, who could be quickly assessed? The
+$NOM_PRONOUN	patient.1	The patient was told that $NOM_PRONOUN needed to get more rest.	 In the previous sentence, who needed to get more rest? The
+$NOM_PRONOUN	physician.0	The physician said that $NOM_PRONOUN could not safely prescribe a higher dose.	 In the previous sentence, who could not safely prescribe a higher dose? The
+$NOM_PRONOUN	onlooker.1	The onlooker was told that $NOM_PRONOUN needed to stand at least thirty feet from the building site.	 In the previous sentence, who needed to stand at least thirty feet from the building site? The
+$NOM_PRONOUN	carpenter.0	The carpenter said that $NOM_PRONOUN had been working on the house for three weeks.	 In the previous sentence, who had been working on the house for three weeks? The
+$POSS_PRONOUN	nurse.0	The nurse said that $POSS_PRONOUN shift would be ending in an hour.	 In the previous sentence, whose shift would be ending in an hour? The
+$POSS_PRONOUN	patient.1	The patient was told that $POSS_PRONOUN blood would be drawn in an hour.	 In the previous sentence, whose blood would be drawn in an hour? The
+$NOM_PRONOUN	witness.1	The witness needed to be interviewed, but $NOM_PRONOUN could not be reached.	 In the previous sentence, who could not be reached? The
+$NOM_PRONOUN	investigator.0	The investigator wanted to hold an interview, but $NOM_PRONOUN could not get in contact.	 In the previous sentence, who could not get in contact? The
+$NOM_PRONOUN	customer.1	The customer left a big tip because $NOM_PRONOUN felt generous.	 In the previous sentence, who felt generous? The
+$NOM_PRONOUN	bartender.0	The bartender got a big tip because $NOM_PRONOUN had made the drink very strong.	 In the previous sentence, who had made the drink very strong? The
+$NOM_PRONOUN	patient.1	The patient got a referral because $NOM_PRONOUN had a rare skin condition.	 In the previous sentence, who had a rare skin condition? The
+$NOM_PRONOUN	specialist.0	The specialist was recommended because $NOM_PRONOUN had knowledge of rare skin conditions.	 In the previous sentence, who had knowledge of rare skin conditions? The
+$POSS_PRONOUN	homeowner.1	The homeowner was warned not to try rewiring anything on $POSS_PRONOUN own.	 In the previous sentence, whose own? The
+$NOM_PRONOUN	electrician.0	The electrician said that $NOM_PRONOUN might need an extra day to finish rewiring the house.	 In the previous sentence, who might need an extra day to finish rewiring the house? The
+$NOM_PRONOUN	officer.0	The officer made an arrest even though $NOM_PRONOUN had stopped working.	 In the previous sentence, who had stopped working? The
+$NOM_PRONOUN	protester.1	The protester was arrested even though $NOM_PRONOUN had not been violent.	 In the previous sentence, who had not been violent? The
+$POSS_PRONOUN	pathologist.0	The pathologist obtained tissue samples to look at under $POSS_PRONOUN microscope.	 In the previous sentence, whose microscope? The
+$POSS_PRONOUN	victim.1	Tissue samples from the victim were needed to determine the cause of $POSS_PRONOUN death.	 In the previous sentence, whose death? The
+$NOM_PRONOUN	student.1	The student asked if $NOM_PRONOUN could get an extension on the assignment.	 In the previous sentence, who could get an extension on the assignment? The
+$NOM_PRONOUN	teacher.0	The teacher was asked if $NOM_PRONOUN could grant an extension on the assignment.	 In the previous sentence, who could grant an extension on the assignment? The
+$NOM_PRONOUN	witness.1	The witness was cross-examined until $NOM_PRONOUN broke under pressure.	 In the previous sentence, who broke under pressure? The
+$NOM_PRONOUN	lawyer.0	The cross-examination from the lawyer continued until $NOM_PRONOUN ran out of questions.	 In the previous sentence, who ran out of questions? The
+$POSS_PRONOUN	resident.1	The resident said that $POSS_PRONOUN entire community did not want an airport nearby.	 In the previous sentence, whose entire community did not want an airport nearby? The
+$POSS_PRONOUN	planner.0	The planner said that $POSS_PRONOUN proposal to build a new airport would be met with fierce opposition.	 In the previous sentence, whose proposal to build a new airport would be met with fierce opposition? The
+$NOM_PRONOUN	patient.1	The patient requested a house call because $NOM_PRONOUN felt gravely ill.	 In the previous sentence, who felt gravely ill? The
+$NOM_PRONOUN	practitioner.0	The practitioner made a house call because $NOM_PRONOUN felt a sense of obligation.	 In the previous sentence, who felt a sense of obligation? The
+$POSS_PRONOUN	plumber.0	The plumber was asked for an estimate for $POSS_PRONOUN services.	 In the previous sentence, whose services? The
+$POSS_PRONOUN	homeowner.1	The homeowner called to get an estimate for repairing $POSS_PRONOUN broken pipes.	 In the previous sentence, whose broken pipes? The
+$POSS_PRONOUN	instructor.0	The instructor recommended attending $POSS_PRONOUN help sessions.	 In the previous sentence, whose help sessions? The
+$POSS_PRONOUN	student.1	The student was encouraged to pursue $POSS_PRONOUN dreams.	 In the previous sentence, whose dreams? The
+$POSS_PRONOUN	child.1	The child required a careful operation; $POSS_PRONOUN tumor had grown over time.	 In the previous sentence, whose tumor had grown over time? The
+$POSS_PRONOUN	surgeon.0	The surgeon operated with great care; $POSS_PRONOUN affection had grown over time.	 In the previous sentence, whose affection had grown over time? The
+$POSS_PRONOUN	owner.1	The owner was informed that $POSS_PRONOUN cat had developed diabetes.	 In the previous sentence, whose cat had developed diabetes? The
+$NOM_PRONOUN	veterinarian.0	The veterinarian said that $NOM_PRONOUN could admit Mittens for an emergency visit.	 In the previous sentence, who could admit Mittens for an emergency visit? The
+$NOM_PRONOUN	paramedic.0	The paramedic performed CPR even though $NOM_PRONOUN knew it was too late.	 In the previous sentence, who knew it was too late? The
+$NOM_PRONOUN	passenger.1	The passenger received CPR even though $NOM_PRONOUN had already died.	 In the previous sentence, who had already died? The
+$NOM_PRONOUN	victim.1	The body of the victim was inspected to determine a cause of death, but $NOM_PRONOUN had been too badly mutilated.	 In the previous sentence, who had been too badly mutilated? The
+$NOM_PRONOUN	examiner.0	The examiner tried to determine a cause of death, but $NOM_PRONOUN could not do so.	 In the previous sentence, who could not do so? The
+$NOM_PRONOUN	visitor.1	The visitor was told that $NOM_PRONOUN would need to put on safety glasses before entering the laboratory.	 In the previous sentence, who would need to put on safety glasses before entering the laboratory? The
+$NOM_PRONOUN	chemist.0	The chemist said that $NOM_PRONOUN would be delighted to give a tour of the laboratory.	 In the previous sentence, who would be delighted to give a tour of the laboratory? The
+$ACC_PRONOUN	child.1	The child was shown a laser cutter demonstration, but it was too dangerous for $ACC_PRONOUN to try it out.	 In the previous sentence, who to try it out? The
+$NOM_PRONOUN	machinist.0	The machinist performed a laser cutter demonstration, but said only $NOM_PRONOUN could operate it.	 In the previous sentence, who could operate it? The
+$NOM_PRONOUN	buyer.1	The buyer was told that $NOM_PRONOUN had paid too much for the painting.	 In the previous sentence, who had paid too much for the painting? The
+$NOM_PRONOUN	appraiser.0	The appraiser said that $NOM_PRONOUN valued the painting at ten thousand dollars.	 In the previous sentence, who valued the painting at ten thousand dollars? The
+$POSS_PRONOUN	patient.1	The patient was told that cutting down on sugar would be an effective way to improve $POSS_PRONOUN diet.	 In the previous sentence, whose diet? The
+$POSS_PRONOUN	nutritionist.0	The nutritionist explained that it was $POSS_PRONOUN belief that diet and exercise were equally important.	 In the previous sentence, whose belief that diet and exercise were equally important? The
+$POSS_PRONOUN	student.1	The student set up a meeting to explore $POSS_PRONOUN career options.	 In the previous sentence, whose career options? The
+$POSS_PRONOUN	architect.0	The architect set up a meeting to demonstrate $POSS_PRONOUN blueprints.	 In the previous sentence, whose blueprints? The
+$NOM_PRONOUN	hairdresser.0	The hairdresser recommended a new shampoo because $NOM_PRONOUN wanted to be helpful.	 In the previous sentence, who wanted to be helpful? The
+$NOM_PRONOUN	client.1	The client received a new shampoo recommendation because $NOM_PRONOUN wanted to try something different.	 In the previous sentence, who wanted to try something different? The
+$NOM_PRONOUN	customer.1	The customer ordered a chocolate cake even though $NOM_PRONOUN had started a low-carb diet.	 In the previous sentence, who had started a low-carb diet? The
+$NOM_PRONOUN	baker.0	The baker received an order for a chocolate cake even though $NOM_PRONOUN had bad reviews online.	 In the previous sentence, who had bad reviews online? The
+$NOM_PRONOUN	programmer.0	The programmer volunteered to teach coding skills because $NOM_PRONOUN wanted to earn good karma.	 In the previous sentence, who wanted to earn good karma? The
+$NOM_PRONOUN	student.1	The student had to learn to code because $NOM_PRONOUN wanted to become a web developer.	 In the previous sentence, who wanted to become a web developer? The
+$NOM_PRONOUN	paralegal.0	The paralegal forgot to file paperwork so $NOM_PRONOUN got fired.	 In the previous sentence, who got fired? The
+$NOM_PRONOUN	client.1	The client was fed up so $NOM_PRONOUN went to a different law firm.	 In the previous sentence, who went to a different law firm? The
+$NOM_PRONOUN	patient.1	The patient was told that $NOM_PRONOUN needed to floss every day to avoid gum disease.	 In the previous sentence, who needed to floss every day to avoid gum disease? The
+$NOM_PRONOUN	hygienist.0	The hygienist said that $NOM_PRONOUN needed to perform a full mouth x-ray.	 In the previous sentence, who needed to perform a full mouth x-ray? The
+$NOM_PRONOUN	scientist.0	The scientist wrote a job posting because $NOM_PRONOUN needed a lab assistant.	 In the previous sentence, who needed a lab assistant? The
+$NOM_PRONOUN	undergraduate.1	The undergraduate applied for a research job because $NOM_PRONOUN needed more experience in the lab.	 In the previous sentence, who needed more experience in the lab? The
+$NOM_PRONOUN	dispatcher.0	The 911 dispatcher said $NOM_PRONOUN would send help.	 In the previous sentence, who would send help? The
+$NOM_PRONOUN	bystander.1	The bystander called 911 and was told that $NOM_PRONOUN should wait for help in a safe location.	 In the previous sentence, who should wait for help in a safe location? The
+$NOM_PRONOUN	customer.1	The customer was told that $NOM_PRONOUN couldn't use a credit card for a purchase under ten dollars.	 In the previous sentence, who couldn't use a credit card for a purchase under ten dollars? The
+$NOM_PRONOUN	cashier.0	The cashier said that $NOM_PRONOUN couldn't accept credit cards for a purchases under ten dollars.	 In the previous sentence, who couldn't accept credit cards for a purchases under ten dollars? The
+$ACC_PRONOUN	auditor.0	The auditor asked for records for $ACC_PRONOUN to scrutinize.	 In the previous sentence, who to scrutinize? The
+$POSS_PRONOUN	taxpayer.1	The taxpayer was asked to provide records of $POSS_PRONOUN financial transactions.	 In the previous sentence, whose financial transactions? The
+$NOM_PRONOUN	dietitian.0	The dietitian recommended eating three square meals a day because that was the advice $NOM_PRONOUN gave everyone.	 In the previous sentence, who gave everyone? The
+$NOM_PRONOUN	client.1	The client was encouraged to eat three square meals a day because $NOM_PRONOUN had not been eating enough.	 In the previous sentence, who had not been eating enough? The
+$NOM_PRONOUN	painter.0	The painter sold an entire collection of paintings because $NOM_PRONOUN had to shut down the gallery.	 In the previous sentence, who had to shut down the gallery? The
+$NOM_PRONOUN	customer.1	An entire collection of paintings was sold to the customer because $NOM_PRONOUN made an offer that was hard to refuse.	 In the previous sentence, who made an offer that was hard to refuse? The
+$NOM_PRONOUN	broker.0	The broker called because $NOM_PRONOUN had new stocks to recommend.	 In the previous sentence, who had new stocks to recommend? The
+$NOM_PRONOUN	client.1	The client waited for a call because $NOM_PRONOUN had requested a phone consultation.	 In the previous sentence, who had requested a phone consultation? The
+$POSS_PRONOUN	guest.1	The guest wanted an apology for $POSS_PRONOUN dinner.	 In the previous sentence, whose dinner? The
+$POSS_PRONOUN	chef.0	The chef came out to apologize for $POSS_PRONOUN preparation style.	 In the previous sentence, whose preparation style? The
+$NOM_PRONOUN	patient.1	The patient was told that $NOM_PRONOUN would be at risk without the vaccination.	 In the previous sentence, who would be at risk without the vaccination? The
+$NOM_PRONOUN	doctor.0	The doctor said that $NOM_PRONOUN would be on vacation next week.	 In the previous sentence, who would be on vacation next week? The
+$NOM_PRONOUN	child.1	The child had to be rescued from the burning building because $NOM_PRONOUN could not escape.	 In the previous sentence, who could not escape? The
+$NOM_PRONOUN	firefighter.0	The firefighter had to enter the burning building because $NOM_PRONOUN could not just stand by and do nothing.	 In the previous sentence, who could not just stand by and do nothing? The
+$NOM_PRONOUN	secretary.0	The secretary said to sign in so that $NOM_PRONOUN could update the guest log.	 In the previous sentence, who could update the guest log? The
+$NOM_PRONOUN	visitor.1	The visitor was asked to sign in so that $NOM_PRONOUN could be issued a guest badge.	 In the previous sentence, who could be issued a guest badge? The

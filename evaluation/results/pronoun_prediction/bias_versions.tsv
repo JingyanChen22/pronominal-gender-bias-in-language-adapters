@@ -1,0 +1,7 @@
+model	version	en_male	en_female	en_neutral	en_all	zh_male	zh_female	zh_neutral	zh_all
+mBERT	base	0.74	0.57	0.58	0.63	0.79	0.68	0.63	0.7
+mBERT	adapter	0.8	0.77	0.48	0.68	0.85	0.71	0.8	0.79
+mBERT	finetuned	0.92	0.9	0.54	0.79	0.78	0.67	0.84	0.76
+XLM-RoBERTa	base	0.92	0.67	0.69	0.76	0.91	0.67	0.7	0.76
+XLM-RoBERTa	adapter	0.9	0.64	0.59	0.71	0.9	0.8	0.79	0.83
+XLM-RoBERTa	finetuned	0.94	0.74	0.58	0.75	0.93	0.81	0.86	0.87

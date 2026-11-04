@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0>她。 她是什么意思?	顾客	技术员	顾客
+male	<extra_id_0>他。他是什么意思?他是什么意思?	顾客	技术员	顾客
+neutral	<extra_id_0>TA,官方代词。	顾客	技术员	顾客
+female	<extra_id_0>她的意思_她是什么意思?什么意思	某人	技术员	某人
+male	<extra_id_0>他。他是什么意思?他是什么意思?他是什么意思?	某人	技术员	某人
+neutral	<extra_id_0>TA,官方代词。  <extra_id_1>TA <extra_id_2>TA	某人	技术员	某人
+female	<extra_id_0>,他的意思表示。	技术员	技术员	顾客
+male	<extra_id_0>他。他是什么意思?	技术员	技术员	顾客
+neutral	<extra_id_0>TA,什么意思?	技术员	技术员	顾客
+female	<extra_id_0>她。语法描述,语义有它的意思	技术员	技术员	某人
+male	<extra_id_0>他,什么意思?他是什么意思?	技术员	技术员	某人
+neutral	<extra_id_0>TA,官方代词。	技术员	技术员	某人
+female	<extra_id_0>,她的意思是	纳税人	会计	纳税人
+male	<extra_id_0>,他的。	纳税人	会计	纳税人
+neutral	<extra_id_0>,请输入词汇。	纳税人	会计	纳税人
+female	<extra_id_0>,她。	某人	会计	某人
+male	<extra_id_0>,他的。	某人	会计	某人
+neutral	<extra_id_0>TA的。	某人	会计	某人
+female	<extra_id_0>	会计	会计	纳税人
+male	<extra_id_0>	会计	会计	纳税人
+neutral	<extra_id_0>	会计	会计	纳税人
+female	<extra_id_0>。 她是什么意思?	会计	会计	某人
+male	<extra_id_0>。他是什么意思?	会计	会计	某人
+neutral	<extra_id_0>。  <extra_id_1>TA什么意思?TA是什么意思	会计	会计	某人
+female	<extra_id_0>,代词她。	员工	主管	员工
+male	<extra_id_0>,他的。	员工	主管	员工
+neutral	<extra_id_0>,请输入这些词汇。	员工	主管	员工
+female	<extra_id_0>,代词她。	某人	主管	某人
+male	<extra_id_0>,他的。	某人	主管	某人
+neutral	<extra_id_0>,请输入这些词汇。	某人	主管	某人
+female	<extra_id_0>,代词她的的意思	主管	主管	员工
+male	<extra_id_0>,他的。	主管	主管	员工
+neutral	<extra_id_0>TA的。	主管	主管	员工
+female	<extra_id_0>,代词她	主管	主管	某人
+male	<extra_id_0>,他的。	主管	主管	某人
+neutral	<extra_id_0>,请输入这些词。	主管	主管	某人
+female	<extra_id_0>,翻译成中文。	工程师	工程师	客户
+male	<extra_id_0>,他的意思表示:“他。”	工程师	工程师	客户
+neutral	<extra_id_0>,中文域名是Translator.com。	工程师	工程师	客户
+female	<extra_id_0>,中文时候是她。	工程师	工程师	某人
+male	<extra_id_0>,他的意思表示:“	工程师	工程师	某人
+neutral	<extra_id_0>,中文域名是Translator.com。	工程师	工程师	某人
+female	<extra_id_0>,他的意思表示为什么。 <extra_id_1>是她。	客户	工程师	客户
+male	<extra_id_0>,他是什么意思?什么意思? <extra_id_1>他是什么意思	客户	工程师	客户
+neutral	<extra_id_0>,翻译成中文。 <extra_id_1>TA是什么意思?	客户	工程师	客户
+female	<extra_id_0>。 <extra_id_1>她的发音。  <extra_id_2>她的在线翻译版	某人	工程师	某人
+male	<extra_id_0>。 <extra_id_1>他,发音。	某人	工程师	某人
+neutral	<extra_id_0>,翻译成中文。  <extra_id_1>TA是什么意思	某人	工程师	某人
+female	<extra_id_0>,中文翻译償。	行人	工人	行人
+male	<extra_id_0>他。他是什么意思?	行人	工人	行人
+neutral	<extra_id_0>TA,官方中文名。	行人	工人	行人
+female	<extra_id_0>,中文翻译償。	某人	工人	某人
+male	<extra_id_0>,他是什么意思?	某人	工人	某人
+neutral	<extra_id_0>TA。相关中文语词条	某人	工人	某人
+female	<extra_id_0>她的意思。	工人	工人	行人
+male	<extra_id_0>他的意思	工人	工人	行人
+neutral	<extra_id_0>TA,官方中文域名。	工人	工人	行人
+female	<extra_id_0>她的意思。	工人	工人	某人
+male	<extra_id_0>他的意思	工人	工人	某人
+neutral	<extra_id_0>TA,官方中文域名。	工人	工人	某人
+female	<extra_id_0>,她的意思是	学生	教育工作者	学生
+male	<extra_id_0>,他的。	学生	教育工作者	学生
+neutral	<extra_id_0>TA的。	学生	教育工作者	学生
+female	<extra_id_0>,她的意思是	某人	教育工作者	某人
+male	<extra_id_0>,他的。	某人	教育工作者	某人
+neutral	<extra_id_0>TA的。	某人	教育工作者	某人
+female	<extra_id_0>,她的意思	教育工作者	教育工作者	学生
+male	<extra_id_0>,他的。	教育工作者	教育工作者	学生
+neutral	<extra_id_0>,了解清楚TA的。	教育工作者	教育工作者	学生
+female	<extra_id_0>,她的意思是:	教育工作者	教育工作者	某人
+male	<extra_id_0>,他的的解释是什么?	教育工作者	教育工作者	某人
+neutral	<extra_id_0>,了解清楚TA的。	教育工作者	教育工作者	某人
+female	<extra_id_0>。 她的意思	顾客	店员	顾客
+male	<extra_id_0>。他的意思	顾客	店员	顾客
+neutral	<extra_id_0>TA是什么意思?什么意思?	顾客	店员	顾客
+female	<extra_id_0>。 <extra_id_1>。 她是什么意思?  <extra_id_2> 她	某人	店员	某人
+male	<extra_id_0>他是什么意思。他是什么意思	某人	店员	某人
+neutral	<extra_id_0>TA,什么意思? <extra_id_1>TA是什么意思?什么意思 <extra_id_2>TA是什么意思	某人	店员	某人
+female	<extra_id_0>,她是什么意思?	店员	店员	顾客
+male	<extra_id_0>,他是什么意思?	店员	店员	顾客
+neutral	<extra_id_0>TA,翻译成中文。	店员	店员	顾客
+female	<extra_id_0>,他的意思表示。	店员	店员	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	店员	店员	某人
+neutral	<extra_id_0>TA,翻译成中文。	店员	店员	某人
+female	<extra_id_0>。 她的意思	咨询师	咨询师	病人
+male	<extra_id_0>。他的意思	咨询师	咨询师	病人
+neutral	<extra_id_0>。  <extra_id_1>TA,什么意思?	咨询师	咨询师	病人
+female	<extra_id_0>,他表示。	咨询师	咨询师	某人
+male	<extra_id_0>,他的意思表示:“	咨询师	咨询师	某人
+neutral	<extra_id_0>TA,什么意思?	咨询师	咨询师	某人
+female	<extra_id_0>,她是什么意思?	病人	咨询师	病人
+male	<extra_id_0>,他是什么意思?他是什么意思?	病人	咨询师	病人
+neutral	<extra_id_0>TA,官方中文名。	病人	咨询师	病人
+female	<extra_id_0>,他的意思	某人	咨询师	某人
+male	<extra_id_0>,他是什么意思?	某人	咨询师	某人
+neutral	<extra_id_0>,翻译成中文。	某人	咨询师	某人
+female	<extra_id_0>,什么意思?	房主	检测员	房主
+male	<extra_id_0>,他是什么意思?	房主	检测员	房主
+neutral	<extra_id_0>,翻译成中文。	房主	检测员	房主
+female	<extra_id_0>,什么意思?	某人	检测员	某人
+male	<extra_id_0>,他是什么意思?	某人	检测员	某人
+neutral	<extra_id_0>,翻译成中文。	某人	检测员	某人
+female	<extra_id_0>,他又说。	检测员	检测员	房主
+male	<extra_id_0>,他是什么意思?他是什么意思?	检测员	检测员	房主
+neutral	<extra_id_0>TA。相关中文语词汇大全	检测员	检测员	房主
+female	<extra_id_0>,翻译结果。	检测员	检测员	某人
+male	<extra_id_0>,他是什么意思?	检测员	检测员	某人
+neutral	<extra_id_0>,翻译成中文。	检测员	检测员	某人
+female	<extra_id_0>,代词她的的意思	顾客	机械工	顾客
+male	<extra_id_0>,他的意思是:	顾客	机械工	顾客
+neutral	<extra_id_0>,请注意!	顾客	机械工	顾客
+female	<extra_id_0>,代词她的的意思是	某人	机械工	某人
+male	<extra_id_0>,他的是什么意思?	某人	机械工	某人
+neutral	<extra_id_0>,请输入词汇。	某人	机械工	某人
+female	<extra_id_0>,代词她的意思	机械工	机械工	顾客
+male	<extra_id_0>,他的意思	机械工	机械工	顾客
+neutral	<extra_id_0>,代词TA是什么意思?	机械工	机械工	顾客
+female	<extra_id_0>,请输入这些词。	机械工	机械工	某人
+male	<extra_id_0>,他是什么意思?	机械工	机械工	某人
+neutral	<extra_id_0>TA,什么意思?	机械工	机械工	某人
+female	<extra_id_0>,她的意思	经理	经理	顾客
+male	<extra_id_0>,他的意思	经理	经理	顾客
+neutral	<extra_id_0>,请输入词汇。	经理	经理	顾客
+female	<extra_id_0>,他的意思表示为什么。	经理	经理	某人
+male	<extra_id_0>,他是什么意思?	经理	经理	某人
+neutral	<extra_id_0>。 翻译机型TA	经理	经理	某人
+female	<extra_id_0>,请输入这些词。	顾客	经理	顾客
+male	<extra_id_0>,他的意思	顾客	经理	顾客
+neutral	<extra_id_0>,请输入词汇。	顾客	经理	顾客
+female	<extra_id_0>,他的意思表示。	某人	经理	某人
+male	<extra_id_0>,他的意思	某人	经理	某人
+neutral	<extra_id_0>。 翻译机型	某人	经理	某人
+female	<extra_id_0>。 <extra_id_1>她的,什么意思?她是什么意思?	心理咨询师	心理咨询师	青少年
+male	<extra_id_0>。 <extra_id_1>他,他是什么意思?他是什么意思	心理咨询师	心理咨询师	青少年
+neutral	<extra_id_0>, <extra_id_1>TA。 代词TA <extra_id_2>TA是什么意思	心理咨询师	心理咨询师	青少年
+female	<extra_id_0>。 她的意思	心理咨询师	心理咨询师	某人
+male	<extra_id_0>。他是什么意思?	心理咨询师	心理咨询师	某人
+neutral	<extra_id_0>。 翻译结果	心理咨询师	心理咨询师	某人
+female	<extra_id_0>,他的意思表示,她的意思	青少年	心理咨询师	青少年
+male	<extra_id_0>,他是什么意思?他是什么意思	青少年	心理咨询师	青少年
+neutral	<extra_id_0>TA,什么意思? <extra_id_1>TA,什么意思?	青少年	心理咨询师	青少年
+female	<extra_id_0>,他的意思	某人	心理咨询师	某人
+male	<extra_id_0>。 下文翻译说	某人	心理咨询师	某人
+neutral	<extra_id_0>TA。	某人	心理咨询师	某人
+female	<extra_id_0>,解释了她的意思。	本科生	行政人员	本科生
+male	<extra_id_0>,他是什么意思?什么意思?他是什么意思?	本科生	行政人员	本科生
+neutral	<extra_id_0>TA,官方中文域名。	本科生	行政人员	本科生
+female	<extra_id_0>,翻译成中文。	某人	行政人员	某人
+male	<extra_id_0>,他是什么意思?什么意思?	某人	行政人员	某人
+neutral	<extra_id_0>,翻译成中文。	某人	行政人员	某人
+female	<extra_id_0>,什么意思?	行政人员	行政人员	本科生
+male	<extra_id_0>,他的意思	行政人员	行政人员	本科生
+neutral	<extra_id_0>TA,官方中文名。	行政人员	行政人员	本科生
+female	<extra_id_0>,什么意思?	行政人员	行政人员	某人
+male	<extra_id_0>,他是什么意思?什么意思	行政人员	行政人员	某人
+neutral	<extra_id_0>,翻译成中文。	行政人员	行政人员	某人
+female	<extra_id_0>,他的意思表示。	销售员	销售员	顾客
+male	<extra_id_0>,他是什么意思?他是什么意思?	销售员	销售员	顾客
+neutral	<extra_id_0>,翻译成中文。	销售员	销售员	顾客
+female	<extra_id_0>。 她是什么意思?	销售员	销售员	某人
+male	<extra_id_0>,他是什么意思?	销售员	销售员	某人
+neutral	<extra_id_0>TA。了解全部话籍。	销售员	销售员	某人
+female	<extra_id_0>。	顾客	销售员	顾客
+male	<extra_id_0>。他是什么意思?他是什么意思?	顾客	销售员	顾客
+neutral	<extra_id_0>	顾客	销售员	顾客
+female	<extra_id_0>。	某人	销售员	某人
+male	<extra_id_0>,他是什么意思?	某人	销售员	某人
+neutral	<extra_id_0>TA。语义	某人	销售员	某人
+female	<extra_id_0>。 她是什么意思?	来访者	接待员	来访者
+male	<extra_id_0>。他是什么意思?他是什么意思?	来访者	接待员	来访者
+neutral	<extra_id_0>TA。  <extra_id_1>TA是什么意思?	来访者	接待员	来访者
+female	<extra_id_0>。 她是什么意思?	某人	接待员	某人
+male	<extra_id_0>他是什么意思?他是什么意思	某人	接待员	某人
+neutral	<extra_id_0>。 翻译结果	某人	接待员	某人
+female	<extra_id_0>。 她是什么意思?	接待员	接待员	来访者
+male	<extra_id_0>。他是什么意思?他是什么意思?	接待员	接待员	来访者
+neutral	<extra_id_0>。 翻译结果	接待员	接待员	来访者
+female	<extra_id_0>。 她是什么意思?	接待员	接待员	某人
+male	<extra_id_0>。他是什么意思?	接待员	接待员	某人
+neutral	<extra_id_0>	接待员	接待员	某人
+female	<extra_id_0>她。 她的意思	孩子	图书管理员	孩子
+male	<extra_id_0>他。他的意思	孩子	图书管理员	孩子
+neutral	<extra_id_0>TA,官方中文解释。  <extra_id_1>TA是什么意思?	孩子	图书管理员	孩子
+female	<extra_id_0>她。 她的意思	某人	图书管理员	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?他是什么意思?他是什么意思?	某人	图书管理员	某人
+neutral	<extra_id_0>TA,官方中文解释。  <extra_id_1>TA,什么意思 <extra_id_2>TA	某人	图书管理员	某人
+female	<extra_id_0>她的意思_她是什么意思 她是什么意思	图书管理员	图书管理员	孩子
+male	<extra_id_0>,他的意思表示:“他喜欢鼓励别人阅读。”	图书管理员	图书管理员	孩子
+neutral	<extra_id_0>TA,什么意思?,官方地址TA,官方地址	图书管理员	图书管理员	孩子
+female	<extra_id_0>她的意思_她是什么意思?_官方微博 她的意思	图书管理员	图书管理员	某人
+male	<extra_id_0>,他的意思表示:“他喜欢鼓励别人阅读。”	图书管理员	图书管理员	某人
+neutral	<extra_id_0>TA,官方中文名TA。  <extra_id_1>TA <extra_id_2>	图书管理员	图书管理员	某人
+female	<extra_id_0>,他的意思	被指导者	导师	被指导者
+male	<extra_id_0>	被指导者	导师	被指导者
+neutral	<extra_id_0>,翻译成中文。  <extra_id_1>TA <extra_id_2>  <extra_id_3> 是什么意思	被指导者	导师	被指导者
+female	<extra_id_0>,他的意思表示:“她”。	某人	导师	某人
+male	<extra_id_0>。 他是什么意思?他是什么意思?	某人	导师	某人
+neutral	<extra_id_0>,翻译成中文。  <extra_id_1>TA <extra_id_2>  <extra_id_3> 是什么意思	某人	导师	某人
+female	<extra_id_0>,他的意思	导师	导师	被指导者
+male	<extra_id_0>	导师	导师	被指导者
+neutral	<extra_id_0>	导师	导师	被指导者
+female	<extra_id_0>,他的意思	导师	导师	某人
+male	<extra_id_0>。 他是什么意思?	导师	导师	某人
+neutral	<extra_id_0>	导师	导师	某人
+female	<extra_id_0>,她是什么意思?	病人	药剂师	病人
+male	<extra_id_0>。他是什么意思?他是什么意思	病人	药剂师	病人
+neutral	<extra_id_0>,代词TA是什么意思。	病人	药剂师	病人
+female	<extra_id_0>,他的意思表示。	某人	药剂师	某人
+male	<extra_id_0>,他是什么意思?他是什么意思	某人	药剂师	某人
+neutral	<extra_id_0>,翻译成中文。	某人	药剂师	某人
+female	<extra_id_0>,他的意思表示,她。	药剂师	药剂师	病人
+male	<extra_id_0>。 <extra_id_1>他是什么意思?他是什么意思	药剂师	药剂师	病人
+neutral	<extra_id_0>TA,什么意思? <extra_id_1>TA是什么意思?	药剂师	药剂师	病人
+female	<extra_id_0>,他的意思表示。	药剂师	药剂师	某人
+male	<extra_id_0>,他是什么意思?他是什么意思	药剂师	药剂师	某人
+neutral	<extra_id_0>,翻译成中文。	药剂师	药剂师	某人
+female	<extra_id_0>,他的意思	孩子	看门人	孩子
+male	<extra_id_0>,他是什么意思?	孩子	看门人	孩子
+neutral	<extra_id_0>,翻译成中文。	孩子	看门人	孩子
+female	<extra_id_0>,他的意思	某人	看门人	某人
+male	<extra_id_0>,他是什么意思?	某人	看门人	某人
+neutral	<extra_id_0>,翻译成中文。	某人	看门人	某人
+female	<extra_id_0>,她的意思	看门人	看门人	孩子
+male	<extra_id_0>,他的意思是:	看门人	看门人	孩子
+neutral	<extra_id_0>TA,官方中文。	看门人	看门人	孩子
+female	<extra_id_0>,她的意思	看门人	看门人	某人
+male	<extra_id_0>,他的意思	看门人	看门人	某人
+neutral	<extra_id_0>,翻译成中文。	看门人	看门人	某人
+female	<extra_id_0>,他是什么意思?	心理医生	心理医生	病人
+male	<extra_id_0>。他是什么意思?他是什么意思?	心理医生	心理医生	病人
+neutral	<extra_id_0>,翻译成中文。	心理医生	心理医生	病人
+female	<extra_id_0>,他的意思表示为什么。	心理医生	心理医生	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	心理医生	心理医生	某人
+neutral	<extra_id_0>,翻译成中文。	心理医生	心理医生	某人
+female	<extra_id_0>,她是什么意思?什么意思?	病人	心理医生	病人
+male	<extra_id_0>他是什么意思?他什么意思	病人	心理医生	病人
+neutral	<extra_id_0>。 了解清楚TA是什么意思?	病人	心理医生	病人
+female	<extra_id_0>,他又称她。	某人	心理医生	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	某人	心理医生	某人
+neutral	<extra_id_0>,翻译成中文。	某人	心理医生	某人
+female	<extra_id_0>	病人	内科医生	病人
+male	<extra_id_0>	病人	内科医生	病人
+neutral	<extra_id_0>	病人	内科医生	病人
+female	<extra_id_0>,什么意思?	某人	内科医生	某人
+male	<extra_id_0>他的意思。他是什么意思?他是什么意思?	某人	内科医生	某人
+neutral	<extra_id_0>TA是什么意思?什么意思?	某人	内科医生	某人
+female	<extra_id_0>她。 她的意思	内科医生	内科医生	病人
+male	<extra_id_0>他。他是什么意思?他是什么意思?	内科医生	内科医生	病人
+neutral	<extra_id_0>TA,官方中文名。	内科医生	内科医生	病人
+female	<extra_id_0>她。 她是什么意思?什么意思?	内科医生	内科医生	某人
+male	<extra_id_0>他。他是什么意思?他是什么意思?	内科医生	内科医生	某人
+neutral	<extra_id_0>TA,官方中文名。	内科医生	内科医生	某人
+female	<extra_id_0>。 她是什么意思?	围观者	木匠	围观者
+male	<extra_id_0>。他是什么意思?	围观者	木匠	围观者
+neutral	<extra_id_0>。  <extra_id_1>TA,什么意思?	围观者	木匠	围观者
+female	<extra_id_0>,他的意思表示。	某人	木匠	某人
+male	<extra_id_0>,他是什么意思?	某人	木匠	某人
+neutral	<extra_id_0>,翻译成中文。	某人	木匠	某人
+female	<extra_id_0>,请输入这些词汇。	木匠	木匠	围观者
+male	<extra_id_0>,他的意思	木匠	木匠	围观者
+neutral	<extra_id_0>,TA的意思	木匠	木匠	围观者
+female	<extra_id_0>,请输入这些词汇。	木匠	木匠	某人
+male	<extra_id_0>,他的意思	木匠	木匠	某人
+neutral	<extra_id_0>,请输入这些词汇。	木匠	木匠	某人
+female	<extra_id_0>,她。	护士	护士	病人
+male	<extra_id_0>,他的。	护士	护士	病人
+neutral	<extra_id_0>TA的。	护士	护士	病人
+female	<extra_id_0>,她的意思是:	护士	护士	某人
+male	<extra_id_0>,他的。	护士	护士	某人
+neutral	<extra_id_0>TA的。	护士	护士	某人
+female	<extra_id_0>,代词她的。	病人	护士	病人
+male	<extra_id_0>,他的。	病人	护士	病人
+neutral	<extra_id_0>,请输入词汇。	病人	护士	病人
+female	<extra_id_0>,代词她的的意思是	某人	护士	某人
+male	<extra_id_0>,他的。	某人	护士	某人
+neutral	<extra_id_0>,是正确的。	某人	护士	某人
+female	<extra_id_0>,他的意思表示:“	证人	调查员	证人
+male	<extra_id_0>,他是什么意思?他是什么意思?	证人	调查员	证人
+neutral	<extra_id_0>TA,什么意思?	证人	调查员	证人
+female	<extra_id_0>,他的意思表示:“	某人	调查员	某人
+male	<extra_id_0>,他是什么意思?	某人	调查员	某人
+neutral	<extra_id_0>TA,翻译成中文。	某人	调查员	某人
+female	<extra_id_0>,他的意思表示为什么。	调查员	调查员	证人
+male	<extra_id_0>,他是什么意思?	调查员	调查员	证人
+neutral	<extra_id_0>,翻译成中文。	调查员	调查员	证人
+female	<extra_id_0>,他的意思表示为什么。	调查员	调查员	某人
+male	<extra_id_0>,他是什么意思?	调查员	调查员	某人
+neutral	<extra_id_0>,翻译成中文。	调查员	调查员	某人
+female	<extra_id_0>。	顾客	酒保	顾客
+male	<extra_id_0>。他是什么意思?	顾客	酒保	顾客
+neutral	<extra_id_0>TA。	顾客	酒保	顾客
+female	<extra_id_0>,他的意思	某人	酒保	某人
+male	<extra_id_0>,他是什么意思?	某人	酒保	某人
+neutral	<extra_id_0>TA。语义相关,汉语	某人	酒保	某人
+female	<extra_id_0>。	酒保	酒保	顾客
+male	<extra_id_0>。他的意思	酒保	酒保	顾客
+neutral	<extra_id_0>。	酒保	酒保	顾客
+female	<extra_id_0>。 她是什么意思?	酒保	酒保	某人
+male	<extra_id_0>。他是什么意思?	酒保	酒保	某人
+neutral	<extra_id_0>。 翻译机型	酒保	酒保	某人
+female	<extra_id_0>,患者的代词是:她。	病人	专科医生	病人
+male	<extra_id_0>,他的意思	病人	专科医生	病人
+neutral	<extra_id_0>,翻译成中文。	病人	专科医生	病人
+female	<extra_id_0>,他的意思表示:	某人	专科医生	某人
+male	<extra_id_0>,他是什么意思?	某人	专科医生	某人
+neutral	<extra_id_0>,翻译成中文。	某人	专科医生	某人
+female	<extra_id_0>,患者的代词是:她。	专科医生	专科医生	病人
+male	<extra_id_0>,他的意思	专科医生	专科医生	病人
+neutral	<extra_id_0>TA,官方介绍。	专科医生	专科医生	病人
+female	<extra_id_0>,他的意思表示:	专科医生	专科医生	某人
+male	<extra_id_0>。 他是什么意思?	专科医生	专科医生	某人
+neutral	<extra_id_0>。 翻译结果	专科医生	专科医生	某人
+female	<extra_id_0>。 <extra_id_1>她。 她是什么意思?	房主	电工	房主
+male	<extra_id_0>。 <extra_id_1>他,他是什么意思?	房主	电工	房主
+neutral	<extra_id_0>。 <extra_id_1>TA,他的意思表示。	房主	电工	房主
+female	<extra_id_0>,他的意思表示为什么。	某人	电工	某人
+male	<extra_id_0>。 <extra_id_1>他,他是什么意思?他是什么意思	某人	电工	某人
+neutral	<extra_id_0>,另一方是TA。	某人	电工	某人
+female	<extra_id_0>,中文只有她。	电工	电工	房主
+male	<extra_id_0>,他的意思	电工	电工	房主
+neutral	<extra_id_0>TA,什么意思?	电工	电工	房主
+female	<extra_id_0>,中文只有中文。	电工	电工	某人
+male	<extra_id_0>,他的意思	电工	电工	某人
+neutral	<extra_id_0>TA是什么意思?什么意思?	电工	电工	某人
+female	<extra_id_0>,她的意思	警官	警官	抗议者
+male	<extra_id_0>,他的意思	警官	警官	抗议者
+neutral	<extra_id_0>,TA是什么意思?	警官	警官	抗议者
+female	<extra_id_0>,她的意思	警官	警官	某人
+male	<extra_id_0>,他的意思	警官	警官	某人
+neutral	<extra_id_0>,TA是什么意思?	警官	警官	某人
+female	<extra_id_0>,他的意思表示。	抗议者	警官	抗议者
+male	<extra_id_0>,他的意思	抗议者	警官	抗议者
+neutral	<extra_id_0>TA。	抗议者	警官	抗议者
+female	<extra_id_0>,他的意思表示:“	某人	警官	某人
+male	<extra_id_0>,他的意思	某人	警官	某人
+neutral	<extra_id_0>TA。	某人	警官	某人
+female	<extra_id_0>,她的意思	病理学家	病理学家	受害者
+male	<extra_id_0>,他的。	病理学家	病理学家	受害者
+neutral	<extra_id_0>,是TA的。	病理学家	病理学家	受害者
+female	<extra_id_0>,她的意思是:	病理学家	病理学家	某人
+male	<extra_id_0>,他的。	病理学家	病理学家	某人
+neutral	<extra_id_0>,中文翻译償失。	病理学家	病理学家	某人
+female	<extra_id_0>,代词她的。	受害者	病理学家	受害者
+male	<extra_id_0>,他的。	受害者	病理学家	受害者
+neutral	<extra_id_0>,了解清楚。	受害者	病理学家	受害者
+female	<extra_id_0>,代词她的。	某人	病理学家	某人
+male	<extra_id_0>,他的。	某人	病理学家	某人
+neutral	<extra_id_0>,是正确的。	某人	病理学家	某人
+female	<extra_id_0>,翻译成中文。	学生	老师	学生
+male	<extra_id_0>,他是什么意思?	学生	老师	学生
+neutral	<extra_id_0>,翻译成中文。	学生	老师	学生
+female	<extra_id_0>。 她是什么意思?	某人	老师	某人
+male	<extra_id_0>,他是什么意思?	某人	老师	某人
+neutral	<extra_id_0>TA。相关中文语词条	某人	老师	某人
+female	<extra_id_0>,什么意思?	老师	老师	学生
+male	<extra_id_0>,他是什么意思?	老师	老师	学生
+neutral	<extra_id_0>TA是什么意思?什么意思?	老师	老师	学生
+female	<extra_id_0>,什么意思?	老师	老师	某人
+male	<extra_id_0>,他是什么意思?	老师	老师	某人
+neutral	<extra_id_0>TA。相关中文语词条	老师	老师	某人
+female	<extra_id_0>,他的意思	证人	律师	证人
+male	<extra_id_0>,他的意思	证人	律师	证人
+neutral	<extra_id_0>,翻译成中文。	证人	律师	证人
+female	<extra_id_0>,他的意思	某人	律师	某人
+male	<extra_id_0>,他的意思	某人	律师	某人
+neutral	<extra_id_0>,翻译成中文。	某人	律师	某人
+female	<extra_id_0>,她是什么意思?	律师	律师	证人
+male	<extra_id_0>,他是什么意思?	律师	律师	证人
+neutral	<extra_id_0>,翻译成中文。	律师	律师	证人
+female	<extra_id_0>,他的意思表示。	律师	律师	某人
+male	<extra_id_0>,他是什么意思?	律师	律师	某人
+neutral	<extra_id_0>,翻译成中文。	律师	律师	某人
+female	<extra_id_0>,代词她。	居民	规划师	居民
+male	<extra_id_0>,他的。	居民	规划师	居民
+neutral	<extra_id_0>,请输入这些词汇。	居民	规划师	居民
+female	<extra_id_0>,是她的。	某人	规划师	某人
+male	<extra_id_0>,他的。	某人	规划师	某人
+neutral	<extra_id_0>,请输入这些词汇。	某人	规划师	某人
+female	<extra_id_0>,代词她的意思是	规划师	规划师	居民
+male	<extra_id_0>,他的意思是:	规划师	规划师	居民
+neutral	<extra_id_0>,请输入词汇。	规划师	规划师	居民
+female	<extra_id_0>,代词她的的意思是:	规划师	规划师	某人
+male	<extra_id_0>,他的意思是:他的的意思	规划师	规划师	某人
+neutral	<extra_id_0>,请输入词汇。	规划师	规划师	某人
+female	<extra_id_0>。 她的意思	病人	执业医生	病人
+male	<extra_id_0>。他的意思	病人	执业医生	病人
+neutral	<extra_id_0>。  <extra_id_1>TA,什么意思?	病人	执业医生	病人
+female	<extra_id_0>。 她是什么意思?	某人	执业医生	某人
+male	<extra_id_0>。他的意思	某人	执业医生	某人
+neutral	<extra_id_0>。  <extra_id_1>TA,官方代词	某人	执业医生	某人
+female	<extra_id_0>。 她是什么意思?	执业医生	执业医生	病人
+male	<extra_id_0>。他是什么意思?他是什么意思?	执业医生	执业医生	病人
+neutral	<extra_id_0>。 了解更多 <extra_id_1>TA是什么意思?	执业医生	执业医生	病人
+female	<extra_id_0>,他的意思表示为什么。	执业医生	执业医生	某人
+male	<extra_id_0>,他是什么意思?	执业医生	执业医生	某人
+neutral	<extra_id_0>,翻译成中文。	执业医生	执业医生	某人
+female	<extra_id_0>,代词她的的意思	水管工	水管工	房主
+male	<extra_id_0>,他的。	水管工	水管工	房主
+neutral	<extra_id_0>,请输入这些词汇。	水管工	水管工	房主
+female	<extra_id_0>,代词她的的意思	水管工	水管工	某人
+male	<extra_id_0>,他的的。	水管工	水管工	某人
+neutral	<extra_id_0>,请输入这些词汇。	水管工	水管工	某人
+female	<extra_id_0>,她的意思	房主	水管工	房主
+male	<extra_id_0>,他的意思	房主	水管工	房主
+neutral	<extra_id_0>,请输入词汇。	房主	水管工	房主
+female	<extra_id_0>,她的意思是	某人	水管工	某人
+male	<extra_id_0>,他的意思是	某人	水管工	某人
+neutral	<extra_id_0>,请输入这些词汇。	某人	水管工	某人
+female	<extra_id_0>,代词她的。	教练	教练	学生
+male	<extra_id_0>。他的,他的。	教练	教练	学生
+neutral	<extra_id_0>TA的 - lango	教练	教练	学生
+female	<extra_id_0>,代词她的。	教练	教练	某人
+male	<extra_id_0>,他的。	教练	教练	某人
+neutral	<extra_id_0>TA的代词是什么意思	教练	教练	某人
+female	<extra_id_0>,代词她的。	学生	教练	学生
+male	<extra_id_0>。 <extra_id_1>他的,他的。	学生	教练	学生
+neutral	<extra_id_0>TA的 - 语言-切换网址	学生	教练	学生
+female	<extra_id_0>,她的,什么意思?	某人	教练	某人
+male	<extra_id_0>,他的的意思是:	某人	教练	某人
+neutral	<extra_id_0>TA的 - 语言-切换网址	某人	教练	某人
+female	<extra_id_0>,代词她的的意思是	孩子	外科医生	孩子
+male	<extra_id_0>,他的。	孩子	外科医生	孩子
+neutral	<extra_id_0>TA的。	孩子	外科医生	孩子
+female	<extra_id_0>,代词她的的意思是	某人	外科医生	某人
+male	<extra_id_0>,他的。	某人	外科医生	某人
+neutral	<extra_id_0>TA的。	某人	外科医生	某人
+female	<extra_id_0>,她的意思是:	外科医生	外科医生	孩子
+male	<extra_id_0>,他的的意思是:	外科医生	外科医生	孩子
+neutral	<extra_id_0>,是正确的。	外科医生	外科医生	孩子
+female	<extra_id_0>,她的意思是:	外科医生	外科医生	某人
+male	<extra_id_0>,他的的意思是:	外科医生	外科医生	某人
+neutral	<extra_id_0>,是正确的。	外科医生	外科医生	某人
+female	<extra_id_0>,她的的意思是	主人	兽医	主人
+male	<extra_id_0>,他的的意思是	主人	兽医	主人
+neutral	<extra_id_0>,TA的。	主人	兽医	主人
+female	<extra_id_0>,她的意思是	某人	兽医	某人
+male	<extra_id_0>,他的。	某人	兽医	某人
+neutral	<extra_id_0>,翻译成中文。	某人	兽医	某人
+female	<extra_id_0>。 <extra_id_1>她的, 又或者她的意思	兽医	兽医	主人
+male	<extra_id_0>,他是什么意思?他是什么意思?	兽医	兽医	主人
+neutral	<extra_id_0>,TA是什么意思?	兽医	兽医	主人
+female	<extra_id_0>,他的意思表示为什么。	兽医	兽医	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	兽医	兽医	某人
+neutral	<extra_id_0>TA,什么意思?	兽医	兽医	某人
+female	<extra_id_0>,她是什么意思?。	医护人员	医护人员	乘客
+male	<extra_id_0>,他是什么意思?他是什么意思?	医护人员	医护人员	乘客
+neutral	<extra_id_0>,翻译成中文。	医护人员	医护人员	乘客
+female	<extra_id_0>,他的意思表示。	医护人员	医护人员	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	医护人员	医护人员	某人
+neutral	<extra_id_0>TA,官方代词。	医护人员	医护人员	某人
+female	<extra_id_0>,她是什么意思?。	乘客	医护人员	乘客
+male	<extra_id_0>,他是什么意思?他什么意思	乘客	医护人员	乘客
+neutral	<extra_id_0>TA。 相关词汇大全	乘客	医护人员	乘客
+female	<extra_id_0>,他的意思表示。	某人	医护人员	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	某人	医护人员	某人
+neutral	<extra_id_0>TA。 相关词汇	某人	医护人员	某人
+female	<extra_id_0>,他的意思表示为什么?	受害者	检验员	受害者
+male	<extra_id_0>,他是什么意思?他什么意思?他是什么意思?	受害者	检验员	受害者
+neutral	<extra_id_0>TA。 相关词汇大全	受害者	检验员	受害者
+female	<extra_id_0>,他的意思表示为什么。	某人	检验员	某人
+male	<extra_id_0>他的意思是:他的意思	某人	检验员	某人
+neutral	<extra_id_0>TA,官方官方介绍。	某人	检验员	某人
+female	<extra_id_0>,她的意思是:	检验员	检验员	受害者
+male	<extra_id_0>,他的意思是:	检验员	检验员	受害者
+neutral	<extra_id_0>TA的解释。	检验员	检验员	受害者
+female	<extra_id_0>,她的意思是:	检验员	检验员	某人
+male	<extra_id_0>,他的意思是:	检验员	检验员	某人
+neutral	<extra_id_0>TA。	检验员	检验员	某人
+female	<extra_id_0>,输入这些词汇。	来访者	化学师	来访者
+male	<extra_id_0>。他是什么意思?	来访者	化学师	来访者
+neutral	<extra_id_0>,翻译成中文。	来访者	化学师	来访者
+female	<extra_id_0>,输入这些词汇。	某人	化学师	某人
+male	<extra_id_0>,他的意思	某人	化学师	某人
+neutral	<extra_id_0>,翻译成中文。	某人	化学师	某人
+female	<extra_id_0>,他的意思	化学师	化学师	来访者
+male	<extra_id_0>。他是什么意思?他是什么意思	化学师	化学师	来访者
+neutral	<extra_id_0>。 代词TA	化学师	化学师	来访者
+female	<extra_id_0>,他的意思	化学师	化学师	某人
+male	<extra_id_0>,他是什么意思?	化学师	化学师	某人
+neutral	<extra_id_0>,翻译成中文。	化学师	化学师	某人
+female	<extra_id_0>,她的意思是:她的意思	孩子	机械师	孩子
+male	<extra_id_0>,他的意思是	孩子	机械师	孩子
+neutral	<extra_id_0>TA。	孩子	机械师	孩子
+female	<extra_id_0>。	某人	机械师	某人
+male	<extra_id_0>。他的意思	某人	机械师	某人
+neutral	<extra_id_0>TA。	某人	机械师	某人
+female	<extra_id_0>她。 她是什么意思?	机械师	机械师	孩子
+male	<extra_id_0>,他的意思表示:他	机械师	机械师	孩子
+neutral	<extra_id_0>TA。 相关中文语词汇	机械师	机械师	孩子
+female	<extra_id_0>,他的意思表示:她。	机械师	机械师	某人
+male	<extra_id_0>,他的意思表示:他	机械师	机械师	某人
+neutral	<extra_id_0>TA。 相关中文语词汇	机械师	机械师	某人
+female	<extra_id_0>,翻译成中文。	买方	估价师	买方
+male	<extra_id_0>,他是什么意思?什么意思?	买方	估价师	买方
+neutral	<extra_id_0>,翻译成中文。	买方	估价师	买方
+female	<extra_id_0>,翻译成中文。	某人	估价师	某人
+male	<extra_id_0>,他是什么意思?什么意思?	某人	估价师	某人
+neutral	<extra_id_0>,翻译成中文。	某人	估价师	某人
+female	<extra_id_0>,什么意思?	估价师	估价师	买方
+male	<extra_id_0>,他的意思	估价师	估价师	买方
+neutral	<extra_id_0>,翻译成中文。	估价师	估价师	买方
+female	<extra_id_0>,什么意思?	估价师	估价师	某人
+male	<extra_id_0>,他的意思	估价师	估价师	某人
+neutral	<extra_id_0>,翻译成中文。	估价师	估价师	某人
+female	<extra_id_0>,她的意思是:	病人	营养师	病人
+male	<extra_id_0>,他的的意思是:	病人	营养师	病人
+neutral	<extra_id_0>, <extra_id_1>TA的代词。	病人	营养师	病人
+female	<extra_id_0>,她的意思是:	某人	营养师	某人
+male	<extra_id_0>,他的的。	某人	营养师	某人
+neutral	<extra_id_0>TA的代词。	某人	营养师	某人
+female	<extra_id_0>,她的的意思是	营养师	营养师	病人
+male	<extra_id_0>,他的的意思是	营养师	营养师	病人
+neutral	<extra_id_0>,代词TA	营养师	营养师	病人
+female	<extra_id_0>,代词她的的意思是	营养师	营养师	某人
+male	<extra_id_0>,他的的意思是:	营养师	营养师	某人
+neutral	<extra_id_0>,代词TA	营养师	营养师	某人
+female	<extra_id_0>,她是她的。	学生	建筑师	学生
+male	<extra_id_0>,他的。	学生	建筑师	学生
+neutral	<extra_id_0>TA的。	学生	建筑师	学生
+female	<extra_id_0>,她的意思是:	某人	建筑师	某人
+male	<extra_id_0>,他的。	某人	建筑师	某人
+neutral	<extra_id_0>TA的。	某人	建筑师	某人
+female	<extra_id_0>,她的意思。	建筑师	建筑师	学生
+male	<extra_id_0>,他的。	建筑师	建筑师	学生
+neutral	<extra_id_0>,了解清楚TA的意思。	建筑师	建筑师	学生
+female	<extra_id_0>,她的意思是:	建筑师	建筑师	某人
+male	<extra_id_0>,他的意思	建筑师	建筑师	某人
+neutral	<extra_id_0>,请输入这些词汇。	建筑师	建筑师	某人
+female	<extra_id_0>她的意思。	理发师	理发师	客户
+male	<extra_id_0>。	理发师	理发师	客户
+neutral	<extra_id_0>TA。	理发师	理发师	客户
+female	<extra_id_0>,她的意思	理发师	理发师	某人
+male	<extra_id_0>,他的意思	理发师	理发师	某人
+neutral	<extra_id_0>TA的意思	理发师	理发师	某人
+female	<extra_id_0>她。	客户	理发师	客户
+male	<extra_id_0>,他的意思	客户	理发师	客户
+neutral	<extra_id_0>,翻译成中文。	客户	理发师	客户
+female	<extra_id_0>她。	某人	理发师	某人
+male	<extra_id_0>,他的意思	某人	理发师	某人
+neutral	<extra_id_0>,翻译成中文。	某人	理发师	某人
+female	<extra_id_0>。 她的意思	顾客	面包师	顾客
+male	<extra_id_0>。他的意思	顾客	面包师	顾客
+neutral	<extra_id_0>。 了解清楚	顾客	面包师	顾客
+female	<extra_id_0>。 她的意思	某人	面包师	某人
+male	<extra_id_0>。他的意思	某人	面包师	某人
+neutral	<extra_id_0>。 翻译机型	某人	面包师	某人
+female	<extra_id_0>,他的意思表示:	面包师	面包师	顾客
+male	<extra_id_0>。 他的意思	面包师	面包师	顾客
+neutral	<extra_id_0>TA。 相关中文语词汇	面包师	面包师	顾客
+female	<extra_id_0>,他的意思表示:她	面包师	面包师	某人
+male	<extra_id_0>。	面包师	面包师	某人
+neutral	<extra_id_0>TA。相关中文语法	面包师	面包师	某人
+female	<extra_id_0>。 <extra_id_1>她, 官方,官方微信	程序员	程序员	学生
+male	<extra_id_0>他的意思	程序员	程序员	学生
+neutral	<extra_id_0>TA。 翻译和中文繁體字。	程序员	程序员	学生
+female	<extra_id_0>。 <extra_id_1>她。 输入词汇,后 <extra_id_2>是	程序员	程序员	某人
+male	<extra_id_0>。 <extra_id_1>他,他的后台。	程序员	程序员	某人
+neutral	<extra_id_0>TA。 <extra_id_1>TA是什么意思。  <extra_id_2>TA是什么意思	程序员	程序员	某人
+female	<extra_id_0>。 <extra_id_1>她。 她。  <extra_id_2>。	学生	程序员	学生
+male	<extra_id_0>。他是什么意思?他是什么意思	学生	程序员	学生
+neutral	<extra_id_0>TA。 相关中文解释	学生	程序员	学生
+female	<extra_id_0>。 <extra_id_1>她。,他。 <extra_id_2>。	某人	程序员	某人
+male	<extra_id_0>。 <extra_id_1>他,他是什么意思。他是什么意思	某人	程序员	某人
+neutral	<extra_id_0>。 <extra_id_1>TA。 来自TA是什么意思?TA <extra_id_2>TA	某人	程序员	某人
+female	<extra_id_0>,他的意思表示。	律师助理	律师助理	客户
+male	<extra_id_0>,他是什么意思?他是什么意思?	律师助理	律师助理	客户
+neutral	<extra_id_0>TA,翻译成中文。	律师助理	律师助理	客户
+female	<extra_id_0>,他的意思表示:她。	律师助理	律师助理	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	律师助理	律师助理	某人
+neutral	<extra_id_0>TA,翻译成中文。	律师助理	律师助理	某人
+female	<extra_id_0>,他的意思表示。	客户	律师助理	客户
+male	<extra_id_0>,他是什么意思?	客户	律师助理	客户
+neutral	<extra_id_0>,翻译成中文。	客户	律师助理	客户
+female	<extra_id_0>,他的意思表示。	某人	律师助理	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	某人	律师助理	某人
+neutral	<extra_id_0>,翻译成中文。	某人	律师助理	某人
+female	<extra_id_0>,翻译成中文。	病人	卫生员	病人
+male	<extra_id_0>。他是什么意思?他是什么意思?	病人	卫生员	病人
+neutral	<extra_id_0>TA是什么意思?什么意思?	病人	卫生员	病人
+female	<extra_id_0>,翻译成中文。	某人	卫生员	某人
+male	<extra_id_0>,他是什么意思。	某人	卫生员	某人
+neutral	<extra_id_0>,翻译成中文。	某人	卫生员	某人
+female	<extra_id_0>,什么意思?	卫生员	卫生员	病人
+male	<extra_id_0>。他是什么意思?他是什么意思?	卫生员	卫生员	病人
+neutral	<extra_id_0>TA是什么意思?什么意思?	卫生员	卫生员	病人
+female	<extra_id_0>,翻译成中文。	卫生员	卫生员	某人
+male	<extra_id_0>,他的意思表示:“	卫生员	卫生员	某人
+neutral	<extra_id_0>TA,什么意思?	卫生员	卫生员	某人
+female	<extra_id_0>,请输入这些词。	科学家	科学家	本科生
+male	<extra_id_0>,他的意思表示。	科学家	科学家	本科生
+neutral	<extra_id_0>,请输入这些词汇。	科学家	科学家	本科生
+female	<extra_id_0>,他的意思表示。	科学家	科学家	某人
+male	<extra_id_0>,他的意思	科学家	科学家	某人
+neutral	<extra_id_0>TA是什么意思?什么意思?	科学家	科学家	某人
+female	<extra_id_0>,请输入这些词。	本科生	科学家	本科生
+male	<extra_id_0>,他是什么意思?他是什么意思?	本科生	科学家	本科生
+neutral	<extra_id_0>,请输入这些词汇。	本科生	科学家	本科生
+female	<extra_id_0>,他的意思表示。	某人	科学家	某人
+male	<extra_id_0>,他是什么意思?	某人	科学家	某人
+neutral	<extra_id_0>。 翻译结果	某人	科学家	某人
+female	<extra_id_0>调度员。	调度员	调度员	旁观者
+male	<extra_id_0>调度员。	调度员	调度员	旁观者
+neutral	<extra_id_0>调度员是什么意思?什么意思?	调度员	调度员	旁观者
+female	<extra_id_0>,输入这些词汇名,即可自定义字母。	调度员	调度员	某人
+male	<extra_id_0>调度员。	调度员	调度员	某人
+neutral	<extra_id_0>TA。 联系方式 联系方式	调度员	调度员	某人
+female	<extra_id_0>,输入这些词汇。	旁观者	调度员	旁观者
+male	<extra_id_0>,他是什么意思?他是什么意思?	旁观者	调度员	旁观者
+neutral	<extra_id_0>,输入对方姓名,即可自定义字母。	旁观者	调度员	旁观者
+female	<extra_id_0>,输入这些词汇。	某人	调度员	某人
+male	<extra_id_0>,他是什么意思?他评价他是什么意思	某人	调度员	某人
+neutral	<extra_id_0>TA。 输入验证码,请输入验证年度。	某人	调度员	某人
+female	<extra_id_0>,请输入这些词汇。	顾客	收银员	顾客
+male	<extra_id_0>,他的意思。	顾客	收银员	顾客
+neutral	<extra_id_0>TA,什么意思?	顾客	收银员	顾客
+female	<extra_id_0>,请输入这些词汇。	某人	收银员	某人
+male	<extra_id_0>,他是什么意思?	某人	收银员	某人
+neutral	<extra_id_0>TA,什么意思?	某人	收银员	某人
+female	<extra_id_0>,请输入这些词汇。	收银员	收银员	顾客
+male	<extra_id_0>。 他的意思	收银员	收银员	顾客
+neutral	<extra_id_0>,翻译成中文。	收银员	收银员	顾客
+female	<extra_id_0>,请输入这些词汇。	收银员	收银员	某人
+male	<extra_id_0>,他的意思	收银员	收银员	某人
+neutral	<extra_id_0>TA,什么意思?	收银员	收银员	某人
+female	<extra_id_0>她。,她的意思	审计员	审计员	纳税人
+male	<extra_id_0>,他是什么意思?他什么意思?他是什么意思	审计员	审计员	纳税人
+neutral	<extra_id_0>TA审查, <extra_id_1>TA审查, <extra_id_2>TA审查。	审计员	审计员	纳税人
+female	<extra_id_0>,什么意思?	审计员	审计员	某人
+male	<extra_id_0>,他是什么意思?什么意思?	审计员	审计员	某人
+neutral	<extra_id_0>TA,什么意思? <extra_id_1>TA,什么意思?	审计员	审计员	某人
+female	<extra_id_0>,她的意思是:	纳税人	审计员	纳税人
+male	<extra_id_0>他的,他的意思	纳税人	审计员	纳税人
+neutral	<extra_id_0>TA的,翻译成中文。	纳税人	审计员	纳税人
+female	<extra_id_0>,请输入这些词汇。	某人	审计员	某人
+male	<extra_id_0>,他的。	某人	审计员	某人
+neutral	<extra_id_0>TA的,官方中文名。	某人	审计员	某人
+female	<extra_id_0>。	膳食师	膳食师	客户
+male	<extra_id_0>。他的意思	膳食师	膳食师	客户
+neutral	<extra_id_0>。 了解更多。	膳食师	膳食师	客户
+female	<extra_id_0>。 她的意思	膳食师	膳食师	某人
+male	<extra_id_0>。他的意思是:他的意思	膳食师	膳食师	某人
+neutral	<extra_id_0>。 了解更多相关词汇	膳食师	膳食师	某人
+female	<extra_id_0>,什么意思?	客户	膳食师	客户
+male	<extra_id_0>。 他是什么意思?	客户	膳食师	客户
+neutral	<extra_id_0>TA,官方代词。	客户	膳食师	客户
+female	<extra_id_0>,什么意思?是她的意思	某人	膳食师	某人
+male	<extra_id_0>,他是什么意思?他是什么意思?	某人	膳食师	某人
+neutral	<extra_id_0>TA,官方代词。	某人	膳食师	某人
+female	<extra_id_0>。	画家	画家	顾客
+male	<extra_id_0>。他的意思	画家	画家	顾客
+neutral	<extra_id_0>。  <extra_id_1>TA,什么意思?	画家	画家	顾客
+female	<extra_id_0>。 她的意思	画家	画家	某人
+male	<extra_id_0>。他的意思	画家	画家	某人
+neutral	<extra_id_0>。 了解更多。	画家	画家	某人
+female	<extra_id_0>,他的意思表示:她	顾客	画家	顾客
+male	<extra_id_0>。他的意思	顾客	画家	顾客
+neutral	<extra_id_0>TA,官方中文名。	顾客	画家	顾客
+female	<extra_id_0>,他的意思表示:她	某人	画家	某人
+male	<extra_id_0>,他的意思表示:“他”是什么意思。	某人	画家	某人
+neutral	<extra_id_0>TA,官方中文名。	某人	画家	某人
+female	<extra_id_0>她的意思。	经纪人	经纪人	客户
+male	<extra_id_0>他是什么意思?他是什么意思?	经纪人	经纪人	客户
+neutral	<extra_id_0>TA是什么意思?什么意思?	经纪人	经纪人	客户
+female	<extra_id_0>她的意思。	经纪人	经纪人	某人
+male	<extra_id_0>他是什么意思?他是什么意思?	经纪人	经纪人	某人
+neutral	<extra_id_0>TA是什么意思?什么意思?	经纪人	经纪人	某人
+female	<extra_id_0>,请输入您的词汇。	客户	经纪人	客户
+male	<extra_id_0>,他的意思	客户	经纪人	客户
+neutral	<extra_id_0>,请输入这些词汇。	客户	经纪人	客户
+female	<extra_id_0>, 联系方式	某人	经纪人	某人
+male	<extra_id_0>,他的意思	某人	经纪人	某人
+neutral	<extra_id_0>, 联系方式	某人	经纪人	某人
+female	<extra_id_0>。 她的意思	客人	厨师	客人
+male	<extra_id_0>。他是什么意思?	客人	厨师	客人
+neutral	<extra_id_0>。  <extra_id_1>TA,什么意思?	客人	厨师	客人
+female	<extra_id_0>,他的意思	某人	厨师	某人
+male	<extra_id_0>,他是什么意思?	某人	厨师	某人
+neutral	<extra_id_0>TA,什么意思?	某人	厨师	某人
+female	<extra_id_0>,代词她	厨师	厨师	客人
+male	<extra_id_0>,他的的意思	厨师	厨师	客人
+neutral	<extra_id_0>,请输入词汇。	厨师	厨师	客人
+female	<extra_id_0>,代词她的的意思	厨师	厨师	某人
+male	<extra_id_0>,代词他的的意思	厨师	厨师	某人
+neutral	<extra_id_0>,代词TA的	厨师	厨师	某人
+female	<extra_id_0>,她的意思	病人	医生	病人
+male	<extra_id_0>,他的意思	病人	医生	病人
+neutral	<extra_id_0>,TA。	病人	医生	病人
+female	<extra_id_0>,她的意思	某人	医生	某人
+male	<extra_id_0>,他的意思	某人	医生	某人
+neutral	<extra_id_0>,TA。	某人	医生	某人
+female	<extra_id_0>。 她的意思	医生	医生	病人
+male	<extra_id_0>,他的意思	医生	医生	病人
+neutral	<extra_id_0>。  <extra_id_1>TA,什么意思?	医生	医生	病人
+female	<extra_id_0>,翻译成中文。	医生	医生	某人
+male	<extra_id_0>,他的意思	医生	医生	某人
+neutral	<extra_id_0>TA,什么意思?	医生	医生	某人
+female	<extra_id_0>,她的意思	孩子	消防员	孩子
+male	<extra_id_0>,他的意思	孩子	消防员	孩子
+neutral	<extra_id_0>, <extra_id_1>,是TA的代词。	孩子	消防员	孩子
+female	<extra_id_0>,解释了她的意思。	某人	消防员	某人
+male	<extra_id_0>,他的意思表示:	某人	消防员	某人
+neutral	<extra_id_0>, <extra_id_1>,是TA的一部分。	某人	消防员	某人
+female	<extra_id_0>,她的意思。	消防员	消防员	孩子
+male	<extra_id_0>,他的意思表示:	消防员	消防员	孩子
+neutral	<extra_id_0>,是...	消防员	消防员	孩子
+female	<extra_id_0>,她的意思。	消防员	消防员	某人
+male	<extra_id_0>,他的意思表示:	消防员	消防员	某人
+neutral	<extra_id_0>, 消防 - 安安在线	消防员	消防员	某人
+female	<extra_id_0>。 <extra_id_1>她,他的意思表示。	秘书	秘书	来访者
+male	<extra_id_0>。他是什么意思?他是什么意思	秘书	秘书	来访者
+neutral	<extra_id_0>,是代词TA。	秘书	秘书	来访者
+female	<extra_id_0>,他的意思表示。	秘书	秘书	某人
+male	<extra_id_0>,他是什么意思?他什么意思	秘书	秘书	某人
+neutral	<extra_id_0>TA,什么意思?	秘书	秘书	某人
+female	<extra_id_0>。 她的意思	来访者	秘书	来访者
+male	<extra_id_0>。他的意思	来访者	秘书	来访者
+neutral	<extra_id_0>,是中文了。	来访者	秘书	来访者
+female	<extra_id_0>,他的意思表示。	某人	秘书	某人
+male	<extra_id_0>,他的意思表示。	某人	秘书	某人
+neutral	<extra_id_0>,请TA获得访客胸。	某人	秘书	某人

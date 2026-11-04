@@ -1,0 +1,241 @@
+non_verbalized	label	occupation	participant
+<extra_id_0> 'The t	customer	technician	customer
+<extra_id_0> 'The t	person	technician	person
+<extra_id_0>''	technician	technician	customer
+<extra_id_0>''	technician	technician	person
+<extra_id_0> 'The taxpayer	taxpayer	accountant	taxpayer
+<extra_id_0> 'The person'	person	accountant	person
+<extra_id_0> 'The taxpayer	accountant	accountant	taxpayer
+<extra_id_0> 'The person	accountant	accountant	person
+<extra_id_0> supervisor gave the	employee	supervisor	employee
+<extra_id_0> supervisor gave the person	person	supervisor	person
+<extra_id_0> 'The supervisor	supervisor	supervisor	employee
+<extra_id_0> supervisor's	supervisor	supervisor	person
+<extra_id_0>.' The engineer	engineer	engineer	client
+<extra_id_0>. The engineer	engineer	engineer	person
+<extra_id_0>, the client would	client	engineer	client
+<extra_id_0>, the person.	person	engineer	person
+<extra_id_0> closed portion of the street	pedestrian	worker	pedestrian
+<extra_id_0> closed portion of	person	worker	person
+<extra_id_0> 'The worker	worker	worker	pedestrian
+<extra_id_0>, the worker	worker	worker	person
+<extra_id_0> 'The educator	student	educator	student
+<extra_id_0> 'The educator	person	educator	person
+<extra_id_0> 'The educator	educator	educator	student
+<extra_id_0> 'The educator	educator	educator	person
+<extra_id_0>.' '	customer	clerk	customer
+<extra_id_0>.' '	person	clerk	person
+<extra_id_0>''	clerk	clerk	customer
+<extra_id_0>''	clerk	clerk	person
+<extra_id_0> 'The patient	counselor	counselor	patient
+<extra_id_0> 'The counsel	counselor	counselor	person
+<extra_id_0> 'The patient'	patient	counselor	patient
+<extra_id_0> 'The person	person	counselor	person
+<extra_id_0>.' The Homeowner	homeowner	inspector	homeowner
+<extra_id_0>.' The person	person	inspector	person
+<extra_id_0> 'The Homeowner	inspector	inspector	homeowner
+<extra_id_0> inspector? The	inspector	inspector	person
+<extra_id_0> 'The mechanic'	customer	mechanic	customer
+<extra_id_0>, the mechanic called	person	mechanic	person
+<extra_id_0>, the customer.	mechanic	mechanic	customer
+<extra_id_0>, the mechanic.	mechanic	mechanic	person
+<extra_id_0> 'The customer'	manager	manager	customer
+<extra_id_0>. The sentence	manager	manager	person
+<extra_id_0>.' The customer	customer	manager	customer
+<extra_id_0>. The person asked	person	manager	person
+<extra_id_0>.' Therapist	therapist	therapist	teenager
+<extra_id_0>.' Therapist	therapist	therapist	person
+<extra_id_0> 'The teenager	teenager	therapist	teenager
+<extra_id_0>.' '	person	therapist	person
+<extra_id_0>.' '	undergraduate	administrator	undergraduate
+<extra_id_0>.' '	person	administrator	person
+<extra_id_0>.' The petition	administrator	administrator	undergraduate
+<extra_id_0>.' The petition	administrator	administrator	person
+<extra_id_0> 'The customer	salesperson	salesperson	customer
+<extra_id_0> 'The person	salesperson	salesperson	person
+<extra_id_0> 'The customer	customer	salesperson	customer
+<extra_id_0> 'The person	person	salesperson	person
+<extra_id_0>.' The visitor	visitor	receptionist	visitor
+<extra_id_0>.' The person	person	receptionist	person
+<extra_id_0>.' The visitor	receptionist	receptionist	visitor
+<extra_id_0>.' The person	receptionist	receptionist	person
+<extra_id_0> librarian.	child	librarian	child
+<extra_id_0> librarian.	person	librarian	person
+<extra_id_0> 'The librarian	librarian	librarian	child
+<extra_id_0> librarian.	librarian	librarian	person
+<extra_id_0>''	advisee	advisor	advisee
+<extra_id_0> 'The advisor	person	advisor	person
+<extra_id_0> 'The advisor	advisor	advisor	advisee
+<extra_id_0> 'The advisor	advisor	advisor	person
+<extra_id_0>.' The pharmacist	patient	pharmacist	patient
+<extra_id_0>. The pharmacist	person	pharmacist	person
+<extra_id_0>, the pharmacist	pharmacist	pharmacist	patient
+<extra_id_0> 'The pharmacist	pharmacist	pharmacist	person
+<extra_id_0> 'The janitor	child	janitor	child
+<extra_id_0> 'The janitor	person	janitor	person
+<extra_id_0> child not to step on	janitor	janitor	child
+<extra_id_0> 'The janitor	janitor	janitor	person
+<extra_id_0> 'The patient'	psychologist	psychologist	patient
+<extra_id_0> 'The psychologist	psychologist	psychologist	person
+<extra_id_0> 'The psychologist	patient	psychologist	patient
+<extra_id_0> 'The psychologist	person	psychologist	person
+<extra_id_0> physician.	patient	physician	patient
+<extra_id_0> physician.	person	physician	person
+<extra_id_0> 'The physician	physician	physician	patient
+<extra_id_0> 'The physician	physician	physician	person
+<extra_id_0> 'The carpenter	onlooker	carpenter	onlooker
+<extra_id_0> 'The carpenter	person	carpenter	person
+<extra_id_0>, the carpenter	carpenter	carpenter	onlooker
+<extra_id_0>.' '	carpenter	carpenter	person
+<extra_id_0> 'The nurse	nurse	nurse	patient
+<extra_id_0> 'The nurse	nurse	nurse	person
+<extra_id_0> 'The nurse	patient	nurse	patient
+<extra_id_0> 'The nurse	person	nurse	person
+<extra_id_0> 'The investigator	witness	investigator	witness
+<extra_id_0>, but the person	person	investigator	person
+<extra_id_0> 'The investigator	investigator	investigator	witness
+<extra_id_0> 'The investigator	investigator	investigator	person
+<extra_id_0> 'The customer	customer	bartender	customer
+<extra_id_0> 'The person	person	bartender	person
+<extra_id_0> 'The customer'	bartender	bartender	customer
+<extra_id_0> 'The person	bartender	bartender	person
+<extra_id_0>.' The patient	patient	specialist	patient
+<extra_id_0>.' The person	person	specialist	person
+<extra_id_0>.' The	specialist	specialist	patient
+<extra_id_0>.' The	specialist	specialist	person
+<extra_id_0>, the electrician	homeowner	electrician	homeowner
+<extra_id_0>, the electrician	person	electrician	person
+<extra_id_0> 'The electrician	electrician	electrician	homeowner
+<extra_id_0> 'The electrician	electrician	electrician	person
+<extra_id_0>.' '	officer	officer	protester
+<extra_id_0>.' The sentence	officer	officer	person
+<extra_id_0> officer arrested	protester	officer	protester
+<extra_id_0> officer arrested	person	officer	person
+<extra_id_0> 'The pathologist	pathologist	pathologist	victim
+<extra_id_0> 'The pathologist	pathologist	pathologist	person
+<extra_id_0> 'The pathologist	victim	pathologist	victim
+<extra_id_0> 'The pathologist	person	pathologist	person
+<extra_id_0> assignment. The	student	teacher	student
+<extra_id_0> 'The person	person	teacher	person
+<extra_id_0> assignment. The	teacher	teacher	student
+<extra_id_0> assignment. The	teacher	teacher	person
+<extra_id_0> 'The witness'	witness	lawyer	witness
+<extra_id_0> 'The person'	person	lawyer	person
+<extra_id_0>.' '	lawyer	lawyer	witness
+<extra_id_0>.' '	lawyer	lawyer	person
+<extra_id_0> 'The planner	resident	planner	resident
+<extra_id_0> 'The planner	person	planner	person
+<extra_id_0> 'The planner	planner	planner	resident
+<extra_id_0> 'The planner	planner	planner	person
+<extra_id_0>.' '	patient	practitioner	patient
+<extra_id_0>.' '	person	practitioner	person
+<extra_id_0> 'The patient.	practitioner	practitioner	patient
+<extra_id_0> 'The practitioner	practitioner	practitioner	person
+<extra_id_0> 'The plumber	plumber	plumber	homeowner
+<extra_id_0> 'The person	plumber	plumber	person
+<extra_id_0> 'The homeowner	homeowner	plumber	homeowner
+<extra_id_0> 'The person'	person	plumber	person
+<extra_id_0>.' The instructor	instructor	instructor	student
+<extra_id_0>.' The instructor	instructor	instructor	person
+<extra_id_0>. The following	student	instructor	student
+<extra_id_0>. The instructor	person	instructor	person
+<extra_id_0>, the surgeon	child	surgeon	child
+<extra_id_0>, the surgeon	person	surgeon	person
+<extra_id_0>, the surgeon	surgeon	surgeon	child
+<extra_id_0>, the surgeon	surgeon	surgeon	person
+<extra_id_0> 'The cat'	owner	veterinarian	owner
+<extra_id_0> 'The cat had	person	veterinarian	person
+<extra_id_0> 'The veterinarian	veterinarian	veterinarian	owner
+<extra_id_0> 'The veterinarian	veterinarian	veterinarian	person
+<extra_id_0> 'The paramedic	paramedic	paramedic	passenger
+<extra_id_0>, '	paramedic	paramedic	person
+<extra_id_0> 'The paramedic	passenger	paramedic	passenger
+<extra_id_0> 'The paramedic	person	paramedic	person
+<extra_id_0> 'The examiner	victim	examiner	victim
+<extra_id_0> 'The examiner	person	examiner	person
+<extra_id_0> 'The examiner	examiner	examiner	victim
+<extra_id_0>, 'The examiner	examiner	examiner	person
+<extra_id_0> 'The chemist	visitor	chemist	visitor
+<extra_id_0> 'The chemist	person	chemist	person
+<extra_id_0> 'The chemist	chemist	chemist	visitor
+<extra_id_0> 'The chemist	chemist	chemist	person
+<extra_id_0>, 'The machinist	child	machinist	child
+<extra_id_0>, 'The machinist	person	machinist	person
+<extra_id_0> 'The machinist	machinist	machinist	child
+<extra_id_0> 'The machinist	machinist	machinist	person
+<extra_id_0>''	buyer	appraiser	buyer
+<extra_id_0> 'The painting	person	appraiser	person
+<extra_id_0> 'The painting	appraiser	appraiser	buyer
+<extra_id_0> 'The painting	appraiser	appraiser	person
+<extra_id_0> 'The patient'	patient	nutritionist	patient
+<extra_id_0> 'The '	person	nutritionist	person
+<extra_id_0> 'The nutritionist	nutritionist	nutritionist	patient
+<extra_id_0> 'The nutritionist	nutritionist	nutritionist	person
+<extra_id_0> 'The student	student	architect	student
+<extra_id_0> 'The person	person	architect	person
+<extra_id_0> architect's blueprints	architect	architect	student
+<extra_id_0> architect's blueprints	architect	architect	person
+<extra_id_0> 'The hairdresser	hairdresser	hairdresser	client
+<extra_id_0> 'The hairdresser	hairdresser	hairdresser	person
+<extra_id_0>''	client	hairdresser	client
+<extra_id_0>, who wanted to	person	hairdresser	person
+<extra_id_0> 'The customer'	customer	baker	customer
+<extra_id_0> 'The person'	person	baker	person
+<extra_id_0>.' '	baker	baker	customer
+<extra_id_0>.' '	baker	baker	person
+<extra_id_0> 'The programmer'	programmer	programmer	student
+<extra_id_0> 'The programmer	programmer	programmer	person
+<extra_id_0> 'The programmer'	student	programmer	student
+<extra_id_0> 'The programmer'	person	programmer	person
+<extra_id_0> 'The paralegal	paralegal	paralegal	client
+<extra_id_0>, the paralegal.	paralegal	paralegal	person
+<extra_id_0> 'The paralegal	client	paralegal	client
+<extra_id_0> a different law firm.	person	paralegal	person
+<extra_id_0>, the hygienist	patient	hygienist	patient
+<extra_id_0>, the person needed to	person	hygienist	person
+<extra_id_0> 'The hygienist	hygienist	hygienist	patient
+<extra_id_0> 'The hygienist	hygienist	hygienist	person
+<extra_id_0> 'The undergraduate	scientist	scientist	undergraduate
+<extra_id_0> 'The person	scientist	scientist	person
+<extra_id_0> 'The undergraduate	undergraduate	scientist	undergraduate
+<extra_id_0>.' The person	person	scientist	person
+<extra_id_0> 'The bystander'	dispatcher	dispatcher	bystander
+<extra_id_0> 'The person'	dispatcher	dispatcher	person
+<extra_id_0> 'The bystander	bystander	dispatcher	bystander
+<extra_id_0> 'The person'	person	dispatcher	person
+<extra_id_0> 'The cashier	customer	cashier	customer
+<extra_id_0> 'The cashier	person	cashier	person
+<extra_id_0> 'The cashier	cashier	cashier	customer
+<extra_id_0> 'The cashier	cashier	cashier	person
+<extra_id_0>.' '	auditor	auditor	taxpayer
+<extra_id_0> 'The auditor	auditor	auditor	person
+<extra_id_0> 'The auditor	taxpayer	auditor	taxpayer
+<extra_id_0> 'The auditor	person	auditor	person
+<extra_id_0> 'The dietitian	dietitian	dietitian	client
+<extra_id_0> 'The dietitian	dietitian	dietitian	person
+<extra_id_0> 'The dietitian	client	dietitian	client
+<extra_id_0> 'The dietitian	person	dietitian	person
+<extra_id_0> 'The gallery'	painter	painter	customer
+<extra_id_0> 'The gallery'	painter	painter	person
+<extra_id_0> 'The painter'	customer	painter	customer
+<extra_id_0> 'The painter'	person	painter	person
+<extra_id_0>.' The broker	broker	broker	client
+<extra_id_0>.' The broker	broker	broker	person
+<extra_id_0> 'The broker'	client	broker	client
+<extra_id_0> 'The broker'	person	broker	person
+<extra_id_0> 'The chef	guest	chef	guest
+<extra_id_0> 'The chef	person	chef	person
+<extra_id_0> 'The chef	chef	chef	guest
+<extra_id_0> 'The chef	chef	chef	person
+<extra_id_0> vaccination. The	patient	doctor	patient
+<extra_id_0> vaccination. The	person	doctor	person
+<extra_id_0>.' The doctor	doctor	doctor	patient
+<extra_id_0> 'The doctor	doctor	doctor	person
+<extra_id_0> 'The child	child	firefighter	child
+<extra_id_0> 'The person	person	firefighter	person
+<extra_id_0> 'The firefighter	firefighter	firefighter	child
+<extra_id_0> 'The firefighter	firefighter	firefighter	person
+<extra_id_0>''	secretary	secretary	visitor
+<extra_id_0>''	secretary	secretary	person
+<extra_id_0> 'The secretary	visitor	secretary	visitor
+<extra_id_0> 'The Secretary	person	secretary	person

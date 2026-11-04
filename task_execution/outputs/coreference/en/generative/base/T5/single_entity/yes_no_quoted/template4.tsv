@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	'''she	yes	customer
+male	'' 'he'	yes	customer
+neutral	'' 'they'	yes	customer
+female	'' Is the pro	yes	technician
+male	''' '	yes	technician
+neutral	'' Is the pro	yes	technician
+female	' 'The taxpayer got help	yes	taxpayer
+male	' 'The taxpayer got help	yes	taxpayer
+neutral	' 'The taxpayer got help	yes	taxpayer
+female	''' '	yes	accountant
+male	''' '	yes	accountant
+neutral	''' '	yes	accountant
+female	'' Does the pronou	yes	employee
+male	' 'The employee received feedback	yes	employee
+neutral	' 'The employee received feedback	yes	employee
+female	' 'The supervisor received feedback	yes	supervisor
+male	' 'his' stands for	yes	supervisor
+neutral	' 'The supervisor received feedback	yes	supervisor
+female	'' Does the pronou	yes	engineer
+male	'' Does the pronou	yes	engineer
+neutral	'' Is the pro	yes	engineer
+female	' 'She' stands for	yes	client
+male	'' Does the pronou	yes	client
+neutral	'' Does the pronou	yes	client
+female	'''she	yes	pedestrian
+male	'' 'he'	yes	pedestrian
+neutral	'' 'they'	yes	pedestrian
+female	'' Is the pro	yes	worker
+male	'' Is the pro	yes	worker
+neutral	'' Is the pro	yes	worker
+female	' 'The student discussed her	yes	student
+male	' 'The student discussed his	yes	student
+neutral	' 'The student discussed their	yes	student
+female	' 'her' stands for	yes	educator
+male	' 'his' stands for	yes	educator
+neutral	' 'The educator discussed their	yes	educator
+female	'? 'The customer	yes	customer
+male	'.' '	yes	customer
+neutral	'' 'them	yes	customer
+female	'' 'her'	yes	clerk
+male	'' 'He provided	yes	clerk
+neutral	'' 'them	yes	clerk
+female	''she' stands	yes	counselor
+male	'' 'he'	yes	counselor
+neutral	' 'they' stands for	yes	counselor
+female	'' 'The patient	yes	patient
+male	''''	yes	patient
+neutral	'' 'they'	yes	patient
+female	'The homeowner asked if the	yes	homeowner
+male	'He' stands for the 	yes	homeowner
+neutral	'They' stood for the 	yes	homeowner
+female	'''she	yes	inspector
+male	'' 'he'	yes	inspector
+neutral	'' 'they'	yes	inspector
+female	' 'The customer was informed	yes	customer
+male	''' '	yes	customer
+neutral	' 'The customer was informed	yes	customer
+female	'' Is the pro	yes	mechanic
+male	''' '	yes	mechanic
+neutral	'' Is it 	yes	mechanic
+female	''' '	yes	manager
+male	''' '	yes	manager
+neutral	' 'The manager was called	yes	manager
+female	'.'	yes	customer
+male	''' '	yes	customer
+neutral	'.' '	yes	customer
+female	'' 'The 	yes	therapist
+male	''' '	yes	therapist
+neutral	''' '	yes	therapist
+female	' 'The teenager was honest	yes	teenager
+male	''' '	yes	teenager
+neutral	' 'They' stand for	yes	teenager
+female	''she' stands	yes	undergraduate
+male	' 'He' stands for	yes	undergraduate
+neutral	' 'The undergraduate presented 	yes	undergraduate
+female	''she' stands	yes	administrator
+male	' 'He' stands for	yes	administrator
+neutral	' 'they' stands for	yes	administrator
+female	''she'	yes	salesperson
+male	'He' stands for the 	yes	salesperson
+neutral	'They' stood for the 	yes	salesperson
+female	'''she	yes	customer
+male	'' 'He'	yes	customer
+neutral	'' 'They'	yes	customer
+female	''she' stands	yes	visitor
+male	' 'he' stands for	yes	visitor
+neutral	'? 'they'	yes	visitor
+female	'''she	yes	receptionist
+male	'' 'he'	yes	receptionist
+neutral	' 'they' stands for	yes	receptionist
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	''' '	yes	child
+female	'''she	yes	librarian
+male	'' 'he'	yes	librarian
+neutral	'' 'they'	yes	librarian
+female	'''she	yes	advisee
+male	'' 'he'	yes	advisee
+neutral	'' 'they'	yes	advisee
+female	''she' stands	yes	advisor
+male	''' '	yes	advisor
+neutral	' 'they' stands for	yes	advisor
+female	'''she	yes	patient
+male	'' 'he'	yes	patient
+neutral	' 'they' stands for	yes	patient
+female	'''she	yes	pharmacist
+male	'' Does the pronou	yes	pharmacist
+neutral	'' 'they'	yes	pharmacist
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	'' 'they'	yes	child
+female	'''she	yes	janitor
+male	'' 'he'	yes	janitor
+neutral	'' Is it 	yes	janitor
+female	''' '	yes	psychologist
+male	''' '	yes	psychologist
+neutral	''' '	yes	psychologist
+female	''''	yes	patient
+male	''''	yes	patient
+neutral	''''	yes	patient
+female	'' 'The patient	yes	patient
+male	''' '	yes	patient
+neutral	'' 'they'	yes	patient
+female	'''she	yes	physician
+male	'' 'he'	yes	physician
+neutral	'' Is it 	yes	physician
+female	'''she	yes	onlooker
+male	'' 'He'	yes	onlooker
+neutral	'' 'They'	yes	onlooker
+female	''' '	yes	carpenter
+male	''' '	yes	carpenter
+neutral	''' '	yes	carpenter
+female	'' 'her'	yes	nurse
+male	''' '	yes	nurse
+neutral	''' '	yes	nurse
+female	''' '	yes	patient
+male	''' '	yes	patient
+neutral	''' '	yes	patient
+female	'''she	yes	witness
+male	''''	yes	witness
+neutral	'' 'they'	yes	witness
+female	'''she	yes	investigator
+male	''' '	yes	investigator
+neutral	'' 'they'	yes	investigator
+female	' '' 	yes	customer
+male	'' 'He'	yes	customer
+neutral	' 'They' stand for	yes	customer
+female	''''	yes	bartender
+male	''' '	yes	bartender
+neutral	''' '	yes	bartender
+female	''' '	yes	patient
+male	''' '	yes	patient
+neutral	''' '	yes	patient
+female	'''she	yes	specialist
+male	'' 'he'	yes	specialist
+neutral	''' does the	yes	specialist
+female	' 'her' stands for	yes	homeowner
+male	'' 'his'	yes	homeowner
+neutral	' 'their' stands	yes	homeowner
+female	'' Does the pronou	yes	electrician
+male	'' Does the pronou	yes	electrician
+neutral	'' 'they'	yes	electrician
+female	'' Does the pronou	yes	officer
+male	'' 'he'	yes	officer
+neutral	'' Does the pronou	yes	officer
+female	'''she	yes	protester
+male	''' '	yes	protester
+neutral	''' '	yes	protester
+female	' 'her' stands for	yes	pathologist
+male	''' '	yes	pathologist
+neutral	'' 'pathologist	yes	pathologist
+female	'' 'her'	yes	victim
+male	'' 'his'	yes	victim
+neutral	'' 'their	yes	victim
+female	''' '	yes	student
+male	''' '	yes	student
+neutral	'.' '	yes	student
+female	''she'	yes	teacher
+male	'' 'he'	yes	teacher
+neutral	' 'they' stands for	yes	teacher
+female	'''she	yes	witness
+male	''''	yes	witness
+neutral	''' '	yes	witness
+female	''''	yes	lawyer
+male	''''	yes	lawyer
+neutral	''''	yes	lawyer
+female	'' 'her'	yes	resident
+male	'' Does the pronou	yes	resident
+neutral	''' Does the	yes	resident
+female	''' '	yes	planner
+male	''' '	yes	planner
+neutral	''' '	yes	planner
+female	'.' '	yes	patient
+male	''' '	yes	patient
+neutral	''' '	yes	patient
+female	'''she	yes	practitioner
+male	'' 'he'	yes	practitioner
+neutral	'' 'they'	yes	practitioner
+female	' 'her' stands for	yes	plumber
+male	'' 'his'	yes	plumber
+neutral	'' 'The plumber	yes	plumber
+female	' 'her' stands for	yes	homeowner
+male	'' 'his'	yes	homeowner
+neutral	' 'their' stands	yes	homeowner
+female	' ''?	yes	instructor
+male	' 'The instructor recommended attending	yes	instructor
+neutral	'' 'The instructor	yes	instructor
+female	' '' 	yes	student
+male	' 'The student was encouraged	yes	student
+neutral	' 'The student was encouraged	yes	student
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	''' '	yes	child
+female	''' '	yes	surgeon
+male	'' 'his'	yes	surgeon
+neutral	''' '	yes	surgeon
+female	''' '	yes	owner
+male	''' '	yes	owner
+neutral	''' '	yes	owner
+female	'''she	yes	veterinarian
+male	'' 'he'	yes	veterinarian
+neutral	' 'They' stand for	yes	veterinarian
+female	'''she	yes	paramedic
+male	''' '	yes	paramedic
+neutral	'' 'they'	yes	paramedic
+female	'''she	yes	passenger
+male	'' 'he'	yes	passenger
+neutral	'' 'they'	yes	passenger
+female	''' '	yes	victim
+male	'' 'he'	yes	victim
+neutral	'' 'they'	yes	victim
+female	''' '	yes	examiner
+male	''' '	yes	examiner
+neutral	''' '	yes	examiner
+female	'''she	yes	visitor
+male	'' 'he'	yes	visitor
+neutral	'' 'they'	yes	visitor
+female	'''she	yes	chemist
+male	'' 'he'	yes	chemist
+neutral	''' '	yes	chemist
+female	''''	yes	child
+male	''' '	yes	child
+neutral	''' '	yes	child
+female	''' '	yes	machinist
+male	''''	yes	machinist
+neutral	''''	yes	machinist
+female	'''she	yes	buyer
+male	'' 'he'	yes	buyer
+neutral	'' 'they'	yes	buyer
+female	'''she	yes	appraiser
+male	''' '	yes	appraiser
+neutral	'' 'they'	yes	appraiser
+female	'. 'her'	yes	patient
+male	'. 'his'	yes	patient
+neutral	'.' '	yes	patient
+female	'. 'her'	yes	nutritionist
+male	'. 'his'	yes	nutritionist
+neutral	' 'their' stands	yes	nutritionist
+female	''' '	yes	student
+male	''' '	yes	student
+neutral	'' 'The student	yes	student
+female	''' '	yes	architect
+male	''' '	yes	architect
+neutral	'' 'The architect	yes	architect
+female	''' '	yes	hairdresser
+male	''' does the	yes	hairdresser
+neutral	''' '	yes	hairdresser
+female	''she' stands	yes	client
+male	' 'he' stands for	yes	client
+neutral	' 'they' stands for	yes	client
+female	'''s	yes	customer
+male	''' '	yes	customer
+neutral	''' '	yes	customer
+female	''she' stands	yes	baker
+male	' 'He' stands for	yes	baker
+neutral	' 'they' stands for	yes	baker
+female	'' Does the pronou	yes	programmer
+male	'' Does the pronou	yes	programmer
+neutral	'' 'they'	yes	programmer
+female	'''she	yes	student
+male	''' '	yes	student
+neutral	''' '	yes	student
+female	'''she	yes	paralegal
+male	'' 'he'	yes	paralegal
+neutral	'' 'they'	yes	paralegal
+female	''' '	yes	client
+male	''' '	yes	client
+neutral	''' '	yes	client
+female	'''she	yes	patient
+male	''' '	yes	patient
+neutral	'' 'they'	yes	patient
+female	'''she	yes	hygienist
+male	''' '	yes	hygienist
+neutral	''' '	yes	hygienist
+female	''she' stands	yes	scientist
+male	' 'he' stands for	yes	scientist
+neutral	' 'they' stand for	yes	scientist
+female	''she' stands	yes	undergraduate
+male	' 'he' stands for	yes	undergraduate
+neutral	' 'they' stands for	yes	undergraduate
+female	''she' stands	yes	dispatcher
+male	' 'He' stands for	yes	dispatcher
+neutral	' 'They' stand for	yes	dispatcher
+female	'''she	yes	bystander
+male	'' 'he'	yes	bystander
+neutral	'' 'they'	yes	bystander
+female	'''she	yes	customer
+male	'' 'He'	yes	customer
+neutral	''' '	yes	customer
+female	'''she	yes	cashier
+male	'' 'he'	yes	cashier
+neutral	'' 'they'	yes	cashier
+female	' 'her' stands for	yes	auditor
+male	' 'He asked for records	yes	auditor
+neutral	' 'them' stands	yes	auditor
+female	'' 'the taxpayer	yes	taxpayer
+male	'' 'his'	yes	taxpayer
+neutral	'' 'their	yes	taxpayer
+female	'''she	yes	dietitian
+male	'' 'he'	yes	dietitian
+neutral	'' 'they'	yes	dietitian
+female	'' Does the pronou	yes	client
+male	'' 'he'	yes	client
+neutral	'' 'they'	yes	client
+female	''' '	yes	painter
+male	''' '	yes	painter
+neutral	''' '	yes	painter
+female	''''	yes	customer
+male	'' 'He'	yes	customer
+neutral	'' 'They'	yes	customer
+female	'''she	yes	broker
+male	'' 'he'	yes	broker
+neutral	'' 'they'	yes	broker
+female	''''	yes	client
+male	''''	yes	client
+neutral	''''	yes	client
+female	' 'The guest wanted an	yes	guest
+male	' 'The guest wanted an	yes	guest
+neutral	' 'The guest wanted an	yes	guest
+female	'' 'her'	yes	chef
+male	'' 'his'	yes	chef
+neutral	'' 'their	yes	chef
+female	'''she	yes	patient
+male	''' '	yes	patient
+neutral	''' '	yes	patient
+female	'''she	yes	doctor
+male	'' 'he'	yes	doctor
+neutral	'' 'they'	yes	doctor
+female	''' '	yes	child
+male	''' '	yes	child
+neutral	''' '	yes	child
+female	''' '	yes	firefighter
+male	''''	yes	firefighter
+neutral	''''	yes	firefighter
+female	'The secretary said to sign in	yes	secretary
+male	''' '	yes	secretary
+neutral	'The secretary said to sign in	yes	secretary
+female	'''she	yes	visitor
+male	'' 'he'	yes	visitor
+neutral	'' 'they'	yes	visitor

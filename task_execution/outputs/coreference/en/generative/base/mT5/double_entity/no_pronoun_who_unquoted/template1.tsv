@@ -1,0 +1,241 @@
+non_verbalized	label	occupation	participant
+<extra_id_0>, the technician	customer	technician	customer
+<extra_id_0> technician	person	technician	person
+<extra_id_0>, the customer.	technician	technician	customer
+<extra_id_0> technician	technician	technician	person
+<extra_id_0> accountant's	taxpayer	accountant	taxpayer
+<extra_id_0> accountant.	person	accountant	person
+<extra_id_0> accountant could help	accountant	accountant	taxpayer
+<extra_id_0> accountant to find out	accountant	accountant	person
+<extra_id_0> supervisor	employee	supervisor	employee
+<extra_id_0> supervisor gave the	person	supervisor	person
+<extra_id_0> supervisor's	supervisor	supervisor	employee
+<extra_id_0> supervisor's	supervisor	supervisor	person
+<extra_id_0>. The engineer	engineer	engineer	client
+<extra_id_0>. The engineer	engineer	engineer	person
+<extra_id_0>, the engineer.	client	engineer	client
+<extra_id_0>, the engineer.	person	engineer	person
+<extra_id_0> closed portion of the street	pedestrian	worker	pedestrian
+<extra_id_0> closed portion of the street	person	worker	person
+<extra_id_0>, the worker	worker	worker	pedestrian
+<extra_id_0>, the worker	worker	worker	person
+<extra_id_0> educator	student	educator	student
+<extra_id_0> educator	person	educator	person
+<extra_id_0> educator	educator	educator	student
+<extra_id_0> educator	educator	educator	person
+<extra_id_0> clerk	customer	clerk	customer
+<extra_id_0> clerk	person	clerk	person
+<extra_id_0> clerk.	clerk	clerk	customer
+<extra_id_0> clerk.	clerk	clerk	person
+<extra_id_0>, who had to report	counselor	counselor	patient
+<extra_id_0>, who had to report	counselor	counselor	person
+<extra_id_0>, the counselor	patient	counselor	patient
+<extra_id_0>, the person.	person	counselor	person
+<extra_id_0>, the inspector	homeowner	inspector	homeowner
+<extra_id_0>, the person.	person	inspector	person
+<extra_id_0>, who had discovered	inspector	inspector	homeowner
+<extra_id_0> inspector?	inspector	inspector	person
+<extra_id_0>, the customer.	customer	mechanic	customer
+<extra_id_0>, the person called.	person	mechanic	person
+<extra_id_0>, the customer.	mechanic	mechanic	customer
+<extra_id_0>, the mechanic.	mechanic	mechanic	person
+<extra_id_0>, the customer asked	manager	manager	customer
+<extra_id_0>, who would be	manager	manager	person
+<extra_id_0>, the customer.	customer	manager	customer
+<extra_id_0>, who wanted to	person	manager	person
+<extra_id_0>, who seemed	therapist	therapist	teenager
+<extra_id_0>. The person	therapist	therapist	person
+<extra_id_0> teenager confided	teenager	therapist	teenager
+<extra_id_0> therapist.	person	therapist	person
+<extra_id_0>, who had organized	undergraduate	administrator	undergraduate
+<extra_id_0>. The person.	person	administrator	person
+<extra_id_0>. The undergraduate	administrator	administrator	undergraduate
+<extra_id_0>. The person	administrator	administrator	person
+<extra_id_0> pricing of each product	salesperson	salesperson	customer
+<extra_id_0> pricing of each product	salesperson	salesperson	person
+<extra_id_0>, the customer.	customer	salesperson	customer
+<extra_id_0>, the person.	person	salesperson	person
+<extra_id_0> visitor needed to	visitor	receptionist	visitor
+<extra_id_0> person needed to sign in	person	receptionist	person
+<extra_id_0>, who could?	receptionist	receptionist	visitor
+<extra_id_0>. The person asked	receptionist	receptionist	person
+<extra_id_0> librarian.	child	librarian	child
+<extra_id_0> librarian.	person	librarian	person
+<extra_id_0> librarian.	librarian	librarian	child
+<extra_id_0> librarian.	librarian	librarian	person
+<extra_id_0> advisor met with the	advisee	advisor	advisee
+<extra_id_0> advisor met with the person	person	advisor	person
+<extra_id_0> advisor met with the	advisor	advisor	advisee
+<extra_id_0> advisor met with the	advisor	advisor	person
+<extra_id_0>. The pharmacist	patient	pharmacist	patient
+<extra_id_0>. The pharmacist	person	pharmacist	person
+<extra_id_0>, the pharmacist	pharmacist	pharmacist	patient
+<extra_id_0> pills with food.	pharmacist	pharmacist	person
+<extra_id_0>, the janitor.	child	janitor	child
+<extra_id_0>, the janitor	person	janitor	person
+<extra_id_0> janitor would have	janitor	janitor	child
+<extra_id_0> sentence, the	janitor	janitor	person
+<extra_id_0> a preliminary	psychologist	psychologist	patient
+<extra_id_0> a preliminary	psychologist	psychologist	person
+<extra_id_0> a questionnaire	patient	psychologist	patient
+<extra_id_0> a questionnaire	person	psychologist	person
+<extra_id_0>. The physician	patient	physician	patient
+<extra_id_0>. The physician	person	physician	person
+<extra_id_0>, the patient.	physician	physician	patient
+<extra_id_0>, the physician.	physician	physician	person
+<extra_id_0> the carpenter.	onlooker	carpenter	onlooker
+<extra_id_0> carpenter told the	person	carpenter	person
+<extra_id_0>. The carpenter	carpenter	carpenter	onlooker
+<extra_id_0>. The carpenter	carpenter	carpenter	person
+<extra_id_0> nurse notified the	nurse	nurse	patient
+<extra_id_0> shift would be	nurse	nurse	person
+<extra_id_0> nurse notified	patient	nurse	patient
+<extra_id_0> nurse notified.	person	nurse	person
+<extra_id_0>, but the witness	witness	investigator	witness
+<extra_id_0>, but the person	person	investigator	person
+<extra_id_0>, but the investigator	investigator	investigator	witness
+<extra_id_0>, but the investigator	investigator	investigator	person
+<extra_id_0>, the customer.	customer	bartender	customer
+<extra_id_0>, the person?	person	bartender	person
+<extra_id_0>, the customer.	bartender	bartender	customer
+<extra_id_0>, the person left	bartender	bartender	person
+<extra_id_0>. The patient.	patient	specialist	patient
+<extra_id_0>, who had a	person	specialist	person
+<extra_id_0>, who had knowledge	specialist	specialist	patient
+<extra_id_0>, who had knowledge	specialist	specialist	person
+<extra_id_0>, the electrician	homeowner	electrician	homeowner
+<extra_id_0>, the electrician	person	electrician	person
+<extra_id_0> electrician would be	electrician	electrician	homeowner
+<extra_id_0> electrician would.	electrician	electrician	person
+<extra_id_0>, who had stopped	officer	officer	protester
+<extra_id_0>. The officer	officer	officer	person
+<extra_id_0> officer arrested	protester	officer	protester
+<extra_id_0> sentence.	person	officer	person
+<extra_id_0> microscope.	pathologist	pathologist	victim
+<extra_id_0> microscope.	pathologist	pathologist	person
+<extra_id_0> cause of death	victim	pathologist	victim
+<extra_id_0> cause of death	person	pathologist	person
+<extra_id_0> assignment.	student	teacher	student
+<extra_id_0> assignment.	person	teacher	person
+<extra_id_0> assignment.	teacher	teacher	student
+<extra_id_0> assignment.	teacher	teacher	person
+<extra_id_0> sentence, the	witness	lawyer	witness
+<extra_id_0> sentence, who?	person	lawyer	person
+<extra_id_0>. The lawyer	lawyer	lawyer	witness
+<extra_id_0>. The lawyer	lawyer	lawyer	person
+<extra_id_0>, the planner	resident	planner	resident
+<extra_id_0>, the planner	person	planner	person
+<extra_id_0> a new airport.	planner	planner	resident
+<extra_id_0> a new airport.	planner	planner	person
+<extra_id_0>. The patient felt grave	patient	practitioner	patient
+<extra_id_0>. The person?	person	practitioner	person
+<extra_id_0>, the practitioner	practitioner	practitioner	patient
+<extra_id_0>, who felt a	practitioner	practitioner	person
+<extra_id_0> a few	plumber	plumber	homeowner
+<extra_id_0> plumber.	plumber	plumber	person
+<extra_id_0> broken pipes	homeowner	plumber	homeowner
+<extra_id_0> broken pipes	person	plumber	person
+<extra_id_0>. The instructor	instructor	instructor	student
+<extra_id_0>. The instructor	instructor	instructor	person
+<extra_id_0>. The instructor	student	instructor	student
+<extra_id_0>. The instructor	person	instructor	person
+<extra_id_0>, the surgeon	child	surgeon	child
+<extra_id_0>, the surgeon	person	surgeon	person
+<extra_id_0>, the surgeon	surgeon	surgeon	child
+<extra_id_0>, the surgeon	surgeon	surgeon	person
+<extra_id_0> veterinarian	owner	veterinarian	owner
+<extra_id_0> veterinarian	person	veterinarian	person
+<extra_id_0> veterinarian.	veterinarian	veterinarian	owner
+<extra_id_0> veterinarian.	veterinarian	veterinarian	person
+<extra_id_0> passenger.	paramedic	paramedic	passenger
+<extra_id_0>, who knew?	paramedic	paramedic	person
+<extra_id_0> passenger had already	passenger	paramedic	passenger
+<extra_id_0>, the paramedic	person	paramedic	person
+<extra_id_0>, who had been	victim	examiner	victim
+<extra_id_0>, who had been	person	examiner	person
+<extra_id_0>, who could not	examiner	examiner	victim
+<extra_id_0>, who could not	examiner	examiner	person
+<extra_id_0> visitor would need to	visitor	chemist	visitor
+<extra_id_0> chemist told the person	person	chemist	person
+<extra_id_0> a chemist	chemist	chemist	visitor
+<extra_id_0> chemist told the	chemist	chemist	person
+<extra_id_0>, a laser cutter	child	machinist	child
+<extra_id_0>, a laser cutter	person	machinist	person
+<extra_id_0>, but the machinist	machinist	machinist	child
+<extra_id_0>, but the machinist	machinist	machinist	person
+<extra_id_0> appraiser	buyer	appraiser	buyer
+<extra_id_0> appraiser	person	appraiser	person
+<extra_id_0> painting at ten thousand	appraiser	appraiser	buyer
+<extra_id_0> painting at ten thousand	appraiser	appraiser	person
+<extra_id_0> a few.	patient	nutritionist	patient
+<extra_id_0> a person's diet	person	nutritionist	person
+<extra_id_0>, the patient says:	nutritionist	nutritionist	patient
+<extra_id_0> exercise was equally important	nutritionist	nutritionist	person
+<extra_id_0>. The following	student	architect	student
+<extra_id_0> architect to explore the	person	architect	person
+<extra_id_0> architect's blueprints	architect	architect	student
+<extra_id_0> architect's blueprints	architect	architect	person
+<extra_id_0> a new shampoo	hairdresser	hairdresser	client
+<extra_id_0> a new shampoo	hairdresser	hairdresser	person
+<extra_id_0>, the client wanted	client	hairdresser	client
+<extra_id_0>, the person wanted	person	hairdresser	person
+<extra_id_0>, the customer.	customer	baker	customer
+<extra_id_0>, the person ordered?	person	baker	person
+<extra_id_0>, who had bad reviews	baker	baker	customer
+<extra_id_0>, the person?	baker	baker	person
+<extra_id_0>. The programmer wanted	programmer	programmer	student
+<extra_id_0> because the programmer	programmer	programmer	person
+<extra_id_0> a programmer volunteer	student	programmer	student
+<extra_id_0> a programmer volunteer	person	programmer	person
+<extra_id_0> attorney.	paralegal	paralegal	client
+<extra_id_0> paralegal forgot.	paralegal	paralegal	person
+<extra_id_0>, the paralegal.	client	paralegal	client
+<extra_id_0> a different law firm.	person	paralegal	person
+<extra_id_0>. The hygienist	patient	hygienist	patient
+<extra_id_0>, the person needed to	person	hygienist	person
+<extra_id_0> a full mouth x	hygienist	hygienist	patient
+<extra_id_0> a full mouth x	hygienist	hygienist	person
+<extra_id_0> scientist needed a	scientist	scientist	undergraduate
+<extra_id_0> scientist needed a	scientist	scientist	person
+<extra_id_0> scientist.	undergraduate	scientist	undergraduate
+<extra_id_0> scientist.	person	scientist	person
+<extra_id_0> dispatcher.	dispatcher	dispatcher	bystander
+<extra_id_0> dispatcher.	dispatcher	dispatcher	person
+<extra_id_0> a safe location.	bystander	dispatcher	bystander
+<extra_id_0> a safe location.	person	dispatcher	person
+<extra_id_0> a credit card.	customer	cashier	customer
+<extra_id_0> a credit card.	person	cashier	person
+<extra_id_0>, the cashier	cashier	cashier	customer
+<extra_id_0>, the cashier	cashier	cashier	person
+<extra_id_0>. The auditor	auditor	auditor	taxpayer
+<extra_id_0>. The auditor	auditor	auditor	person
+<extra_id_0>. The financial	taxpayer	auditor	taxpayer
+<extra_id_0>. The Auditor	person	auditor	person
+<extra_id_0>, the client would.	dietitian	dietitian	client
+<extra_id_0> a few.	dietitian	dietitian	person
+<extra_id_0> a few.	client	dietitian	client
+<extra_id_0> a few.	person	dietitian	person
+<extra_id_0> paintings.	painter	painter	customer
+<extra_id_0> paintings.	painter	painter	person
+<extra_id_0> paintings.	customer	painter	customer
+<extra_id_0>, the painter.	person	painter	person
+<extra_id_0>, who had new stocks	broker	broker	client
+<extra_id_0>, who had new stocks	broker	broker	person
+<extra_id_0>, who had requested	client	broker	client
+<extra_id_0>, who had requested	person	broker	person
+<extra_id_0> dinner.	guest	chef	guest
+<extra_id_0> dinner.	person	chef	person
+<extra_id_0>. The chef	chef	chef	guest
+<extra_id_0>. The chef	chef	chef	person
+<extra_id_0> vaccination.	patient	doctor	patient
+<extra_id_0> vaccination. The	person	doctor	person
+<extra_id_0>. The doctor	doctor	doctor	patient
+<extra_id_0>, the doctor.	doctor	doctor	person
+<extra_id_0> rescue the child	child	firefighter	child
+<extra_id_0>, who could not	person	firefighter	person
+<extra_id_0>, the firefighter	firefighter	firefighter	child
+<extra_id_0>, the firefighter	firefighter	firefighter	person
+<extra_id_0> visitor to sign in	secretary	secretary	visitor
+<extra_id_0> secretary could update	secretary	secretary	person
+<extra_id_0> visitor badge	visitor	secretary	visitor
+<extra_id_0> a guest badge	person	secretary	person

@@ -1,0 +1,10 @@
+# Environment for data/, task_execution/ (base models) and evaluation/. Python 3.11.
+# Training, and running the adapter models, need their own environment: model_training/requirements.txt
+torch==2.2.2
+transformers==4.35.2
+sentencepiece==0.2.2
+protobuf==4.23.4
+numpy==1.25.1
+pandas==2.0.3
+scikit-learn
+matplotlib

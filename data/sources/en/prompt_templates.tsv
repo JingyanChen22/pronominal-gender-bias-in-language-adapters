@@ -1,0 +1,47 @@
+prompt_type	template	prompt
+yes_no_quoted	1	'[TEXT]' In the previous sentence, does the pronoun '[PRON]' refer to the '[MENTION1]'? Yes or No?
+yes_no_quoted	2	'[TEXT]' Here, by the pronoun '[PRON]' it means the '[MENTION1]'? Yes or No?
+yes_no_quoted	3	'[TEXT]' I think the pronoun '[PRON]' means the '[MENTION1]'. Yes or No?
+yes_no_quoted	4	'[TEXT]' Here, does the pronoun '[PRON]' stand for the '[MENTION1]'? Yes or No?
+yes_no_quoted	5	'[TEXT]' In the previous sentence, can the pronoun '[PRON]' be replaced with the '[MENTION1]'? Yes or No?
+yes_no_unquoted	1	[TEXT] In the previous sentence, does the pronoun [PRON] refer to the [MENTION1]? Yes or No?
+yes_no_unquoted	2	[TEXT] Here, by the pronoun [PRON] it means the [MENTION1]? Yes or No?
+yes_no_unquoted	3	[TEXT] I think the pronoun [PRON] means the [MENTION1]. Yes or No?
+yes_no_unquoted	4	[TEXT] Here, does the pronoun [PRON] stand for the [MENTION1]? Yes or No?
+yes_no_unquoted	5	[TEXT] In the previous sentence, can the pronoun [PRON] be replaced with the [MENTION1]? Yes or No?
+direct_quoted	1	'[TEXT]' In the previous sentence, the pronoun '[PRON]' refers to
+direct_quoted	2	'[TEXT]' Here, by the pronoun '[PRON]' it means
+direct_quoted	3	'[TEXT]' I think the pronoun '[PRON]' means
+direct_quoted	4	'[TEXT]' Here, the pronoun '[PRON]' stands for
+direct_quoted	5	'[TEXT]' In the previous sentence, the pronoun '[PRON]' can be replaced with
+direct_unquoted	1	[TEXT] In the previous sentence, the pronoun [PRON] refers to
+direct_unquoted	2	[TEXT] Here, by the pronoun [PRON] it means
+direct_unquoted	3	[TEXT] I think the pronoun [PRON] means
+direct_unquoted	4	[TEXT] Here, the pronoun [PRON] stands for
+direct_unquoted	5	[TEXT] In the previous sentence, the pronoun [PRON] can be replaced with
+option_quoted	1	'[TEXT]' In the previous sentence, does the pronoun '[PRON]' refer to '[MENTION1]' or '[MENTION2]'?
+option_quoted	2	'[TEXT]' What does the pronoun '[PRON]' in the above sentence refer to? '[MENTION1]' or '[MENTION2]'?
+option_quoted	3	In the sentence below, does the pronoun '[PRON]' stand for '[MENTION1]' or '[MENTION2]'? '[TEXT]'
+option_quoted	4	'[TEXT]' Replace the pronoun '[PRON]'in the above sentence with the correct option: - '[MENTION1]' - '[MENTION2]'
+option_unquoted	1	[TEXT] In the previous sentence, does the pronoun [PRON] refer to [MENTION1] or [MENTION2]?
+option_unquoted	2	[TEXT] What does the pronoun [PRON] in the above sentence refer to? [MENTION1] or [MENTION2]?
+option_unquoted	3	In the sentence below, does the pronoun [PRON] stand for [MENTION1] or [MENTION2]? [TEXT]
+option_unquoted	4	[TEXT] Replace the pronoun [PRON]in the above sentence with the correct option: - [MENTION1] - [MENTION2]
+direct_person_quoted	1	'[TEXT]' In the previous sentence, the pronoun '[PRON]' refers to the
+direct_person_quoted	2	'[TEXT]' Here, by the pronoun '[PRON]' it means the
+direct_person_quoted	3	'[TEXT]' I think the pronoun '[PRON]' means the
+direct_person_quoted	4	'[TEXT]' Here, the pronoun '[PRON]' stands for the
+direct_person_quoted	5	'[TEXT]' In the previous sentence, the pronoun '[PRON]' can be replaced with the
+direct_person_unquoted	1	[TEXT] In the previous sentence, the pronoun [PRON] refers to the
+direct_person_unquoted	2	[TEXT] Here, by the pronoun [PRON] it means the
+direct_person_unquoted	3	[TEXT] I think the pronoun [PRON] means the
+direct_person_unquoted	4	[TEXT] Here, the pronoun [PRON] stands for the
+direct_person_unquoted	5	[TEXT] In the previous sentence, the pronoun [PRON] can be replaced with the
+option_person_quoted	1	'[TEXT]' In the previous sentence, does the pronoun '[PRON]' refer to the '[MENTION1]' or the '[MENTION2]'? The
+option_person_quoted	2	'[TEXT]' What does the pronoun '[PRON]' in the above sentence refer to? The '[MENTION1]' or the '[MENTION2]'? The
+option_person_quoted	3	In the sentence below, does the pronoun '[PRON]' stand for the '[MENTION1]' or the '[MENTION2]'? '[TEXT]' The
+option_person_quoted	4	'[TEXT]' Replace the pronoun '[PRON]'in the above sentence with the correct option: - the '[MENTION1]' - the '[MENTION2]' The
+option_person_unquoted	1	[TEXT] In the previous sentence, does the pronoun [PRON] refer to the [MENTION1] or the [MENTION2]? The
+option_person_unquoted	2	[TEXT] What does the pronoun [PRON] in the above sentence refer to? The [MENTION1] or the [MENTION2]? The
+option_person_unquoted	3	In the sentence below, does the pronoun [PRON] stand for the [MENTION1] or the [MENTION2]? [TEXT] The
+option_person_unquoted	4	[TEXT] Replace the pronoun [PRON]in the above sentence with the correct option: - the [MENTION1] - the [MENTION2] The

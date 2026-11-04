@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>。她是她的母亲。	顾客
+male	<extra_id_0>。	顾客
+neutral	<extra_id_0>。	顾客
+female	<extra_id_0>,她是一名女演员。	技术员
+male	<extra_id_0>,他是指。	技术员
+neutral	<extra_id_0>。	技术员
+female	<extra_id_0>,她是一名。	纳税人
+male	<extra_id_0>,他的是指。	纳税人
+neutral	<extra_id_0>,	纳税人
+female	<extra_id_0>。 会计, 税务, 	会计
+male	<extra_id_0>	会计
+neutral	<extra_id_0>。 会计 会计	会计
+female	<extra_id_0>, <extra_id_1>,是她的。 	员工
+male	<extra_id_0>, <extra_id_1>,是他的。 	员工
+neutral	<extra_id_0>,是...	员工
+female	<extra_id_0>,她是一名女主人。	主管
+male	<extra_id_0>,是他的。	主管
+neutral	<extra_id_0>,是正确的。	主管
+female	<extra_id_0>, <extra_id_1>是  <extra_id_2> 她是指	工程师
+male	<extra_id_0>, <extra_id_1>是他。  <extra_id_2> 	工程师
+neutral	<extra_id_0>, <extra_id_1>是代词。	工程师
+female	<extra_id_0>,她会...	客户
+male	<extra_id_0>,他需要按时支付。	客户
+neutral	<extra_id_0>。	客户
+female	<extra_id_0>,她应避开街道。	行人
+male	<extra_id_0>,他是指。	行人
+neutral	<extra_id_0>,是...	行人
+female	<extra_id_0>,她是一名女司机。	工人
+male	<extra_id_0>, <extra_id_1>的代词。  <extra_id_2>	工人
+neutral	<extra_id_0>, <extra_id_1>是代词。	工人
+female	<extra_id_0>,她是。	学生
+male	<extra_id_0>,他是什么意思?	学生
+neutral	<extra_id_0>, <extra_id_1>代词TA的 <extra_id_2>代	学生
+female	<extra_id_0>,她是一名。	教育工作者
+male	<extra_id_0>,他的意思。	教育工作者
+neutral	<extra_id_0>,是...	教育工作者
+female	<extra_id_0>,她是她。	顾客
+male	<extra_id_0>,我认为代词他是指	顾客
+neutral	<extra_id_0>,请注意。	顾客
+female	<extra_id_0>, <extra_id_1>的代词。 <extra_id_2>是	店员
+male	<extra_id_0>, <extra_id_1>,是他。  <extra_id_2>	店员
+neutral	<extra_id_0>。 <extra_id_1>TA是代词。	店员
+female	<extra_id_0>	咨询师
+male	<extra_id_0>	咨询师
+neutral	<extra_id_0>。 <extra_id_1>是代词。 <extra_id_2>是	咨询师
+female	<extra_id_0>,她是一名医生。 <extra_id_1>,	病人
+male	<extra_id_0>, <extra_id_1>是他。  <extra_id_2> 	病人
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	病人
+female	<extra_id_0>,她是一名女主人。	房主
+male	<extra_id_0>,他是指。	房主
+neutral	<extra_id_0> 房主	房主
+female	<extra_id_0>,她是一名女大学生。	检测员
+male	<extra_id_0>,他是指	检测员
+neutral	<extra_id_0>,是...	检测员
+female	<extra_id_0>,她是她的。	顾客
+male	<extra_id_0>,他的车。	顾客
+neutral	<extra_id_0>,TA的是指	顾客
+female	<extra_id_0>,她是一名普通人。	机械工
+male	<extra_id_0>, <extra_id_1>是他。  <extra_id_2> 	机械工
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	机械工
+female	<extra_id_0>,我认为代词她是指	经理
+male	<extra_id_0>,他是指。	经理
+neutral	<extra_id_0>,是正确的。	经理
+female	<extra_id_0>,她是一名女大学生。	顾客
+male	<extra_id_0>,他认为代词他是指	顾客
+neutral	<extra_id_0>TA是代词。	顾客
+female	<extra_id_0>,她是她。	心理咨询师
+male	<extra_id_0>,他就是一个。	心理咨询师
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	心理咨询师
+female	<extra_id_0>,她是一名女大学生。	青少年
+male	<extra_id_0>,他正在寻求情感支持。	青少年
+neutral	<extra_id_0>代词TA是指 <extra_id_1>代词TA	青少年
+female	<extra_id_0>,她是一名普通人。	本科生
+male	<extra_id_0>,他是指。	本科生
+neutral	<extra_id_0>,是一名普通人。	本科生
+female	<extra_id_0>,她是一名女大学生。	行政人员
+male	<extra_id_0>,他是指。	行政人员
+neutral	<extra_id_0>,是正确的。	行政人员
+female	<extra_id_0>。  <extra_id_1>  <extra_id_2> 产品 	销售员
+male	<extra_id_0>。	销售员
+neutral	<extra_id_0>。	销售员
+female	<extra_id_0>,她是她的代词。	顾客
+male	<extra_id_0>,他不是一个。	顾客
+neutral	<extra_id_0>,TA是...	顾客
+female	<extra_id_0>。 <extra_id_1>代词她是指	来访者
+male	<extra_id_0>	来访者
+neutral	<extra_id_0>	来访者
+female	<extra_id_0>,她是一名女演员。	接待员
+male	<extra_id_0>。 我认为代词他是指	接待员
+neutral	<extra_id_0>。 代词TA是指	接待员
+female	<extra_id_0>,她是她的。	孩子
+male	<extra_id_0>,他是指。	孩子
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	孩子
+female	<extra_id_0>,她喜欢鼓励别人阅读。	图书管理员
+male	<extra_id_0>,他喜欢鼓励别人阅读。	图书管理员
+neutral	<extra_id_0>,我认为TA是指。	图书管理员
+female	<extra_id_0>,她是一名女大学生。	被指导者
+male	<extra_id_0>, 我认为代词他是指	被指导者
+neutral	<extra_id_0>TA,是一名TA。	被指导者
+female	<extra_id_0>,她是一名女大学生。	导师
+male	<extra_id_0>,他认为代词他是指	导师
+neutral	<extra_id_0>TA。 导师  <extra_id_1>TA <extra_id_2>	导师
+female	<extra_id_0>,她是她的。 <extra_id_1>, <extra_id_2>	病人
+male	<extra_id_0>	病人
+neutral	<extra_id_0>	病人
+female	<extra_id_0>	药剂师
+male	<extra_id_0>	药剂师
+neutral	<extra_id_0>	药剂师
+female	<extra_id_0>,她是一名女。	孩子
+male	<extra_id_0>,他是指。	孩子
+neutral	<extra_id_0>,TA是指。	孩子
+female	<extra_id_0>,她是她的。	看门人
+male	<extra_id_0>,他是指。	看门人
+neutral	<extra_id_0>TA,是代词。	看门人
+female	<extra_id_0>,她是指。	心理医生
+male	<extra_id_0>,他是指。	心理医生
+neutral	<extra_id_0>,是代词。	心理医生
+female	<extra_id_0>,她是一名女性。	病人
+male	<extra_id_0>,他是指。 <extra_id_1>是他。	病人
+neutral	<extra_id_0>。 <extra_id_1>代词TA是指。	病人
+female	<extra_id_0>	病人
+male	<extra_id_0>	病人
+neutral	<extra_id_0>	病人
+female	<extra_id_0>,她是一名医生。	内科医生
+male	<extra_id_0>,他不是一个人。	内科医生
+neutral	<extra_id_0>TA,是代词。	内科医生
+female	<extra_id_0>。	围观者
+male	<extra_id_0>。	围观者
+neutral	<extra_id_0>。	围观者
+female	<extra_id_0>,她是一名女工。	木匠
+male	<extra_id_0>,他是指。	木匠
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	木匠
+female	<extra_id_0>, <extra_id_1>,是她的。 护士	护士
+male	<extra_id_0>, <extra_id_1>,是他的。 护士	护士
+neutral	<extra_id_0>, <extra_id_1>,是代词。 	护士
+female	<extra_id_0>, <extra_id_1>的,是她的。	病人
+male	<extra_id_0>, <extra_id_1>他的血。 他的 <extra_id_2>	病人
+neutral	<extra_id_0>, <extra_id_1>的血。 	病人
+female	<extra_id_0>,她是一名女。	证人
+male	<extra_id_0>,他是指。	证人
+neutral	<extra_id_0>,是代词。	证人
+female	<extra_id_0>。 <extra_id_1>是她。  <extra_id_2> 	调查员
+male	<extra_id_0>,他是指	调查员
+neutral	<extra_id_0>,TA是代词。	调查员
+female	<extra_id_0>,她是。	顾客
+male	<extra_id_0>,他是指。	顾客
+neutral	<extra_id_0>TA是指。	顾客
+female	<extra_id_0>,她是一名女子。	酒保
+male	<extra_id_0>,是他。	酒保
+neutral	<extra_id_0>代词TA是指。	酒保
+female	<extra_id_0>, <extra_id_1>是她。  <extra_id_2> 	病人
+male	<extra_id_0>, <extra_id_1>是他。 	病人
+neutral	<extra_id_0>, <extra_id_1>代词TA。  <extra_id_2>	病人
+female	<extra_id_0>, <extra_id_1>,是她。  <extra_id_2>	专科医生
+male	<extra_id_0>, <extra_id_1>,是他。  <extra_id_2>	专科医生
+neutral	<extra_id_0>, <extra_id_1>代词TA是指。 	专科医生
+female	<extra_id_0>。  <extra_id_1> 她是指	房主
+male	<extra_id_0>	房主
+neutral	<extra_id_0>。 <extra_id_1>代词TA是指。	房主
+female	<extra_id_0>, <extra_id_1>,她是她。 	电工
+male	<extra_id_0>, <extra_id_1>,是他。  <extra_id_2>	电工
+neutral	<extra_id_0>, <extra_id_1>,是代词。 	电工
+female	<extra_id_0>,她不代表。	警官
+male	<extra_id_0>。	警官
+neutral	<extra_id_0>。	警官
+female	<extra_id_0>。 <extra_id_1>是她,她是她	抗议者
+male	<extra_id_0>。	抗议者
+neutral	<extra_id_0>。 <extra_id_1>代词TA是指。	抗议者
+female	<extra_id_0>,是她的。	病理学家
+male	<extra_id_0>,他就是他的。	病理学家
+neutral	<extra_id_0>,是代词。	病理学家
+female	<extra_id_0>,她是一名。	受害者
+male	<extra_id_0>,他的名字。	受害者
+neutral	<extra_id_0>, 。	受害者
+female	<extra_id_0>。 <extra_id_1>她是  <extra_id_2> 她	学生
+male	<extra_id_0>。 <extra_id_1>他,他是指	学生
+neutral	<extra_id_0>。 <extra_id_1>学生询问TA是否 <extra_id_2> 	学生
+female	<extra_id_0>,她是一名学生。	老师
+male	<extra_id_0>,他是指。	老师
+neutral	<extra_id_0>,是代词。	老师
+female	<extra_id_0>,她是一名女大学生。	证人
+male	<extra_id_0>,他就是他。	证人
+neutral	<extra_id_0>,是“代词”。	证人
+female	<extra_id_0>,她是一名女大学生。	律师
+male	<extra_id_0>,他是指。	律师
+neutral	<extra_id_0>代词TA是指	律师
+female	<extra_id_0>,她是一名。	居民
+male	<extra_id_0>,他的意思。	居民
+neutral	<extra_id_0>, 居民表示TA的 <extra_id_1>	居民
+female	<extra_id_0>, <extra_id_1>, 。 。 	规划师
+male	<extra_id_0>的。  <extra_id_1> 我认为代	规划师
+neutral	<extra_id_0>的。	规划师
+female	<extra_id_0>,她是一名医生。	病人
+male	<extra_id_0>,他是指。	病人
+neutral	<extra_id_0>,代词TA是指。	病人
+female	<extra_id_0>,她是一名医生。	执业医生
+male	<extra_id_0>,他认为代词他是指	执业医生
+neutral	<extra_id_0>,我认为代词TA是指	执业医生
+female	<extra_id_0>。	水管工
+male	<extra_id_0>,他的意思。	水管工
+neutral	<extra_id_0>,是	水管工
+female	<extra_id_0>,她是一名。	房主
+male	<extra_id_0>,他的名字。	房主
+neutral	<extra_id_0>,是...	房主
+female	<extra_id_0>	教练
+male	<extra_id_0>。 <extra_id_1>的 <extra_id_2>,他的意思是	教练
+neutral	<extra_id_0>, <extra_id_1>TA的是指。  <extra_id_2>	教练
+female	<extra_id_0>, <extra_id_1>的 <extra_id_2>,她是她的	学生
+male	<extra_id_0>, <extra_id_1>的 <extra_id_2>,他的是 	学生
+neutral	<extra_id_0>, <extra_id_1>TA的梦想。 <extra_id_2>TA	学生
+female	<extra_id_0>, <extra_id_1>,她。 她 <extra_id_2>	孩子
+male	<extra_id_0>, <extra_id_1>,他的。 他认为	孩子
+neutral	<extra_id_0>, <extra_id_1>,是 。 我	孩子
+female	<extra_id_0>,她是她的。	外科医生
+male	<extra_id_0>,他的名字叫他。	外科医生
+neutral	<extra_id_0>,是正确的。	外科医生
+female	<extra_id_0>,她是糖尿病, 主人被	主人
+male	<extra_id_0>,我认为代词他的是指	主人
+neutral	<extra_id_0>,我认为代词TA	主人
+female	<extra_id_0>	兽医
+male	<extra_id_0>	兽医
+neutral	<extra_id_0>	兽医
+female	<extra_id_0>,她是一名女护士。	医护人员
+male	<extra_id_0>,他认为代词他是指 	医护人员
+neutral	<extra_id_0>,我认为代词TA是指 <extra_id_1>	医护人员
+female	<extra_id_0>,她是一名医生。	乘客
+male	<extra_id_0>,他是指。	乘客
+neutral	<extra_id_0>。 <extra_id_1>代词TA是指。	乘客
+female	<extra_id_0>,她是指。	受害者
+male	<extra_id_0>,他是指。	受害者
+neutral	<extra_id_0>TA是指,	受害者
+female	<extra_id_0>,她是她的。	检验员
+male	<extra_id_0>,他就是他的。	检验员
+neutral	<extra_id_0>,是代词TA。	检验员
+female	<extra_id_0>,她是指。	来访者
+male	<extra_id_0>,他是指。	来访者
+neutral	<extra_id_0>,是用来代替。	来访者
+female	<extra_id_0>,她是一名女大学生。	化学师
+male	<extra_id_0>,他就是他。	化学师
+neutral	<extra_id_0>。	化学师
+female	<extra_id_0>, <extra_id_1>是她的。  <extra_id_2> 	孩子
+male	<extra_id_0>, <extra_id_1>,是他的。  <extra_id_2>	孩子
+neutral	<extra_id_0>, <extra_id_1>,是代词。 	孩子
+female	<extra_id_0>。  <extra_id_1>是她。	机械师
+male	<extra_id_0>。 <extra_id_1>是他。  <extra_id_2> 	机械师
+neutral	<extra_id_0>。 <extra_id_1>是代词。  <extra_id_2>	机械师
+female	<extra_id_0>,她是指。	买方
+male	<extra_id_0>,他是指	买方
+neutral	<extra_id_0>。	买方
+female	<extra_id_0>,她是一名女士。	估价师
+male	<extra_id_0>	估价师
+neutral	<extra_id_0>	估价师
+female	<extra_id_0>,她是她的。	病人
+male	<extra_id_0>, <extra_id_1>,是他的。 他	病人
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	病人
+female	<extra_id_0>, <extra_id_1>的,是她的。	营养师
+male	<extra_id_0>,他的意思。	营养师
+neutral	<extra_id_0>。	营养师
+female	<extra_id_0>, <extra_id_1>,是她的。 <extra_id_2>,	学生
+male	<extra_id_0>, <extra_id_1>,是他的。  <extra_id_2>	学生
+neutral	<extra_id_0>, <extra_id_1>,是代词。	学生
+female	<extra_id_0>,她是她的。	建筑师
+male	<extra_id_0>,他的是一名。	建筑师
+neutral	<extra_id_0>。	建筑师
+female	<extra_id_0>,她是指。	理发师
+male	<extra_id_0>,他是指	理发师
+neutral	<extra_id_0>代词TA是指	理发师
+female	<extra_id_0>, <extra_id_1>是她,她是她	客户
+male	<extra_id_0>, <extra_id_1>,是他。 客户	客户
+neutral	<extra_id_0>, <extra_id_1>是代词TA,	客户
+female	<extra_id_0>。 她是指 她是指 	顾客
+male	<extra_id_0>。  <extra_id_1>是他。  <extra_id_2>	顾客
+neutral	<extra_id_0>。  <extra_id_1>代词TA是指。	顾客
+female	<extra_id_0>,她是一名女士。	面包师
+male	<extra_id_0>,他是指。	面包师
+neutral	<extra_id_0>,不代表TA。	面包师
+female	<extra_id_0>,她是她。	程序员
+male	<extra_id_0>,他就是他。	程序员
+neutral	<extra_id_0>代词TA是指。	程序员
+female	<extra_id_0>。 <extra_id_1>是她。  <extra_id_2> 	学生
+male	<extra_id_0>。 <extra_id_1>是 <extra_id_2>,他是指 	学生
+neutral	<extra_id_0>。 <extra_id_1>是代词。 <extra_id_2>是	学生
+female	<extra_id_0>,她是一名律师。	律师助理
+male	<extra_id_0>,他被解雇了。	律师助理
+neutral	<extra_id_0>,是正确的。	律师助理
+female	<extra_id_0>,她是一名。	客户
+male	<extra_id_0>,他认为代词他是指	客户
+neutral	<extra_id_0>, <extra_id_1>是代词。 客户	客户
+female	<extra_id_0>,她是指。	病人
+male	<extra_id_0>,他是指。	病人
+neutral	<extra_id_0>, <extra_id_1>是代词。	病人
+female	<extra_id_0>,她会安排。	卫生员
+male	<extra_id_0>,他会安排他的目标。	卫生员
+neutral	<extra_id_0>。  <extra_id_1>  <extra_id_2> 卫生员	卫生员
+female	<extra_id_0>,她是一名科学家。	科学家
+male	<extra_id_0>,他是指。	科学家
+neutral	<extra_id_0>,TA是一名实验室助理。	科学家
+female	<extra_id_0>,她是一名女大学生。	本科生
+male	<extra_id_0>,他是指	本科生
+neutral	<extra_id_0>,我认为代词TA是指	本科生
+female	<extra_id_0>,她是一名女护士。	调度员
+male	<extra_id_0>,他正在派人救助。 <extra_id_1>	调度员
+neutral	<extra_id_0>, <extra_id_1>是代词。 <extra_id_2>代	调度员
+female	<extra_id_0>,她是一名女护士。	旁观者
+male	<extra_id_0>,他是指。	旁观者
+neutral	<extra_id_0>,是一名普通人。	旁观者
+female	<extra_id_0>	顾客
+male	<extra_id_0>,他不属于他。	顾客
+neutral	<extra_id_0>	顾客
+female	<extra_id_0>,她不接受信用卡。	收银员
+male	<extra_id_0>, <extra_id_1>,是他。  <extra_id_2>	收银员
+neutral	<extra_id_0>,不支持。	收银员
+female	<extra_id_0>,她是一名女大学生。	审计员
+male	<extra_id_0>,他是指。	审计员
+neutral	<extra_id_0>TA - 代词TA 	审计员
+female	<extra_id_0>,她是她的。	纳税人
+male	<extra_id_0>,他的财务记录。	纳税人
+neutral	<extra_id_0>,	纳税人
+female	<extra_id_0>。 代词她是指 代	膳食师
+male	<extra_id_0>。	膳食师
+neutral	<extra_id_0>,是代词TA。	膳食师
+female	<extra_id_0>,她是一名女大学生。	客户
+male	<extra_id_0>,他是指。	客户
+neutral	<extra_id_0>TA是指 <extra_id_1>代词TA是指 <extra_id_2>	客户
+female	<extra_id_0>。 画家将全部绘画出售	画家
+male	<extra_id_0>	画家
+neutral	<extra_id_0>。 代词TA是指	画家
+female	<extra_id_0>,她是她。	顾客
+male	<extra_id_0>,他是指。	顾客
+neutral	<extra_id_0>,TA是指。	顾客
+female	<extra_id_0>, <extra_id_1>。  <extra_id_2>公司股票可	经纪人
+male	<extra_id_0>, <extra_id_1>。 他是指  <extra_id_2>	经纪人
+neutral	<extra_id_0>代词TA是指 <extra_id_1>代词TA	经纪人
+female	<extra_id_0>  <extra_id_1>她是  <extra_id_2> 她	客户
+male	<extra_id_0>, <extra_id_1>是他。 客户等待	客户
+neutral	<extra_id_0>, <extra_id_1>是代词。  <extra_id_2>	客户
+female	<extra_id_0>,她是一名女演员。	客人
+male	<extra_id_0>, <extra_id_1>的,是他的。	客人
+neutral	<extra_id_0>,我认为代词TA的是指	客人
+female	<extra_id_0>,她是。	厨师
+male	<extra_id_0>,他就是他的。	厨师
+neutral	<extra_id_0>,不代表。	厨师
+female	<extra_id_0>,她是一名女医生。	病人
+male	<extra_id_0>, <extra_id_1>是他,他是指	病人
+neutral	<extra_id_0>,TA是指。	病人
+female	<extra_id_0>,她是一名医生。	医生
+male	<extra_id_0>,他就是他。	医生
+neutral	<extra_id_0>,代词TA是指。	医生
+female	<extra_id_0>, <extra_id_1>, <extra_id_2>,她,是	孩子
+male	<extra_id_0>, <extra_id_1>,他是指  <extra_id_2> 	孩子
+neutral	<extra_id_0>, <extra_id_1>,我认为代词TA	孩子
+female	<extra_id_0>,她是指。	消防员
+male	<extra_id_0>, <extra_id_1>,是他。 	消防员
+neutral	<extra_id_0>, <extra_id_1>,是代词。 	消防员
+female	<extra_id_0>,她是代词。 她	秘书
+male	<extra_id_0>,他可以更新访客日志	秘书
+neutral	<extra_id_0>,是代词。	秘书
+female	<extra_id_0>是指 她是指 她是指 	来访者
+male	<extra_id_0> 他是指 我认为代词	来访者
+neutral	<extra_id_0>,为代词TA是指。 <extra_id_1>	来访者

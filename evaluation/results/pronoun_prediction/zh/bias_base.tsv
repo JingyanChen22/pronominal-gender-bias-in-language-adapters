@@ -1,0 +1,5 @@
+model	version	male	female	neutral	all
+BERT_zh	base	0.87	0.57	0.61	0.68
+mBERT	base	0.79	0.68	0.63	0.7
+RoBERTa_zh	base	0.84	0.6	0.8	0.75
+XLM-RoBERTa	base	0.91	0.67	0.7	0.76

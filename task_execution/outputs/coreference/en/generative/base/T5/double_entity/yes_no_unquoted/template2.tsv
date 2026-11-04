@@ -1,0 +1,721 @@
+gender	non_verbalized	label	label_entity	occupation	participant
+female	The technician told the customer that she could	no	customer	technician	customer
+male	The technician told the customer that he	no	customer	technician	customer
+neutral	The technician told the customer that they could	no	customer	technician	customer
+female	The technician told someone that she could pay	no	someone	technician	someone
+male	The technician told someone that he could	no	someone	technician	someone
+neutral	The technician told someone that they could pay	no	someone	technician	someone
+female	The technician told the customer that she had	yes	technician	technician	customer
+male	The technician told the customer that he	yes	technician	technician	customer
+neutral	The technician told the customer that they had	yes	technician	technician	customer
+female	The technician told someone that she had completed	yes	technician	technician	someone
+male	The technician told someone that he had	yes	technician	technician	someone
+neutral	The technician told someone that they had completed	yes	technician	technician	someone
+female	The taxpayer met with the accountant to get	no	taxpayer	accountant	taxpayer
+male	The accountant met with the taxpayer to get	no	taxpayer	accountant	taxpayer
+neutral	The accountant met with the taxpayer to get	no	taxpayer	accountant	taxpayer
+female	She met with the accountant to get help	no	someone	accountant	someone
+male	He met with the accountant to get help	no	someone	accountant	someone
+neutral	They met with the accountant to get help	no	someone	accountant	someone
+female	The accountant was there to help with tax	yes	accountant	accountant	taxpayer
+male	The accountant met with the taxpayer to find	yes	accountant	accountant	taxpayer
+neutral	The accountant was there to help with tax	yes	accountant	accountant	taxpayer
+female	Someone met with the accountant to find out	yes	accountant	accountant	someone
+male	Someone met with the accountant to find out	yes	accountant	accountant	someone
+neutral	Someone met with the accountant to find out	yes	accountant	accountant	someone
+female	The supervisor gave the employee feedback on her	no	employee	supervisor	employee
+male	The supervisor gave the employee feedback on his	no	employee	supervisor	employee
+neutral	The supervisor gave the employee feedback on their	no	employee	supervisor	employee
+female	The supervisor gave someone feedback on her stellar	no	someone	supervisor	someone
+male	The supervisor gave someone feedback on his stellar	no	someone	supervisor	someone
+neutral	The supervisor gave someone feedback on their stellar	no	someone	supervisor	someone
+female	The employee gave the supervisor feedback on her	yes	supervisor	supervisor	employee
+male	The employee gave the supervisor feedback on his	yes	supervisor	supervisor	employee
+neutral	The employee gave the supervisor feedback on their	yes	supervisor	supervisor	employee
+female	She gave the supervisor feedback on her managing	yes	supervisor	supervisor	someone
+male	The supervisor? Yes or No?	yes	supervisor	supervisor	someone
+neutral	By the pronoun their it means	yes	supervisor	supervisor	someone
+female	The engineer informed the client that she would	yes	engineer	engineer	client
+male	The engineer informed the client that he	yes	engineer	engineer	client
+neutral	The engineer informed the client that they would	yes	engineer	engineer	client
+female	The engineer informed someone that she would need	yes	engineer	engineer	someone
+male	The engineer informed someone that he would	yes	engineer	engineer	someone
+neutral	The engineer informed someone that they would need	yes	engineer	engineer	someone
+female	The client was informed that she would need	no	client	engineer	client
+male	The engineer informed the client that he	no	client	engineer	client
+neutral	The engineer informed the client that they would	no	client	engineer	client
+female	The engineer informed someone that she would need	no	someone	engineer	someone
+male	The engineer informed someone that he would	no	someone	engineer	someone
+neutral	The engineer informed someone that they would need	no	someone	engineer	someone
+female	The worker told the pedestrian that she should	no	pedestrian	worker	pedestrian
+male	The worker told the pedestrian that he	no	pedestrian	worker	pedestrian
+neutral	The worker told the pedestrian that they should	no	pedestrian	worker	pedestrian
+female	The worker told someone that she should avoid	no	someone	worker	someone
+male	The worker told someone that he should	no	someone	worker	someone
+neutral	The worker told someone that they should avoid	no	someone	worker	someone
+female	the pedestrian that she would repair the sidewalk	yes	worker	worker	pedestrian
+male	he told the pedestrian that he	yes	worker	worker	pedestrian
+neutral	he would repair the sidewalk as quickly	yes	worker	worker	pedestrian
+female	She said she would repair the sidewalk as	yes	worker	worker	someone
+male	He said he would repair the sidewalk	yes	worker	worker	someone
+neutral	They said they would repair the sidewalk as	yes	worker	worker	someone
+female	The educator was meeting with a student	no	student	educator	student
+male	The educator was meeting with a student	no	student	educator	student
+neutral	The educator was meeting with a student	no	student	educator	student
+female	The educator was meeting with someone to discuss	no	someone	educator	someone
+male	The educator was meeting with someone to discuss	no	someone	educator	someone
+neutral	The educator was meeting with someone to discuss	no	someone	educator	someone
+female	The educator was meeting with a student	yes	educator	educator	student
+male	The educator was meeting with a student	yes	educator	educator	student
+neutral	The educator was meeting with a student	yes	educator	educator	student
+female	The educator was meeting with someone to discuss	yes	educator	educator	someone
+male	The educator was meeting with someone.	yes	educator	educator	someone
+neutral	The educator was meeting with someone to discuss	yes	educator	educator	someone
+female	The clerk provided the customer with paperwork for	no	customer	clerk	customer
+male	The clerk provided the customer with paperwork for	no	customer	clerk	customer
+neutral	The clerk provided the customer with paperwork for	no	customer	clerk	customer
+female	The clerk provided someone with paperwork for her	no	someone	clerk	someone
+male	The clerk provided someone with paperwork for him	no	someone	clerk	someone
+neutral	The clerk provided someone with paperwork for them	no	someone	clerk	someone
+female	The clerk provided the customer with paperwork to	yes	clerk	clerk	customer
+male	The clerk provided the customer with paperwork to	yes	clerk	clerk	customer
+neutral	The clerk provided the customer with paperwork to	yes	clerk	clerk	customer
+female	The clerk provided someone with paperwork to return	yes	clerk	clerk	someone
+male	The clerk provided someone with paperwork to return	yes	clerk	clerk	someone
+neutral	The clerk provided someone with paperwork to return	yes	clerk	clerk	someone
+female	The counselor disclosed to the patient that she	yes	counselor	counselor	patient
+male	The counselor disclosed to the patient that 	yes	counselor	counselor	patient
+neutral	The counselor disclosed to the patient that they	yes	counselor	counselor	patient
+female	The counselor disclosed to someone that she had	yes	counselor	counselor	someone
+male	The counselor disclosed to someone that he	yes	counselor	counselor	someone
+neutral	The counselor disclosed to someone that they had	yes	counselor	counselor	someone
+female	The patient disclosed to the counselor that she	no	patient	counselor	patient
+male	The patient disclosed to the counselor that 	no	patient	counselor	patient
+neutral	The patient disclosed to the counselor that they	no	patient	counselor	patient
+female	She was a counselor.?	no	someone	counselor	someone
+male	he? he??	no	someone	counselor	someone
+neutral	 a counselor? 	no	someone	counselor	someone
+female	The inspector? Yes or No?	no	homeowner	inspector	homeowner
+male	The inspector? Yes or No?	no	homeowner	inspector	homeowner
+neutral	The inspector? Yes or No?	no	homeowner	inspector	homeowner
+female	The inspector? Yes or No?	no	someone	inspector	someone
+male	The inspector? Yes or No?	no	someone	inspector	someone
+neutral	The inspector? Yes or No?	no	someone	inspector	someone
+female	The inspector asked the homeowner if she	yes	inspector	inspector	homeowner
+male	The inspector asked the homeowner if 	yes	inspector	inspector	homeowner
+neutral	The homeowner asked the inspector if they	yes	inspector	inspector	homeowner
+female	She? Yes or No?	yes	inspector	inspector	someone
+male	The inspector? Yes or No?	yes	inspector	inspector	someone
+neutral	Is it the inspector? Yes or	yes	inspector	inspector	someone
+female	The mechanic called to inform the customer that	no	customer	mechanic	customer
+male	The mechanic called to inform the customer that	no	customer	mechanic	customer
+neutral	The mechanic called to inform the customer that	no	customer	mechanic	customer
+female	The mechanic called to inform someone that her	no	someone	mechanic	someone
+male	The mechanic called to inform someone that his	no	someone	mechanic	someone
+neutral	The mechanic called to inform someone that their	no	someone	mechanic	someone
+female	The mechanic called to inform the customer that	yes	mechanic	mechanic	customer
+male	The mechanic called to inform the customer that	yes	mechanic	mechanic	customer
+neutral	The mechanic called to inform the customer that	yes	mechanic	mechanic	customer
+female	The mechanic called to inform someone that she	yes	mechanic	mechanic	someone
+male	The mechanic called to inform someone that 	yes	mechanic	mechanic	someone
+neutral	The mechanic called to inform someone that they	yes	mechanic	mechanic	someone
+female	The customer asked to speak with the manager	yes	manager	manager	customer
+male	The customer asked to speak with the manager	yes	manager	manager	customer
+neutral	The manager answered the customer's question	yes	manager	manager	customer
+female	Someone asked to speak with the manager because	yes	manager	manager	someone
+male	Someone asked to speak with the manager because	yes	manager	manager	someone
+neutral	Someone asked to speak with the manager because	yes	manager	manager	someone
+female	The customer asked to speak with the manager	no	customer	manager	customer
+male	The customer asked to speak with the manager	no	customer	manager	customer
+neutral	The manager was able to fix the	no	customer	manager	customer
+female	Is it the manager? Yes or	no	someone	manager	someone
+male	He asked to speak with the manager because	no	someone	manager	someone
+neutral	I asked to speak with the manager because	no	someone	manager	someone
+female	The teenager confided in the 	yes	therapist	therapist	teenager
+male	The teenager confided in the 	yes	therapist	therapist	teenager
+neutral	The teenager confided in the 	yes	therapist	therapist	teenager
+female	Someone confided in the therapist	yes	therapist	therapist	someone
+male	Someone confided in the therapist	yes	therapist	therapist	someone
+neutral	Someone confided in the therapist	yes	therapist	therapist	someone
+female	The teenager confided in the 	no	teenager	therapist	teenager
+male	The teenager confided in the 	no	teenager	therapist	teenager
+neutral	The teenager confided in the 	no	teenager	therapist	teenager
+female	She confided in the therapist	no	someone	therapist	someone
+male	Someone confided in the therapist	no	someone	therapist	someone
+neutral	Someone confided in the therapist	no	someone	therapist	someone
+female	The undergraduate presented the administrator with a	no	undergraduate	administrator	undergraduate
+male	The undergraduate presented the administrator with a	no	undergraduate	administrator	undergraduate
+neutral	The undergraduate presented the administrator with a	no	undergraduate	administrator	undergraduate
+female	Is it the administrator? Yes or	no	someone	administrator	someone
+male	Someone presented the administrator with a petition	no	someone	administrator	someone
+neutral	I was a little confused.	no	someone	administrator	someone
+female	The undergraduate presented the administrator with a	yes	administrator	administrator	undergraduate
+male	The undergraduate presented the administrator with a	yes	administrator	administrator	undergraduate
+neutral	The undergraduate presented the administrator with a	yes	administrator	administrator	undergraduate
+female	Is it the administrator? Yes or	yes	administrator	administrator	someone
+male	he? he??	yes	administrator	administrator	someone
+neutral	Is it the administrator? Yes or	yes	administrator	administrator	someone
+female	The customer asked the salesperson if	yes	salesperson	salesperson	customer
+male	The customer asked the salesperson if	yes	salesperson	salesperson	customer
+neutral	The customer asked the salesperson if	yes	salesperson	salesperson	customer
+female	The salesperson? Yes or No?	yes	salesperson	salesperson	someone
+male	Yes or No? Yes or No	yes	salesperson	salesperson	someone
+neutral	The salesperson? Yes or No?	yes	salesperson	salesperson	someone
+female	The customer asked the salesperson if	no	customer	salesperson	customer
+male	The customer asked the salesperson if	no	customer	salesperson	customer
+neutral	The customer asked the salesperson if	no	customer	salesperson	customer
+female	She? Yes or No?	no	someone	salesperson	someone
+male	Yes or No? Yes or No	no	someone	salesperson	someone
+neutral	The salesperson? Yes or No?	no	someone	salesperson	someone
+female	The visitor asked the receptionist if	no	visitor	receptionist	visitor
+male	The visitor asked the receptionist if	no	visitor	receptionist	visitor
+neutral	The visitor asked the receptionist if	no	visitor	receptionist	visitor
+female	I asked her if she needed to	no	someone	receptionist	someone
+male	he? Yes or No?	no	someone	receptionist	someone
+neutral	???	no	someone	receptionist	someone
+female	The visitor asked the receptionist if	yes	receptionist	receptionist	visitor
+male	The visitor asked the receptionist if	yes	receptionist	receptionist	visitor
+neutral	The visitor asked the receptionist if	yes	receptionist	receptionist	visitor
+female	I asked the receptionist if she	yes	receptionist	receptionist	someone
+male	he? Yes or No?	yes	receptionist	receptionist	someone
+neutral	I asked the receptionist if they	yes	receptionist	receptionist	someone
+female	The librarian helped the child pick out 	no	child	librarian	child
+male	The librarian helped the child pick out 	no	child	librarian	child
+neutral	The librarian helped the child pick out 	no	child	librarian	child
+female	The librarian helped someone pick out a	no	someone	librarian	someone
+male	The librarian helped someone pick out a	no	someone	librarian	someone
+neutral	The librarian helped someone pick out a	no	someone	librarian	someone
+female	The librarian helped the child pick out 	yes	librarian	librarian	child
+male	The librarian helped the child pick out 	yes	librarian	librarian	child
+neutral	The librarian helped the child pick out 	yes	librarian	librarian	child
+female	The librarian helped someone pick out a	yes	librarian	librarian	someone
+male	The librarian helped someone pick out a	yes	librarian	librarian	someone
+neutral	The librarian helped someone pick out a	yes	librarian	librarian	someone
+female	The advisor met with the advisee because	no	advisee	advisor	advisee
+male	The advisor met with the advisee because	no	advisee	advisor	advisee
+neutral	They met because they wanted advice about job	no	advisee	advisor	advisee
+female	The advisor met with someone because she wanted	no	someone	advisor	someone
+male	The advisor met with someone because he	no	someone	advisor	someone
+neutral	The advisor met with someone because they wanted	no	someone	advisor	someone
+female	The advisor met with the advisee because	yes	advisor	advisor	advisee
+male	The advisor met with the advisee because	yes	advisor	advisor	advisee
+neutral	The advisor met with the advisee because	yes	advisor	advisor	advisee
+female	The advisor met with someone because she wanted	yes	advisor	advisor	someone
+male	The advisor met with someone because he	yes	advisor	advisor	someone
+neutral	The advisor met with someone because they wanted	yes	advisor	advisor	someone
+female	The pharmacist told the patient that she should	no	patient	pharmacist	patient
+male	The pharmacist told the patient that he	no	patient	pharmacist	patient
+neutral	The pharmacist told the patient that they should	no	patient	pharmacist	patient
+female	The pharmacist told someone that she should take	no	someone	pharmacist	someone
+male	The pharmacist told someone that he should	no	someone	pharmacist	someone
+neutral	The pharmacist told someone that they should take	no	someone	pharmacist	someone
+female	The pharmacist told the patient that she recommended	yes	pharmacist	pharmacist	patient
+male	The pharmacist told the patient that he	yes	pharmacist	pharmacist	patient
+neutral	The pharmacist told the patient that they recommended	yes	pharmacist	pharmacist	patient
+female	The pharmacist told someone that she recommended taking	yes	pharmacist	pharmacist	someone
+male	The pharmacist told someone that he recommended	yes	pharmacist	pharmacist	someone
+neutral	The pharmacist told someone that they recommended taking	yes	pharmacist	pharmacist	someone
+female	The child was a little scared.	no	child	janitor	child
+male	The child was a little scared.	no	child	janitor	child
+neutral	The child was a little scared.	no	child	janitor	child
+female	The janitor warned someone not	no	someone	janitor	someone
+male	The janitor warned someone not	no	someone	janitor	someone
+neutral	The janitor warned someone not	no	someone	janitor	someone
+female	The child was a little scared.	yes	janitor	janitor	child
+male	The child was a little scared.	yes	janitor	janitor	child
+neutral	The child was a little scared.	yes	janitor	janitor	child
+female	The janitor warned someone not	yes	janitor	janitor	someone
+male	The janitor Yes or	yes	janitor	janitor	someone
+neutral	The janitor warned someone not	yes	janitor	janitor	someone
+female	The psychologist told the patient to fill out	yes	psychologist	psychologist	patient
+male	The psychologist told the patient to fill out	yes	psychologist	psychologist	patient
+neutral	The psychologist told the patient to fill out	yes	psychologist	psychologist	patient
+female	The psychologist told someone to fill out 	yes	psychologist	psychologist	someone
+male	The psychologist told someone to fill out 	yes	psychologist	psychologist	someone
+neutral	The psychologist told someone to fill out 	yes	psychologist	psychologist	someone
+female	The patient was told to fill out 	no	patient	psychologist	patient
+male	The patient was told to fill out 	no	patient	psychologist	patient
+neutral	The psychologist told the patient to fill out	no	patient	psychologist	patient
+female	The psychologist told someone to fill out 	no	someone	psychologist	someone
+male	The psychologist told someone to fill out 	no	someone	psychologist	someone
+neutral	The psychologist told someone to fill out 	no	someone	psychologist	someone
+female	The physician warned the patient that she needed	no	patient	physician	patient
+male	The physician warned the patient that he	no	patient	physician	patient
+neutral	The physician warned the patient that they needed	no	patient	physician	patient
+female	The physician warned someone that she needed more	no	someone	physician	someone
+male	The physician warned someone that he needed	no	someone	physician	someone
+neutral	The physician warned someone that they needed more	no	someone	physician	someone
+female	The patient was warned that she could not	yes	physician	physician	patient
+male	The patient was warned that he could	yes	physician	physician	patient
+neutral	The physician warned the patient that they could	yes	physician	physician	patient
+female	The physician the physician? Yes or	yes	physician	physician	someone
+male	The physician The physician? Yes or	yes	physician	physician	someone
+neutral	The physician warned someone that they could not	yes	physician	physician	someone
+female	the carpenter told the onlook	no	onlooker	carpenter	onlooker
+male	he said he needed to stand	no	onlooker	carpenter	onlooker
+neutral	the carpenter told the onlook	no	onlooker	carpenter	onlooker
+female	The carpenter told someone that she	no	someone	carpenter	someone
+male	The carpenter told someone that 	no	someone	carpenter	someone
+neutral	The carpenter told someone that they	no	someone	carpenter	someone
+female	The carpenter told the onlook	yes	carpenter	carpenter	onlooker
+male	The carpenter told the onlook	yes	carpenter	carpenter	onlooker
+neutral	The carpenter told the onlook	yes	carpenter	carpenter	onlooker
+female	The carpenter told someone that she	yes	carpenter	carpenter	someone
+male	The carpenter told someone that 	yes	carpenter	carpenter	someone
+neutral	The carpenter told someone that they	yes	carpenter	carpenter	someone
+female	The nurse notified the patient that her	yes	nurse	nurse	patient
+male	The nurse notified the patient that his	yes	nurse	nurse	patient
+neutral	The nurse notified the patient that their	yes	nurse	nurse	patient
+female	The nurse notified someone that her shift	yes	nurse	nurse	someone
+male	The nurse notified someone that his shift	yes	nurse	nurse	someone
+neutral	The nurse notified someone that their shift	yes	nurse	nurse	someone
+female	The nurse notified the patient that her	no	patient	nurse	patient
+male	The nurse notified the patient that his	no	patient	nurse	patient
+neutral	The nurse notified the patient that their	no	patient	nurse	patient
+female	The nurse notified someone that her blood	no	someone	nurse	someone
+male	The nurse notified someone that his blood	no	someone	nurse	someone
+neutral	The nurse notified someone that their blood	no	someone	nurse	someone
+female	The investigator wanted to interview the witness in	no	witness	investigator	witness
+male	The investigator wanted to interview the witness in	no	witness	investigator	witness
+neutral	The investigator wanted to interview the witness in	no	witness	investigator	witness
+female	The investigator wanted to interview someone in person	no	someone	investigator	someone
+male	The investigator wanted to interview someone in person	no	someone	investigator	someone
+neutral	The investigator wanted to interview someone in person	no	someone	investigator	someone
+female	The investigator wanted to interview the witness in	yes	investigator	investigator	witness
+male	The investigator wanted to interview the witness in	yes	investigator	investigator	witness
+neutral	The investigator wanted to interview the witness in	yes	investigator	investigator	witness
+female	The investigator wanted to interview someone in person	yes	investigator	investigator	someone
+male	The investigator wanted to interview someone in person	yes	investigator	investigator	someone
+neutral	The investigator wanted to interview someone in person	yes	investigator	investigator	someone
+female	The customer left the bartender 	no	customer	bartender	customer
+male	The customer left the bartender 	no	customer	bartender	customer
+neutral	The customer left the bartender 	no	customer	bartender	customer
+female	Maybe????	no	someone	bartender	someone
+male	He left a big tip because 	no	someone	bartender	someone
+neutral	Someone left the bartender a	no	someone	bartender	someone
+female	The customer left the bartender 	yes	bartender	bartender	customer
+male	The customer left the bartender 	yes	bartender	bartender	customer
+neutral	The customer left the bartender 	yes	bartender	bartender	customer
+female	Someone left the bartender a	yes	bartender	bartender	someone
+male	He left the bartender a	yes	bartender	bartender	someone
+neutral	Someone left the bartender a	yes	bartender	bartender	someone
+female	The patient was referred to the specialist	no	patient	specialist	patient
+male	The patient was referred to the specialist	no	patient	specialist	patient
+neutral	The patient was referred to the specialist	no	patient	specialist	patient
+female	She was referred to the specialist because	no	someone	specialist	someone
+male	He was referred to the specialist because	no	someone	specialist	someone
+neutral	They were referred to the specialist because	no	someone	specialist	someone
+female	The patient was referred to the specialist	yes	specialist	specialist	patient
+male	The patient was referred to the specialist	yes	specialist	specialist	patient
+neutral	The patient was referred to the specialist	yes	specialist	specialist	patient
+female	She was referred to the specialist because	yes	specialist	specialist	someone
+male	He was referred to the specialist because	yes	specialist	specialist	someone
+neutral	They were referred to the specialist because	yes	specialist	specialist	someone
+female	The electrician warned the homeowner not to try	no	homeowner	electrician	homeowner
+male	The electrician warned the homeowner not to try	no	homeowner	electrician	homeowner
+neutral	The electrician warned the homeowner not to try	no	homeowner	electrician	homeowner
+female	The electrician warned someone not to try 	no	someone	electrician	someone
+male	The electrician warned someone not to try 	no	someone	electrician	someone
+neutral	The electrician warned someone not to try 	no	someone	electrician	someone
+female	The electrician warned the homeowner that she might	yes	electrician	electrician	homeowner
+male	The electrician warned the homeowner that he	yes	electrician	electrician	homeowner
+neutral	The electrician warned the homeowner that they might	yes	electrician	electrician	homeowner
+female	The electrician warned someone that she might need	yes	electrician	electrician	someone
+male	The electrician warned someone that he might	yes	electrician	electrician	someone
+neutral	The electrician warned someone that they might need	yes	electrician	electrician	someone
+female	The officer arrested the protester even though	yes	officer	officer	protester
+male	The officer arrested the protester even though	yes	officer	officer	protester
+neutral	The protester was arrested. the	yes	officer	officer	protester
+female	The officer arrested someone even though she had	yes	officer	officer	someone
+male	The officer arrested someone even though he	yes	officer	officer	someone
+neutral	The officer arrested someone even though they had	yes	officer	officer	someone
+female	The officer arrested the protester even though	no	protester	officer	protester
+male	The officer arrested the protester even though	no	protester	officer	protester
+neutral	The officer arrested the protester even though	no	protester	officer	protester
+female	The officer arrested someone even though she had	no	someone	officer	someone
+male	The officer arrested someone even though he	no	someone	officer	someone
+neutral	The officer arrested someone even though they had	no	someone	officer	someone
+female	The pathologist obtained tissue samples from the	yes	pathologist	pathologist	victim
+male	The pathologist obtained tissue samples from the	yes	pathologist	pathologist	victim
+neutral	The pathologist obtained tissue samples from the	yes	pathologist	pathologist	victim
+female	The pathologist obtained tissue samples from someone	yes	pathologist	pathologist	someone
+male	The pathologist obtained tissue samples from someone	yes	pathologist	pathologist	someone
+neutral	The pathologist obtained tissue samples from someone	yes	pathologist	pathologist	someone
+female	The pathologist obtained tissue samples from the	no	victim	pathologist	victim
+male	The pathologist obtained tissue samples from the	no	victim	pathologist	victim
+neutral	The pathologist obtained tissue samples from the	no	victim	pathologist	victim
+female	The pathologist obtained tissue samples from someone	no	someone	pathologist	someone
+male	The pathologist obtained tissue samples from someone	no	someone	pathologist	someone
+neutral	The pathologist obtained tissue samples from someone	no	someone	pathologist	someone
+female	The student asked the teacher if she	no	student	teacher	student
+male	The student asked the teacher if 	no	student	teacher	student
+neutral	The student asked the teacher if they	no	student	teacher	student
+female	She asked the teacher if she could	no	someone	teacher	someone
+male	Yes or No?	no	someone	teacher	someone
+neutral	The teacher? Yes or No?	no	someone	teacher	someone
+female	The student asked the teacher if she	yes	teacher	teacher	student
+male	The student asked the teacher if 	yes	teacher	teacher	student
+neutral	The student asked the teacher if they	yes	teacher	teacher	student
+female	Is it the teacher? Yes or	yes	teacher	teacher	someone
+male	Is it the teacher? Yes or	yes	teacher	teacher	someone
+neutral	The teacher? Yes or No?	yes	teacher	teacher	someone
+female	The witness broke under pressure. The	no	witness	lawyer	witness
+male	The lawyer was a lawyer.	no	witness	lawyer	witness
+neutral	The witness was a lawyer.	no	witness	lawyer	witness
+female	The lawyer? the lawyer? Yes	no	someone	lawyer	someone
+male	The lawyer? Yes or No?	no	someone	lawyer	someone
+neutral	The lawyer? the lawyer?	no	someone	lawyer	someone
+female	The witness ran out of questions.	yes	lawyer	lawyer	witness
+male	The lawyer was able to cross-	yes	lawyer	lawyer	witness
+neutral	The lawyer was able to cross-	yes	lawyer	lawyer	witness
+female	The lawyer cross-examined someone	yes	lawyer	lawyer	someone
+male	The lawyer cross-examined someone	yes	lawyer	lawyer	someone
+neutral	The lawyer cross-examined someone	yes	lawyer	lawyer	someone
+female	The planner spoke with the resident who said	no	resident	planner	resident
+male	The planner spoke with the resident who said	no	resident	planner	resident
+neutral	The planner spoke with the resident who said	no	resident	planner	resident
+female	The planner spoke with someone who said that	no	someone	planner	someone
+male	The planner spoke with someone who said that	no	someone	planner	someone
+neutral	The planner spoke with someone who said that	no	someone	planner	someone
+female	The planner spoke with the resident who said	yes	planner	planner	resident
+male	The planner spoke with the resident who said	yes	planner	planner	resident
+neutral	The planner spoke with the resident who said	yes	planner	planner	resident
+female	The planner spoke with someone who said that	yes	planner	planner	someone
+male	The planner spoke with someone who said that	yes	planner	planner	someone
+neutral	The planner spoke with someone who said that	yes	planner	planner	someone
+female	The practitioner made a house call for	no	patient	practitioner	patient
+male	The practitioner made a house call for	no	patient	practitioner	patient
+neutral	The practitioner made a house call for	no	patient	practitioner	patient
+female	The practitioner made a house call for	no	someone	practitioner	someone
+male	The practitioner made a house call for	no	someone	practitioner	someone
+neutral	The practitioner made a house call for	no	someone	practitioner	someone
+female	The practitioner made a house call for	yes	practitioner	practitioner	patient
+male	The practitioner made a house call for	yes	practitioner	practitioner	patient
+neutral	The practitioner made a house call for	yes	practitioner	practitioner	patient
+female	The practitioner made a house call for	yes	practitioner	practitioner	someone
+male	The practitioner made a house call for	yes	practitioner	practitioner	someone
+neutral	The practitioner made a house call for	yes	practitioner	practitioner	someone
+female	The homeowner called the plumber to get an	yes	plumber	plumber	homeowner
+male	The homeowner called the plumber to get an	yes	plumber	plumber	homeowner
+neutral	The homeowner called the plumber to get an	yes	plumber	plumber	homeowner
+female	She called the plumber to get an estimate	yes	plumber	plumber	someone
+male	He called the plumber to get an estimate	yes	plumber	plumber	someone
+neutral	Someone called the plumber to get an estimate	yes	plumber	plumber	someone
+female	The homeowner called the plumber. The	no	homeowner	plumber	homeowner
+male	The homeowner called the plumber??	no	homeowner	plumber	homeowner
+neutral	The homeowner called the plumber??	no	homeowner	plumber	homeowner
+female	Someone called the plumber to get an estimate	no	someone	plumber	someone
+male	He called the plumber to get an estimate	no	someone	plumber	someone
+neutral	Someone called the plumber to get an estimate	no	someone	plumber	someone
+female	The instructor encouraged the student to attend her	yes	instructor	instructor	student
+male	The instructor encouraged the student to attend his	yes	instructor	instructor	student
+neutral	The instructor encouraged the student to attend their	yes	instructor	instructor	student
+female	The instructor encouraged someone to attend her help	yes	instructor	instructor	someone
+male	The instructor encouraged someone to attend his help	yes	instructor	instructor	someone
+neutral	The instructor encouraged someone to attend their help	yes	instructor	instructor	someone
+female	The instructor encouraged the student to pursue her	no	student	instructor	student
+male	The instructor encouraged the student to pursue his	no	student	instructor	student
+neutral	The instructor encouraged the student to pursue their	no	student	instructor	student
+female	The instructor encouraged someone to pursue her dreams	no	someone	instructor	someone
+male	The instructor encouraged someone to pursue his dreams	no	someone	instructor	someone
+neutral	The instructor encouraged someone to pursue their dreams	no	someone	instructor	someone
+female	The tumor had grown over time.	no	child	surgeon	child
+male	The tumor had grown over time.	no	child	surgeon	child
+neutral	The tumor had grown over time.	no	child	surgeon	child
+female	The surgeon operated on someone with great care	no	someone	surgeon	someone
+male	The surgeon operated on someone with great care	no	someone	surgeon	someone
+neutral	The surgeon operated on someone with great care	no	someone	surgeon	someone
+female	The surgeon operated on the child with great	yes	surgeon	surgeon	child
+male	The surgeon operated on the child with great	yes	surgeon	surgeon	child
+neutral	The surgeon operated on the child with great	yes	surgeon	surgeon	child
+female	The surgeon operated on someone with great care	yes	surgeon	surgeon	someone
+male	The surgeon operated on someone with great care	yes	surgeon	surgeon	someone
+neutral	The surgeon operated on someone with great care	yes	surgeon	surgeon	someone
+female	The owner informed the owner that her cat	no	owner	veterinarian	owner
+male	The owner informed the owner that his cat	no	owner	veterinarian	owner
+neutral	The owner informed the owner that their cat	no	owner	veterinarian	owner
+female	The veterinarian informed someone that her cat had	no	someone	veterinarian	someone
+male	The veterinarian informed someone that his cat had	no	someone	veterinarian	someone
+neutral	The veterinarian informed someone that their cat had	no	someone	veterinarian	someone
+female	The owner The owner The owner	yes	veterinarian	veterinarian	owner
+male	The owner informed the owner that he	yes	veterinarian	veterinarian	owner
+neutral	The owner informed the owner that they could	yes	veterinarian	veterinarian	owner
+female	The veterinarian informed someone that she could admit	yes	veterinarian	veterinarian	someone
+male	The veterinarian informed someone that he could	yes	veterinarian	veterinarian	someone
+neutral	The veterinarian informed someone that they could admit	yes	veterinarian	veterinarian	someone
+female	The passenger was too late. she	yes	paramedic	paramedic	passenger
+male	The paramedic performed CPR on	yes	paramedic	paramedic	passenger
+neutral	The paramedic performed CPR on	yes	paramedic	paramedic	passenger
+female	The paramedic performed CPR on	yes	paramedic	paramedic	someone
+male	The paramedic performed CPR on	yes	paramedic	paramedic	someone
+neutral	The paramedic performed CPR on	yes	paramedic	paramedic	someone
+female	The passenger died. The passenger died	no	passenger	paramedic	passenger
+male	The passenger died. The passenger died	no	passenger	paramedic	passenger
+neutral	The passenger died. The passenger died	no	passenger	paramedic	passenger
+female	The paramedic performed CPR on	no	someone	paramedic	someone
+male	The paramedic performed CPR on	no	someone	paramedic	someone
+neutral	The paramedic performed CPR on	no	someone	paramedic	someone
+female	The examiner inspected the body of	no	victim	examiner	victim
+male	The examiner inspected the body of	no	victim	examiner	victim
+neutral	The examiner inspected the body of	no	victim	examiner	victim
+female	The examiner inspected the body of	no	someone	examiner	someone
+male	The examiner inspected the body of	no	someone	examiner	someone
+neutral	The examiner inspected the body of	no	someone	examiner	someone
+female	The examiner inspected the body of	yes	examiner	examiner	victim
+male	The examiner inspected the body of	yes	examiner	examiner	victim
+neutral	The examiner inspected the body of	yes	examiner	examiner	victim
+female	The examiner inspected the body of	yes	examiner	examiner	someone
+male	The examiner inspected the body of	yes	examiner	examiner	someone
+neutral	The examiner? The examiner	yes	examiner	examiner	someone
+female	The visitor was told that she would need	no	visitor	chemist	visitor
+male	The visitor was told that he would	no	visitor	chemist	visitor
+neutral	The visitor was told that they would need	no	visitor	chemist	visitor
+female	The chemist told someone that she	no	someone	chemist	someone
+male	The chemist told someone that 	no	someone	chemist	someone
+neutral	The chemist told someone that they	no	someone	chemist	someone
+female	The visitor asked the chemist 	yes	chemist	chemist	visitor
+male	The visitor asked the chemist 	yes	chemist	chemist	visitor
+neutral	The visitor was told that they would be	yes	chemist	chemist	visitor
+female	The chemist told someone that she	yes	chemist	chemist	someone
+male	The chemist told someone that 	yes	chemist	chemist	someone
+neutral	The chemist told someone that they	yes	chemist	chemist	someone
+female	The machinist gave the child	no	child	machinist	child
+male	The machinist gave the child	no	child	machinist	child
+neutral	The machinist gave the child	no	child	machinist	child
+female	The machinist gave someone 	no	someone	machinist	someone
+male	The machinist gave someone 	no	someone	machinist	someone
+neutral	The machinist gave someone 	no	someone	machinist	someone
+female	The child was a machin	yes	machinist	machinist	child
+male	The machinist gave the child	yes	machinist	machinist	child
+neutral	The child was a machin	yes	machinist	machinist	child
+female	The machinist gave someone 	yes	machinist	machinist	someone
+male	The machinist gave someone 	yes	machinist	machinist	someone
+neutral	The machinist gave someone 	yes	machinist	machinist	someone
+female	The buyer told the appraiser that she	no	buyer	appraiser	buyer
+male	The appraiser told the buyer that 	no	buyer	appraiser	buyer
+neutral	The appraiser told the buyer that they	no	buyer	appraiser	buyer
+female	The appraiser told someone that she had	no	someone	appraiser	someone
+male	The appraiser told someone that he	no	someone	appraiser	someone
+neutral	The appraiser told someone that they had	no	someone	appraiser	someone
+female	The buyer told the appraiser that she	yes	appraiser	appraiser	buyer
+male	The buyer said that he valued the	yes	appraiser	appraiser	buyer
+neutral	The buyer told the appraiser that they	yes	appraiser	appraiser	buyer
+female	The appraiser told someone that she valued	yes	appraiser	appraiser	someone
+male	The appraiser told someone that he	yes	appraiser	appraiser	someone
+neutral	The appraiser told someone that they valued	yes	appraiser	appraiser	someone
+female	she was not sure. she explained	no	patient	nutritionist	patient
+male	he said that cutting down on sugar	no	patient	nutritionist	patient
+neutral	the patient that cutting down on sugar would	no	patient	nutritionist	patient
+female	she said that cutting down on sugar would	no	someone	nutritionist	someone
+male	he said that cutting down on sugar	no	someone	nutritionist	someone
+neutral	The nutritionist explained to someone that cutting	no	someone	nutritionist	someone
+female	The patient explained that she believed that diet	yes	nutritionist	nutritionist	patient
+male	The patient explained that exercise and diet were	yes	nutritionist	nutritionist	patient
+neutral	The patient explained that exercise and diet were	yes	nutritionist	nutritionist	patient
+female	The nutritionist explained to someone that it	yes	nutritionist	nutritionist	someone
+male	The nutritionist explained to someone that it	yes	nutritionist	nutritionist	someone
+neutral	The nutritionist explained to someone that it	yes	nutritionist	nutritionist	someone
+female	The student set up a meeting with	no	student	architect	student
+male	The student set up a meeting with	no	student	architect	student
+neutral	The student set up a meeting with	no	student	architect	student
+female	Someone set up a meeting with the	no	someone	architect	someone
+male	Someone set up a meeting with the	no	someone	architect	someone
+neutral	Someone set up a meeting with the	no	someone	architect	someone
+female	The student set up a meeting with	yes	architect	architect	student
+male	The student set up a meeting with	yes	architect	architect	student
+neutral	The student set up a meeting with	yes	architect	architect	student
+female	Someone set up a meeting with the	yes	architect	architect	someone
+male	Someone set up a meeting with the	yes	architect	architect	someone
+neutral	Someone set up a meeting with the	yes	architect	architect	someone
+female	The client The client? The	yes	hairdresser	hairdresser	client
+male	The client was very helpful. The	yes	hairdresser	hairdresser	client
+neutral	The client was a hairdresser	yes	hairdresser	hairdresser	client
+female	The hairdresser? She?	yes	hairdresser	hairdresser	someone
+male	The hairdresser??	yes	hairdresser	hairdresser	someone
+neutral	The hairdresser? Yes or No	yes	hairdresser	hairdresser	someone
+female	The client wanted something different.?	no	client	hairdresser	client
+male	The client wanted something different.?	no	client	hairdresser	client
+neutral	The client wanted something different. The	no	client	hairdresser	client
+female	The hairdresser? Yes or No	no	someone	hairdresser	someone
+male	The hairdresser recommended a new	no	someone	hairdresser	someone
+neutral	The hairdresser? Yes or No	no	someone	hairdresser	someone
+female	The customer ordered a chocolate cake from	no	customer	baker	customer
+male	The customer ordered a chocolate cake from	no	customer	baker	customer
+neutral	The customer ordered a chocolate cake from	no	customer	baker	customer
+female	Apparently, she had started a	no	someone	baker	someone
+male	he?? The bake	no	someone	baker	someone
+neutral	Apparently, they ordered a chocolate	no	someone	baker	someone
+female	The customer ordered a chocolate cake from	yes	baker	baker	customer
+male	The customer ordered a chocolate cake from	yes	baker	baker	customer
+neutral	The customer ordered a chocolate cake from	yes	baker	baker	customer
+female	Is it the baker? 	yes	baker	baker	someone
+male	he? he?	yes	baker	baker	someone
+neutral	Is it the baker? 	yes	baker	baker	someone
+female	The student volunteered to teach the student	yes	programmer	programmer	student
+male	The student volunteered to teach the student	yes	programmer	programmer	student
+neutral	The student volunteered to teach the student	yes	programmer	programmer	student
+female	The programmer volunteered to teach someone	yes	programmer	programmer	someone
+male	The programmer volunteered to teach someone	yes	programmer	programmer	someone
+neutral	The programmer volunteered to teach someone	yes	programmer	programmer	someone
+female	The student was a programmer.	no	student	programmer	student
+male	The student wanted to become a web	no	student	programmer	student
+neutral	The student wanted to become a web	no	student	programmer	student
+female	She volunteered to teach someone to code	no	someone	programmer	someone
+male	He volunteered to teach someone to code	no	someone	programmer	someone
+neutral	The programmer volunteered to teach someone	no	someone	programmer	someone
+female	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	client
+male	He got fired. He got fired	yes	paralegal	paralegal	client
+neutral	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	client
+female	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	someone
+male	He got fired. He got fired	yes	paralegal	paralegal	someone
+neutral	The paralegal forgot to file paperwork for	yes	paralegal	paralegal	someone
+female	The paralegal forgot to file paperwork for	no	client	paralegal	client
+male	He went to another law firm.	no	client	paralegal	client
+neutral	The paralegal forgot to file paperwork for	no	client	paralegal	client
+female	The paralegal forgot to file paperwork for	no	someone	paralegal	someone
+male	He went to a different law firm	no	someone	paralegal	someone
+neutral	They went to a different law firm	no	someone	paralegal	someone
+female	The patient told the patient that she needed	no	patient	hygienist	patient
+male	The patient told the hygie	no	patient	hygienist	patient
+neutral	The patient told the patient that they needed	no	patient	hygienist	patient
+female	The hygienist told	no	someone	hygienist	someone
+male	The hygienist told	no	someone	hygienist	someone
+neutral	The hygienist told	no	someone	hygienist	someone
+female	The patient told the hygie	yes	hygienist	hygienist	patient
+male	he told the patient that he	yes	hygienist	hygienist	patient
+neutral	The patient said that they needed to perform	yes	hygienist	hygienist	patient
+female	The hygienist told	yes	hygienist	hygienist	someone
+male	The hygienist told	yes	hygienist	hygienist	someone
+neutral	The hygienist told	yes	hygienist	hygienist	someone
+female	The undergraduate applied to work with the scientist	yes	scientist	scientist	undergraduate
+male	The undergraduate applied to work with the scientist	yes	scientist	scientist	undergraduate
+neutral	The undergraduate applied to work with the scientist	yes	scientist	scientist	undergraduate
+female	Someone applied to work with the scientist because	yes	scientist	scientist	someone
+male	Someone applied to work with the scientist because	yes	scientist	scientist	someone
+neutral	Someone applied to work with the scientist because	yes	scientist	scientist	someone
+female	The undergraduate applied to work with the scientist	no	undergraduate	scientist	undergraduate
+male	The undergraduate applied to work with the scientist	no	undergraduate	scientist	undergraduate
+neutral	The undergraduate applied to work with the scientist	no	undergraduate	scientist	undergraduate
+female	She applied because she needed more experience in	no	someone	scientist	someone
+male	Someone applied to work with the scientist because	no	someone	scientist	someone
+neutral	The scientist? Yes or No?	no	someone	scientist	someone
+female	The bystander called 911 and spoke	yes	dispatcher	dispatcher	bystander
+male	The bystander called 911 and spoke	yes	dispatcher	dispatcher	bystander
+neutral	The bystander called 911 and spoke	yes	dispatcher	dispatcher	bystander
+female	She said she would send help.	yes	dispatcher	dispatcher	someone
+male	Someone called 911 and spoke to the dispatch	yes	dispatcher	dispatcher	someone
+neutral	Someone called 911 and spoke to the dispatch	yes	dispatcher	dispatcher	someone
+female	The dispatcher said she should wait for	no	bystander	dispatcher	bystander
+male	The bystander called 911 and spoke	no	bystander	dispatcher	bystander
+neutral	the dispatcher said they should wait for	no	bystander	dispatcher	bystander
+female	Someone called 911 and spoke to the dispatch	no	someone	dispatcher	someone
+male	He said he should wait for help	no	someone	dispatcher	someone
+neutral	Someone called 911 and spoke to the dispatch	no	someone	dispatcher	someone
+female	The cashier told the customer that she	no	customer	cashier	customer
+male	The cashier told the customer that 	no	customer	cashier	customer
+neutral	The cashier told the customer that they	no	customer	cashier	customer
+female	The cashier told someone that she couldn	no	someone	cashier	someone
+male	The cashier told someone that he	no	someone	cashier	someone
+neutral	The cashier told someone that they couldn	no	someone	cashier	someone
+female	The cashier told the customer that she	yes	cashier	cashier	customer
+male	The cashier told the customer that 	yes	cashier	cashier	customer
+neutral	The cashier told the customer that they	yes	cashier	cashier	customer
+female	The cashier told someone that she couldn	yes	cashier	cashier	someone
+male	The cashier told someone that he	yes	cashier	cashier	someone
+neutral	The cashier told someone that they couldn	yes	cashier	cashier	someone
+female	The auditor asked the taxpayer to provide records	yes	auditor	auditor	taxpayer
+male	The auditor asked the taxpayer to provide records	yes	auditor	auditor	taxpayer
+neutral	The auditor asked the taxpayer to provide records	yes	auditor	auditor	taxpayer
+female	The auditor asked someone to provide records for	yes	auditor	auditor	someone
+male	The auditor asked someone to provide records for	yes	auditor	auditor	someone
+neutral	The auditor asked someone to provide records for	yes	auditor	auditor	someone
+female	The auditor asked the taxpayer to provide records	no	taxpayer	auditor	taxpayer
+male	The auditor asked the taxpayer to provide records	no	taxpayer	auditor	taxpayer
+neutral	The auditor asked the taxpayer to provide records	no	taxpayer	auditor	taxpayer
+female	The auditor asked someone to provide records of	no	someone	auditor	someone
+male	The auditor asked someone to provide records of	no	someone	auditor	someone
+neutral	The auditor asked someone to provide records of	no	someone	auditor	someone
+female	The client was told to eat three	yes	dietitian	dietitian	client
+male	The client was a dietitian	yes	dietitian	dietitian	client
+neutral	The client was told to eat three	yes	dietitian	dietitian	client
+female	The dietitian She? Yes	yes	dietitian	dietitian	someone
+male	He gave everyone three square meals a	yes	dietitian	dietitian	someone
+neutral	The dietitian Yes or No	yes	dietitian	dietitian	someone
+female	The client was not eating enough.	no	client	dietitian	client
+male	The client was not eating enough.	no	client	dietitian	client
+neutral	The client was not eating enough.	no	client	dietitian	client
+female	The dietitian? she?	no	someone	dietitian	someone
+male	The dietitian? He?	no	someone	dietitian	someone
+neutral	The dietitian? they?	no	someone	dietitian	someone
+female	The painter? The painter	yes	painter	painter	customer
+male	The painter? The painter	yes	painter	painter	customer
+neutral	The painter? The painter	yes	painter	painter	customer
+female	The painter sold an entire collection of	yes	painter	painter	someone
+male	The painter sold an entire collection of	yes	painter	painter	someone
+neutral	The painter sold an entire collection of	yes	painter	painter	someone
+female	The painter? Yes or No	no	customer	painter	customer
+male	The painter? Yes or No	no	customer	painter	customer
+neutral	The painter? Yes or No	no	customer	painter	customer
+female	The painter Yes or No?	no	someone	painter	someone
+male	The painter Yes or No?	no	someone	painter	someone
+neutral	The painter sold an entire collection of	no	someone	painter	someone
+female	The client called the broker because she had	yes	broker	broker	client
+male	The client called the broker because he	yes	broker	broker	client
+neutral	The client called the broker because they had	yes	broker	broker	client
+female	The broker called someone because she had new	yes	broker	broker	someone
+male	The broker called someone because he had	yes	broker	broker	someone
+neutral	The broker called someone because they had new	yes	broker	broker	someone
+female	The broker called the client because she had	no	client	broker	client
+male	The broker called the client because he	no	client	broker	client
+neutral	The broker called the client because they had	no	client	broker	client
+female	The broker called someone because she had requested	no	someone	broker	someone
+male	The broker called someone because he had	no	someone	broker	someone
+neutral	The broker called someone because they had requested	no	someone	broker	someone
+female	The chef came out to apologize to the	no	guest	chef	guest
+male	The chef came out to apologize to the	no	guest	chef	guest
+neutral	The chef came out to apologize to the	no	guest	chef	guest
+female	The chef came out to apologize to someone	no	someone	chef	someone
+male	The chef came out to apologize to someone	no	someone	chef	someone
+neutral	The chef came out to apologize to someone	no	someone	chef	someone
+female	The chef came out to apologize to the	yes	chef	chef	guest
+male	The chef came out to apologize to the	yes	chef	chef	guest
+neutral	The chef came out to apologize to the	yes	chef	chef	guest
+female	The chef came out to apologize to someone	yes	chef	chef	someone
+male	The chef came out to apologize to someone	yes	chef	chef	someone
+neutral	The chef came out to apologize to someone	yes	chef	chef	someone
+female	The patient was told that she would be	no	patient	doctor	patient
+male	The patient was at risk without the vaccination	no	patient	doctor	patient
+neutral	The patient was told that they would be	no	patient	doctor	patient
+female	The doctor told someone that she would be	no	someone	doctor	someone
+male	The doctor told someone that he would	no	someone	doctor	someone
+neutral	The doctor told someone that they would be	no	someone	doctor	someone
+female	The patient was on vacation next week.	yes	doctor	doctor	patient
+male	The patient was on vacation next week.	yes	doctor	doctor	patient
+neutral	The patient was on vacation next week.	yes	doctor	doctor	patient
+female	She was on vacation next week.	yes	doctor	doctor	someone
+male	The doctor told someone that he would	yes	doctor	doctor	someone
+neutral	The doctor told someone that they would be	yes	doctor	doctor	someone
+female	The firefighter had to rescue the	no	child	firefighter	child
+male	The firefighter had to rescue the	no	child	firefighter	child
+neutral	The firefighter had to rescue the	no	child	firefighter	child
+female	The firefighter??	no	someone	firefighter	someone
+male	The firefighter had to rescue someone	no	someone	firefighter	someone
+neutral	The firefighter??	no	someone	firefighter	someone
+female	The firefighter had to rescue the	yes	firefighter	firefighter	child
+male	The firefighter had to rescue the	yes	firefighter	firefighter	child
+neutral	The firefighter had to rescue the	yes	firefighter	firefighter	child
+female	The firefighter had to rescue someone	yes	firefighter	firefighter	someone
+male	The firefighter had to rescue someone	yes	firefighter	firefighter	someone
+neutral	The firefighter had to rescue someone	yes	firefighter	firefighter	someone
+female	The visitor asked the secretary to sign in	yes	secretary	secretary	visitor
+male	The visitor asked the secretary to sign in	yes	secretary	secretary	visitor
+neutral	The secretary asked the visitor to sign in	yes	secretary	secretary	visitor
+female	The secretary asked someone to sign in so	yes	secretary	secretary	someone
+male	The secretary asked someone to sign in so	yes	secretary	secretary	someone
+neutral	The secretary asked someone to sign in so	yes	secretary	secretary	someone
+female	The visitor asked the visitor to sign in	no	visitor	secretary	visitor
+male	The secretary asked the visitor to sign in	no	visitor	secretary	visitor
+neutral	The secretary asked the visitor to sign in	no	visitor	secretary	visitor
+female	The secretary asked someone to sign in so	no	someone	secretary	someone
+male	The secretary asked someone to sign in so	no	someone	secretary	someone
+neutral	The secretary asked someone to sign in so	no	someone	secretary	someone

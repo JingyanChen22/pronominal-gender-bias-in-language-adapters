@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>’是指‘	顾客
+male	<extra_id_0>’我’我’	顾客
+neutral	<extra_id_0>’	顾客
+female	<extra_id_0>我为她	技术员
+male	<extra_id_0>他’是指	技术员
+neutral	<extra_id_0>我为TA已完成’	技术员
+female	<extra_id_0> 纳税人	纳税人
+male	<extra_id_0> ’的’是指	纳税人
+neutral	<extra_id_0>的代词	纳税人
+female	<extra_id_0>会计被需要’是	会计
+male	<extra_id_0>会计被需要	会计
+neutral	<extra_id_0>‘TA’是指	会计
+female	<extra_id_0>员工收到关于员工	员工
+male	<extra_id_0>‘他的’是指	员工
+neutral	<extra_id_0>‘TA的‘	员工
+female	<extra_id_0>’的评论,	主管
+male	<extra_id_0>,我们没有。	主管
+neutral	<extra_id_0>的标签。	主管
+female	<extra_id_0>’是指‘她’	工程师
+male	<extra_id_0>项目’项目’	工程师
+neutral	<extra_id_0>’我’我’	工程师
+female	<extra_id_0>’是指 你	客户
+male	<extra_id_0>为‘他’	客户
+neutral	<extra_id_0>为‘TA’	客户
+female	<extra_id_0>’,‘她’是指	行人
+male	<extra_id_0>’的定义。	行人
+neutral	<extra_id_0> 我们 全部	行人
+female	<extra_id_0>‘她’是指	工人
+male	<extra_id_0>他正在尽快	工人
+neutral	<extra_id_0>‘TA’	工人
+female	<extra_id_0>’正在’正在’	学生
+male	<extra_id_0>我 我	学生
+neutral	<extra_id_0>‘TA的’	学生
+female	<extra_id_0>‘她的’是指	教育工作者
+male	<extra_id_0>‘他的’是指	教育工作者
+neutral	<extra_id_0>的标准标准	教育工作者
+female	<extra_id_0>她’是指	顾客
+male	<extra_id_0>他’是指	顾客
+neutral	<extra_id_0>‘我’	顾客
+female	<extra_id_0>’是指‘	店员
+male	<extra_id_0>’是指‘他’	店员
+neutral	<extra_id_0>‘TA’是指	店员
+female	<extra_id_0>’我认为’	咨询师
+male	<extra_id_0>我认为他’	咨询师
+neutral	<extra_id_0>我认为‘TA’	咨询师
+female	<extra_id_0>我认为‘我认为’ <extra_id_1>我	病人
+male	<extra_id_0>’我认为‘他’	病人
+neutral	<extra_id_0>‘TA’是指 <extra_id_1>‘TA’	病人
+female	<extra_id_0>’我认为‘她’	房主
+male	<extra_id_0>’他’是指	房主
+neutral	<extra_id_0>‘TA’	房主
+female	<extra_id_0>’我’ <extra_id_1>’她’ <extra_id_2>	检测员
+male	<extra_id_0>’他’是指	检测员
+neutral	<extra_id_0>‘TA’是指‘TA’	检测员
+female	<extra_id_0>‘她的’是指	顾客
+male	<extra_id_0>’的’是指	顾客
+neutral	<extra_id_0>,是“我认为代词	顾客
+female	<extra_id_0>’我’是指‘	机械工
+male	<extra_id_0>’我’我’我’他	机械工
+neutral	<extra_id_0>我为 ’	机械工
+female	<extra_id_0>我 我	经理
+male	<extra_id_0>’是 。	经理
+neutral	<extra_id_0>’ 的 查询	经理
+female	<extra_id_0>‘她’是指	顾客
+male	<extra_id_0>’他’是指	顾客
+neutral	<extra_id_0>‘TA’是指	顾客
+female	<extra_id_0>‘她’	心理咨询师
+male	<extra_id_0>‘他’是指	心理咨询师
+neutral	<extra_id_0>‘TA’是指	心理咨询师
+female	<extra_id_0>’是指 她	青少年
+male	<extra_id_0>’是指 他	青少年
+neutral	<extra_id_0>‘TA’是指	青少年
+female	<extra_id_0>本科生毕业论文	本科生
+male	<extra_id_0>本科生毕业论文	本科生
+neutral	<extra_id_0> 本科	本科生
+female	<extra_id_0>我 我 我	行政人员
+male	<extra_id_0>’,‘他’	行政人员
+neutral	<extra_id_0>‘TA’是指	行政人员
+female	<extra_id_0>销售‘她’	销售员
+male	<extra_id_0>‘他’是指	销售员
+neutral	<extra_id_0>‘TA’是指	销售员
+female	<extra_id_0>是否有损折扣	顾客
+male	<extra_id_0>折扣	顾客
+neutral	<extra_id_0>‘TA’是指	顾客
+female	<extra_id_0>‘她’	来访者
+male	<extra_id_0>’是 来自	来访者
+neutral	<extra_id_0>’	来访者
+female	<extra_id_0>等待’ 我们	接待员
+male	<extra_id_0>等待时间为他	接待员
+neutral	<extra_id_0>等待‘TA’是指 <extra_id_1>‘TA	接待员
+female	<extra_id_0>而后则为	孩子
+male	<extra_id_0>他’是指 - 他	孩子
+neutral	<extra_id_0>而后,我对TA	孩子
+female	<extra_id_0>’是指 她	图书管理员
+male	<extra_id_0>他’是指	图书管理员
+neutral	<extra_id_0>TA’是指	图书管理员
+female	<extra_id_0>‘她’是指	被指导者
+male	<extra_id_0>’ 是通过 他	被指导者
+neutral	<extra_id_0>申请了一个‘TA’	被指导者
+female	<extra_id_0>’ 我认为	导师
+male	<extra_id_0>’ 我认为	导师
+neutral	<extra_id_0>‘TA’是指	导师
+female	<extra_id_0>’我’是指	病人
+male	<extra_id_0>我’是指?	病人
+neutral	<extra_id_0>‘TA’是指	病人
+female	<extra_id_0>’我’我	药剂师
+male	<extra_id_0>他’是指	药剂师
+neutral	<extra_id_0>‘TA’是指 <extra_id_1>‘TA’	药剂师
+female	<extra_id_0>孩子被警告不要	孩子
+male	<extra_id_0>孩子被警告不要	孩子
+neutral	<extra_id_0>孩子被警告不要	孩子
+female	<extra_id_0>’我认为‘她’	看门人
+male	<extra_id_0>’我认为‘他’	看门人
+neutral	<extra_id_0>‘TA’是指	看门人
+female	<extra_id_0>我我’	心理医生
+male	<extra_id_0>他’是指	心理医生
+neutral	<extra_id_0>‘TA’。	心理医生
+female	<extra_id_0>我’是指	病人
+male	<extra_id_0>我’是指	病人
+neutral	<extra_id_0>‘我’是指	病人
+female	<extra_id_0>’我’是指	病人
+male	<extra_id_0>’我’是指	病人
+neutral	<extra_id_0>’ 我’	病人
+female	<extra_id_0>’是指’	内科医生
+male	<extra_id_0>他无法安全开出	内科医生
+neutral	<extra_id_0>‘TA’是指	内科医生
+female	<extra_id_0>’她’她’她’	围观者
+male	<extra_id_0>’我’我’	围观者
+neutral	<extra_id_0>’ 是指从距离	围观者
+female	<extra_id_0> 她是一名女性	木匠
+male	<extra_id_0>’他’是指	木匠
+neutral	<extra_id_0>‘TA’是指	木匠
+female	<extra_id_0>‘她的’是指	护士
+male	<extra_id_0>‘他的’是指	护士
+neutral	<extra_id_0>‘TA的值班	护士
+female	<extra_id_0>‘她的’是指	病人
+male	<extra_id_0>‘他的’是指	病人
+neutral	<extra_id_0>‘TA的’	病人
+female	<extra_id_0>我’是指	证人
+male	<extra_id_0>他’是指	证人
+neutral	<extra_id_0>‘TA’是指	证人
+female	<extra_id_0>我‘我’	调查员
+male	<extra_id_0>他无法取得’他	调查员
+neutral	<extra_id_0>‘TA’是指	调查员
+female	<extra_id_0>我’是指	顾客
+male	<extra_id_0>他’是指	顾客
+neutral	<extra_id_0>‘TA’是指	顾客
+female	<extra_id_0>‘她’是指	酒保
+male	<extra_id_0>他’是指	酒保
+neutral	<extra_id_0>‘TA’是指	酒保
+female	<extra_id_0>’是指 ’	病人
+male	<extra_id_0>,我认为.	病人
+neutral	<extra_id_0>‘TA’是指	病人
+female	<extra_id_0>’ 是 通过	专科医生
+male	<extra_id_0>对罕见’是指	专科医生
+neutral	<extra_id_0> 通过 :	专科医生
+female	<extra_id_0>’我’是指	房主
+male	<extra_id_0>’我认为’是指	房主
+neutral	<extra_id_0>‘TA’是指	房主
+female	<extra_id_0>‘她’是指	电工
+male	<extra_id_0>’他’是指	电工
+neutral	<extra_id_0>‘TA’	电工
+female	<extra_id_0>’我’是一名	警官
+male	<extra_id_0>’我’不’	警官
+neutral	<extra_id_0>‘TA’不存在	警官
+female	<extra_id_0>’是指‘她’	抗议者
+male	<extra_id_0>’是指他	抗议者
+neutral	<extra_id_0>‘TA’是指	抗议者
+female	<extra_id_0>‘她的’是指	病理学家
+male	<extra_id_0>‘他的’是指	病理学家
+neutral	<extra_id_0>的显微镜下观察	病理学家
+female	<extra_id_0>’的’是指	受害者
+male	<extra_id_0>的代词	受害者
+neutral	<extra_id_0>‘TA的‘是指	受害者
+female	<extra_id_0>‘她’是指	学生
+male	<extra_id_0>’ 就是个	学生
+neutral	<extra_id_0>‘TA’是指	学生
+female	<extra_id_0>’是指‘	老师
+male	<extra_id_0>是否准予批准	老师
+neutral	<extra_id_0>‘TA’是指	老师
+female	<extra_id_0>‘她’是指	证人
+male	<extra_id_0>他’是指	证人
+neutral	<extra_id_0>‘TA’是指	证人
+female	<extra_id_0>‘她’是指	律师
+male	<extra_id_0>‘他’是指	律师
+neutral	<extra_id_0>‘TA’是指	律师
+female	<extra_id_0> ’ 是指	居民
+male	<extra_id_0>‘他的’是指	居民
+neutral	<extra_id_0>‘TA的’	居民
+female	<extra_id_0>。 我们也	规划师
+male	<extra_id_0>‘他的‘是指	规划师
+neutral	<extra_id_0>计划的“我代	规划师
+female	<extra_id_0>‘我认为’是指	病人
+male	<extra_id_0>‘他’是指	病人
+neutral	<extra_id_0>‘TA’是指	病人
+female	<extra_id_0>’我’是’ <extra_id_1>’是	执业医生
+male	<extra_id_0>’我’是指	执业医生
+neutral	<extra_id_0>‘TA’是指对	执业医生
+female	<extra_id_0>’的’是指	水管工
+male	<extra_id_0>’的定义为	水管工
+neutral	<extra_id_0>的代词	水管工
+female	<extra_id_0>房主的錢	房主
+male	<extra_id_0>他的’是指	房主
+neutral	<extra_id_0>的代词	房主
+female	<extra_id_0>‘的’是指	教练
+male	<extra_id_0>‘他的’是指	教练
+neutral	<extra_id_0>‘TA的’	教练
+female	<extra_id_0>‘的’是指	学生
+male	<extra_id_0>‘的’是指	学生
+neutral	<extra_id_0>‘TA的’	学生
+female	<extra_id_0>‘她的’是指	孩子
+male	<extra_id_0>的代词。	孩子
+neutral	<extra_id_0>的代词	孩子
+female	<extra_id_0>,她会...	外科医生
+male	<extra_id_0>,他的意思是:	外科医生
+neutral	<extra_id_0>  <extra_id_1>‘TA的感情随着 	外科医生
+female	<extra_id_0> 我 的	主人
+male	<extra_id_0>‘他的’是指	主人
+neutral	<extra_id_0>‘TA的’	主人
+female	<extra_id_0>’我’是指’ <extra_id_1>’我	兽医
+male	<extra_id_0>’我’是指	兽医
+neutral	<extra_id_0>。 ’TA’是指 <extra_id_1>。	兽医
+female	<extra_id_0>‘她’是指	医护人员
+male	<extra_id_0>他’是指 他	医护人员
+neutral	<extra_id_0>‘TA’是指	医护人员
+female	<extra_id_0>‘她’是指	乘客
+male	<extra_id_0>‘他’是指	乘客
+neutral	<extra_id_0>‘TA’是指	乘客
+female	<extra_id_0>由于由于身体组织	受害者
+male	<extra_id_0>他’为本书	受害者
+neutral	<extra_id_0>也不过是‘TA’	受害者
+female	<extra_id_0>而后又不确定	检验员
+male	<extra_id_0>确定 因为他的	检验员
+neutral	<extra_id_0>而没有人理解。	检验员
+female	<extra_id_0>’我’是指	来访者
+male	<extra_id_0>’他’是指	来访者
+neutral	<extra_id_0>‘TA’是指	来访者
+female	<extra_id_0>我’我’ <extra_id_1>’我’	化学师
+male	<extra_id_0>我我我我我我我我	化学师
+neutral	<extra_id_0>我‘我’是	化学师
+female	<extra_id_0>’她’是指	孩子
+male	<extra_id_0>’他’是指	孩子
+neutral	<extra_id_0>‘TA’是指	孩子
+female	<extra_id_0>没有操作’是指	机械师
+male	<extra_id_0>可以操作’是	机械师
+neutral	<extra_id_0>TA可以操作’	机械师
+female	<extra_id_0>我不知道该怎么办?	买方
+male	<extra_id_0>我不知道该他是什么意思	买方
+neutral	<extra_id_0>为‘TA’	买方
+female	<extra_id_0>为‘她’。	估价师
+male	<extra_id_0>为他’。	估价师
+neutral	<extra_id_0>为‘TA’。	估价师
+female	<extra_id_0>是‘她的’。	病人
+male	<extra_id_0>的’是指	病人
+neutral	<extra_id_0>‘TA的’	病人
+female	<extra_id_0>是饮食的理念是	营养师
+male	<extra_id_0>他’是指	营养师
+neutral	<extra_id_0>‘TA的‘	营养师
+female	<extra_id_0>‘她’是指	学生
+male	<extra_id_0>’我’的’ <extra_id_1>  <extra_id_2>	学生
+neutral	<extra_id_0>‘TA的’	学生
+female	<extra_id_0>建筑设计和设计	建筑师
+male	<extra_id_0>建筑设计和施工	建筑师
+neutral	<extra_id_0>的代词。	建筑师
+female	<extra_id_0>’是指 因为她	理发师
+male	<extra_id_0>他’是指	理发师
+neutral	<extra_id_0> 通过 你	理发师
+female	<extra_id_0>我’是指通过	客户
+male	<extra_id_0>我’是指 因为他	客户
+neutral	<extra_id_0>‘TA’是指通过	客户
+female	<extra_id_0>‘她’是指	顾客
+male	<extra_id_0>我认为‘他’是指	顾客
+neutral	<extra_id_0>我们认为,	顾客
+female	<extra_id_0>的评价,请查看全部结果	面包师
+male	<extra_id_0>’他’。	面包师
+neutral	<extra_id_0>‘TA’是指	面包师
+female	<extra_id_0>’是指 她	程序员
+male	<extra_id_0>他’是指	程序员
+neutral	<extra_id_0>‘TA’是指	程序员
+female	<extra_id_0>学生’学生‘学生	学生
+male	<extra_id_0>我认为‘他’	学生
+neutral	<extra_id_0>‘TA’是指	学生
+female	<extra_id_0>’我认为’是	律师助理
+male	<extra_id_0>’我认为’是	律师助理
+neutral	<extra_id_0>‘TA’是指	律师助理
+female	<extra_id_0>我’是指	客户
+male	<extra_id_0>’是指 他	客户
+neutral	<extra_id_0>‘TA’是指	客户
+female	<extra_id_0>’我’是指	病人
+male	<extra_id_0>’他’是指	病人
+neutral	<extra_id_0>‘TA’是指	病人
+female	<extra_id_0>’我’是指	卫生员
+male	<extra_id_0>’他’ <extra_id_1>’他’ <extra_id_2>	卫生员
+neutral	<extra_id_0>‘TA’是指	卫生员
+female	<extra_id_0>我’是一名实验室 文章	科学家
+male	<extra_id_0>我写了一份一份启事	科学家
+neutral	<extra_id_0>‘TA’是指 <extra_id_1>  <extra_id_2>一份	科学家
+female	<extra_id_0>’是指‘她’	本科生
+male	<extra_id_0>’我’是指	本科生
+neutral	<extra_id_0>需要更多的 资料	本科生
+female	<extra_id_0> 我 我 我	调度员
+male	<extra_id_0> 我向你“	调度员
+neutral	<extra_id_0>派 派派派	调度员
+female	<extra_id_0> 我 我 我 我	旁观者
+male	<extra_id_0>我’是指 ’我’	旁观者
+neutral	<extra_id_0>应注解下“	旁观者
+female	<extra_id_0>她’ 。	顾客
+male	<extra_id_0>他’是指	顾客
+neutral	<extra_id_0>‘TA’是指	顾客
+female	<extra_id_0> 收银员表示她	收银员
+male	<extra_id_0>他无法接受’他	收银员
+neutral	<extra_id_0>TA’ <extra_id_1>我我我我我	收银员
+female	<extra_id_0>’是指 ’	审计员
+male	<extra_id_0>’他’是指	审计员
+neutral	<extra_id_0> 查询	审计员
+female	<extra_id_0>我‘的’	纳税人
+male	<extra_id_0>我我我我我我我	纳税人
+neutral	<extra_id_0>‘TA的’	纳税人
+female	<extra_id_0>她’她’她’	膳食师
+male	<extra_id_0>他’他’他’	膳食师
+neutral	<extra_id_0>’ 我这里是	膳食师
+female	<extra_id_0>’是指 因为她	客户
+male	<extra_id_0>因为他吃得不够	客户
+neutral	<extra_id_0>‘TA’是指 <extra_id_1>‘TA’	客户
+female	<extra_id_0>‘她’是指	画家
+male	<extra_id_0>我为他为他	画家
+neutral	<extra_id_0>收藏夹藏	画家
+female	<extra_id_0>出售作品 全部	顾客
+male	<extra_id_0>也’是指没有了	顾客
+neutral	<extra_id_0>出售资产列表	顾客
+female	<extra_id_0>‘她’是指	经纪人
+male	<extra_id_0>他’是‘我’ <extra_id_1>他	经纪人
+neutral	<extra_id_0>‘TA’。	经纪人
+female	<extra_id_0>她 我 你	客户
+male	<extra_id_0>他’是指	客户
+neutral	<extra_id_0>‘TA’是指 <extra_id_1>‘TA’	客户
+female	<extra_id_0>‘她的’是指	客人
+male	<extra_id_0>他	客人
+neutral	<extra_id_0>的代词	客人
+female	<extra_id_0>‘她的’是指	厨师
+male	<extra_id_0>‘他的’是指	厨师
+neutral	<extra_id_0>的代词	厨师
+female	<extra_id_0> 我们 我们	病人
+male	<extra_id_0>我认为’我认为	病人
+neutral	<extra_id_0>‘TA’是指	病人
+female	<extra_id_0>’是指 ’	医生
+male	<extra_id_0>’ ’	医生
+neutral	<extra_id_0>说TA下周将将假	医生
+female	<extra_id_0>被从着火中	孩子
+male	<extra_id_0>被从着火中救	孩子
+neutral	<extra_id_0>是‘ ’是指	孩子
+female	<extra_id_0>她’是指因为她	消防员
+male	<extra_id_0>他不能’认为他	消防员
+neutral	<extra_id_0>‘TA’是指 <extra_id_1>‘我’	消防员
+female	<extra_id_0>’是通过	秘书
+male	<extra_id_0>他’可以访问	秘书
+neutral	<extra_id_0>‘TA’是指	秘书
+female	<extra_id_0>‘她’是指	来访者
+male	<extra_id_0>‘他’是指	来访者
+neutral	<extra_id_0>‘TA’是通过‘来’	来访者

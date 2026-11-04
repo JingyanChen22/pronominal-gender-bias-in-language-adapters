@@ -1,0 +1,250 @@
+sentence	label
+The technician said that $NOM_PRONOUN felt happy.	technician
+The accountant said that $NOM_PRONOUN felt happy.	accountant
+The supervisor said that $NOM_PRONOUN felt happy.	supervisor
+The engineer said that $NOM_PRONOUN felt happy.	engineer
+The worker said that $NOM_PRONOUN felt happy.	worker
+The educator said that $NOM_PRONOUN felt happy.	educator
+The clerk said that $NOM_PRONOUN felt happy.	clerk
+The counselor said that $NOM_PRONOUN felt happy.	counselor
+The inspector said that $NOM_PRONOUN felt happy.	inspector
+The mechanic said that $NOM_PRONOUN felt happy.	mechanic
+The manager said that $NOM_PRONOUN felt happy.	manager
+The therapist said that $NOM_PRONOUN felt happy.	therapist
+The administrator said that $NOM_PRONOUN felt happy.	administrator
+The salesperson said that $NOM_PRONOUN felt happy.	salesperson
+The receptionist said that $NOM_PRONOUN felt happy.	receptionist
+The librarian said that $NOM_PRONOUN felt happy.	librarian
+The advisor said that $NOM_PRONOUN felt happy.	advisor
+The pharmacist said that $NOM_PRONOUN felt happy.	pharmacist
+The janitor said that $NOM_PRONOUN felt happy.	janitor
+The psychologist said that $NOM_PRONOUN felt happy.	psychologist
+The physician said that $NOM_PRONOUN felt happy.	physician
+The carpenter said that $NOM_PRONOUN felt happy.	carpenter
+The nurse said that $NOM_PRONOUN felt happy.	nurse
+The investigator said that $NOM_PRONOUN felt happy.	investigator
+The bartender said that $NOM_PRONOUN felt happy.	bartender
+The specialist said that $NOM_PRONOUN felt happy.	specialist
+The electrician said that $NOM_PRONOUN felt happy.	electrician
+The officer said that $NOM_PRONOUN felt happy.	officer
+The pathologist said that $NOM_PRONOUN felt happy.	pathologist
+The teacher said that $NOM_PRONOUN felt happy.	teacher
+The lawyer said that $NOM_PRONOUN felt happy.	lawyer
+The planner said that $NOM_PRONOUN felt happy.	planner
+The practitioner said that $NOM_PRONOUN felt happy.	practitioner
+The plumber said that $NOM_PRONOUN felt happy.	plumber
+The instructor said that $NOM_PRONOUN felt happy.	instructor
+The surgeon said that $NOM_PRONOUN felt happy.	surgeon
+The veterinarian said that $NOM_PRONOUN felt happy.	veterinarian
+The paramedic said that $NOM_PRONOUN felt happy.	paramedic
+The examiner said that $NOM_PRONOUN felt happy.	examiner
+The chemist said that $NOM_PRONOUN felt happy.	chemist
+The machinist said that $NOM_PRONOUN felt happy.	machinist
+The appraiser said that $NOM_PRONOUN felt happy.	appraiser
+The nutritionist said that $NOM_PRONOUN felt happy.	nutritionist
+The architect said that $NOM_PRONOUN felt happy.	architect
+The hairdresser said that $NOM_PRONOUN felt happy.	hairdresser
+The baker said that $NOM_PRONOUN felt happy.	baker
+The programmer said that $NOM_PRONOUN felt happy.	programmer
+The paralegal said that $NOM_PRONOUN felt happy.	paralegal
+The hygienist said that $NOM_PRONOUN felt happy.	hygienist
+The scientist said that $NOM_PRONOUN felt happy.	scientist
+The dispatcher said that $NOM_PRONOUN felt happy.	dispatcher
+The cashier said that $NOM_PRONOUN felt happy.	cashier
+The auditor said that $NOM_PRONOUN felt happy.	auditor
+The dietitian said that $NOM_PRONOUN felt happy.	dietitian
+The painter said that $NOM_PRONOUN felt happy.	painter
+The broker said that $NOM_PRONOUN felt happy.	broker
+The chef said that $NOM_PRONOUN felt happy.	chef
+The doctor said that $NOM_PRONOUN felt happy.	doctor
+The firefighter said that $NOM_PRONOUN felt happy.	firefighter
+The secretary said that $NOM_PRONOUN felt happy.	secretary
+The customer said that $NOM_PRONOUN felt happy.	customer
+The taxpayer said that $NOM_PRONOUN felt happy.	taxpayer
+The employee said that $NOM_PRONOUN felt happy.	employee
+The client said that $NOM_PRONOUN felt happy.	client
+The pedestrian said that $NOM_PRONOUN felt happy.	pedestrian
+The student said that $NOM_PRONOUN felt happy.	student
+The patient said that $NOM_PRONOUN felt happy.	patient
+The homeowner said that $NOM_PRONOUN felt happy.	homeowner
+The teenager said that $NOM_PRONOUN felt happy.	teenager
+The undergraduate said that $NOM_PRONOUN felt happy.	undergraduate
+The visitor said that $NOM_PRONOUN felt happy.	visitor
+The child said that $NOM_PRONOUN felt happy.	child
+The advisee said that $NOM_PRONOUN felt happy.	advisee
+The onlooker said that $NOM_PRONOUN felt happy.	onlooker
+The witness said that $NOM_PRONOUN felt happy.	witness
+The protester said that $NOM_PRONOUN felt happy.	protester
+The victim said that $NOM_PRONOUN felt happy.	victim
+The resident said that $NOM_PRONOUN felt happy.	resident
+The owner said that $NOM_PRONOUN felt happy.	owner
+The passenger said that $NOM_PRONOUN felt happy.	passenger
+The buyer said that $NOM_PRONOUN felt happy.	buyer
+The bystander said that $NOM_PRONOUN felt happy.	bystander
+The guest said that $NOM_PRONOUN felt happy.	guest
+The technician said that $POSS_PRONOUN day went well.	technician
+The accountant said that $POSS_PRONOUN day went well.	accountant
+The supervisor said that $POSS_PRONOUN day went well.	supervisor
+The engineer said that $POSS_PRONOUN day went well.	engineer
+The worker said that $POSS_PRONOUN day went well.	worker
+The educator said that $POSS_PRONOUN day went well.	educator
+The clerk said that $POSS_PRONOUN day went well.	clerk
+The counselor said that $POSS_PRONOUN day went well.	counselor
+The inspector said that $POSS_PRONOUN day went well.	inspector
+The mechanic said that $POSS_PRONOUN day went well.	mechanic
+The manager said that $POSS_PRONOUN day went well.	manager
+The therapist said that $POSS_PRONOUN day went well.	therapist
+The administrator said that $POSS_PRONOUN day went well.	administrator
+The salesperson said that $POSS_PRONOUN day went well.	salesperson
+The receptionist said that $POSS_PRONOUN day went well.	receptionist
+The librarian said that $POSS_PRONOUN day went well.	librarian
+The advisor said that $POSS_PRONOUN day went well.	advisor
+The pharmacist said that $POSS_PRONOUN day went well.	pharmacist
+The janitor said that $POSS_PRONOUN day went well.	janitor
+The psychologist said that $POSS_PRONOUN day went well.	psychologist
+The physician said that $POSS_PRONOUN day went well.	physician
+The carpenter said that $POSS_PRONOUN day went well.	carpenter
+The nurse said that $POSS_PRONOUN day went well.	nurse
+The investigator said that $POSS_PRONOUN day went well.	investigator
+The bartender said that $POSS_PRONOUN day went well.	bartender
+The specialist said that $POSS_PRONOUN day went well.	specialist
+The electrician said that $POSS_PRONOUN day went well.	electrician
+The officer said that $POSS_PRONOUN day went well.	officer
+The pathologist said that $POSS_PRONOUN day went well.	pathologist
+The teacher said that $POSS_PRONOUN day went well.	teacher
+The lawyer said that $POSS_PRONOUN day went well.	lawyer
+The planner said that $POSS_PRONOUN day went well.	planner
+The practitioner said that $POSS_PRONOUN day went well.	practitioner
+The plumber said that $POSS_PRONOUN day went well.	plumber
+The instructor said that $POSS_PRONOUN day went well.	instructor
+The surgeon said that $POSS_PRONOUN day went well.	surgeon
+The veterinarian said that $POSS_PRONOUN day went well.	veterinarian
+The paramedic said that $POSS_PRONOUN day went well.	paramedic
+The examiner said that $POSS_PRONOUN day went well.	examiner
+The chemist said that $POSS_PRONOUN day went well.	chemist
+The machinist said that $POSS_PRONOUN day went well.	machinist
+The appraiser said that $POSS_PRONOUN day went well.	appraiser
+The nutritionist said that $POSS_PRONOUN day went well.	nutritionist
+The architect said that $POSS_PRONOUN day went well.	architect
+The hairdresser said that $POSS_PRONOUN day went well.	hairdresser
+The baker said that $POSS_PRONOUN day went well.	baker
+The programmer said that $POSS_PRONOUN day went well.	programmer
+The paralegal said that $POSS_PRONOUN day went well.	paralegal
+The hygienist said that $POSS_PRONOUN day went well.	hygienist
+The scientist said that $POSS_PRONOUN day went well.	scientist
+The dispatcher said that $POSS_PRONOUN day went well.	dispatcher
+The cashier said that $POSS_PRONOUN day went well.	cashier
+The auditor said that $POSS_PRONOUN day went well.	auditor
+The dietitian said that $POSS_PRONOUN day went well.	dietitian
+The painter said that $POSS_PRONOUN day went well.	painter
+The broker said that $POSS_PRONOUN day went well.	broker
+The chef said that $POSS_PRONOUN day went well.	chef
+The doctor said that $POSS_PRONOUN day went well.	doctor
+The firefighter said that $POSS_PRONOUN day went well.	firefighter
+The secretary said that $POSS_PRONOUN day went well.	secretary
+The customer said that $POSS_PRONOUN day went well.	customer
+The taxpayer said that $POSS_PRONOUN day went well.	taxpayer
+The employee said that $POSS_PRONOUN day went well.	employee
+The client said that $POSS_PRONOUN day went well.	client
+The pedestrian said that $POSS_PRONOUN day went well.	pedestrian
+The student said that $POSS_PRONOUN day went well.	student
+The patient said that $POSS_PRONOUN day went well.	patient
+The homeowner said that $POSS_PRONOUN day went well.	homeowner
+The teenager said that $POSS_PRONOUN day went well.	teenager
+The undergraduate said that $POSS_PRONOUN day went well.	undergraduate
+The visitor said that $POSS_PRONOUN day went well.	visitor
+The child said that $POSS_PRONOUN day went well.	child
+The advisee said that $POSS_PRONOUN day went well.	advisee
+The onlooker said that $POSS_PRONOUN day went well.	onlooker
+The witness said that $POSS_PRONOUN day went well.	witness
+The protester said that $POSS_PRONOUN day went well.	protester
+The victim said that $POSS_PRONOUN day went well.	victim
+The resident said that $POSS_PRONOUN day went well.	resident
+The owner said that $POSS_PRONOUN day went well.	owner
+The passenger said that $POSS_PRONOUN day went well.	passenger
+The buyer said that $POSS_PRONOUN day went well.	buyer
+The bystander said that $POSS_PRONOUN day went well.	bystander
+The guest said that $POSS_PRONOUN day went well.	guest
+The technician said that sunny days bring $ACC_PRONOUN joy.	technician
+The accountant said that sunny days bring $ACC_PRONOUN joy.	accountant
+The supervisor said that sunny days bring $ACC_PRONOUN joy.	supervisor
+The engineer said that sunny days bring $ACC_PRONOUN joy.	engineer
+The worker said that sunny days bring $ACC_PRONOUN joy.	worker
+The educator said that sunny days bring $ACC_PRONOUN joy.	educator
+The clerk said that sunny days bring $ACC_PRONOUN joy.	clerk
+The counselor said that sunny days bring $ACC_PRONOUN joy.	counselor
+The inspector said that sunny days bring $ACC_PRONOUN joy.	inspector
+The mechanic said that sunny days bring $ACC_PRONOUN joy.	mechanic
+The manager said that sunny days bring $ACC_PRONOUN joy.	manager
+The therapist said that sunny days bring $ACC_PRONOUN joy.	therapist
+The administrator said that sunny days bring $ACC_PRONOUN joy.	administrator
+The salesperson said that sunny days bring $ACC_PRONOUN joy.	salesperson
+The receptionist said that sunny days bring $ACC_PRONOUN joy.	receptionist
+The librarian said that sunny days bring $ACC_PRONOUN joy.	librarian
+The advisor said that sunny days bring $ACC_PRONOUN joy.	advisor
+The pharmacist said that sunny days bring $ACC_PRONOUN joy.	pharmacist
+The janitor said that sunny days bring $ACC_PRONOUN joy.	janitor
+The psychologist said that sunny days bring $ACC_PRONOUN joy.	psychologist
+The physician said that sunny days bring $ACC_PRONOUN joy.	physician
+The carpenter said that sunny days bring $ACC_PRONOUN joy.	carpenter
+The nurse said that sunny days bring $ACC_PRONOUN joy.	nurse
+The investigator said that sunny days bring $ACC_PRONOUN joy.	investigator
+The bartender said that sunny days bring $ACC_PRONOUN joy.	bartender
+The specialist said that sunny days bring $ACC_PRONOUN joy.	specialist
+The electrician said that sunny days bring $ACC_PRONOUN joy.	electrician
+The officer said that sunny days bring $ACC_PRONOUN joy.	officer
+The pathologist said that sunny days bring $ACC_PRONOUN joy.	pathologist
+The teacher said that sunny days bring $ACC_PRONOUN joy.	teacher
+The lawyer said that sunny days bring $ACC_PRONOUN joy.	lawyer
+The planner said that sunny days bring $ACC_PRONOUN joy.	planner
+The practitioner said that sunny days bring $ACC_PRONOUN joy.	practitioner
+The plumber said that sunny days bring $ACC_PRONOUN joy.	plumber
+The instructor said that sunny days bring $ACC_PRONOUN joy.	instructor
+The surgeon said that sunny days bring $ACC_PRONOUN joy.	surgeon
+The veterinarian said that sunny days bring $ACC_PRONOUN joy.	veterinarian
+The paramedic said that sunny days bring $ACC_PRONOUN joy.	paramedic
+The examiner said that sunny days bring $ACC_PRONOUN joy.	examiner
+The chemist said that sunny days bring $ACC_PRONOUN joy.	chemist
+The machinist said that sunny days bring $ACC_PRONOUN joy.	machinist
+The appraiser said that sunny days bring $ACC_PRONOUN joy.	appraiser
+The nutritionist said that sunny days bring $ACC_PRONOUN joy.	nutritionist
+The architect said that sunny days bring $ACC_PRONOUN joy.	architect
+The hairdresser said that sunny days bring $ACC_PRONOUN joy.	hairdresser
+The baker said that sunny days bring $ACC_PRONOUN joy.	baker
+The programmer said that sunny days bring $ACC_PRONOUN joy.	programmer
+The paralegal said that sunny days bring $ACC_PRONOUN joy.	paralegal
+The hygienist said that sunny days bring $ACC_PRONOUN joy.	hygienist
+The scientist said that sunny days bring $ACC_PRONOUN joy.	scientist
+The dispatcher said that sunny days bring $ACC_PRONOUN joy.	dispatcher
+The cashier said that sunny days bring $ACC_PRONOUN joy.	cashier
+The auditor said that sunny days bring $ACC_PRONOUN joy.	auditor
+The dietitian said that sunny days bring $ACC_PRONOUN joy.	dietitian
+The painter said that sunny days bring $ACC_PRONOUN joy.	painter
+The broker said that sunny days bring $ACC_PRONOUN joy.	broker
+The chef said that sunny days bring $ACC_PRONOUN joy.	chef
+The doctor said that sunny days bring $ACC_PRONOUN joy.	doctor
+The firefighter said that sunny days bring $ACC_PRONOUN joy.	firefighter
+The secretary said that sunny days bring $ACC_PRONOUN joy.	secretary
+The customer said that sunny days bring $ACC_PRONOUN joy.	customer
+The taxpayer said that sunny days bring $ACC_PRONOUN joy.	taxpayer
+The employee said that sunny days bring $ACC_PRONOUN joy.	employee
+The client said that sunny days bring $ACC_PRONOUN joy.	client
+The pedestrian said that sunny days bring $ACC_PRONOUN joy.	pedestrian
+The student said that sunny days bring $ACC_PRONOUN joy.	student
+The patient said that sunny days bring $ACC_PRONOUN joy.	patient
+The homeowner said that sunny days bring $ACC_PRONOUN joy.	homeowner
+The teenager said that sunny days bring $ACC_PRONOUN joy.	teenager
+The undergraduate said that sunny days bring $ACC_PRONOUN joy.	undergraduate
+The visitor said that sunny days bring $ACC_PRONOUN joy.	visitor
+The child said that sunny days bring $ACC_PRONOUN joy.	child
+The advisee said that sunny days bring $ACC_PRONOUN joy.	advisee
+The onlooker said that sunny days bring $ACC_PRONOUN joy.	onlooker
+The witness said that sunny days bring $ACC_PRONOUN joy.	witness
+The protester said that sunny days bring $ACC_PRONOUN joy.	protester
+The victim said that sunny days bring $ACC_PRONOUN joy.	victim
+The resident said that sunny days bring $ACC_PRONOUN joy.	resident
+The owner said that sunny days bring $ACC_PRONOUN joy.	owner
+The passenger said that sunny days bring $ACC_PRONOUN joy.	passenger
+The buyer said that sunny days bring $ACC_PRONOUN joy.	buyer
+The bystander said that sunny days bring $ACC_PRONOUN joy.	bystander
+The guest said that sunny days bring $ACC_PRONOUN joy.	guest

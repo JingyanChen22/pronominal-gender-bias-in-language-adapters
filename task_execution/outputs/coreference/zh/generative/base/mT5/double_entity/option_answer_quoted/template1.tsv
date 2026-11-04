@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0>她可以用支付方式	顾客	技术员	顾客
+male	<extra_id_0>他可以用‘	顾客	技术员	顾客
+neutral	<extra_id_0>TA可以用‘	顾客	技术员	顾客
+female	<extra_id_0>她’是指技术员	某人	技术员	某人
+male	<extra_id_0>他’是指技术员	某人	技术员	某人
+neutral	<extra_id_0>TA可以用代技术员	某人	技术员	某人
+female	<extra_id_0>她’ 是	技术员	技术员	顾客
+male	<extra_id_0>他已完成’	技术员	技术员	顾客
+neutral	<extra_id_0>顾客已完成修复	技术员	技术员	顾客
+female	<extra_id_0>人她已完成’	技术员	技术员	某人
+male	<extra_id_0>他已完成 他已完成	技术员	技术员	某人
+neutral	<extra_id_0>TA已完成 ’	技术员	技术员	某人
+female	<extra_id_0>纳税人?答案是:	纳税人	会计	纳税人
+male	<extra_id_0>纳税人 是	纳税人	会计	纳税人
+neutral	<extra_id_0>纳税人,代词	纳税人	会计	纳税人
+female	<extra_id_0>人,或者是‘某人’	某人	会计	某人
+male	<extra_id_0>是‘某人’	某人	会计	某人
+neutral	<extra_id_0>,代词‘TA’	某人	会计	某人
+female	<extra_id_0>纳税人?答案是	会计	会计	纳税人
+male	<extra_id_0>纳税人?答案是	会计	会计	纳税人
+neutral	<extra_id_0>纳税人’。	会计	会计	纳税人
+female	<extra_id_0>人? 是‘某人	会计	会计	某人
+male	<extra_id_0>人? 他’	会计	会计	某人
+neutral	<extra_id_0>人’是‘某人’	会计	会计	某人
+female	<extra_id_0>员工是‘主管’。	员工	主管	员工
+male	<extra_id_0>员工是‘主管’	员工	主管	员工
+neutral	<extra_id_0>员工的‘TA’	员工	主管	员工
+female	<extra_id_0>人? 她是‘	某人	主管	某人
+male	<extra_id_0>是‘某人’	某人	主管	某人
+neutral	<extra_id_0>是‘某人’	某人	主管	某人
+female	<extra_id_0>员工向员工向员工	主管	主管	员工
+male	<extra_id_0>员工向员工管理风格	主管	主管	员工
+neutral	<extra_id_0>员工向TA的	主管	主管	员工
+female	<extra_id_0>是‘某人’。	主管	主管	某人
+male	<extra_id_0>是‘某人’	主管	主管	某人
+neutral	<extra_id_0>人向‘TA的’	主管	主管	某人
+female	<extra_id_0>工程师通知’工程师通知’	工程师	工程师	客户
+male	<extra_id_0>工程师通知他需要更多	工程师	工程师	客户
+neutral	<extra_id_0>工程师 ’在‘工程师	工程师	工程师	客户
+female	<extra_id_0>工程师’是代‘工程师	工程师	工程师	某人
+male	<extra_id_0>工程师通知人需要更多	工程师	工程师	某人
+neutral	<extra_id_0>工程师 ’是代‘工程师	工程师	工程师	某人
+female	<extra_id_0>是‘是’是‘是’	客户	工程师	客户
+male	<extra_id_0>’是‘工程师’。	客户	工程师	客户
+neutral	<extra_id_0>,‘工程师’是‘工程师	客户	工程师	客户
+female	<extra_id_0>人’是‘工程师’	某人	工程师	某人
+male	<extra_id_0>工程师’是‘工程师’	某人	工程师	某人
+neutral	<extra_id_0>人,TA需要按时支付	某人	工程师	某人
+female	<extra_id_0>人她是‘行人’	行人	工人	行人
+male	<extra_id_0>他’是‘行人’	行人	工人	行人
+neutral	<extra_id_0>人,是‘行人	行人	工人	行人
+female	<extra_id_0>是‘工人’。	某人	工人	某人
+male	<extra_id_0>他’是指代工人	某人	工人	某人
+neutral	<extra_id_0>人,是‘工人’。	某人	工人	某人
+female	<extra_id_0>行人她’是	工人	工人	行人
+male	<extra_id_0>行人他正在修复	工人	工人	行人
+neutral	<extra_id_0>行人行人行人	工人	工人	行人
+female	<extra_id_0>她’是指代工人	工人	工人	某人
+male	<extra_id_0>他正在尽快修复行行。	工人	工人	某人
+neutral	<extra_id_0>TA正在尽快修复‘	工人	工人	某人
+female	<extra_id_0>学生开会 她的’	学生	教育工作者	学生
+male	<extra_id_0>学生开会讨论他的’	学生	教育工作者	学生
+neutral	<extra_id_0>学生开会讨论‘	学生	教育工作者	学生
+female	<extra_id_0>人开会 她是	某人	教育工作者	某人
+male	<extra_id_0>人开会讨论他的’	某人	教育工作者	某人
+neutral	<extra_id_0>人开会讨论‘	某人	教育工作者	某人
+female	<extra_id_0>学生开会讨论她的’	教育工作者	教育工作者	学生
+male	<extra_id_0>学生开会讨论他的’	教育工作者	教育工作者	学生
+neutral	<extra_id_0>学生开会,讨论TA的 <extra_id_1>学生 <extra_id_2>学生是 <extra_id_3>	教育工作者	教育工作者	学生
+female	<extra_id_0>人开会讨论她的’	教育工作者	教育工作者	某人
+male	<extra_id_0>人开会,讨论他的	教育工作者	教育工作者	某人
+neutral	<extra_id_0>人开会,讨论TA的 <extra_id_1>是 <extra_id_2>人开会	教育工作者	教育工作者	某人
+female	<extra_id_0>店员提供了文件给顾客	顾客	店员	顾客
+male	<extra_id_0>店员提供了文件给顾客	顾客	店员	顾客
+neutral	<extra_id_0>店员提供了文件给顾客	顾客	店员	顾客
+female	<extra_id_0>她’是代店员	某人	店员	某人
+male	<extra_id_0>人 是代店员	某人	店员	某人
+neutral	<extra_id_0>店员提供了文件给TA	某人	店员	某人
+female	<extra_id_0>’是代店员还是‘顾客	店员	店员	顾客
+male	<extra_id_0>店员是‘顾客’	店员	店员	顾客
+neutral	<extra_id_0>是‘店员’。	店员	店员	顾客
+female	<extra_id_0>人’是指代店员	店员	店员	某人
+male	<extra_id_0>人 店员?	店员	店员	某人
+neutral	<extra_id_0>人 代词:	店员	店员	某人
+female	<extra_id_0>咨询师向病人‘	咨询师	咨询师	病人
+male	<extra_id_0>咨询师向病人‘	咨询师	咨询师	病人
+neutral	<extra_id_0>咨询师向病人’	咨询师	咨询师	病人
+female	<extra_id_0>咨询师向她不得不’	咨询师	咨询师	某人
+male	<extra_id_0>他’是‘他’	咨询师	咨询师	某人
+neutral	<extra_id_0>人,TA不得不为‘咨询师	咨询师	咨询师	某人
+female	<extra_id_0>咨询师’是‘病人	病人	咨询师	病人
+male	<extra_id_0>他’是‘病人?	病人	咨询师	病人
+neutral	<extra_id_0>咨询师’。	病人	咨询师	病人
+female	<extra_id_0>咨询师’是‘某人	某人	咨询师	某人
+male	<extra_id_0>他’是咨询师	某人	咨询师	某人
+neutral	<extra_id_0>咨询师’是‘某人	某人	咨询师	某人
+female	<extra_id_0> 房主的身份	房主	检测员	房主
+male	<extra_id_0>是代 他 是	房主	检测员	房主
+neutral	<extra_id_0>是‘房主’。	房主	检测员	房主
+female	<extra_id_0>是‘某人’	某人	检测员	某人
+male	<extra_id_0>他’是指代检测员	某人	检测员	某人
+neutral	<extra_id_0>检测员TA购买结构是否完好	某人	检测员	某人
+female	<extra_id_0>是任何违反’。	检测员	检测员	房主
+male	<extra_id_0>是‘房主’。	检测员	检测员	房主
+neutral	<extra_id_0>是‘房主’。	检测员	检测员	房主
+female	<extra_id_0>人检测员 - 检测	检测员	检测员	某人
+male	<extra_id_0>是‘某人?	检测员	检测员	某人
+neutral	<extra_id_0>检测员TA是否发现任何违反	检测员	检测员	某人
+female	<extra_id_0>机械工的车早上好	顾客	机械工	顾客
+male	<extra_id_0>顾客他的车早上修好	顾客	机械工	顾客
+neutral	<extra_id_0>TA的车将于早上修好	顾客	机械工	顾客
+female	<extra_id_0>人她的车早上修好	某人	机械工	某人
+male	<extra_id_0>人他的车是他的车	某人	机械工	某人
+neutral	<extra_id_0>人TA的车修好	某人	机械工	某人
+female	<extra_id_0>是机械工。	机械工	机械工	顾客
+male	<extra_id_0>他已完成?答案是	机械工	机械工	顾客
+neutral	<extra_id_0>是‘顾客’。	机械工	机械工	顾客
+female	<extra_id_0>人她已完成’	机械工	机械工	某人
+male	<extra_id_0>人他已完成’	机械工	机械工	某人
+neutral	<extra_id_0>人,是‘人’。	机械工	机械工	某人
+female	<extra_id_0>经理是‘顾客’。	经理	经理	顾客
+male	<extra_id_0>经理是‘顾客’	经理	经理	顾客
+neutral	<extra_id_0>是‘顾客’。	经理	经理	顾客
+female	<extra_id_0>是‘某人’?	经理	经理	某人
+male	<extra_id_0>是‘经理’。	经理	经理	某人
+neutral	<extra_id_0>是‘某人’。	经理	经理	某人
+female	<extra_id_0>经理是‘顾客’?答案是	顾客	经理	顾客
+male	<extra_id_0>经理还是‘顾客?答案是	顾客	经理	顾客
+neutral	<extra_id_0>是‘顾客’。	顾客	经理	顾客
+female	<extra_id_0> 经理 是‘某人	某人	经理	某人
+male	<extra_id_0>经理,他’是他	某人	经理	某人
+neutral	<extra_id_0>TA’的代名词。	某人	经理	某人
+female	<extra_id_0>是‘青少年’。	心理咨询师	心理咨询师	青少年
+male	<extra_id_0>是‘青少年’。	心理咨询师	心理咨询师	青少年
+neutral	<extra_id_0>TA’是‘青少年	心理咨询师	心理咨询师	青少年
+female	<extra_id_0>‘某人’是‘某人	心理咨询师	心理咨询师	某人
+male	<extra_id_0>他’是‘心理咨询师	心理咨询师	心理咨询师	某人
+neutral	<extra_id_0>TA’是‘某人’	心理咨询师	心理咨询师	某人
+female	<extra_id_0>是‘青少年’。	青少年	心理咨询师	青少年
+male	<extra_id_0>是‘青少年’。	青少年	心理咨询师	青少年
+neutral	<extra_id_0>TA’是代心理咨询师	青少年	心理咨询师	青少年
+female	<extra_id_0>人’是‘某人’	某人	心理咨询师	某人
+male	<extra_id_0>人’是‘某人’	某人	心理咨询师	某人
+neutral	<extra_id_0>TA’的一部分。	某人	心理咨询师	某人
+female	<extra_id_0>,是本科生	本科生	行政人员	本科生
+male	<extra_id_0>,是他组织的。	本科生	行政人员	本科生
+neutral	<extra_id_0>本科生向行政人员	本科生	行政人员	本科生
+female	<extra_id_0>人,是她。	某人	行政人员	某人
+male	<extra_id_0>人组织的组织机构。	某人	行政人员	某人
+neutral	<extra_id_0>人,或者是‘某人	某人	行政人员	某人
+female	<extra_id_0> 本科生 本科生	行政人员	行政人员	本科生
+male	<extra_id_0>本科生向本科生	行政人员	行政人员	本科生
+neutral	<extra_id_0>本科生向行政人员提交了	行政人员	行政人员	本科生
+female	<extra_id_0>人,或者是‘某人	行政人员	行政人员	某人
+male	<extra_id_0>人,或者是‘某人’	行政人员	行政人员	某人
+neutral	<extra_id_0>人,或者是‘某人’	行政人员	行政人员	某人
+female	<extra_id_0>销售员她能否’?	销售员	销售员	顾客
+male	<extra_id_0>他? 销售员	销售员	销售员	顾客
+neutral	<extra_id_0>销售员销售员销售员	销售员	销售员	顾客
+female	<extra_id_0>人 销售员 她	销售员	销售员	某人
+male	<extra_id_0>人? 销售员他	销售员	销售员	某人
+neutral	<extra_id_0>人 销售员 - 中	销售员	销售员	某人
+female	<extra_id_0>销售员她是否有获得折扣	顾客	销售员	顾客
+male	<extra_id_0>销售员他是否有获得折扣	顾客	销售员	顾客
+neutral	<extra_id_0>销售员TA是否有获得外	顾客	销售员	顾客
+female	<extra_id_0> 销售员她是否有获得	某人	销售员	某人
+male	<extra_id_0> 销售员他是否有获得折扣	某人	销售员	某人
+neutral	<extra_id_0> 销售员 销售员	某人	销售员	某人
+female	<extra_id_0>接待员她是否需要答案	来访者	接待员	来访者
+male	<extra_id_0>接待员他是否需要答案	来访者	接待员	来访者
+neutral	<extra_id_0>来访者接待员TA	来访者	接待员	来访者
+female	<extra_id_0>人接待员她是否需要答案	某人	接待员	某人
+male	<extra_id_0>接待员他是否需要答案	某人	接待员	某人
+neutral	<extra_id_0>接待员TA是否需要	某人	接待员	某人
+female	<extra_id_0>接待员她能否等待时间	接待员	接待员	来访者
+male	<extra_id_0>接待员他能否能否等待时间	接待员	接待员	来访者
+neutral	<extra_id_0>接待员TA能否估计等待时间	接待员	接待员	来访者
+female	<extra_id_0>接待员她能否能否等待待	接待员	接待员	某人
+male	<extra_id_0>他能否’是指代接待员	接待员	接待员	某人
+neutral	<extra_id_0>接待员TA能否等待时间	接待员	接待员	某人
+female	<extra_id_0>是‘孩子’?答案是	孩子	图书管理员	孩子
+male	<extra_id_0>是‘孩子?答案是‘	孩子	图书管理员	孩子
+neutral	<extra_id_0>是‘孩子’。	孩子	图书管理员	孩子
+female	<extra_id_0>人,是读了书	某人	图书管理员	某人
+male	<extra_id_0>人? 他’是指	某人	图书管理员	某人
+neutral	<extra_id_0>TA不知道读的	某人	图书管理员	某人
+female	<extra_id_0> 她’是指代	图书管理员	图书管理员	孩子
+male	<extra_id_0>是他喜欢鼓励阅读。	图书管理员	图书管理员	孩子
+neutral	<extra_id_0>是‘孩子’。	图书管理员	图书管理员	孩子
+female	<extra_id_0>人 - 图书管理员	图书管理员	图书管理员	某人
+male	<extra_id_0>人 - 图书管理员	图书管理员	图书管理员	某人
+neutral	<extra_id_0>是‘图书管理员’	图书管理员	图书管理员	某人
+female	<extra_id_0>是‘导师是‘导师	被指导者	导师	被指导者
+male	<extra_id_0>是‘被指导者’	被指导者	导师	被指导者
+neutral	<extra_id_0>是‘导师’。	被指导者	导师	被指导者
+female	<extra_id_0>是‘导师’,是‘ <extra_id_1>是‘ <extra_id_2>是‘	某人	导师	某人
+male	<extra_id_0>是‘他’。	某人	导师	某人
+neutral	<extra_id_0>是‘导师’。	某人	导师	某人
+female	<extra_id_0>是‘导师’是‘导师	导师	导师	被指导者
+male	<extra_id_0>是‘他’的后果	导师	导师	被指导者
+neutral	<extra_id_0>指导者见面时,	导师	导师	被指导者
+female	<extra_id_0>是‘导师’。	导师	导师	某人
+male	<extra_id_0>是他’的 他	导师	导师	某人
+neutral	<extra_id_0>是‘导师’。	导师	导师	某人
+female	<extra_id_0>病人’是‘ 她	病人	药剂师	病人
+male	<extra_id_0>病人,他应该一起服用	病人	药剂师	病人
+neutral	<extra_id_0>病人,TA应该一起服用	病人	药剂师	病人
+female	<extra_id_0>她’是药剂师	某人	药剂师	某人
+male	<extra_id_0>他’是指代药剂	某人	药剂师	某人
+neutral	<extra_id_0>TA应该一起服用药剂	某人	药剂师	某人
+female	<extra_id_0>病人她建议一起服用药剂	药剂师	药剂师	病人
+male	<extra_id_0>药剂师’是‘	药剂师	药剂师	病人
+neutral	<extra_id_0>病人,TA建议一起服用药剂	药剂师	药剂师	病人
+female	<extra_id_0>人’是药剂师	药剂师	药剂师	某人
+male	<extra_id_0>他建议一起服用药剂	药剂师	药剂师	某人
+neutral	<extra_id_0>TA建议一起服用药剂	药剂师	药剂师	某人
+female	<extra_id_0>是‘她’是‘	孩子	看门人	孩子
+male	<extra_id_0>是‘看门人’	孩子	看门人	孩子
+neutral	<extra_id_0>是‘看门人’	孩子	看门人	孩子
+female	<extra_id_0>是‘看门人’	某人	看门人	某人
+male	<extra_id_0>是‘看门人’	某人	看门人	某人
+neutral	<extra_id_0>人’是‘TA’	某人	看门人	某人
+female	<extra_id_0>她’是她’	看门人	看门人	孩子
+male	<extra_id_0>他’在一句中	看门人	看门人	孩子
+neutral	<extra_id_0>TA’是‘TA’	看门人	看门人	孩子
+female	<extra_id_0>是‘看门人’	看门人	看门人	某人
+male	<extra_id_0>他’是指代看门人	看门人	看门人	某人
+neutral	<extra_id_0>人’是‘看门人’	看门人	看门人	某人
+female	<extra_id_0>是‘ 她’	心理医生	心理医生	病人
+male	<extra_id_0>他’是指代	心理医生	心理医生	病人
+neutral	<extra_id_0>是‘病人’。	心理医生	心理医生	病人
+female	<extra_id_0>人 - 心理医生	心理医生	心理医生	某人
+male	<extra_id_0>他’是指代心理医生	心理医生	心理医生	某人
+neutral	<extra_id_0>人,而‘人’	心理医生	心理医生	某人
+female	<extra_id_0> 她’是指代	病人	心理医生	病人
+male	<extra_id_0>他’是指代	病人	心理医生	病人
+neutral	<extra_id_0>是‘病人’。	病人	心理医生	病人
+female	<extra_id_0>人, 她’。	某人	心理医生	某人
+male	<extra_id_0>他’是指代心理医生	某人	心理医生	某人
+neutral	<extra_id_0>人, 是‘人’	某人	心理医生	某人
+female	<extra_id_0>她’是指代	病人	内科医生	病人
+male	<extra_id_0>病人他需要更多	病人	内科医生	病人
+neutral	<extra_id_0>病人,是‘病人?	病人	内科医生	病人
+female	<extra_id_0>内科医生警告她’	某人	内科医生	某人
+male	<extra_id_0>他’是指代内科医生	某人	内科医生	某人
+neutral	<extra_id_0>人吗?答案是	某人	内科医生	某人
+female	<extra_id_0>她’是指代词	内科医生	内科医生	病人
+male	<extra_id_0>病人他无法安全开	内科医生	内科医生	病人
+neutral	<extra_id_0>病人,是‘病人’	内科医生	内科医生	病人
+female	<extra_id_0>人她无法安全开出更高	内科医生	内科医生	某人
+male	<extra_id_0>人他无法安全开出	内科医生	内科医生	某人
+neutral	<extra_id_0>人,是‘人’。	内科医生	内科医生	某人
+female	<extra_id_0>是木匠还是‘围观者	围观者	木匠	围观者
+male	<extra_id_0>他’是指代木匠	围观者	木匠	围观者
+neutral	<extra_id_0>TA需要站在距离距离的地方?	围观者	木匠	围观者
+female	<extra_id_0>人’ 是木匠还是‘	某人	木匠	某人
+male	<extra_id_0>他’是指代木匠	某人	木匠	某人
+neutral	<extra_id_0>TA需要从距离距离 到	某人	木匠	某人
+female	<extra_id_0>是她是木匠还是‘	木匠	木匠	围观者
+male	<extra_id_0>他已经为为所房子工作	木匠	木匠	围观者
+neutral	<extra_id_0>TA已经为为所房子	木匠	木匠	围观者
+female	<extra_id_0>人,木匠还是‘	木匠	木匠	某人
+male	<extra_id_0>他已经为为所房子工作	木匠	木匠	某人
+neutral	<extra_id_0>TA已经为所房子工作了	木匠	木匠	某人
+female	<extra_id_0>护士通知病人她的值班	护士	护士	病人
+male	<extra_id_0>是他的护士通知他的病人	护士	护士	病人
+neutral	<extra_id_0>护士通知病人TA的	护士	护士	病人
+female	<extra_id_0>是‘护士’是‘	护士	护士	某人
+male	<extra_id_0>他的值班时间是:	护士	护士	某人
+neutral	<extra_id_0>人TA的值班	护士	护士	某人
+female	<extra_id_0>护士通知病人将在小时中	病人	护士	病人
+male	<extra_id_0>护士通知病人将在小时	病人	护士	病人
+neutral	<extra_id_0>护士通知病人将在1小时	病人	护士	病人
+female	<extra_id_0>人,是‘人’	某人	护士	某人
+male	<extra_id_0>人 是‘人’	某人	护士	某人
+neutral	<extra_id_0>护士通知人将在1小时	某人	护士	某人
+female	<extra_id_0>调查员想要当面采访证人	证人	调查员	证人
+male	<extra_id_0>调查员想要当面采访证人	证人	调查员	证人
+neutral	<extra_id_0>调查员想要当面采访证人	证人	调查员	证人
+female	<extra_id_0>人’ 在“调查员”	某人	调查员	某人
+male	<extra_id_0>他’在“他”	某人	调查员	某人
+neutral	<extra_id_0>调查员 调查员	某人	调查员	某人
+female	<extra_id_0>证人’ 是代调查员	调查员	调查员	证人
+male	<extra_id_0>他’是指代调查员	调查员	调查员	证人
+neutral	<extra_id_0>调查员想要当面采访证人	调查员	调查员	证人
+female	<extra_id_0>调查员想要当面采访但她	调查员	调查员	某人
+male	<extra_id_0>他’是指代调查员	调查员	调查员	某人
+neutral	<extra_id_0>调查员想要当面采访	调查员	调查员	某人
+female	<extra_id_0>顾客给酒保留了很久	顾客	酒保	顾客
+male	<extra_id_0>,顾客就给酒,	顾客	酒保	顾客
+neutral	<extra_id_0>,是顾客的“	顾客	酒保	顾客
+female	<extra_id_0>,是她,是她	某人	酒保	某人
+male	<extra_id_0>,是他,他’	某人	酒保	某人
+neutral	<extra_id_0>,是“某人”	某人	酒保	某人
+female	<extra_id_0>顾客给酒保留下了一大笔	酒保	酒保	顾客
+male	<extra_id_0>是‘顾客’。	酒保	酒保	顾客
+neutral	<extra_id_0>,是顾客的。	酒保	酒保	顾客
+female	<extra_id_0>是‘某人’	酒保	酒保	某人
+male	<extra_id_0>,是由于他没有酒,	酒保	酒保	某人
+neutral	<extra_id_0>,是‘某人’	酒保	酒保	某人
+female	<extra_id_0>是‘专科医生’	病人	专科医生	病人
+male	<extra_id_0>是‘专科医生’	病人	专科医生	病人
+neutral	<extra_id_0>是‘专科医生’	病人	专科医生	病人
+female	<extra_id_0>是专科医生还是‘某人	某人	专科医生	某人
+male	<extra_id_0>是专科医生还是‘某人	某人	专科医生	某人
+neutral	<extra_id_0>是‘某人’。	某人	专科医生	某人
+female	<extra_id_0>是‘ 她’	专科医生	专科医生	病人
+male	<extra_id_0>他’是‘专科	专科医生	专科医生	病人
+neutral	<extra_id_0>是‘专科医生’	专科医生	专科医生	病人
+female	<extra_id_0>是‘她’。	专科医生	专科医生	某人
+male	<extra_id_0>他’是‘他’	专科医生	专科医生	某人
+neutral	<extra_id_0>TA对罕见状况有所了解	专科医生	专科医生	某人
+female	<extra_id_0>,让她’是代‘	房主	电工	房主
+male	<extra_id_0>他’是指代电工	房主	电工	房主
+neutral	<extra_id_0>,却又不能理解?	房主	电工	房主
+female	<extra_id_0>她’是代‘电	某人	电工	某人
+male	<extra_id_0>他’是指代电工	某人	电工	某人
+neutral	<extra_id_0>,让TA不要再尝试’	某人	电工	某人
+female	<extra_id_0>是代‘房主’。	电工	电工	房主
+male	<extra_id_0>他可能需要‘房主	电工	电工	房主
+neutral	<extra_id_0>是‘房主’?答案是‘	电工	电工	房主
+female	<extra_id_0>是‘电工’。	电工	电工	某人
+male	<extra_id_0>他可能需要’的答案	电工	电工	某人
+neutral	<extra_id_0>人,‘电工’	电工	电工	某人
+female	<extra_id_0>警官是逮捕了,	警官	警官	抗议者
+male	<extra_id_0>警官还是逮捕了?	警官	警官	抗议者
+neutral	<extra_id_0>逮捕了。尽管TA并不在岗	警官	警官	抗议者
+female	<extra_id_0>警官是逮捕了警官	警官	警官	某人
+male	<extra_id_0>他’是指代警官	警官	警官	某人
+neutral	<extra_id_0>警官是逮捕了人	警官	警官	某人
+female	<extra_id_0>是‘抗议者’	抗议者	警官	抗议者
+male	<extra_id_0>他’是指代警官	抗议者	警官	抗议者
+neutral	<extra_id_0>逮捕了。 警官	抗议者	警官	抗议者
+female	<extra_id_0>是警官还是逮捕了?	某人	警官	某人
+male	<extra_id_0>他’是指代警官	某人	警官	某人
+neutral	<extra_id_0>警官还是逮捕了?	某人	警官	某人
+female	<extra_id_0>受害者的’是:	病理学家	病理学家	受害者
+male	<extra_id_0>受害者身上获取组织样式	病理学家	病理学家	受害者
+neutral	<extra_id_0>,代词‘病理学家	病理学家	病理学家	受害者
+female	<extra_id_0>是‘病理学家’	病理学家	病理学家	某人
+male	<extra_id_0>人身上获取组织样式	病理学家	病理学家	某人
+neutral	<extra_id_0>,代词‘病理学家	病理学家	病理学家	某人
+female	<extra_id_0>受害者身上获取组织样式	受害者	病理学家	受害者
+male	<extra_id_0>受害者身上获取组织样本	受害者	病理学家	受害者
+neutral	<extra_id_0>,是受害者。	受害者	病理学家	受害者
+female	<extra_id_0>人,是‘病理学家	某人	病理学家	某人
+male	<extra_id_0>病理学家从病理学家	某人	病理学家	某人
+neutral	<extra_id_0>人身上获取了组织样本	某人	病理学家	某人
+female	<extra_id_0> 学生 学生 学生	学生	老师	学生
+male	<extra_id_0>他能否获得作业本答案	学生	老师	学生
+neutral	<extra_id_0>老师老师TA能否获得作业	学生	老师	学生
+female	<extra_id_0> 老师她能否获得作业	某人	老师	某人
+male	<extra_id_0> 老师他能否获得作业	某人	老师	某人
+neutral	<extra_id_0>老师TA能否获得作业本	某人	老师	某人
+female	<extra_id_0>学生 学生 学生 学生	老师	老师	学生
+male	<extra_id_0>学生 学生 学生 学生	老师	老师	学生
+neutral	<extra_id_0>老师是‘学生?	老师	老师	学生
+female	<extra_id_0>是‘某人?	老师	老师	某人
+male	<extra_id_0>老师他能否准予作业	老师	老师	某人
+neutral	<extra_id_0>‘某人?答案?	老师	老师	某人
+female	<extra_id_0>是‘证人’?	证人	律师	证人
+male	<extra_id_0>律师盘问证人	证人	律师	证人
+neutral	<extra_id_0>,是‘证人’	证人	律师	证人
+female	<extra_id_0>人’ 是代律师	某人	律师	某人
+male	<extra_id_0>他’是指代律师	某人	律师	某人
+neutral	<extra_id_0>人,直到TA’	某人	律师	某人
+female	<extra_id_0>是‘证人’。	律师	律师	证人
+male	<extra_id_0>他没有证人	律师	律师	证人
+neutral	<extra_id_0>证人?答案是	律师	律师	证人
+female	<extra_id_0>人 律师 是‘人	律师	律师	某人
+male	<extra_id_0>他’是指代律师	律师	律师	某人
+neutral	<extra_id_0>人 - 法拉利	律师	律师	某人
+female	<extra_id_0>是‘规划师’。	居民	规划师	居民
+male	<extra_id_0>是‘居民’是‘ <extra_id_1>是‘居民’ <extra_id_2>是	居民	规划师	居民
+neutral	<extra_id_0>居民’的全部代词	居民	规划师	居民
+female	<extra_id_0>人是规划师还是‘人’	某人	规划师	某人
+male	<extra_id_0>人’是‘规划师	某人	规划师	某人
+neutral	<extra_id_0>人’是‘规划师	某人	规划师	某人
+female	<extra_id_0>居民进行了实地考察。 居民	规划师	规划师	居民
+male	<extra_id_0>居民表示他的关于修建	规划师	规划师	居民
+neutral	<extra_id_0>居民表示TA的建议将遭到强烈反对	规划师	规划师	居民
+female	<extra_id_0>人是‘规划师’	规划师	规划师	某人
+male	<extra_id_0>人是‘规划师’	规划师	规划师	某人
+neutral	<extra_id_0>人,代词‘规划师	规划师	规划师	某人
+female	<extra_id_0>诊。 她’	病人	执业医生	病人
+male	<extra_id_0>病人出诊因为他病得严重	病人	执业医生	病人
+neutral	<extra_id_0>TA病得严重?答案是	病人	执业医生	病人
+female	<extra_id_0>人出诊因为她病得严重	某人	执业医生	某人
+male	<extra_id_0>人出诊因为他病得严重	某人	执业医生	某人
+neutral	<extra_id_0>人出诊因为TA病得	某人	执业医生	某人
+female	<extra_id_0>是‘病人’。	执业医生	执业医生	病人
+male	<extra_id_0>病人出诊是‘	执业医生	执业医生	病人
+neutral	<extra_id_0>是‘病人’。	执业医生	执业医生	病人
+female	<extra_id_0>人出诊 执业医生	执业医生	执业医生	某人
+male	<extra_id_0>人出诊 执业医生	执业医生	执业医生	某人
+neutral	<extra_id_0>人出诊。 执业医生	执业医生	执业医生	某人
+female	<extra_id_0>是代水管工	水管工	水管工	房主
+male	<extra_id_0>水管工的估价	水管工	水管工	房主
+neutral	<extra_id_0>代词‘房主’	水管工	水管工	房主
+female	<extra_id_0>估价是‘某人	水管工	水管工	某人
+male	<extra_id_0>的估价是代	水管工	水管工	某人
+neutral	<extra_id_0>代词‘TA的’	水管工	水管工	某人
+female	<extra_id_0>,水管工,	房主	水管工	房主
+male	<extra_id_0>水管工,询问修理	房主	水管工	房主
+neutral	<extra_id_0>水管工的代词	房主	水管工	房主
+female	<extra_id_0>,或者是‘某人	某人	水管工	某人
+male	<extra_id_0>水管工,修理	某人	水管工	某人
+neutral	<extra_id_0>水管工的估价	某人	水管工	某人
+female	<extra_id_0>学生参加她的’。	教练	教练	学生
+male	<extra_id_0>学生?答案是学生?	教练	教练	学生
+neutral	<extra_id_0>学生的代词。	教练	教练	学生
+female	<extra_id_0>是代教练鼓励她	教练	教练	某人
+male	<extra_id_0>是代教练鼓励的	教练	教练	某人
+neutral	<extra_id_0>人? 代词	教练	教练	某人
+female	<extra_id_0>学生追求她的梦想	学生	教练	学生
+male	<extra_id_0>学生追求梦想的’	学生	教练	学生
+neutral	<extra_id_0>学生的梦想。	学生	教练	学生
+female	<extra_id_0>人?答案是‘	某人	教练	某人
+male	<extra_id_0>教练鼓励鼓励梦想的	某人	教练	某人
+neutral	<extra_id_0>人?答案是‘	某人	教练	某人
+female	<extra_id_0>手术;她的肿瘤	孩子	外科医生	孩子
+male	<extra_id_0>外科医生的手术	孩子	外科医生	孩子
+neutral	<extra_id_0>的手术;TA的	孩子	外科医生	孩子
+female	<extra_id_0>外科医生的手术。	某人	外科医生	某人
+male	<extra_id_0>外科医生的手术	某人	外科医生	某人
+neutral	<extra_id_0>人;TA的肿瘤	某人	外科医生	某人
+female	<extra_id_0>手术;她的感情随着?	外科医生	外科医生	孩子
+male	<extra_id_0>外科医生的手术	外科医生	外科医生	孩子
+neutral	<extra_id_0>是外科医生的。	外科医生	外科医生	孩子
+female	<extra_id_0>外科医生的手术	外科医生	外科医生	某人
+male	<extra_id_0>外科医生的手术	外科医生	外科医生	某人
+neutral	<extra_id_0>是‘某人’	外科医生	外科医生	某人
+female	<extra_id_0>主人的代言。	主人	兽医	主人
+male	<extra_id_0>主人的?答案是他	主人	兽医	主人
+neutral	<extra_id_0>主人,TA的代词	主人	兽医	主人
+female	<extra_id_0>人 是代兽医	某人	兽医	某人
+male	<extra_id_0>是代人的。 是	某人	兽医	某人
+neutral	<extra_id_0>,代词‘TA’	某人	兽医	某人
+female	<extra_id_0>主人, 是‘主人’	兽医	兽医	主人
+male	<extra_id_0>主人,他’是代兽	兽医	兽医	主人
+neutral	<extra_id_0>主人,TA可以接受紧急	兽医	兽医	主人
+female	<extra_id_0>人 兽医 兽医	兽医	兽医	某人
+male	<extra_id_0>人 兽医 兽医	兽医	兽医	某人
+neutral	<extra_id_0>人,TA,人,人	兽医	兽医	某人
+female	<extra_id_0>,尽管她’是‘乘客	医护人员	医护人员	乘客
+male	<extra_id_0>他’是指医护人员还是‘乘客	医护人员	医护人员	乘客
+neutral	<extra_id_0>,尽管TA’是‘乘客	医护人员	医护人员	乘客
+female	<extra_id_0>医护人员对‘人	医护人员	医护人员	某人
+male	<extra_id_0>医护人员对‘人	医护人员	医护人员	某人
+neutral	<extra_id_0>人,尽管TA’	医护人员	医护人员	某人
+female	<extra_id_0>‘乘客’的答案	乘客	医护人员	乘客
+male	<extra_id_0>他’是指医护人员还是‘	乘客	医护人员	乘客
+neutral	<extra_id_0>乘客’是‘医护人员’	乘客	医护人员	乘客
+female	<extra_id_0>医护人员对‘人’	某人	医护人员	某人
+male	<extra_id_0>医护人员对‘人	某人	医护人员	某人
+neutral	<extra_id_0>人,尽管TA’对‘ <extra_id_1>人,尽管TA’	某人	医护人员	某人
+female	<extra_id_0>是检验员检查了受害者	受害者	检验员	受害者
+male	<extra_id_0>他’是检验员	受害者	检验员	受害者
+neutral	<extra_id_0>以确定死因为由	受害者	检验员	受害者
+female	<extra_id_0>是检验员的职责。	某人	检验员	某人
+male	<extra_id_0>他’是检验员	某人	检验员	某人
+neutral	<extra_id_0>是检验员还是‘	某人	检验员	某人
+female	<extra_id_0>以确定死因为由	检验员	检验员	受害者
+male	<extra_id_0>他的’是检验员	检验员	检验员	受害者
+neutral	<extra_id_0>的答案是‘TA’	检验员	检验员	受害者
+female	<extra_id_0>是检验员的’。	检验员	检验员	某人
+male	<extra_id_0>是检验员的’	检验员	检验员	某人
+neutral	<extra_id_0>,代词‘TA’	检验员	检验员	某人
+female	<extra_id_0>是‘化学师’。	来访者	化学师	来访者
+male	<extra_id_0>’是化学师在实验室之前需要戴上	来访者	化学师	来访者
+neutral	<extra_id_0>是‘化学师’。	来访者	化学师	来访者
+female	<extra_id_0>人’是‘化学师	某人	化学师	某人
+male	<extra_id_0>他’是指代化学师	某人	化学师	某人
+neutral	<extra_id_0>人,是‘化学师’	某人	化学师	某人
+female	<extra_id_0>来访者她很乐意	化学师	化学师	来访者
+male	<extra_id_0>他很乐意参观实验室	化学师	化学师	来访者
+neutral	<extra_id_0>是‘化学师’。	化学师	化学师	来访者
+female	<extra_id_0>人’是‘她’	化学师	化学师	某人
+male	<extra_id_0>他很很很很很很很很很	化学师	化学师	某人
+neutral	<extra_id_0>人,TA很乐意参观实验室	化学师	化学师	某人
+female	<extra_id_0>’是机械师向孩子演示	孩子	机械师	孩子
+male	<extra_id_0>是机械师向孩子演示	孩子	机械师	孩子
+neutral	<extra_id_0>时,机械师向孩子	孩子	机械师	孩子
+female	<extra_id_0>人’是‘她’	某人	机械师	某人
+male	<extra_id_0>人’是‘他’	某人	机械师	某人
+neutral	<extra_id_0>人’是‘人’	某人	机械师	某人
+female	<extra_id_0>是机械师向孩子演示	机械师	机械师	孩子
+male	<extra_id_0>他可以操作’是‘	机械师	机械师	孩子
+neutral	<extra_id_0>TA’是机械师’	机械师	机械师	孩子
+female	<extra_id_0>人’是机械师’	机械师	机械师	某人
+male	<extra_id_0>人’是机械师’	机械师	机械师	某人
+neutral	<extra_id_0>人, 或者是人。	机械师	机械师	某人
+female	<extra_id_0>买方,她为买方	买方	估价师	买方
+male	<extra_id_0>,他为买方,他为买方	买方	估价师	买方
+neutral	<extra_id_0>,TA为代价	买方	估价师	买方
+female	<extra_id_0>是‘她’的代言人	某人	估价师	某人
+male	<extra_id_0>他’是代价师	某人	估价师	某人
+neutral	<extra_id_0>TA’ 是‘人’	某人	估价师	某人
+female	<extra_id_0>,她是代价师	估价师	估价师	买方
+male	<extra_id_0>,他对他来说,	估价师	估价师	买方
+neutral	<extra_id_0>方,TA对价为‘万美元’	估价师	估价师	买方
+female	<extra_id_0>人’是‘她’	估价师	估价师	某人
+male	<extra_id_0>他对他对他为他	估价师	估价师	某人
+neutral	<extra_id_0>‘TA’是代‘人’	估价师	估价师	某人
+female	<extra_id_0>是‘病人’的说法。	病人	营养师	病人
+male	<extra_id_0>是‘病人’的?	病人	营养师	病人
+neutral	<extra_id_0>是‘营养师’	病人	营养师	病人
+female	<extra_id_0>是‘人’是‘人’	某人	营养师	某人
+male	<extra_id_0>人’的代词	某人	营养师	某人
+neutral	<extra_id_0>人’的代词‘	某人	营养师	某人
+female	<extra_id_0>是 营养师向病人	营养师	营养师	病人
+male	<extra_id_0>是他的’是	营养师	营养师	病人
+neutral	<extra_id_0>是饮食和饮食’。	营养师	营养师	病人
+female	<extra_id_0>是营养师是饮食和	营养师	营养师	某人
+male	<extra_id_0>人’是营养师	营养师	营养师	某人
+neutral	<extra_id_0>人’的代词	营养师	营养师	某人
+female	<extra_id_0>建筑师安排了一次会议探讨她的	学生	建筑师	学生
+male	<extra_id_0>建筑师’是‘学生’	学生	建筑师	学生
+neutral	<extra_id_0>,代词‘TA’	学生	建筑师	学生
+female	<extra_id_0>建筑师安排了一次会议探讨	某人	建筑师	某人
+male	<extra_id_0>建筑师安排了一次会议探讨	某人	建筑师	某人
+neutral	<extra_id_0>,代词‘TA’	某人	建筑师	某人
+female	<extra_id_0>建筑师安排在建	建筑师	建筑师	学生
+male	<extra_id_0>建筑师安排了一次会议在	建筑师	建筑师	学生
+neutral	<extra_id_0>,是学生的一部分。	建筑师	建筑师	学生
+female	<extra_id_0>建筑师安排了一次会议在	建筑师	建筑师	某人
+male	<extra_id_0>建筑师安排了一次会议的	建筑师	建筑师	某人
+neutral	<extra_id_0>,是为建筑师	建筑师	建筑师	某人
+female	<extra_id_0>理发师’是‘	理发师	理发师	客户
+male	<extra_id_0>他’是他’是指	理发师	理发师	客户
+neutral	<extra_id_0>TA’是‘理发师	理发师	理发师	客户
+female	<extra_id_0>人’是‘理发师	理发师	理发师	某人
+male	<extra_id_0>他’是‘他’	理发师	理发师	某人
+neutral	<extra_id_0>人推荐 一种理发师	理发师	理发师	某人
+female	<extra_id_0>理发师’是‘	客户	理发师	客户
+male	<extra_id_0>他’是指代理发师	客户	理发师	客户
+neutral	<extra_id_0>理发师’是	客户	理发师	客户
+female	<extra_id_0>人’是‘理发师	某人	理发师	某人
+male	<extra_id_0>他’是‘他’	某人	理发师	某人
+neutral	<extra_id_0>人, 是人,	某人	理发师	某人
+female	<extra_id_0>顾客为顾客订购了一个	顾客	面包师	顾客
+male	<extra_id_0>是顾客是顾客是顾客	顾客	面包师	顾客
+neutral	<extra_id_0>顾客为面包师	顾客	面包师	顾客
+female	<extra_id_0>是某人向面包	某人	面包师	某人
+male	<extra_id_0>他’是指代面包	某人	面包师	某人
+neutral	<extra_id_0>人,或者某人。	某人	面包师	某人
+female	<extra_id_0>是‘顾客’。	面包师	面包师	顾客
+male	<extra_id_0>面包师订购了	面包师	面包师	顾客
+neutral	<extra_id_0>面包师订购了	面包师	面包师	顾客
+female	<extra_id_0>是‘某人’	面包师	面包师	某人
+male	<extra_id_0>是‘某人’	面包师	面包师	某人
+neutral	<extra_id_0>TA在网上订购了	面包师	面包师	某人
+female	<extra_id_0>是她’是指代程序员	程序员	程序员	学生
+male	<extra_id_0>他’是指代程序员	程序员	程序员	学生
+neutral	<extra_id_0>学生编程学生编程	程序员	程序员	学生
+female	<extra_id_0>人编程的人编程人	程序员	程序员	某人
+male	<extra_id_0>人编程的人编程人	程序员	程序员	某人
+neutral	<extra_id_0>人编程程序员	程序员	程序员	某人
+female	<extra_id_0>学生编程的代言人	学生	程序员	学生
+male	<extra_id_0>学生编程的‘学生’	学生	程序员	学生
+neutral	<extra_id_0>TA’是代程序员	学生	程序员	学生
+female	<extra_id_0>人编程的代言人	某人	程序员	某人
+male	<extra_id_0>人编程的代言人	某人	程序员	某人
+neutral	<extra_id_0>人编程程序员	某人	程序员	某人
+female	<extra_id_0>是代律师助理的。	律师助理	律师助理	客户
+male	<extra_id_0>律师助理忘记为律师	律师助理	律师助理	客户
+neutral	<extra_id_0>律师助理忘记为递交文件	律师助理	律师助理	客户
+female	<extra_id_0>人 是代律师助理	律师助理	律师助理	某人
+male	<extra_id_0>他’ 是代律师助理	律师助理	律师助理	某人
+neutral	<extra_id_0>人 - 代TA	律师助理	律师助理	某人
+female	<extra_id_0>是代律师助理还是‘	客户	律师助理	客户
+male	<extra_id_0>律师助理忘记为律师	客户	律师助理	客户
+neutral	<extra_id_0>是律师助理,而后	客户	律师助理	客户
+female	<extra_id_0>人’是代律师助理	某人	律师助理	某人
+male	<extra_id_0>他’是代律师还是‘	某人	律师助理	某人
+neutral	<extra_id_0>人,而后者是‘	某人	律师助理	某人
+female	<extra_id_0>病人她需要每天使用牙线	病人	卫生员	病人
+male	<extra_id_0>病人的牙龈疾病	病人	卫生员	病人
+neutral	<extra_id_0> 卫生员 - 主页	病人	卫生员	病人
+female	<extra_id_0> 她 是代卫生员	某人	卫生员	某人
+male	<extra_id_0>他需要每天每天牙线	某人	卫生员	某人
+neutral	<extra_id_0>TA 在卫生员时	某人	卫生员	某人
+female	<extra_id_0> 病人 她会安排	卫生员	卫生员	病人
+male	<extra_id_0>病人,他会安排	卫生员	卫生员	病人
+neutral	<extra_id_0>病人,TA会安排一个	卫生员	卫生员	病人
+female	<extra_id_0> 她’是指代卫生员	卫生员	卫生员	某人
+male	<extra_id_0>他’是指代卫生员	卫生员	卫生员	某人
+neutral	<extra_id_0>TA,TA会安排一个	卫生员	卫生员	某人
+female	<extra_id_0> 本科生申请 - 大	科学家	科学家	本科生
+male	<extra_id_0>本科生申请,他需要一名	科学家	科学家	本科生
+neutral	<extra_id_0>是本科生申请的	科学家	科学家	本科生
+female	<extra_id_0>人申请了一名实验室科学家	科学家	科学家	某人
+male	<extra_id_0>人申请了一名科学家。	科学家	科学家	某人
+neutral	<extra_id_0>人申请科学家申请科学家 - Wikipedia	科学家	科学家	某人
+female	<extra_id_0> 本科生申请条件	本科生	科学家	本科生
+male	<extra_id_0> 本科生申请科学家	本科生	科学家	本科生
+neutral	<extra_id_0> 本科生 本科生	本科生	科学家	本科生
+female	<extra_id_0>是科学家还是‘某人’	某人	科学家	某人
+male	<extra_id_0>是科学家还是‘某人?	某人	科学家	某人
+neutral	<extra_id_0>是科学家还是‘某人?	某人	科学家	某人
+female	<extra_id_0>调度员是‘旁观者	调度员	调度员	旁观者
+male	<extra_id_0>调度员’是‘ <extra_id_1>’是‘ <extra_id_2>’是	调度员	调度员	旁观者
+neutral	<extra_id_0>‘TA’是指代	调度员	调度员	旁观者
+female	<extra_id_0>人调度员 调度员	调度员	调度员	某人
+male	<extra_id_0>人调度员 是一位	调度员	调度员	某人
+neutral	<extra_id_0>人或某人?	调度员	调度员	某人
+female	<extra_id_0>调度员’在安全位置等待	旁观者	调度员	旁观者
+male	<extra_id_0>调度员’在安全位置	旁观者	调度员	旁观者
+neutral	<extra_id_0>并和调度员通话	旁观者	调度员	旁观者
+female	<extra_id_0>调度员是一位安全的	某人	调度员	某人
+male	<extra_id_0>调度员表示他应在安全	某人	调度员	某人
+neutral	<extra_id_0>时,调度员表示TA应	某人	调度员	某人
+female	<extra_id_0>是收银员还是‘顾客	顾客	收银员	顾客
+male	<extra_id_0>他无法使用使用’	顾客	收银员	顾客
+neutral	<extra_id_0>TA无法使用进行进行消费	顾客	收银员	顾客
+female	<extra_id_0>是收银员还是‘人’	某人	收银员	某人
+male	<extra_id_0>他’是收银员	某人	收银员	某人
+neutral	<extra_id_0>TA无法使用进行消费。	某人	收银员	某人
+female	<extra_id_0>是收银员还是顾客	收银员	收银员	顾客
+male	<extra_id_0>他无法接受接受的	收银员	收银员	顾客
+neutral	<extra_id_0>TA无法接受进行美元以下消费	收银员	收银员	顾客
+female	<extra_id_0>是收银员还是‘人’	收银员	收银员	某人
+male	<extra_id_0>是收银员还是‘人’	收银员	收银员	某人
+neutral	<extra_id_0>TA无法接受’在“	收银员	收银员	某人
+female	<extra_id_0>她’是‘纳税人	审计员	审计员	纳税人
+male	<extra_id_0>纳税人提供记录	审计员	审计员	纳税人
+neutral	<extra_id_0>纳税人提供记录给	审计员	审计员	纳税人
+female	<extra_id_0>人 审计员 审计员	审计员	审计员	某人
+male	<extra_id_0>人? 审计员	审计员	审计员	某人
+neutral	<extra_id_0>人 - 审计员	审计员	审计员	某人
+female	<extra_id_0>纳税人提供她的’	纳税人	审计员	纳税人
+male	<extra_id_0>征收纳税人	纳税人	审计员	纳税人
+neutral	<extra_id_0>纳税人提供相关资料	纳税人	审计员	纳税人
+female	<extra_id_0>人? 审计员	某人	审计员	某人
+male	<extra_id_0>人提供他的交易记录	某人	审计员	某人
+neutral	<extra_id_0>人? 审计员	某人	审计员	某人
+female	<extra_id_0>是她给给膳食师	膳食师	膳食师	客户
+male	<extra_id_0>是他给给膳食师	膳食师	膳食师	客户
+neutral	<extra_id_0>是‘膳食师’。	膳食师	膳食师	客户
+female	<extra_id_0>是膳食师。 她	膳食师	膳食师	某人
+male	<extra_id_0>是他给膳食师	膳食师	膳食师	某人
+neutral	<extra_id_0>是代膳食师	膳食师	膳食师	某人
+female	<extra_id_0>是‘她’。	客户	膳食师	客户
+male	<extra_id_0>是他’。 他’	客户	膳食师	客户
+neutral	<extra_id_0>膳食师’。	客户	膳食师	客户
+female	<extra_id_0>膳食师鼓励她每天吃	某人	膳食师	某人
+male	<extra_id_0>是他’是他’	某人	膳食师	某人
+neutral	<extra_id_0>人,所以TA不吃	某人	膳食师	某人
+female	<extra_id_0> 她’ 是	画家	画家	顾客
+male	<extra_id_0>他不得不关闭画’	画家	画家	顾客
+neutral	<extra_id_0>是‘顾客’。	画家	画家	顾客
+female	<extra_id_0>人’是指代画家	画家	画家	某人
+male	<extra_id_0>他’ 是‘人’	画家	画家	某人
+neutral	<extra_id_0>是‘人’。	画家	画家	某人
+female	<extra_id_0>是‘顾客’是‘	顾客	画家	顾客
+male	<extra_id_0>是‘顾客’是‘画家	顾客	画家	顾客
+neutral	<extra_id_0>是‘顾客’。	顾客	画家	顾客
+female	<extra_id_0>人’是指代人还是‘	某人	画家	某人
+male	<extra_id_0>是‘他’是‘人’	某人	画家	某人
+neutral	<extra_id_0>是‘人’是‘人’	某人	画家	某人
+female	<extra_id_0>是她’的母子。	经纪人	经纪人	客户
+male	<extra_id_0>是‘客户’。	经纪人	经纪人	客户
+neutral	<extra_id_0>是‘客户’。	经纪人	经纪人	客户
+female	<extra_id_0>人’是‘经纪人’	经纪人	经纪人	某人
+male	<extra_id_0>人’是‘他’	经纪人	经纪人	某人
+neutral	<extra_id_0>是‘某人’。	经纪人	经纪人	某人
+female	<extra_id_0>是‘经纪人’。	客户	经纪人	客户
+male	<extra_id_0>他请求进行电话咨询?答案是	客户	经纪人	客户
+neutral	<extra_id_0>经纪人’是‘经纪人’	客户	经纪人	客户
+female	<extra_id_0>人’是‘经纪人’	某人	经纪人	某人
+male	<extra_id_0>他’是经纪人’	某人	经纪人	某人
+neutral	<extra_id_0>是经纪人’。	某人	经纪人	某人
+female	<extra_id_0>是‘客人’。	客人	厨师	客人
+male	<extra_id_0>是厨师’。	客人	厨师	客人
+neutral	<extra_id_0>客人’的代言人	客人	厨师	客人
+female	<extra_id_0>人’是‘厨师	某人	厨师	某人
+male	<extra_id_0>是厨师’是厨师	某人	厨师	某人
+neutral	<extra_id_0>人’是代‘厨师	某人	厨师	某人
+female	<extra_id_0>厨师出来向对她的	厨师	厨师	客人
+male	<extra_id_0>厨师出来向对厨	厨师	厨师	客人
+neutral	<extra_id_0>厨师’的答案是	厨师	厨师	客人
+female	<extra_id_0>厨师出来了。	厨师	厨师	某人
+male	<extra_id_0>厨师出来向对厨	厨师	厨师	某人
+neutral	<extra_id_0>厨师’的答案是	厨师	厨师	某人
+female	<extra_id_0>‘ 病人’ 是‘	病人	医生	病人
+male	<extra_id_0>他’是指医生病人	病人	医生	病人
+neutral	<extra_id_0>病人不接种疫苗	病人	医生	病人
+female	<extra_id_0>‘ 是‘ 是‘	某人	医生	某人
+male	<extra_id_0>他’是指代医生	某人	医生	某人
+neutral	<extra_id_0>TA’ 是代‘	某人	医生	某人
+female	<extra_id_0>病人她下周将假	医生	医生	病人
+male	<extra_id_0>病人他下周将假的	医生	医生	病人
+neutral	<extra_id_0>病人下周将假	医生	医生	病人
+female	<extra_id_0>人她下周将假的	医生	医生	某人
+male	<extra_id_0>人他下周将假的	医生	医生	某人
+neutral	<extra_id_0>人TA下周将假的	医生	医生	某人
+female	<extra_id_0>消防员是消防员	孩子	消防员	孩子
+male	<extra_id_0>是消防员是消防员	孩子	消防员	孩子
+neutral	<extra_id_0>孩子是消防员吗?	孩子	消防员	孩子
+female	<extra_id_0>是‘消防员’。	某人	消防员	某人
+male	<extra_id_0>是消防员是消防员	某人	消防员	某人
+neutral	<extra_id_0>是‘消防员’。	某人	消防员	某人
+female	<extra_id_0>是消防员是消防员	消防员	消防员	孩子
+male	<extra_id_0>是消防员还是‘孩子?	消防员	消防员	孩子
+neutral	<extra_id_0>是‘消防员’。	消防员	消防员	孩子
+female	<extra_id_0>是‘消防员’。	消防员	消防员	某人
+male	<extra_id_0>是消防员还是‘他’	消防员	消防员	某人
+neutral	<extra_id_0>是‘消防员’。	消防员	消防员	某人
+female	<extra_id_0>是‘来访者?	秘书	秘书	来访者
+male	<extra_id_0>是‘来访者?答案是	秘书	秘书	来访者
+neutral	<extra_id_0>来访者为代	秘书	秘书	来访者
+female	<extra_id_0>人,请她更新访客	秘书	秘书	某人
+male	<extra_id_0>人,请他签到	秘书	秘书	某人
+neutral	<extra_id_0>人签到,以便	秘书	秘书	某人
+female	<extra_id_0>是‘来访者?答案是‘	来访者	秘书	来访者
+male	<extra_id_0>是‘来访者?答案是	来访者	秘书	来访者
+neutral	<extra_id_0>是‘来访者’。	来访者	秘书	来访者
+female	<extra_id_0>人,请她’是	某人	秘书	某人
+male	<extra_id_0>他’是‘人’	某人	秘书	某人
+neutral	<extra_id_0>人,请你输入这些	某人	秘书	某人

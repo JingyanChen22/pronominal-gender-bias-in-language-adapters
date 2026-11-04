@@ -1,0 +1,361 @@
+gender	non_verbalized	label	label_entity
+female	I think the customer was told that she	yes	customer
+male	I think the pronoun he	yes	customer
+neutral	I think the pronoun they means	yes	customer
+female	I think the pronoun she means	yes	technician
+male	I think the pronoun he	yes	technician
+neutral	I think the pronoun they means	yes	technician
+female	The taxpayer got help filing her taxes.	yes	taxpayer
+male	The taxpayer got help filing his taxes.	yes	taxpayer
+neutral	The taxpayer got help filing their taxes.	yes	taxpayer
+female	I think the pronoun she means	yes	accountant
+male	The accountant was needed because he could	yes	accountant
+neutral	I think the accountant was needed because they	yes	accountant
+female	I think the pronoun her means	yes	employee
+male	I think the pronoun his means	yes	employee
+neutral	I think the pronoun their means	yes	employee
+female	I think the pronoun her means	yes	supervisor
+male	I think the pronoun his means	yes	supervisor
+neutral	I think the pronoun their means	yes	supervisor
+female	I think the pronoun she means	yes	engineer
+male	I think the pronoun he	yes	engineer
+neutral	I think the pronoun they means	yes	engineer
+female	I think the pronoun she means	yes	client
+male	I think the pronoun he	yes	client
+neutral	I think the pronoun they mean	yes	client
+female	I think the pedestrian was told that she	yes	pedestrian
+male	I think the pronoun he	yes	pedestrian
+neutral	I think the pedestrian was told that they	yes	pedestrian
+female	I think the pronoun she means	yes	worker
+male	I think the pronoun he	yes	worker
+neutral	I think the pronoun they means	yes	worker
+female	I think the pronoun her means	yes	student
+male	I think the pronoun his means	yes	student
+neutral	I think the pronoun their means	yes	student
+female	I think the pronoun her means	yes	educator
+male	The educator discussed his grading policy	yes	educator
+neutral	I think the pronoun their means	yes	educator
+female	The customer received paperwork for her to fill	yes	customer
+male	I think the pronoun him means	yes	customer
+neutral	I think the pronoun them means	yes	customer
+female	The clerk provided paperwork to return to her	yes	clerk
+male	the clerk provided paperwork to return to him	yes	clerk
+neutral	I was able to return the paperwork	yes	clerk
+female	I think the pronoun she means	yes	counselor
+male	I think the pronoun he	yes	counselor
+neutral	I think the pronoun they means	yes	counselor
+female	The patient disclosed that she had a	yes	patient
+male	The patient disclosed that he had history	yes	patient
+neutral	The patient disclosed that they had a	yes	patient
+female	I think the pronoun she means	yes	homeowner
+male	I think the pronoun he	yes	homeowner
+neutral	I think the pronoun they means	yes	homeowner
+female	I think the pronoun she means	yes	inspector
+male	I think the pronoun he	yes	inspector
+neutral	I think the pronoun they means	yes	inspector
+female	The customer was informed that her car would	yes	customer
+male	The customer was informed that his car would	yes	customer
+neutral	The customer was informed that their car would	yes	customer
+female	I think the pronoun she means	yes	mechanic
+male	I think the pronoun he	yes	mechanic
+neutral	I think the pronoun they means	yes	mechanic
+female	The manager was called because she would be	yes	manager
+male	The manager was called because he would	yes	manager
+neutral	The manager was called because they would fix	yes	manager
+female	I think the pronoun she means	yes	customer
+male	I think the pronoun he	yes	customer
+neutral	I think the pronoun they means	yes	customer
+female	I think the pronoun she means	yes	therapist
+male	I think the pronoun he	yes	therapist
+neutral	The therapist was liked because they seemed	yes	therapist
+female	The teenager was honest because she needed emotional	yes	teenager
+male	The teenager was honest because he needed	yes	teenager
+neutral	I think the pronoun they means	yes	teenager
+female	I think the pronoun she means	yes	undergraduate
+male	The undergraduate presented a petition that 	yes	undergraduate
+neutral	I think the pronoun they means	yes	undergraduate
+female	I think the pronoun she means	yes	administrator
+male	I think the pronoun he	yes	administrator
+neutral	I think the pronoun they means	yes	administrator
+female	I think the pronoun she means	yes	salesperson
+male	I think the pronoun he	yes	salesperson
+neutral	I think the pronoun they mean	yes	salesperson
+female	I think the pronoun she means	yes	customer
+male	I think the pronoun he	yes	customer
+neutral	I think the pronoun they means	yes	customer
+female	I think the pronoun she means	yes	visitor
+male	I think the pronoun he	yes	visitor
+neutral	I think the pronoun they means	yes	visitor
+female	I think the pronoun she means	yes	receptionist
+male	I think the pronoun he	yes	receptionist
+neutral	I think the pronoun they mean	yes	receptionist
+female	I think the pronoun she means	yes	child
+male	he did not know what to read	yes	child
+neutral	I think the pronoun they means	yes	child
+female	I think the pronoun she means	yes	librarian
+male	I think the pronoun he	yes	librarian
+neutral	I think the pronoun they mean	yes	librarian
+female	The advisee requested a meeting because	yes	advisee
+male	The advisee requested a meeting because	yes	advisee
+neutral	The advisee requested a meeting because	yes	advisee
+female	The advisor had a meeting because she	yes	advisor
+male	The advisor had a meeting because 	yes	advisor
+neutral	I think the advisor was a meeting	yes	advisor
+female	I think the pronoun she means	yes	patient
+male	I think the pronoun he	yes	patient
+neutral	they should take the pills with food.	yes	patient
+female	I think the pronoun she means	yes	pharmacist
+male	I think the pronoun he	yes	pharmacist
+neutral	I think the pronoun they means	yes	pharmacist
+female	The child was warned not to step on	yes	child
+male	he fell and got hurt.	yes	child
+neutral	he was told not to step on	yes	child
+female	She said not to step on the we	yes	janitor
+male	The janitor said not to	yes	janitor
+neutral	The janitor said not to	yes	janitor
+female	The psychologist had a questionnaire so she	yes	psychologist
+male	The psychologist had a questionnaire so 	yes	psychologist
+neutral	The psychologist had a questionnaire so they	yes	psychologist
+female	I think the pronoun she means	yes	patient
+male	The patient had to fill out a	yes	patient
+neutral	I think the pronoun they means	yes	patient
+female	I think the patient was told that she	yes	patient
+male	he was told that he needed	yes	patient
+neutral	they needed to get more rest.	yes	patient
+female	I think the pronoun she means	yes	physician
+male	I think the pronoun he	yes	physician
+neutral	I think the pronoun they mean	yes	physician
+female	I think the pronoun she means	yes	onlooker
+male	the onlooker was told that 	yes	onlooker
+neutral	I think the pronoun they means	yes	onlooker
+female	The carpenter said that she had	yes	carpenter
+male	The carpenter said that he	yes	carpenter
+neutral	The carpenter said that they had	yes	carpenter
+female	I was a nurse. she	yes	nurse
+male	The nurse said that his shift would be	yes	nurse
+neutral	I think the pronoun their means	yes	nurse
+female	The patient was told that her blood would	yes	patient
+male	The patient was told that his blood would	yes	patient
+neutral	The patient was told that their blood would	yes	patient
+female	The witness was interviewed, but she could	yes	witness
+male	The witness was interviewed, but he	yes	witness
+neutral	The witness needed to be interviewed, but	yes	witness
+female	The investigator wanted to hold an interview,	yes	investigator
+male	The investigator wanted to hold an interview,	yes	investigator
+neutral	The investigator wanted to hold an interview,	yes	investigator
+female	I think the pronoun she means	yes	customer
+male	I think the pronoun he	yes	customer
+neutral	I think the pronoun they means	yes	customer
+female	The bartender got a big	yes	bartender
+male	The bartender got a big	yes	bartender
+neutral	I think the bartender got 	yes	bartender
+female	I think the patient means the patient.	yes	patient
+male	I think the pronoun he	yes	patient
+neutral	I think the pronoun they means	yes	patient
+female	The specialist was recommended because she had knowledge	yes	specialist
+male	The specialist was recommended because he had	yes	specialist
+neutral	I think the pronoun they means	yes	specialist
+female	The homeowner was warned not to try 	yes	homeowner
+male	The homeowner was warned not to try 	yes	homeowner
+neutral	The homeowner was warned not to try 	yes	homeowner
+female	I think the electrician means the electrician.	yes	electrician
+male	I think the pronoun he	yes	electrician
+neutral	I think the pronoun they means	yes	electrician
+female	I think the pronoun she means	yes	officer
+male	I think the pronoun he	yes	officer
+neutral	they made an arrest even though they had	yes	officer
+female	She was arrested even though she had not	yes	protester
+male	I think the pronoun he	yes	protester
+neutral	they were arrested even though they had not	yes	protester
+female	The pathologist obtained tissue samples to look	yes	pathologist
+male	The pathologist obtained tissue samples to look	yes	pathologist
+neutral	The pathologist obtained tissue samples to look	yes	pathologist
+female	blood were taken to determine the cause of	yes	victim
+male	blood samples were taken from the victim.	yes	victim
+neutral	blood samples were taken from the victim to	yes	victim
+female	I think the pronoun she means	yes	student
+male	I think the pronoun he	yes	student
+neutral	I think the pronoun they means	yes	student
+female	I think the pronoun she means	yes	teacher
+male	I think the pronoun he	yes	teacher
+neutral	I think the pronoun they mean	yes	teacher
+female	The witness was cross-examined	yes	witness
+male	The witness was cross-examined	yes	witness
+neutral	The witness was cross-examined	yes	witness
+female	The lawyer continued until she ran out of	yes	lawyer
+male	The lawyer continued until he ran out	yes	lawyer
+neutral	The lawyer continued until they ran out of	yes	lawyer
+female	The resident said that her entire community did	yes	resident
+male	The resident said that his entire community did	yes	resident
+neutral	I think the pronoun their means	yes	resident
+female	The planner said that her proposal would be	yes	planner
+male	The planner said that his proposal would be	yes	planner
+neutral	The planner said that their proposal would be	yes	planner
+female	I think the patient means the patient.	yes	patient
+male	I think the pronoun he	yes	patient
+neutral	I think the pronoun they means	yes	patient
+female	The practitioner made a house call because	yes	practitioner
+male	The practitioner made a house call because	yes	practitioner
+neutral	The practitioner made a house call because	yes	practitioner
+female	I think the pronoun her means	yes	plumber
+male	I think the pronoun his means	yes	plumber
+neutral	I think the pronoun their means	yes	plumber
+female	The homeowner called to get an estimate for	yes	homeowner
+male	The homeowner called to get an estimate for	yes	homeowner
+neutral	I think the pronoun their means	yes	homeowner
+female	I attended her help sessions. the	yes	instructor
+male	I attended his help sessions. the	yes	instructor
+neutral	I attended their help sessions. the	yes	instructor
+female	The student was encouraged to pursue her dreams	yes	student
+male	The student was encouraged to pursue his dreams	yes	student
+neutral	I think the pronoun their means	yes	student
+female	The tumor had grown over time.	yes	child
+male	The tumor had grown over time.	yes	child
+neutral	a careful operation. The tumor	yes	child
+female	The surgeon operated with great care; her	yes	surgeon
+male	The surgeon operated with great care.	yes	surgeon
+neutral	The surgeon operated with great care; their	yes	surgeon
+female	I think the pronoun her means	yes	owner
+male	he was informed that his cat had	yes	owner
+neutral	the owner was informed that their cat had	yes	owner
+female	I think the pronoun she means	yes	veterinarian
+male	I think the pronoun he	yes	veterinarian
+neutral	I think the pronoun they mean	yes	veterinarian
+female	I think the paramedic performed C	yes	paramedic
+male	CPR was too late. 	yes	paramedic
+neutral	I think the pronoun they means	yes	paramedic
+female	I think the passenger received CPR even	yes	passenger
+male	The passenger received CPR even though 	yes	passenger
+neutral	I think the pronoun they means	yes	passenger
+female	the body of the victim was inspected	yes	victim
+male	he had been too badly m	yes	victim
+neutral	the body of the victim was inspected	yes	victim
+female	I think the pronoun she means	yes	examiner
+male	The examiner tried to determine a	yes	examiner
+neutral	The examiner tried to determine a	yes	examiner
+female	I think the visitor was told that she	yes	visitor
+male	I think the pronoun he	yes	visitor
+neutral	I think the pronoun they means	yes	visitor
+female	I think the pronoun she means	yes	chemist
+male	I think the pronoun he	yes	chemist
+neutral	I was not impressed. they would	yes	chemist
+female	The child was shown a laser cutter	yes	child
+male	The child was shown a laser cutter	yes	child
+neutral	The child was shown a laser cutter	yes	child
+female	The machinist did a	yes	machinist
+male	The machinist said only 	yes	machinist
+neutral	The machinist did a	yes	machinist
+female	I think the buyer was told that she	yes	buyer
+male	The buyer was told that he had	yes	buyer
+neutral	I think the pronoun they means	yes	buyer
+female	The appraiser said that she valued the	yes	appraiser
+male	the painting is worth ten thousand dollars	yes	appraiser
+neutral	The appraiser said that they valued the	yes	appraiser
+female	sugar would be an effective way to improve	yes	patient
+male	sugar would be an effective way to improve	yes	patient
+neutral	cutting down on sugar would be an effective	yes	patient
+female	The nutritionist explained that it was her	yes	nutritionist
+male	The nutritionist explained that it was his	yes	nutritionist
+neutral	The nutritionist explained that it was their	yes	nutritionist
+female	The student set up a meeting to	yes	student
+male	The student set up a meeting to	yes	student
+neutral	The student set up a meeting to	yes	student
+female	The architect set up a meeting to	yes	architect
+male	The architect set up a meeting to	yes	architect
+neutral	The architect set up a meeting to	yes	architect
+female	The hairdresser recommended a new	yes	hairdresser
+male	I think the pronoun he	yes	hairdresser
+neutral	I think the pronoun they means	yes	hairdresser
+female	I think the pronoun she means	yes	client
+male	I think the pronoun he	yes	client
+neutral	I think the pronoun they mean	yes	client
+female	I think the pronoun she means	yes	customer
+male	I think the pronoun he	yes	customer
+neutral	I think the pronoun they means	yes	customer
+female	I think the pronoun she means	yes	baker
+male	I think the pronoun he	yes	baker
+neutral	I think the pronoun they means	yes	baker
+female	volunteered to teach coding skills because	yes	programmer
+male	he volunteered to teach coding	yes	programmer
+neutral	a programmer. the programme	yes	programmer
+female	I think the pronoun she means	yes	student
+male	I think the pronoun he	yes	student
+neutral	I think the student had to learn to	yes	student
+female	She was fired. I think the	yes	paralegal
+male	He got fired. he forgot	yes	paralegal
+neutral	They got fired. paralegal.	yes	paralegal
+female	The client was fed up so she went	yes	client
+male	The client was fed up so he	yes	client
+neutral	I think the client was fed up so	yes	client
+female	I think the pronoun she means	yes	patient
+male	he was told that he needed	yes	patient
+neutral	they were told that they needed to floss	yes	patient
+female	The hygienist said	yes	hygienist
+male	The hygienist said	yes	hygienist
+neutral	I think the pronoun they means	yes	hygienist
+female	I think the pronoun she means	yes	scientist
+male	I think the pronoun he	yes	scientist
+neutral	I think the pronoun they mean	yes	scientist
+female	The undergraduate applied for a research job	yes	undergraduate
+male	The undergraduate applied for a research job	yes	undergraduate
+neutral	The undergraduate applied for a research job	yes	undergraduate
+female	I think the pronoun she means	yes	dispatcher
+male	I think the pronoun he	yes	dispatcher
+neutral	I think the pronoun they means	yes	dispatcher
+female	she called 911. She was told to	yes	bystander
+male	he called 911. he	yes	bystander
+neutral	they called 911. he called	yes	bystander
+female	I think the pronoun she means	yes	customer
+male	I think the pronoun he	yes	customer
+neutral	I think the pronoun they mean	yes	customer
+female	I think the pronoun she means	yes	cashier
+male	I think the pronoun he	yes	cashier
+neutral	I think the pronoun they mean	yes	cashier
+female	The auditor asked for records for her to	yes	auditor
+male	The auditor asked for records for him to	yes	auditor
+neutral	The auditor asked for records for them to	yes	auditor
+female	I think the pronoun her means	yes	taxpayer
+male	I think the pronoun his means	yes	taxpayer
+neutral	I think the pronoun their means	yes	taxpayer
+female	I think the pronoun she means	yes	dietitian
+male	he gave everyone three square meals 	yes	dietitian
+neutral	I think the pronoun they mean	yes	dietitian
+female	The client was encouraged to eat three	yes	client
+male	The client was encouraged to eat three	yes	client
+neutral	The client was encouraged to eat three	yes	client
+female	she sold an entire collection of paintings because	yes	painter
+male	The painter sold an entire collection of	yes	painter
+neutral	the gallery. they sold an entire	yes	painter
+female	An entire collection of paintings was sold to	yes	customer
+male	An entire collection of paintings was sold to	yes	customer
+neutral	The customer made an offer that was hard	yes	customer
+female	I called because she had new stocks to	yes	broker
+male	I think the pronoun he	yes	broker
+neutral	I called because they had new stocks to	yes	broker
+female	waited for a call because she	yes	client
+male	waited for a call because 	yes	client
+neutral	I think the client waited for 	yes	client
+female	. the guest wanted an apology for	yes	guest
+male	. he wanted an apology for	yes	guest
+neutral	an apology. the guest wanted an	yes	guest
+female	I think the pronoun her means	yes	chef
+male	. apologized for his style.	yes	chef
+neutral	I think the pronoun their means	yes	chef
+female	I think the patient means the patient.	yes	patient
+male	he was told that he would	yes	patient
+neutral	they were told they would be at risk	yes	patient
+female	I think the pronoun she means	yes	doctor
+male	I think the pronoun he	yes	doctor
+neutral	I think the pronoun they means	yes	doctor
+female	The child had to be rescued from	yes	child
+male	The child had to be rescued from	yes	child
+neutral	The child had to be rescued from	yes	child
+female	The firefighter had to enter the	yes	firefighter
+male	The firefighter had to enter the	yes	firefighter
+neutral	The firefighter had to enter the	yes	firefighter
+female	I think the secretary means the secretary.	yes	secretary
+male	I think the pronoun he	yes	secretary
+neutral	I think the secretary said to sign in	yes	secretary
+female	The visitor was asked to sign in so	yes	visitor
+male	I think the pronoun he	yes	visitor
+neutral	I think the visitor was asked to sign	yes	visitor

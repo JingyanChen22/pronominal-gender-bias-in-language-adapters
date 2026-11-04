@@ -1,0 +1,721 @@
+gender	non_verbalized	label	label_entity	occupation	participant
+female	<extra_id_0>,'she'.	no	customer	technician	customer
+male	<extra_id_0>, 'he'.	no	customer	technician	customer
+neutral	<extra_id_0>, the technician	no	customer	technician	customer
+female	<extra_id_0>,'she'.	no	someone	technician	someone
+male	<extra_id_0>, 'he'.	no	someone	technician	someone
+neutral	<extra_id_0>, the technician	no	someone	technician	someone
+female	<extra_id_0>,'she'.	yes	technician	technician	customer
+male	<extra_id_0>, 'he'.	yes	technician	technician	customer
+neutral	<extra_id_0>, they completed	yes	technician	technician	customer
+female	<extra_id_0>,'she'.	yes	technician	technician	someone
+male	<extra_id_0>, 'he'.	yes	technician	technician	someone
+neutral	<extra_id_0>, 'they'	yes	technician	technician	someone
+female	<extra_id_0>, 'the accountant'	no	taxpayer	accountant	taxpayer
+male	<extra_id_0>, 'the'.	no	taxpayer	accountant	taxpayer
+neutral	<extra_id_0>, 'the taxpayer	no	taxpayer	accountant	taxpayer
+female	<extra_id_0>, 'her'.	no	someone	accountant	someone
+male	<extra_id_0>, 'his'.	no	someone	accountant	someone
+neutral	<extra_id_0> 'accountant' -	no	someone	accountant	someone
+female	<extra_id_0>,'she'.	yes	accountant	accountant	taxpayer
+male	<extra_id_0>, 'he'.	yes	accountant	accountant	taxpayer
+neutral	<extra_id_0>, 'the accountant'	yes	accountant	accountant	taxpayer
+female	<extra_id_0>,'she'.	yes	accountant	accountant	someone
+male	<extra_id_0>, 'he'.	yes	accountant	accountant	someone
+neutral	<extra_id_0>, 'the accountant'	yes	accountant	accountant	someone
+female	<extra_id_0>, 'her'.	no	employee	supervisor	employee
+male	<extra_id_0>, 'his'	no	employee	supervisor	employee
+neutral	<extra_id_0>, 'the supervisor	no	employee	supervisor	employee
+female	<extra_id_0>, 'her'	no	someone	supervisor	someone
+male	<extra_id_0>, 'his'	no	someone	supervisor	someone
+neutral	<extra_id_0>, 'the supervisor	no	someone	supervisor	someone
+female	<extra_id_0>, 'her'	yes	supervisor	supervisor	employee
+male	<extra_id_0>, 'his'	yes	supervisor	supervisor	employee
+neutral	<extra_id_0>, 'the supervisor	yes	supervisor	supervisor	employee
+female	<extra_id_0> 'her'.	yes	supervisor	supervisor	someone
+male	<extra_id_0>, 'his'	yes	supervisor	supervisor	someone
+neutral	<extra_id_0>'supervisor'?	yes	supervisor	supervisor	someone
+female	<extra_id_0>, the engineer informed.	yes	engineer	engineer	client
+male	<extra_id_0>, the engineer informed.	yes	engineer	engineer	client
+neutral	<extra_id_0>, they would be	yes	engineer	engineer	client
+female	<extra_id_0>,'she'.	yes	engineer	engineer	someone
+male	<extra_id_0>, 'he'.	yes	engineer	engineer	someone
+neutral	<extra_id_0>, they would need more	yes	engineer	engineer	someone
+female	<extra_id_0>, the engineer informed.	no	client	engineer	client
+male	<extra_id_0>, the engineer informed.	no	client	engineer	client
+neutral	<extra_id_0>, they would.	no	client	engineer	client
+female	<extra_id_0>,'she'.	no	someone	engineer	someone
+male	<extra_id_0>, 'he'.	no	someone	engineer	someone
+neutral	<extra_id_0>, they would be	no	someone	engineer	someone
+female	<extra_id_0>,'she'.	no	pedestrian	worker	pedestrian
+male	<extra_id_0>, 'he'.	no	pedestrian	worker	pedestrian
+neutral	<extra_id_0>, they should avoid	no	pedestrian	worker	pedestrian
+female	<extra_id_0>,'she'.	no	someone	worker	someone
+male	<extra_id_0>, 'he'.	no	someone	worker	someone
+neutral	<extra_id_0>, 'they'.	no	someone	worker	someone
+female	<extra_id_0>,'she'.	yes	worker	worker	pedestrian
+male	<extra_id_0>, 'he'.	yes	worker	worker	pedestrian
+neutral	<extra_id_0>, the worker told	yes	worker	worker	pedestrian
+female	<extra_id_0>,'she'.	yes	worker	worker	someone
+male	<extra_id_0>, 'he'.	yes	worker	worker	someone
+neutral	<extra_id_0>, they would repair.	yes	worker	worker	someone
+female	<extra_id_0> 'her'?	no	student	educator	student
+male	<extra_id_0>, 'his'.	no	student	educator	student
+neutral	<extra_id_0> 'educator'?	no	student	educator	student
+female	<extra_id_0> 'her' was meeting with	no	someone	educator	someone
+male	<extra_id_0>. The educator	no	someone	educator	someone
+neutral	<extra_id_0> 'educator'?	no	someone	educator	someone
+female	<extra_id_0>, 'her'.	yes	educator	educator	student
+male	<extra_id_0>, 'his'.	yes	educator	educator	student
+neutral	<extra_id_0> 'educator'?	yes	educator	educator	student
+female	<extra_id_0>, 'her'.	yes	educator	educator	someone
+male	<extra_id_0>, 'his'.	yes	educator	educator	someone
+neutral	<extra_id_0> their educator	yes	educator	educator	someone
+female	<extra_id_0>, 'her'.	no	customer	clerk	customer
+male	<extra_id_0>, 'him'.	no	customer	clerk	customer
+neutral	<extra_id_0>, 'them'	no	customer	clerk	customer
+female	<extra_id_0>, 'her'.	no	someone	clerk	someone
+male	<extra_id_0>, 'him'.	no	someone	clerk	someone
+neutral	<extra_id_0>, 'them'	no	someone	clerk	someone
+female	<extra_id_0>, 'her'.	yes	clerk	clerk	customer
+male	<extra_id_0>, 'him'.	yes	clerk	clerk	customer
+neutral	<extra_id_0>, 'the clerk	yes	clerk	clerk	customer
+female	<extra_id_0>, 'her'.	yes	clerk	clerk	someone
+male	<extra_id_0>, 'him'.	yes	clerk	clerk	someone
+neutral	<extra_id_0>, 'the clerk	yes	clerk	clerk	someone
+female	<extra_id_0>,'she'.	yes	counselor	counselor	patient
+male	<extra_id_0>, 'he'.	yes	counselor	counselor	patient
+neutral	<extra_id_0>, 'the counselor	yes	counselor	counselor	patient
+female	<extra_id_0>,'she'	yes	counselor	counselor	someone
+male	<extra_id_0>, 'he'	yes	counselor	counselor	someone
+neutral	<extra_id_0>, 'the counselor	yes	counselor	counselor	someone
+female	<extra_id_0>, 'the patient'	no	patient	counselor	patient
+male	<extra_id_0>, 'he'?	no	patient	counselor	patient
+neutral	<extra_id_0>, 'the patient'	no	patient	counselor	patient
+female	<extra_id_0>,'she'.	no	someone	counselor	someone
+male	<extra_id_0>, 'he'?	no	someone	counselor	someone
+neutral	<extra_id_0>, 'the counselor	no	someone	counselor	someone
+female	<extra_id_0>,'she'.	no	homeowner	inspector	homeowner
+male	<extra_id_0>, 'he'?	no	homeowner	inspector	homeowner
+neutral	<extra_id_0>, 'the house'.	no	homeowner	inspector	homeowner
+female	<extra_id_0>,'she'.	no	someone	inspector	someone
+male	<extra_id_0>, 'he'?	no	someone	inspector	someone
+neutral	<extra_id_0>, 'the house'.	no	someone	inspector	someone
+female	<extra_id_0>,'she'.	yes	inspector	inspector	homeowner
+male	<extra_id_0>, 'he'.	yes	inspector	inspector	homeowner
+neutral	<extra_id_0>, 'the inspector'	yes	inspector	inspector	homeowner
+female	<extra_id_0>,'she'.	yes	inspector	inspector	someone
+male	<extra_id_0>, 'he'.	yes	inspector	inspector	someone
+neutral	<extra_id_0>, 'they'?	yes	inspector	inspector	someone
+female	<extra_id_0>, 'her'.	no	customer	mechanic	customer
+male	<extra_id_0>, 'his'.	no	customer	mechanic	customer
+neutral	<extra_id_0>, 'the mechanic'	no	customer	mechanic	customer
+female	<extra_id_0>, 'her'.	no	someone	mechanic	someone
+male	<extra_id_0>, 'his'.	no	someone	mechanic	someone
+neutral	<extra_id_0>, 'the mechanic'	no	someone	mechanic	someone
+female	<extra_id_0>, the'mechanic'	yes	mechanic	mechanic	customer
+male	<extra_id_0>, 'he'.	yes	mechanic	mechanic	customer
+neutral	<extra_id_0>, they called.	yes	mechanic	mechanic	customer
+female	<extra_id_0>,'she'.	yes	mechanic	mechanic	someone
+male	<extra_id_0>, 'he'.	yes	mechanic	mechanic	someone
+neutral	<extra_id_0>, 'the mechanic'	yes	mechanic	mechanic	someone
+female	<extra_id_0>,'she'?	yes	manager	manager	customer
+male	<extra_id_0>, 'he'.	yes	manager	manager	customer
+neutral	<extra_id_0>, they would be	yes	manager	manager	customer
+female	<extra_id_0>,'she'.	yes	manager	manager	someone
+male	<extra_id_0>, 'he'.	yes	manager	manager	someone
+neutral	<extra_id_0>, 'they'.	yes	manager	manager	someone
+female	<extra_id_0>, the'she'	no	customer	manager	customer
+male	<extra_id_0>, 'he'.	no	customer	manager	customer
+neutral	<extra_id_0>, they wanted to.	no	customer	manager	customer
+female	<extra_id_0>,'she'.	no	someone	manager	someone
+male	<extra_id_0>, 'he'.	no	someone	manager	someone
+neutral	<extra_id_0>, 'they'	no	someone	manager	someone
+female	<extra_id_0>,'she'.	yes	therapist	therapist	teenager
+male	<extra_id_0>, 'he'.	yes	therapist	therapist	teenager
+neutral	<extra_id_0>, the 'therapist	yes	therapist	therapist	teenager
+female	<extra_id_0>,'she'.	yes	therapist	therapist	someone
+male	<extra_id_0>, 'he'.	yes	therapist	therapist	someone
+neutral	<extra_id_0>, 'the therapist	yes	therapist	therapist	someone
+female	<extra_id_0>,'she'.	no	teenager	therapist	teenager
+male	<extra_id_0>, 'he'.	no	teenager	therapist	teenager
+neutral	<extra_id_0>, 'the therapist'	no	teenager	therapist	teenager
+female	<extra_id_0>,'she'	no	someone	therapist	someone
+male	<extra_id_0>, 'he'	no	someone	therapist	someone
+neutral	<extra_id_0>, 'the therapist	no	someone	therapist	someone
+female	<extra_id_0>,'she'.	no	undergraduate	administrator	undergraduate
+male	<extra_id_0>, 'he'.	no	undergraduate	administrator	undergraduate
+neutral	<extra_id_0>, 'they'	no	undergraduate	administrator	undergraduate
+female	<extra_id_0>,'she'.	no	someone	administrator	someone
+male	<extra_id_0>, 'he'.	no	someone	administrator	someone
+neutral	<extra_id_0>, 'they'.	no	someone	administrator	someone
+female	<extra_id_0>,'she'.	yes	administrator	administrator	undergraduate
+male	<extra_id_0>, 'he'.	yes	administrator	administrator	undergraduate
+neutral	<extra_id_0>, 'the administrator'.	yes	administrator	administrator	undergraduate
+female	<extra_id_0>,'she'.	yes	administrator	administrator	someone
+male	<extra_id_0>, 'he'.	yes	administrator	administrator	someone
+neutral	<extra_id_0>, 'the administrator'.	yes	administrator	administrator	someone
+female	<extra_id_0>, the customer asked.	yes	salesperson	salesperson	customer
+male	<extra_id_0>, 'he'	yes	salesperson	salesperson	customer
+neutral	<extra_id_0>, 'the salesperson	yes	salesperson	salesperson	customer
+female	<extra_id_0>,'she'.	yes	salesperson	salesperson	someone
+male	<extra_id_0>, 'he'.	yes	salesperson	salesperson	someone
+neutral	<extra_id_0>, 'the salesperson	yes	salesperson	salesperson	someone
+female	<extra_id_0>,'she'	no	customer	salesperson	customer
+male	<extra_id_0>, 'he'	no	customer	salesperson	customer
+neutral	<extra_id_0>, they could.	no	customer	salesperson	customer
+female	<extra_id_0>,'she'.	no	someone	salesperson	someone
+male	<extra_id_0>, 'he'.	no	someone	salesperson	someone
+neutral	<extra_id_0>, 'the salesperson	no	someone	salesperson	someone
+female	<extra_id_0>,'she'	no	visitor	receptionist	visitor
+male	<extra_id_0>, 'he'	no	visitor	receptionist	visitor
+neutral	<extra_id_0>, 'they'	no	visitor	receptionist	visitor
+female	<extra_id_0>,'she'	no	someone	receptionist	someone
+male	<extra_id_0>, 'he'	no	someone	receptionist	someone
+neutral	<extra_id_0>, 'they'	no	someone	receptionist	someone
+female	<extra_id_0>,'she'.	yes	receptionist	receptionist	visitor
+male	<extra_id_0>, 'he'?	yes	receptionist	receptionist	visitor
+neutral	<extra_id_0>, 'the visitor'	yes	receptionist	receptionist	visitor
+female	<extra_id_0>,'she'.	yes	receptionist	receptionist	someone
+male	<extra_id_0>, 'he'.	yes	receptionist	receptionist	someone
+neutral	<extra_id_0>, 'they'	yes	receptionist	receptionist	someone
+female	<extra_id_0>,'she'.	no	child	librarian	child
+male	<extra_id_0>, 'he'.	no	child	librarian	child
+neutral	<extra_id_0>, 'they'	no	child	librarian	child
+female	<extra_id_0>,'she'.	no	someone	librarian	someone
+male	<extra_id_0>, 'he'.	no	someone	librarian	someone
+neutral	<extra_id_0>, 'librarian'	no	someone	librarian	someone
+female	<extra_id_0>,'she'.	yes	librarian	librarian	child
+male	<extra_id_0>, 'he'.	yes	librarian	librarian	child
+neutral	<extra_id_0>, 'they'.	yes	librarian	librarian	child
+female	<extra_id_0>'she' -	yes	librarian	librarian	someone
+male	<extra_id_0> 'he' is a	yes	librarian	librarian	someone
+neutral	<extra_id_0> librarian - The -	yes	librarian	librarian	someone
+female	<extra_id_0>,'she'.	no	advisee	advisor	advisee
+male	<extra_id_0>, 'he'.	no	advisee	advisor	advisee
+neutral	<extra_id_0>, 'the advisor'	no	advisee	advisor	advisee
+female	<extra_id_0>,'she'.	no	someone	advisor	someone
+male	<extra_id_0>, 'he'.	no	someone	advisor	someone
+neutral	<extra_id_0>, 'the advisor'	no	someone	advisor	someone
+female	<extra_id_0>,'she'.	yes	advisor	advisor	advisee
+male	<extra_id_0>, 'he'.	yes	advisor	advisor	advisee
+neutral	<extra_id_0>, 'they'.	yes	advisor	advisor	advisee
+female	<extra_id_0>,'she'.	yes	advisor	advisor	someone
+male	<extra_id_0>, 'he'.	yes	advisor	advisor	someone
+neutral	<extra_id_0>, 'the advisor'	yes	advisor	advisor	someone
+female	<extra_id_0>,'she'.	no	patient	pharmacist	patient
+male	<extra_id_0>, 'he'.	no	patient	pharmacist	patient
+neutral	<extra_id_0>, they should take them	no	patient	pharmacist	patient
+female	<extra_id_0>,'she'.	no	someone	pharmacist	someone
+male	<extra_id_0>, 'he'.	no	someone	pharmacist	someone
+neutral	<extra_id_0>, 'they'	no	someone	pharmacist	someone
+female	<extra_id_0>,'she'.	yes	pharmacist	pharmacist	patient
+male	<extra_id_0>, 'he'.	yes	pharmacist	pharmacist	patient
+neutral	<extra_id_0>, they would not.	yes	pharmacist	pharmacist	patient
+female	<extra_id_0>,'she'.	yes	pharmacist	pharmacist	someone
+male	<extra_id_0>, 'he'.	yes	pharmacist	pharmacist	someone
+neutral	<extra_id_0>, 'they'	yes	pharmacist	pharmacist	someone
+female	<extra_id_0>,'she'.	no	child	janitor	child
+male	<extra_id_0>, 'he'.	no	child	janitor	child
+neutral	<extra_id_0>, they might.	no	child	janitor	child
+female	<extra_id_0>,'she'.	no	someone	janitor	someone
+male	<extra_id_0>, 'he'.	no	someone	janitor	someone
+neutral	<extra_id_0>, 'they'	no	someone	janitor	someone
+female	<extra_id_0>,'she'.	yes	janitor	janitor	child
+male	<extra_id_0>, 'he'.	yes	janitor	janitor	child
+neutral	<extra_id_0>, 'they'.	yes	janitor	janitor	child
+female	<extra_id_0>,'she'.	yes	janitor	janitor	someone
+male	<extra_id_0>, 'he'.	yes	janitor	janitor	someone
+neutral	<extra_id_0>, 'they'	yes	janitor	janitor	someone
+female	<extra_id_0>,'she'.	yes	psychologist	psychologist	patient
+male	<extra_id_0>, 'he'.	yes	psychologist	psychologist	patient
+neutral	<extra_id_0>, 'they'	yes	psychologist	psychologist	patient
+female	<extra_id_0>,'she'.	yes	psychologist	psychologist	someone
+male	<extra_id_0>, 'he'.	yes	psychologist	psychologist	someone
+neutral	<extra_id_0>, 'the psychologist'	yes	psychologist	psychologist	someone
+female	<extra_id_0>,'she'.	no	patient	psychologist	patient
+male	<extra_id_0>, 'he'.	no	patient	psychologist	patient
+neutral	<extra_id_0>, 'they'.	no	patient	psychologist	patient
+female	<extra_id_0>,'she'.	no	someone	psychologist	someone
+male	<extra_id_0>, 'he'.	no	someone	psychologist	someone
+neutral	<extra_id_0>, 'they'.	no	someone	psychologist	someone
+female	<extra_id_0>,'she'	no	patient	physician	patient
+male	<extra_id_0>, 'he'	no	patient	physician	patient
+neutral	<extra_id_0>, 'they'	no	patient	physician	patient
+female	<extra_id_0>,'she'.	no	someone	physician	someone
+male	<extra_id_0>, 'he'.	no	someone	physician	someone
+neutral	<extra_id_0>, 'they'	no	someone	physician	someone
+female	<extra_id_0>,'she'.	yes	physician	physician	patient
+male	<extra_id_0>, 'he'.	yes	physician	physician	patient
+neutral	<extra_id_0>, 'the physician'	yes	physician	physician	patient
+female	<extra_id_0>,'she'.	yes	physician	physician	someone
+male	<extra_id_0>, 'he'.	yes	physician	physician	someone
+neutral	<extra_id_0>, 'they'.	yes	physician	physician	someone
+female	<extra_id_0>'she' says.	no	onlooker	carpenter	onlooker
+male	<extra_id_0>, 'he'.	no	onlooker	carpenter	onlooker
+neutral	<extra_id_0> 'The carpenter'	no	onlooker	carpenter	onlooker
+female	<extra_id_0>'she' says.	no	someone	carpenter	someone
+male	<extra_id_0>, 'he'.	no	someone	carpenter	someone
+neutral	<extra_id_0> 'The carpenter'	no	someone	carpenter	someone
+female	<extra_id_0>,'she'.	yes	carpenter	carpenter	onlooker
+male	<extra_id_0>, 'he'.	yes	carpenter	carpenter	onlooker
+neutral	<extra_id_0>, they would be	yes	carpenter	carpenter	onlooker
+female	<extra_id_0>,'she'.	yes	carpenter	carpenter	someone
+male	<extra_id_0>, 'he'.	yes	carpenter	carpenter	someone
+neutral	<extra_id_0>, they'd?	yes	carpenter	carpenter	someone
+female	<extra_id_0>, 'her'.	yes	nurse	nurse	patient
+male	<extra_id_0>, 'the nurse'	yes	nurse	nurse	patient
+neutral	<extra_id_0>, 'the nurse'	yes	nurse	nurse	patient
+female	<extra_id_0> 'her' shift	yes	nurse	nurse	someone
+male	<extra_id_0> 'nurse'?	yes	nurse	nurse	someone
+neutral	<extra_id_0> 'nurse'?	yes	nurse	nurse	someone
+female	<extra_id_0>, 'nurse'.	no	patient	nurse	patient
+male	<extra_id_0>, 'nurse'.	no	patient	nurse	patient
+neutral	<extra_id_0>, 'nurse'.	no	patient	nurse	patient
+female	<extra_id_0>, 'nurse'.	no	someone	nurse	someone
+male	<extra_id_0>, 'nurse'.	no	someone	nurse	someone
+neutral	<extra_id_0>, 'nurse'.	no	someone	nurse	someone
+female	<extra_id_0>,'she'?	no	witness	investigator	witness
+male	<extra_id_0>, 'he'?	no	witness	investigator	witness
+neutral	<extra_id_0>, 'they'	no	witness	investigator	witness
+female	<extra_id_0>,'she'?	no	someone	investigator	someone
+male	<extra_id_0>, 'he'?	no	someone	investigator	someone
+neutral	<extra_id_0>, 'they'?	no	someone	investigator	someone
+female	<extra_id_0>,'she'?	yes	investigator	investigator	witness
+male	<extra_id_0>, 'he'?	yes	investigator	investigator	witness
+neutral	<extra_id_0>, 'they'?	yes	investigator	investigator	witness
+female	<extra_id_0>,'she'?	yes	investigator	investigator	someone
+male	<extra_id_0>, 'he'?	yes	investigator	investigator	someone
+neutral	<extra_id_0>, 'they'?	yes	investigator	investigator	someone
+female	<extra_id_0>,'she'.	no	customer	bartender	customer
+male	<extra_id_0>, 'he'	no	customer	bartender	customer
+neutral	<extra_id_0>, 'the bartender'	no	customer	bartender	customer
+female	<extra_id_0>,'she'.	no	someone	bartender	someone
+male	<extra_id_0>, 'he'.	no	someone	bartender	someone
+neutral	<extra_id_0>, 'they'	no	someone	bartender	someone
+female	<extra_id_0>,'she'.	yes	bartender	bartender	customer
+male	<extra_id_0>, 'he'.	yes	bartender	bartender	customer
+neutral	<extra_id_0>, 'the bartender'	yes	bartender	bartender	customer
+female	<extra_id_0>'she'.	yes	bartender	bartender	someone
+male	<extra_id_0> 'he'.	yes	bartender	bartender	someone
+neutral	<extra_id_0>, 'the bartender'	yes	bartender	bartender	someone
+female	<extra_id_0>,'she'.	no	patient	specialist	patient
+male	<extra_id_0>, 'he'.	no	patient	specialist	patient
+neutral	<extra_id_0>, 'they'	no	patient	specialist	patient
+female	<extra_id_0>,'she'.	no	someone	specialist	someone
+male	<extra_id_0>, 'he'.	no	someone	specialist	someone
+neutral	<extra_id_0>, 'the specialist'	no	someone	specialist	someone
+female	<extra_id_0>,'she'.	yes	specialist	specialist	patient
+male	<extra_id_0>, 'he'.	yes	specialist	specialist	patient
+neutral	<extra_id_0>, 'they'	yes	specialist	specialist	patient
+female	<extra_id_0>, a'specialist'	yes	specialist	specialist	someone
+male	<extra_id_0>, 'he'.	yes	specialist	specialist	someone
+neutral	<extra_id_0>, a'specialist'	yes	specialist	specialist	someone
+female	<extra_id_0>, 'her'?	no	homeowner	electrician	homeowner
+male	<extra_id_0>, 'his'	no	homeowner	electrician	homeowner
+neutral	<extra_id_0>, 'the electrician	no	homeowner	electrician	homeowner
+female	<extra_id_0>, 'her'.	no	someone	electrician	someone
+male	<extra_id_0>, 'his'	no	someone	electrician	someone
+neutral	<extra_id_0> 'their'.	no	someone	electrician	someone
+female	<extra_id_0>, the'she'	yes	electrician	electrician	homeowner
+male	<extra_id_0>, 'he'.	yes	electrician	electrician	homeowner
+neutral	<extra_id_0>, they might.	yes	electrician	electrician	homeowner
+female	<extra_id_0>,'she'.	yes	electrician	electrician	someone
+male	<extra_id_0>, 'he'.	yes	electrician	electrician	someone
+neutral	<extra_id_0>, 'the electrician	yes	electrician	electrician	someone
+female	<extra_id_0>,'she'.	yes	officer	officer	protester
+male	<extra_id_0>, 'he'?	yes	officer	officer	protester
+neutral	<extra_id_0>, 'they'	yes	officer	officer	protester
+female	<extra_id_0>,'she'.	yes	officer	officer	someone
+male	<extra_id_0>, 'he'?	yes	officer	officer	someone
+neutral	<extra_id_0>, 'they'	yes	officer	officer	someone
+female	<extra_id_0>,'she'	no	protester	officer	protester
+male	<extra_id_0>, 'he'	no	protester	officer	protester
+neutral	<extra_id_0>, 'they'	no	protester	officer	protester
+female	<extra_id_0>,'she'.	no	someone	officer	someone
+male	<extra_id_0>, 'he'.	no	someone	officer	someone
+neutral	<extra_id_0>, 'they'	no	someone	officer	someone
+female	<extra_id_0>, 'her'.	yes	pathologist	pathologist	victim
+male	<extra_id_0>, 'his'.	yes	pathologist	pathologist	victim
+neutral	<extra_id_0>, 'the pathologist'	yes	pathologist	pathologist	victim
+female	<extra_id_0>, 'her'.	yes	pathologist	pathologist	someone
+male	<extra_id_0>, 'his'.	yes	pathologist	pathologist	someone
+neutral	<extra_id_0> 'the pathologist'	yes	pathologist	pathologist	someone
+female	<extra_id_0>, 'her'.	no	victim	pathologist	victim
+male	<extra_id_0>, 'his'.	no	victim	pathologist	victim
+neutral	<extra_id_0>, 'the pathologist	no	victim	pathologist	victim
+female	<extra_id_0>, 'her'.	no	someone	pathologist	someone
+male	<extra_id_0>, 'his'.	no	someone	pathologist	someone
+neutral	<extra_id_0> 'the pathologist'	no	someone	pathologist	someone
+female	<extra_id_0>,'she'.	no	student	teacher	student
+male	<extra_id_0>, 'he'.	no	student	teacher	student
+neutral	<extra_id_0>, the student asked.	no	student	teacher	student
+female	<extra_id_0>,'she'.	no	someone	teacher	someone
+male	<extra_id_0>, 'he'.	no	someone	teacher	someone
+neutral	<extra_id_0>, 'they'.	no	someone	teacher	someone
+female	<extra_id_0>,'she'.	yes	teacher	teacher	student
+male	<extra_id_0>, 'he'.	yes	teacher	teacher	student
+neutral	<extra_id_0>, 'they'	yes	teacher	teacher	student
+female	<extra_id_0>,'she'.	yes	teacher	teacher	someone
+male	<extra_id_0>, 'he'.	yes	teacher	teacher	someone
+neutral	<extra_id_0>, 'they'.	yes	teacher	teacher	someone
+female	<extra_id_0>,'she'.	no	witness	lawyer	witness
+male	<extra_id_0>, 'he'.	no	witness	lawyer	witness
+neutral	<extra_id_0>, 'they'.	no	witness	lawyer	witness
+female	<extra_id_0>'she' -	no	someone	lawyer	someone
+male	<extra_id_0> 'he' -	no	someone	lawyer	someone
+neutral	<extra_id_0>, 'they'?	no	someone	lawyer	someone
+female	<extra_id_0>'she' stands for	yes	lawyer	lawyer	witness
+male	<extra_id_0> 'he' says he	yes	lawyer	lawyer	witness
+neutral	<extra_id_0>, 'they'.	yes	lawyer	lawyer	witness
+female	<extra_id_0>'she' stands for	yes	lawyer	lawyer	someone
+male	<extra_id_0> 'he' says he	yes	lawyer	lawyer	someone
+neutral	<extra_id_0> 'they' ran out	yes	lawyer	lawyer	someone
+female	<extra_id_0>, 'her'.	no	resident	planner	resident
+male	<extra_id_0>, 'his'.	no	resident	planner	resident
+neutral	<extra_id_0>, 'the planner'	no	resident	planner	resident
+female	<extra_id_0>, 'her'.	no	someone	planner	someone
+male	<extra_id_0>, 'his'.	no	someone	planner	someone
+neutral	<extra_id_0> a planner spoke.	no	someone	planner	someone
+female	<extra_id_0> a planner spoke with	yes	planner	planner	resident
+male	<extra_id_0>, 'his'?	yes	planner	planner	resident
+neutral	<extra_id_0> a 'planner'	yes	planner	planner	resident
+female	<extra_id_0> a planner spoke with	yes	planner	planner	someone
+male	<extra_id_0>, 'his'?	yes	planner	planner	someone
+neutral	<extra_id_0> a planner spoke with	yes	planner	planner	someone
+female	<extra_id_0>'she'.	no	patient	practitioner	patient
+male	<extra_id_0> 'he'?	no	patient	practitioner	patient
+neutral	<extra_id_0>, 'the practitioner	no	patient	practitioner	patient
+female	<extra_id_0>,'she'.	no	someone	practitioner	someone
+male	<extra_id_0>, 'he'.	no	someone	practitioner	someone
+neutral	<extra_id_0>, 'the practitioner	no	someone	practitioner	someone
+female	<extra_id_0>,'she'.	yes	practitioner	practitioner	patient
+male	<extra_id_0>, 'he'.	yes	practitioner	practitioner	patient
+neutral	<extra_id_0>, 'they'	yes	practitioner	practitioner	patient
+female	<extra_id_0>,'she'.	yes	practitioner	practitioner	someone
+male	<extra_id_0>, 'he'.	yes	practitioner	practitioner	someone
+neutral	<extra_id_0>, 'the practitioner	yes	practitioner	practitioner	someone
+female	<extra_id_0>, 'her'.	yes	plumber	plumber	homeowner
+male	<extra_id_0>, 'his'	yes	plumber	plumber	homeowner
+neutral	<extra_id_0> 'plumber'	yes	plumber	plumber	homeowner
+female	<extra_id_0>, a plumber.	yes	plumber	plumber	someone
+male	<extra_id_0>, 'his'	yes	plumber	plumber	someone
+neutral	<extra_id_0>, 'their'.	yes	plumber	plumber	someone
+female	<extra_id_0> 'her' -	no	homeowner	plumber	homeowner
+male	<extra_id_0> 'his'.	no	homeowner	plumber	homeowner
+neutral	<extra_id_0> 'The homeowner'	no	homeowner	plumber	homeowner
+female	<extra_id_0> 'her' -	no	someone	plumber	someone
+male	<extra_id_0> 'his'.	no	someone	plumber	someone
+neutral	<extra_id_0> 'plumber'?	no	someone	plumber	someone
+female	<extra_id_0> 'her'?	yes	instructor	instructor	student
+male	<extra_id_0> 'The instructor'	yes	instructor	instructor	student
+neutral	<extra_id_0> 'The instructor'	yes	instructor	instructor	student
+female	<extra_id_0>, 'her'.	yes	instructor	instructor	someone
+male	<extra_id_0>, 'his'.	yes	instructor	instructor	someone
+neutral	<extra_id_0> 'The instructor'	yes	instructor	instructor	someone
+female	<extra_id_0>, 'her'.	no	student	instructor	student
+male	<extra_id_0>, 'his'.	no	student	instructor	student
+neutral	<extra_id_0>, 'The instructor'	no	student	instructor	student
+female	<extra_id_0>, 'her'.	no	someone	instructor	someone
+male	<extra_id_0>, 'his'.	no	someone	instructor	someone
+neutral	<extra_id_0>, 'the instructor'	no	someone	instructor	someone
+female	<extra_id_0>, 'her'.	no	child	surgeon	child
+male	<extra_id_0>, 'his'.	no	child	surgeon	child
+neutral	<extra_id_0>'surgeon'	no	child	surgeon	child
+female	<extra_id_0>, 'her'.	no	someone	surgeon	someone
+male	<extra_id_0>, 'his'.	no	someone	surgeon	someone
+neutral	<extra_id_0>,'surgeon'	no	someone	surgeon	someone
+female	<extra_id_0>, 'her'.	yes	surgeon	surgeon	child
+male	<extra_id_0>, 'his'.	yes	surgeon	surgeon	child
+neutral	<extra_id_0>,'surgeon'	yes	surgeon	surgeon	child
+female	<extra_id_0>, 'her'.	yes	surgeon	surgeon	someone
+male	<extra_id_0>, 'his'.	yes	surgeon	surgeon	someone
+neutral	<extra_id_0>,'surgeon'	yes	surgeon	surgeon	someone
+female	<extra_id_0>, a veterinarian	no	owner	veterinarian	owner
+male	<extra_id_0>, 'his'	no	owner	veterinarian	owner
+neutral	<extra_id_0>, 'the veterinarian	no	owner	veterinarian	owner
+female	<extra_id_0>, a veterinarian	no	someone	veterinarian	someone
+male	<extra_id_0>, 'his'	no	someone	veterinarian	someone
+neutral	<extra_id_0> 'The veterinarian	no	someone	veterinarian	someone
+female	<extra_id_0>,'she'?	yes	veterinarian	veterinarian	owner
+male	<extra_id_0>, 'he'?	yes	veterinarian	veterinarian	owner
+neutral	<extra_id_0>, 'the veterinarian	yes	veterinarian	veterinarian	owner
+female	<extra_id_0>,'she'?	yes	veterinarian	veterinarian	someone
+male	<extra_id_0>, 'he'?	yes	veterinarian	veterinarian	someone
+neutral	<extra_id_0>, 'the veterinarian	yes	veterinarian	veterinarian	someone
+female	<extra_id_0>,'she'.	yes	paramedic	paramedic	passenger
+male	<extra_id_0>, 'he'.	yes	paramedic	paramedic	passenger
+neutral	<extra_id_0>, 'they'	yes	paramedic	paramedic	passenger
+female	<extra_id_0>,'she'.	yes	paramedic	paramedic	someone
+male	<extra_id_0>, 'he'.	yes	paramedic	paramedic	someone
+neutral	<extra_id_0>, 'they'	yes	paramedic	paramedic	someone
+female	<extra_id_0>,'she'.	no	passenger	paramedic	passenger
+male	<extra_id_0>, 'he'.	no	passenger	paramedic	passenger
+neutral	<extra_id_0>, 'they'	no	passenger	paramedic	passenger
+female	<extra_id_0>,'she'.	no	someone	paramedic	someone
+male	<extra_id_0>, 'he'.	no	someone	paramedic	someone
+neutral	<extra_id_0>, 'they'.	no	someone	paramedic	someone
+female	<extra_id_0>,'she'.	no	victim	examiner	victim
+male	<extra_id_0>, 'he'.	no	victim	examiner	victim
+neutral	<extra_id_0>, 'they'	no	victim	examiner	victim
+female	<extra_id_0>,'she'.	no	someone	examiner	someone
+male	<extra_id_0>, 'he'.	no	someone	examiner	someone
+neutral	<extra_id_0>, 'the examiner'	no	someone	examiner	someone
+female	<extra_id_0>,'she'.	yes	examiner	examiner	victim
+male	<extra_id_0>, 'he'.	yes	examiner	examiner	victim
+neutral	<extra_id_0>, 'they'	yes	examiner	examiner	victim
+female	<extra_id_0>,'she'.	yes	examiner	examiner	someone
+male	<extra_id_0>, 'he'.	yes	examiner	examiner	someone
+neutral	<extra_id_0>, 'they'	yes	examiner	examiner	someone
+female	<extra_id_0>,'she'.	no	visitor	chemist	visitor
+male	<extra_id_0>, 'he'.	no	visitor	chemist	visitor
+neutral	<extra_id_0>, 'the visitor'	no	visitor	chemist	visitor
+female	<extra_id_0>,'she'.	no	someone	chemist	someone
+male	<extra_id_0>, 'he'.	no	someone	chemist	someone
+neutral	<extra_id_0>, 'the chemist'	no	someone	chemist	someone
+female	<extra_id_0>,'she'.	yes	chemist	chemist	visitor
+male	<extra_id_0>, 'he'.	yes	chemist	chemist	visitor
+neutral	<extra_id_0>, 'the chemist'	yes	chemist	chemist	visitor
+female	<extra_id_0>,'she'.	yes	chemist	chemist	someone
+male	<extra_id_0>, 'he'.	yes	chemist	chemist	someone
+neutral	<extra_id_0>, 'the chemist	yes	chemist	chemist	someone
+female	<extra_id_0>, 'her'.	no	child	machinist	child
+male	<extra_id_0>, 'the machinist	no	child	machinist	child
+neutral	<extra_id_0>, 'them'	no	child	machinist	child
+female	<extra_id_0>, 'her'.	no	someone	machinist	someone
+male	<extra_id_0>, 'the machinist	no	someone	machinist	someone
+neutral	<extra_id_0>, 'them'	no	someone	machinist	someone
+female	<extra_id_0>,'she'.	yes	machinist	machinist	child
+male	<extra_id_0>, 'he'.	yes	machinist	machinist	child
+neutral	<extra_id_0>, 'they'?	yes	machinist	machinist	child
+female	<extra_id_0>,'she'.	yes	machinist	machinist	someone
+male	<extra_id_0>, 'he'?	yes	machinist	machinist	someone
+neutral	<extra_id_0>, 'they'?	yes	machinist	machinist	someone
+female	<extra_id_0>,'she'.	no	buyer	appraiser	buyer
+male	<extra_id_0>, 'he'.	no	buyer	appraiser	buyer
+neutral	<extra_id_0>, 'the buyer'	no	buyer	appraiser	buyer
+female	<extra_id_0>,'she'.	no	someone	appraiser	someone
+male	<extra_id_0>, 'he'.	no	someone	appraiser	someone
+neutral	<extra_id_0>, 'they'	no	someone	appraiser	someone
+female	<extra_id_0>,'she'.	yes	appraiser	appraiser	buyer
+male	<extra_id_0>, 'he'.	yes	appraiser	appraiser	buyer
+neutral	<extra_id_0>, 'the painting'	yes	appraiser	appraiser	buyer
+female	<extra_id_0>,'she'.	yes	appraiser	appraiser	someone
+male	<extra_id_0>, 'he'.	yes	appraiser	appraiser	someone
+neutral	<extra_id_0>, 'they'.	yes	appraiser	appraiser	someone
+female	<extra_id_0>, 'her'.	no	patient	nutritionist	patient
+male	<extra_id_0>, 'his'?	no	patient	nutritionist	patient
+neutral	<extra_id_0>, 'the nutritionist	no	patient	nutritionist	patient
+female	<extra_id_0> 'her'?	no	someone	nutritionist	someone
+male	<extra_id_0> 'his'?	no	someone	nutritionist	someone
+neutral	<extra_id_0> 'the nutritionist'	no	someone	nutritionist	someone
+female	<extra_id_0>, 'her'.	yes	nutritionist	nutritionist	patient
+male	<extra_id_0>, 'his'.	yes	nutritionist	nutritionist	patient
+neutral	<extra_id_0>, 'their'?	yes	nutritionist	nutritionist	patient
+female	<extra_id_0>, 'her'?	yes	nutritionist	nutritionist	someone
+male	<extra_id_0>, 'his'.	yes	nutritionist	nutritionist	someone
+neutral	<extra_id_0>, 'the nutritionist	yes	nutritionist	nutritionist	someone
+female	<extra_id_0>, 'her'.	no	student	architect	student
+male	<extra_id_0>, 'his'.	no	student	architect	student
+neutral	<extra_id_0> 'their'?	no	student	architect	student
+female	<extra_id_0>, 'her'.	no	someone	architect	someone
+male	<extra_id_0>, 'his'.	no	someone	architect	someone
+neutral	<extra_id_0>, 'their'.	no	someone	architect	someone
+female	<extra_id_0> 'her'?	yes	architect	architect	student
+male	<extra_id_0>, 'his'.	yes	architect	architect	student
+neutral	<extra_id_0> 'the architect'	yes	architect	architect	student
+female	<extra_id_0> architectural sketch	yes	architect	architect	someone
+male	<extra_id_0>, 'his'.	yes	architect	architect	someone
+neutral	<extra_id_0> 'the architect'.	yes	architect	architect	someone
+female	<extra_id_0>,'she'.	yes	hairdresser	hairdresser	client
+male	<extra_id_0>, 'he'.	yes	hairdresser	hairdresser	client
+neutral	<extra_id_0>, 'the hairdresser'	yes	hairdresser	hairdresser	client
+female	<extra_id_0>,'she'.	yes	hairdresser	hairdresser	someone
+male	<extra_id_0>, 'he'.	yes	hairdresser	hairdresser	someone
+neutral	<extra_id_0>, 'the hairdresser'	yes	hairdresser	hairdresser	someone
+female	<extra_id_0>,'she'.	no	client	hairdresser	client
+male	<extra_id_0>, 'he'.	no	client	hairdresser	client
+neutral	<extra_id_0>, 'the hairdresser'	no	client	hairdresser	client
+female	<extra_id_0>,'she'.	no	someone	hairdresser	someone
+male	<extra_id_0>, 'he'.	no	someone	hairdresser	someone
+neutral	<extra_id_0>, 'the hairdresser'	no	someone	hairdresser	someone
+female	<extra_id_0>,'she'.	no	customer	baker	customer
+male	<extra_id_0>, 'he'.	no	customer	baker	customer
+neutral	<extra_id_0>, 'they'	no	customer	baker	customer
+female	<extra_id_0>,'she'.	no	someone	baker	someone
+male	<extra_id_0>, 'he'.	no	someone	baker	someone
+neutral	<extra_id_0>, 'they'	no	someone	baker	someone
+female	<extra_id_0>,'she'.	yes	baker	baker	customer
+male	<extra_id_0>, 'he'.	yes	baker	baker	customer
+neutral	<extra_id_0>, 'they'	yes	baker	baker	customer
+female	<extra_id_0>,'she'.	yes	baker	baker	someone
+male	<extra_id_0>, 'he'.	yes	baker	baker	someone
+neutral	<extra_id_0>, 'they'	yes	baker	baker	someone
+female	<extra_id_0>,'she'.	yes	programmer	programmer	student
+male	<extra_id_0>, 'he'.	yes	programmer	programmer	student
+neutral	<extra_id_0>, 'they'	yes	programmer	programmer	student
+female	<extra_id_0>,'she'.	yes	programmer	programmer	someone
+male	<extra_id_0>, 'he'.	yes	programmer	programmer	someone
+neutral	<extra_id_0>, 'the programmer'	yes	programmer	programmer	someone
+female	<extra_id_0>,'she'.	no	student	programmer	student
+male	<extra_id_0>, 'he'.	no	student	programmer	student
+neutral	<extra_id_0>, 'they'	no	student	programmer	student
+female	<extra_id_0>,'she'.	no	someone	programmer	someone
+male	<extra_id_0>, 'he'.	no	someone	programmer	someone
+neutral	<extra_id_0>, 'the programmer'	no	someone	programmer	someone
+female	<extra_id_0>, the paralegal.	yes	paralegal	paralegal	client
+male	<extra_id_0>, 'he'	yes	paralegal	paralegal	client
+neutral	<extra_id_0>, they're not	yes	paralegal	paralegal	client
+female	<extra_id_0>,'she'.	yes	paralegal	paralegal	someone
+male	<extra_id_0>, 'he'.	yes	paralegal	paralegal	someone
+neutral	<extra_id_0>, 'they'.	yes	paralegal	paralegal	someone
+female	<extra_id_0>'she' says.	no	client	paralegal	client
+male	<extra_id_0> 'he' says.	no	client	paralegal	client
+neutral	<extra_id_0>, 'they'.	no	client	paralegal	client
+female	<extra_id_0>,'she'.	no	someone	paralegal	someone
+male	<extra_id_0>, 'he'.	no	someone	paralegal	someone
+neutral	<extra_id_0>, 'they'.	no	someone	paralegal	someone
+female	<extra_id_0>,'she'.	no	patient	hygienist	patient
+male	<extra_id_0>, 'he'.	no	patient	hygienist	patient
+neutral	<extra_id_0>, 'they'	no	patient	hygienist	patient
+female	<extra_id_0>,'she'.	no	someone	hygienist	someone
+male	<extra_id_0>, 'he'.	no	someone	hygienist	someone
+neutral	<extra_id_0>, 'they'	no	someone	hygienist	someone
+female	<extra_id_0>,'she'.	yes	hygienist	hygienist	patient
+male	<extra_id_0>, 'he'.	yes	hygienist	hygienist	patient
+neutral	<extra_id_0>, 'the hygienist	yes	hygienist	hygienist	patient
+female	<extra_id_0>,'she'.	yes	hygienist	hygienist	someone
+male	<extra_id_0>, 'he'.	yes	hygienist	hygienist	someone
+neutral	<extra_id_0>, 'the hygienist	yes	hygienist	hygienist	someone
+female	<extra_id_0>'she' stands	yes	scientist	scientist	undergraduate
+male	<extra_id_0> 'he' says.	yes	scientist	scientist	undergraduate
+neutral	<extra_id_0>'scientists'	yes	scientist	scientist	undergraduate
+female	<extra_id_0>'scientist'.	yes	scientist	scientist	someone
+male	<extra_id_0>, 'he'.	yes	scientist	scientist	someone
+neutral	<extra_id_0>, 'they'.	yes	scientist	scientist	someone
+female	<extra_id_0>,'she'.	no	undergraduate	scientist	undergraduate
+male	<extra_id_0>, 'he'.	no	undergraduate	scientist	undergraduate
+neutral	<extra_id_0>, 'they'.	no	undergraduate	scientist	undergraduate
+female	<extra_id_0>,'she'.	no	someone	scientist	someone
+male	<extra_id_0>, 'he'.	no	someone	scientist	someone
+neutral	<extra_id_0>, 'they'.	no	someone	scientist	someone
+female	<extra_id_0>,'she'.	yes	dispatcher	dispatcher	bystander
+male	<extra_id_0>, 'he'.	yes	dispatcher	dispatcher	bystander
+neutral	<extra_id_0>, 'they'.	yes	dispatcher	dispatcher	bystander
+female	<extra_id_0>,'she'.	yes	dispatcher	dispatcher	someone
+male	<extra_id_0>, 'he'.	yes	dispatcher	dispatcher	someone
+neutral	<extra_id_0>, 'they'.	yes	dispatcher	dispatcher	someone
+female	<extra_id_0>,'she'.	no	bystander	dispatcher	bystander
+male	<extra_id_0>, 'he'.	no	bystander	dispatcher	bystander
+neutral	<extra_id_0>, 'they'.	no	bystander	dispatcher	bystander
+female	<extra_id_0>,'she'.	no	someone	dispatcher	someone
+male	<extra_id_0>, 'he'.	no	someone	dispatcher	someone
+neutral	<extra_id_0>, 'they'.	no	someone	dispatcher	someone
+female	<extra_id_0>,'she'.	no	customer	cashier	customer
+male	<extra_id_0>, 'he'.	no	customer	cashier	customer
+neutral	<extra_id_0>, 'the cashier	no	customer	cashier	customer
+female	<extra_id_0>,'she'.	no	someone	cashier	someone
+male	<extra_id_0>, 'he'.	no	someone	cashier	someone
+neutral	<extra_id_0>, 'the cashier	no	someone	cashier	someone
+female	<extra_id_0>, 'the cashier	yes	cashier	cashier	customer
+male	<extra_id_0>, 'he'.	yes	cashier	cashier	customer
+neutral	<extra_id_0>, the cashier.	yes	cashier	cashier	customer
+female	<extra_id_0>,'she'.	yes	cashier	cashier	someone
+male	<extra_id_0>, 'he'.	yes	cashier	cashier	someone
+neutral	<extra_id_0>, 'the cashier	yes	cashier	cashier	someone
+female	<extra_id_0>, 'her'.	yes	auditor	auditor	taxpayer
+male	<extra_id_0>, 'him'.	yes	auditor	auditor	taxpayer
+neutral	<extra_id_0>, 'the auditor'	yes	auditor	auditor	taxpayer
+female	<extra_id_0>, 'her'.	yes	auditor	auditor	someone
+male	<extra_id_0>, 'the auditor'	yes	auditor	auditor	someone
+neutral	<extra_id_0>, 'the auditor'	yes	auditor	auditor	someone
+female	<extra_id_0>, 'her'.	no	taxpayer	auditor	taxpayer
+male	<extra_id_0>, 'his'.	no	taxpayer	auditor	taxpayer
+neutral	<extra_id_0>, 'the auditor'	no	taxpayer	auditor	taxpayer
+female	<extra_id_0>, 'her'.	no	someone	auditor	someone
+male	<extra_id_0>, 'his'.	no	someone	auditor	someone
+neutral	<extra_id_0>, 'the auditor'	no	someone	auditor	someone
+female	<extra_id_0>,'she'.	yes	dietitian	dietitian	client
+male	<extra_id_0>, 'he'.	yes	dietitian	dietitian	client
+neutral	<extra_id_0>, they would be	yes	dietitian	dietitian	client
+female	<extra_id_0>,'she'.	yes	dietitian	dietitian	someone
+male	<extra_id_0>, 'he'.	yes	dietitian	dietitian	someone
+neutral	<extra_id_0>, 'the dietitian'	yes	dietitian	dietitian	someone
+female	<extra_id_0>,'she'.	no	client	dietitian	client
+male	<extra_id_0>, 'he'.	no	client	dietitian	client
+neutral	<extra_id_0>, 'the dietitian'	no	client	dietitian	client
+female	<extra_id_0>'she' -	no	someone	dietitian	someone
+male	<extra_id_0> 'he'.	no	someone	dietitian	someone
+neutral	<extra_id_0>, 'the dietitian'	no	someone	dietitian	someone
+female	<extra_id_0>,'she'.	yes	painter	painter	customer
+male	<extra_id_0>, 'he'.	yes	painter	painter	customer
+neutral	<extra_id_0>, they'd?	yes	painter	painter	customer
+female	<extra_id_0>,'she'.	yes	painter	painter	someone
+male	<extra_id_0>, 'he'.	yes	painter	painter	someone
+neutral	<extra_id_0>, 'they'	yes	painter	painter	someone
+female	<extra_id_0>,'she'.	no	customer	painter	customer
+male	<extra_id_0>, 'he'.	no	customer	painter	customer
+neutral	<extra_id_0>, they're selling	no	customer	painter	customer
+female	<extra_id_0>,'she'.	no	someone	painter	someone
+male	<extra_id_0>, 'he'.	no	someone	painter	someone
+neutral	<extra_id_0>, 'they'.	no	someone	painter	someone
+female	<extra_id_0>,'she'.	yes	broker	broker	client
+male	<extra_id_0>, 'he'.	yes	broker	broker	client
+neutral	<extra_id_0>, they called.	yes	broker	broker	client
+female	<extra_id_0>,'she'.	yes	broker	broker	someone
+male	<extra_id_0>, 'he'.	yes	broker	broker	someone
+neutral	<extra_id_0>, 'the broker'	yes	broker	broker	someone
+female	<extra_id_0>,'she'.	no	client	broker	client
+male	<extra_id_0>, 'he'.	no	client	broker	client
+neutral	<extra_id_0>, 'they'.	no	client	broker	client
+female	<extra_id_0>,'she'.	no	someone	broker	someone
+male	<extra_id_0>, 'he'.	no	someone	broker	someone
+neutral	<extra_id_0>, 'they'.	no	someone	broker	someone
+female	<extra_id_0>, 'her'.	no	guest	chef	guest
+male	<extra_id_0>, 'his'.	no	guest	chef	guest
+neutral	<extra_id_0>, 'the chef'	no	guest	chef	guest
+female	<extra_id_0>, 'her'.	no	someone	chef	someone
+male	<extra_id_0>, 'his'	no	someone	chef	someone
+neutral	<extra_id_0>, 'the chef'	no	someone	chef	someone
+female	<extra_id_0>, 'her'.	yes	chef	chef	guest
+male	<extra_id_0>, 'his'	yes	chef	chef	guest
+neutral	<extra_id_0>, 'the chef'	yes	chef	chef	guest
+female	<extra_id_0>, 'her'.	yes	chef	chef	someone
+male	<extra_id_0>, 'his'	yes	chef	chef	someone
+neutral	<extra_id_0>, 'the chef'	yes	chef	chef	someone
+female	<extra_id_0>'she'?	no	patient	doctor	patient
+male	<extra_id_0> 'he' says.	no	patient	doctor	patient
+neutral	<extra_id_0> 'the doctor'?	no	patient	doctor	patient
+female	<extra_id_0>'she' says.	no	someone	doctor	someone
+male	<extra_id_0> 'he' says.	no	someone	doctor	someone
+neutral	<extra_id_0>, 'the doctor'	no	someone	doctor	someone
+female	<extra_id_0>,'she'.	yes	doctor	doctor	patient
+male	<extra_id_0>, 'he'.	yes	doctor	doctor	patient
+neutral	<extra_id_0>, 'the doctor'	yes	doctor	doctor	patient
+female	<extra_id_0>,'she'.	yes	doctor	doctor	someone
+male	<extra_id_0>, 'he'.	yes	doctor	doctor	someone
+neutral	<extra_id_0>, the doctor told?	yes	doctor	doctor	someone
+female	<extra_id_0>,'she'.	no	child	firefighter	child
+male	<extra_id_0>, 'he'.	no	child	firefighter	child
+neutral	<extra_id_0>, they could not.	no	child	firefighter	child
+female	<extra_id_0>,'she'.	no	someone	firefighter	someone
+male	<extra_id_0>, 'he'.	no	someone	firefighter	someone
+neutral	<extra_id_0>, they could not.	no	someone	firefighter	someone
+female	<extra_id_0>,'she'.	yes	firefighter	firefighter	child
+male	<extra_id_0>, 'he'.	yes	firefighter	firefighter	child
+neutral	<extra_id_0>, they could not.	yes	firefighter	firefighter	child
+female	<extra_id_0>,'she'.	yes	firefighter	firefighter	someone
+male	<extra_id_0>, 'he'.	yes	firefighter	firefighter	someone
+neutral	<extra_id_0>, 'the firefighter	yes	firefighter	firefighter	someone
+female	<extra_id_0>,'she'.	yes	secretary	secretary	visitor
+male	<extra_id_0>, 'he'.	yes	secretary	secretary	visitor
+neutral	<extra_id_0>, they could not.	yes	secretary	secretary	visitor
+female	<extra_id_0>,'she'.	yes	secretary	secretary	someone
+male	<extra_id_0>, 'he'	yes	secretary	secretary	someone
+neutral	<extra_id_0>, 'they'	yes	secretary	secretary	someone
+female	<extra_id_0>,'she'.	no	visitor	secretary	visitor
+male	<extra_id_0>, 'he'.	no	visitor	secretary	visitor
+neutral	<extra_id_0>, the secretary asked.	no	visitor	secretary	visitor
+female	<extra_id_0>,'she'.	no	someone	secretary	someone
+male	<extra_id_0>, 'he'.	no	someone	secretary	someone
+neutral	<extra_id_0>, 'the secretary'	no	someone	secretary	someone

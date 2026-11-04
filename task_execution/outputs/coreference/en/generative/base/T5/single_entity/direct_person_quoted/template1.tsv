@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	'.' in the	customer
+male	'He was told that he	customer
+neutral	'.' '	customer
+female	'.' '	technician
+male	'.' '	technician
+neutral	' The technician said that they had	technician
+female	'. The taxpayer got help	taxpayer
+male	'.' '	taxpayer
+neutral	' 'the taxpayer got help	taxpayer
+female	' 'the accountant was needed	accountant
+male	''' '	accountant
+neutral	' 'they' refers	accountant
+female	'.' '	employee
+male	'.' '	employee
+neutral	'.' '	employee
+female	'.' '	supervisor
+male	' 'the supervisor received feedback	supervisor
+neutral	'.' '	supervisor
+female	'.' '	engineer
+male	''' '	engineer
+neutral	'.' '	engineer
+female	she would need to make all future payments	client
+male	he would need to make all future	client
+neutral	all future payments on time.'	client
+female	'.'she	pedestrian
+male	'.' '	pedestrian
+neutral	'.' '	pedestrian
+female	'.'she	worker
+male	'He said that he would	worker
+neutral	'. 'they'	worker
+female	''''	student
+male	'.' '	student
+neutral	' The student discussed their writing skills	student
+female	'.' '	educator
+male	'.' '	educator
+neutral	' 'the educator discussed their	educator
+female	'. 'the customer	customer
+male	'.' '	customer
+neutral	' 'the customer received paperwork	customer
+female	'.' '	clerk
+male	'.' '	clerk
+neutral	'.' '	clerk
+female	'.'she	counselor
+male	' 'he' refers	counselor
+neutral	'.' '	counselor
+female	'.' '	patient
+male	'.' '	patient
+neutral	'.' '	patient
+female	''she' refer	homeowner
+male	'The homeowner asked if the	homeowner
+neutral	the homeowner asked if the house they	homeowner
+female	'. 'the inspector	inspector
+male	'.' '	inspector
+neutral	'' 'they'	inspector
+female	'. 'the customer	customer
+male	'.' '	customer
+neutral	their car would be ready in the morning	customer
+female	'.' in the	mechanic
+male	''' '	mechanic
+neutral	' 'they' refers	mechanic
+female	''she' refer	manager
+male	''' '	manager
+neutral	' 'they' refers	manager
+female	''she' refer	customer
+male	'. 'he'	customer
+neutral	' 'they' refers	customer
+female	'.' '	therapist
+male	' 'The therapist was	therapist
+neutral	' The therapist was liked because	therapist
+female	'.' '	teenager
+male	''' '	teenager
+neutral	'.' '	teenager
+female	''' '	undergraduate
+male	''' '	undergraduate
+neutral	''' '	undergraduate
+female	''she' refer	administrator
+male	' 'The administrator received 	administrator
+neutral	' 'the administrator received 	administrator
+female	'she' refers to	salesperson
+male	'He was asked if 	salesperson
+neutral	' 'they' refer	salesperson
+female	'she' refers to	customer
+male	'The customer asked if 	customer
+neutral	'The customer asked if they	customer
+female	'she' refers to	visitor
+male	' 'he' refers	visitor
+neutral	'they' refers to the	visitor
+female	'The receptionist was asked 	receptionist
+male	'. was asked 	receptionist
+neutral	'' 'they	receptionist
+female	''she' refer	child
+male	'' 'he'	child
+neutral	' 'they' refers	child
+female	''she' refer	librarian
+male	'' 'he'	librarian
+neutral	' 'they' refers	librarian
+female	''she' refer	advisee
+male	' 'The advisee requested	advisee
+neutral	' 'they' refers	advisee
+female	''she' refer	advisor
+male	' 'he' refers	advisor
+neutral	' 'they' refers	advisor
+female	that she should take the pills with food	patient
+male	he should take the pills with food	patient
+neutral	that they should take the pills with food	patient
+female	' pharmacist said that she recommended taking	pharmacist
+male	'.' '	pharmacist
+neutral	' pharmacist said that they recommended taking	pharmacist
+female	'.' '	child
+male	'' 'he'	child
+neutral	'.' '	child
+female	'''she	janitor
+male	'.' '	janitor
+neutral	' 'they' refers	janitor
+female	'''she	psychologist
+male	''' '	psychologist
+neutral	'' 'they'	psychologist
+female	'.'she	patient
+male	'.' '	patient
+neutral	'.' '	patient
+female	she needed to get more rest.'	patient
+male	he needed to get more rest.	patient
+neutral	they needed more rest.' 	patient
+female	'''she	physician
+male	''' '	physician
+neutral	'' 'they'	physician
+female	'''she	onlooker
+male	''' '	onlooker
+neutral	'' onlooker was	onlooker
+female	'''she	carpenter
+male	''' '	carpenter
+neutral	'' 'they'	carpenter
+female	'.' '	nurse
+male	'' 'his'	nurse
+neutral	'' 'their	nurse
+female	'.' '	patient
+male	''' '	patient
+neutral	'.' '	patient
+female	'.' '	witness
+male	''' '	witness
+neutral	' 'they' refers	witness
+female	''' '	investigator
+male	''' '	investigator
+neutral	''' '	investigator
+female	''she' refer	customer
+male	' 'he' refers	customer
+neutral	' 'they' refers	customer
+female	'''she	bartender
+male	''' '	bartender
+neutral	'' 'they'	bartender
+female	'''she	patient
+male	'' 'he'	patient
+neutral	' 'they' refers	patient
+female	'.' '	specialist
+male	'' 'he'	specialist
+neutral	'.' '	specialist
+female	' The homeowner was warned not to	homeowner
+male	'' 'the homeowner	homeowner
+neutral	' 'the homeowner was warned	homeowner
+female	'''she	electrician
+male	'.' '	electrician
+neutral	they might need an extra day to finish	electrician
+female	'.' in the	officer
+male	'' 'he'	officer
+neutral	''' '	officer
+female	''' '	protester
+male	''' '	protester
+neutral	'.' '	protester
+female	'.' '	pathologist
+male	'.' '	pathologist
+neutral	'.' '	pathologist
+female	'' 'her	victim
+male	''' '	victim
+neutral	.' 't	victim
+female	'.'she	student
+male	'The student asked if 	student
+neutral	'The student asked if they	student
+female	'she' refers to	teacher
+male	'The teacher was asked if	teacher
+neutral	if they could grant an extension on	teacher
+female	''she' refer	witness
+male	'' 'he'	witness
+neutral	' 'they' refers	witness
+female	'''she	lawyer
+male	''' '	lawyer
+neutral	''' '	lawyer
+female	' 'the resident said that	resident
+male	' 'the resident said that	resident
+neutral	' The resident said that their entire	resident
+female	''' '	planner
+male	''' '	planner
+neutral	''' '	planner
+female	'.'she	patient
+male	'. 'he'	patient
+neutral	'. 'they'	patient
+female	''she' refer	practitioner
+male	' 'he' refers	practitioner
+neutral	' 'they' refers	practitioner
+female	' 'the plumber was asked	plumber
+male	' 'the plumber was asked	plumber
+neutral	' 'their' refer	plumber
+female	' 'the homeowner called to	homeowner
+male	' 'The homeowner called to	homeowner
+neutral	' 'the homeowner called to	homeowner
+female	'' 'her'	instructor
+male	'' 'his'	instructor
+neutral	'.' '	instructor
+female	encouraged to pursue her dreams.'	student
+male	''' '	student
+neutral	'.' '	student
+female	'' 'her'	child
+male	'' 'his'	child
+neutral	''' '	child
+female	a great care.'	surgeon
+male	' 'the surgeon operated	surgeon
+neutral	'their' '	surgeon
+female	'.' '	owner
+male	'.' '	owner
+neutral	' The owner was informed that their	owner
+female	''she' refer	veterinarian
+male	' 'he' refers	veterinarian
+neutral	' 'they' refers	veterinarian
+female	'.' '	paramedic
+male	''' '	paramedic
+neutral	'.' '	paramedic
+female	CPR even though she had already died	passenger
+male	''' '	passenger
+neutral	''' '	passenger
+female	''she' refer	victim
+male	'' 'he'	victim
+neutral	' 'They' refers	victim
+female	''she' refer	examiner
+male	'' 'The examine	examiner
+neutral	''' '	examiner
+female	she would need to put on safety glasses	visitor
+male	he would need to put on safety	visitor
+neutral	they would need to put on safety glasses	visitor
+female	'.' '	chemist
+male	''' '	chemist
+neutral	''' '	chemist
+female	'' 'the child	child
+male	'' 'the child	child
+neutral	'. 'them	child
+female	''she' refer	machinist
+male	'' 'he'	machinist
+neutral	'' 'they'	machinist
+female	'. 'the buyer	buyer
+male	he had paid too much for the	buyer
+neutral	' 'the buyer was told	buyer
+female	'''she	appraiser
+male	'' 'he'	appraiser
+neutral	''' '	appraiser
+female	her diet would be effective.'	patient
+male	his diet would be effective.'	patient
+neutral	a good way to improve their diet	patient
+female	' 'the nutritionist explained	nutritionist
+male	'' 'his'	nutritionist
+neutral	' 'their' refer	nutritionist
+female	'.' '	student
+male	''' '	student
+neutral	'.' '	student
+female	'.' '	architect
+male	'.' '	architect
+neutral	'.' '	architect
+female	'''she	hairdresser
+male	'' 'he'	hairdresser
+neutral	' 'they' refers	hairdresser
+female	' 'the client received 	client
+male	'.' '	client
+neutral	' 'the client received 	client
+female	''she' refer	customer
+male	'' 'he'	customer
+neutral	' 'they' refers	customer
+female	'.'she	baker
+male	'' 'he'	baker
+neutral	' 'they' refers	baker
+female	'.'she	programmer
+male	'' 'he'	programmer
+neutral	' 'they' refers	programmer
+female	'.' '	student
+male	''' '	student
+neutral	''' '	student
+female	''' '	paralegal
+male	''' '	paralegal
+neutral	''''	paralegal
+female	'.' '	client
+male	''' '	client
+neutral	''' '	client
+female	'.' '	patient
+male	'He was told that he	patient
+neutral	'.' '	patient
+female	'''she	hygienist
+male	'' 'he'	hygienist
+neutral	'' 'they'	hygienist
+female	''she' refer	scientist
+male	' 'The scientist wrote 	scientist
+neutral	' 'the scientist wrote 	scientist
+female	'.' '	undergraduate
+male	''' '	undergraduate
+neutral	''' '	undergraduate
+female	''she' refer	dispatcher
+male	' 'he' refers	dispatcher
+neutral	' 'they' refers	dispatcher
+female	'.' '	bystander
+male	'' 'he'	bystander
+neutral	'' 'they'	bystander
+female	she could't use a credit	customer
+male	he could't use a	customer
+neutral	' 'The customer was told	customer
+female	she said that she couldn't accept	cashier
+male	'' 'he'	cashier
+neutral	they couldn't accept credit cards for	cashier
+female	'.' '	auditor
+male	'' auditor asked for records	auditor
+neutral	' 'them' refer	auditor
+female	'.' '	taxpayer
+male	' 'the taxpayer was asked	taxpayer
+neutral	'.' '	taxpayer
+female	'''she	dietitian
+male	''' '	dietitian
+neutral	'' 'they'	dietitian
+female	'.'she	client
+male	'' 'he'	client
+neutral	'. 'the client	client
+female	'.' '	painter
+male	''' '	painter
+neutral	'.' '	painter
+female	' 'an entire collection of	customer
+male	'.' '	customer
+neutral	' 'an entire collection of	customer
+female	' 'the broker called because	broker
+male	' 'he' refers	broker
+neutral	' 'they' refers	broker
+female	''' '	client
+male	''' '	client
+neutral	''' '	client
+female	'.' in the	guest
+male	'.' in the	guest
+neutral	' The guest wanted an apology for	guest
+female	'.' '	chef
+male	'' 'his'	chef
+neutral	'.' '	chef
+female	she would be at risk without the vaccination	patient
+male	he would be at risk without the	patient
+neutral	they would be at risk without the vaccination	patient
+female	'.' '	doctor
+male	'' 'he'	doctor
+neutral	' 'they' refers	doctor
+female	'''she	child
+male	'' 'he'	child
+neutral	'' 'they'	child
+female	'.' '	firefighter
+male	''' '	firefighter
+neutral	'.' '	firefighter
+female	'.' in the	secretary
+male	'' 'he'	secretary
+neutral	''' '	secretary
+female	''she' refer	visitor
+male	'' 'he'	visitor
+neutral	' 'they' refers	visitor

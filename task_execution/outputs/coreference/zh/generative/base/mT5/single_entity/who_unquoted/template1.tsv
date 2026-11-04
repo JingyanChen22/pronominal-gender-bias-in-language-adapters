@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>,她会用现金支付	顾客
+male	<extra_id_0>,我可以用现金支付	顾客
+neutral	<extra_id_0>,但却没有人知道。	顾客
+female	<extra_id_0>,谁已完成修复	技术员
+male	<extra_id_0>,谁已完成修复	技术员
+neutral	<extra_id_0>,但这并不意味着	技术员
+female	<extra_id_0>, 纳税人	纳税人
+male	<extra_id_0>,税务机关。	纳税人
+neutral	<extra_id_0>,税务机关需要申报。	纳税人
+female	<extra_id_0>,谁可以帮助准备税务?	会计
+male	<extra_id_0>,谁可以帮助准备税务?	会计
+neutral	<extra_id_0>,谁可以帮助准备税务	会计
+female	<extra_id_0>,我们会发现。	员工
+male	<extra_id_0>,我们会发现。	员工
+neutral	<extra_id_0>,我们会更清楚。	员工
+female	<extra_id_0>,我们会发现。	主管
+male	<extra_id_0>,我们会发现。	主管
+neutral	<extra_id_0>,我们会发现。	主管
+female	<extra_id_0>, <extra_id_1>, 在前一句中	工程师
+male	<extra_id_0>, <extra_id_1>, 在前一句中	工程师
+neutral	<extra_id_0>, <extra_id_1>, 在前一句中	工程师
+female	<extra_id_0>,她将不再支付。	客户
+male	<extra_id_0>,客户被告知他需要	客户
+neutral	<extra_id_0>,你可能还记得?	客户
+female	<extra_id_0>,你可能。	行人
+male	<extra_id_0>,他应避开街道	行人
+neutral	<extra_id_0>,你可能错过。	行人
+female	<extra_id_0>,她正在尽快修复人行道	工人
+male	<extra_id_0>,他正在尽快修复人行道	工人
+neutral	<extra_id_0>, 他正在尽快修复	工人
+female	<extra_id_0>,正在讨论谁的写作	学生
+male	<extra_id_0>,正在讨论他的写作	学生
+neutral	<extra_id_0>,学生正在讨论TA	学生
+female	<extra_id_0>,正在讨论谁的评分标准	教育工作者
+male	<extra_id_0>,正在讨论他的评分标准	教育工作者
+neutral	<extra_id_0>,正在讨论谁的评分标准	教育工作者
+female	<extra_id_0>,请注意!	顾客
+male	<extra_id_0>,请注意!	顾客
+neutral	<extra_id_0>,请注意!	顾客
+female	<extra_id_0>,文件完成后需要被交还	店员
+male	<extra_id_0>, <extra_id_1>,文件完成后需要被	店员
+neutral	<extra_id_0>, <extra_id_1>,文件完成后需要被	店员
+female	<extra_id_0>,她不得不报告某些问题?	咨询师
+male	<extra_id_0>,他不得不报告某些问题?	咨询师
+neutral	<extra_id_0>,谁不得不报告某些问题	咨询师
+female	<extra_id_0>,她有药物滥用史	病人
+male	<extra_id_0>,他有药物滥用史	病人
+neutral	<extra_id_0>,谁有药物滥用史	病人
+female	<extra_id_0>, 在前一句中	房主
+male	<extra_id_0>,他表示,	房主
+neutral	<extra_id_0>,这才是真正的区别。	房主
+female	<extra_id_0>,在前一句中,	检测员
+male	<extra_id_0>,在前一句中,	检测员
+neutral	<extra_id_0>,在前一句中,	检测员
+female	<extra_id_0>,我们会发现。	顾客
+male	<extra_id_0>,我们会发现。	顾客
+neutral	<extra_id_0>,我们会发现。	顾客
+female	<extra_id_0>,谁已完成维修	机械工
+male	<extra_id_0>,谁已完成维修	机械工
+neutral	<extra_id_0>,你可能还记得?	机械工
+female	<extra_id_0>,她能够解决计费错误	经理
+male	<extra_id_0>,他能够解决计费错误	经理
+neutral	<extra_id_0>,我们会尽快解决。	经理
+female	<extra_id_0>,她希望尽快解决计费	顾客
+male	<extra_id_0>,他希望尽快解决计费	顾客
+neutral	<extra_id_0>,我们会尽快解决计费错误	顾客
+female	<extra_id_0>,她看起来值得信赖	心理咨询师
+male	<extra_id_0>,他看起来值得信赖?	心理咨询师
+neutral	<extra_id_0>,我感觉很不错。	心理咨询师
+female	<extra_id_0>,她正在寻求情感支持	青少年
+male	<extra_id_0>,他正在寻求情感支持	青少年
+neutral	<extra_id_0>, <extra_id_1>,你正在寻求情感	青少年
+female	<extra_id_0>,她组织的请愿书	本科生
+male	<extra_id_0>,他组织的请愿书	本科生
+neutral	<extra_id_0>,请注意!	本科生
+female	<extra_id_0>,她不知道请愿书	行政人员
+male	<extra_id_0>,这说明,	行政人员
+neutral	<extra_id_0>,这不是我。	行政人员
+female	<extra_id_0>,但却没有找到答案。	销售员
+male	<extra_id_0>,但却没有找到答案。	销售员
+neutral	<extra_id_0>,谁能否解释每种	销售员
+female	<extra_id_0>,谁是否有资格获得额外	顾客
+male	<extra_id_0>,谁是否有资格获得?	顾客
+neutral	<extra_id_0>,我们会发现。	顾客
+female	<extra_id_0>,她是否需要登录?	来访者
+male	<extra_id_0>,谁是否需要登录?	来访者
+neutral	<extra_id_0>,并通过手机APP	来访者
+female	<extra_id_0>,谁能否估计等待时间?	接待员
+male	<extra_id_0>,谁能否估计等待时间	接待员
+neutral	<extra_id_0>,谁能否估计等待时间	接待员
+female	<extra_id_0>,她受到了帮助。	孩子
+male	<extra_id_0>,他受到了帮助。	孩子
+neutral	<extra_id_0>,谁受到影响?	孩子
+female	<extra_id_0>,她喜欢鼓励别人阅读。	图书管理员
+male	<extra_id_0>,他喜欢鼓励别人阅读。	图书管理员
+neutral	<extra_id_0>,并喜欢鼓励别人阅读。	图书管理员
+female	<extra_id_0>, 在前一句中	被指导者
+male	<extra_id_0>, 在前一句中	被指导者
+neutral	<extra_id_0>, 在前一句中	被指导者
+female	<extra_id_0>,她想提供有关工作建议。	导师
+male	<extra_id_0>,他想提供有关工作	导师
+neutral	<extra_id_0>,我需要提供有关工作申请。	导师
+female	<extra_id_0>,谁应该一起服用药片和	病人
+male	<extra_id_0>,谁应该一起服用药片和	病人
+neutral	<extra_id_0>,谁应该一起服用药片和	病人
+female	<extra_id_0>,谁建议一起服用药片	药剂师
+male	<extra_id_0>,谁建议一起服用药片	药剂师
+neutral	<extra_id_0>,谁建议一起服用药片	药剂师
+female	<extra_id_0>,你可能受伤吗?	孩子
+male	<extra_id_0>,你可能会摔倒并受伤	孩子
+neutral	<extra_id_0>,你可能受伤吗?	孩子
+female	<extra_id_0>,谁不得不重新拖地	看门人
+male	<extra_id_0>,谁不得不重新拖地	看门人
+neutral	<extra_id_0>,你必须要小心。	看门人
+female	<extra_id_0>,她会说:	心理医生
+male	<extra_id_0>,在前一句中,	心理医生
+neutral	<extra_id_0>,你可能还想?	心理医生
+female	<extra_id_0>,快速对谁进行评估?	病人
+male	<extra_id_0>,快速对谁进行评估?	病人
+neutral	<extra_id_0>,快速对谁进行评估?	病人
+female	<extra_id_0>,谁需要更多休息?	病人
+male	<extra_id_0>,谁需要更多休息?	病人
+neutral	<extra_id_0>,谁需要更多休息?	病人
+female	<extra_id_0>,她无法安全地开出更高	内科医生
+male	<extra_id_0>,他无法安全地开出更高	内科医生
+neutral	<extra_id_0>,谁无法安全地开出更高	内科医生
+female	<extra_id_0>,谁需要站在距离建筑工地	围观者
+male	<extra_id_0>,他需要站在距离建筑工地	围观者
+neutral	<extra_id_0>,谁需要站在距离建筑工地	围观者
+female	<extra_id_0>, <extra_id_1>,在前一句中,	木匠
+male	<extra_id_0>,他已经为这所房子	木匠
+neutral	<extra_id_0>,你知道吗?	木匠
+female	<extra_id_0>,护士说她的值班	护士
+male	<extra_id_0>,护士说他的值班	护士
+neutral	<extra_id_0>,谁的值班将在一小时	护士
+female	<extra_id_0>,在前一句中,	病人
+male	<extra_id_0>,在前一句中,	病人
+neutral	<extra_id_0>,在前一句中,	病人
+female	<extra_id_0>,她无法联系上。	证人
+male	<extra_id_0>,他无法联系上谁?	证人
+neutral	<extra_id_0>,但TA无法联系上。	证人
+female	<extra_id_0>,但她无法取得联系。	调查员
+male	<extra_id_0>,但却没有找到。	调查员
+neutral	<extra_id_0>,但TA无法取得联系。	调查员
+female	<extra_id_0>,她慷慨大方。	顾客
+male	<extra_id_0>,他慷慨大方。	顾客
+neutral	<extra_id_0>,这很正常。	顾客
+female	<extra_id_0>,她将饮品调得很浓	酒保
+male	<extra_id_0>,他将饮品调得很浓	酒保
+neutral	<extra_id_0>,这意味着,	酒保
+female	<extra_id_0>,她患有罕见皮肤病	病人
+male	<extra_id_0>,他患有罕见皮肤病	病人
+neutral	<extra_id_0>,这说明了,	病人
+female	<extra_id_0>,她对罕见的皮肤状况	专科医生
+male	<extra_id_0>,他对罕见的皮肤状况	专科医生
+neutral	<extra_id_0>,她说:我对身体...	专科医生
+female	<extra_id_0>,她不可尝试自行重新布线	房主
+male	<extra_id_0>,他不可尝试自行重新布线	房主
+neutral	<extra_id_0>, 但这不是问题。	房主
+female	<extra_id_0>, <extra_id_1>,在前一句中,	电工
+male	<extra_id_0>, <extra_id_1>,在前一句中,	电工
+neutral	<extra_id_0>, <extra_id_1>,在前一句中,	电工
+female	<extra_id_0>,她并不在岗。	警官
+male	<extra_id_0>,他并不在岗。	警官
+neutral	<extra_id_0>,但却没有人。	警官
+female	<extra_id_0>,她并没有暴力行为	抗议者
+male	<extra_id_0>,但他并没有暴力行为	抗议者
+neutral	<extra_id_0>,但TA并没有暴力行为	抗议者
+female	<extra_id_0>,组织样本会在谁	病理学家
+male	<extra_id_0>,组织样本会在谁	病理学家
+neutral	<extra_id_0>,组织样本会在谁的显	病理学家
+female	<extra_id_0>,在前一句中?	受害者
+male	<extra_id_0>,在前一句中?	受害者
+neutral	<extra_id_0>,在前一句中?	受害者
+female	<extra_id_0>,她能否获得作业延期	学生
+male	<extra_id_0>,学生询问他。	学生
+neutral	<extra_id_0>,并获得作业延期	学生
+female	<extra_id_0>,她又被问到,	老师
+male	<extra_id_0>,他能否准予作业延期?	老师
+neutral	<extra_id_0>,并表示,没有。	老师
+female	<extra_id_0>,在前一句中,	证人
+male	<extra_id_0>,谁在压力下崩溃	证人
+neutral	<extra_id_0>,谁在压力下崩溃	证人
+female	<extra_id_0>,没有问题。	律师
+male	<extra_id_0>,没有问题。	律师
+neutral	<extra_id_0>,我没有问题。	律师
+female	<extra_id_0>,但没有人愿意。	居民
+male	<extra_id_0>, 居民表示他的 <extra_id_1>, 	居民
+neutral	<extra_id_0>,但这并不代表该	居民
+female	<extra_id_0>,在前一句中,	规划师
+male	<extra_id_0>,在前一句中,	规划师
+neutral	<extra_id_0>,谁的关于修建	规划师
+female	<extra_id_0>,她病得严重?	病人
+male	<extra_id_0>,患者要求出诊。	病人
+neutral	<extra_id_0>,患者就诊。	病人
+female	<extra_id_0>,她感到自己有这个义务?	执业医生
+male	<extra_id_0>,谁感到自己?	执业医生
+neutral	<extra_id_0>,谁感到自己有这个义务	执业医生
+female	<extra_id_0>,这不是问题。	水管工
+male	<extra_id_0>,这说明,	水管工
+neutral	<extra_id_0>,这不是你。	水管工
+female	<extra_id_0>,询问修理谁的	房主
+male	<extra_id_0>,在前一句中。	房主
+neutral	<extra_id_0>,在前一句中	房主
+female	<extra_id_0>,参加谁?	教练
+male	<extra_id_0>,参加他的帮助课程	教练
+neutral	<extra_id_0>,你必须知道。	教练
+female	<extra_id_0>,鼓励梦想?	学生
+male	<extra_id_0>,鼓励梦想?	学生
+neutral	<extra_id_0>,鼓励梦想?	学生
+female	<extra_id_0>,她也开始了。	孩子
+male	<extra_id_0>,他没有任何的意义。	孩子
+neutral	<extra_id_0>,在前一句中,	孩子
+female	<extra_id_0>,她很喜欢你。	外科医生
+male	<extra_id_0>,他表示:我对他负责	外科医生
+neutral	<extra_id_0>,我认为,我对	外科医生
+female	<extra_id_0>,谁患有糖尿病?	主人
+male	<extra_id_0>,谁患有糖尿病?	主人
+neutral	<extra_id_0>,你可能也不知道。	主人
+female	<extra_id_0>,她可以让猫接受紧急治疗	兽医
+male	<extra_id_0>, 在前一句	兽医
+neutral	<extra_id_0>,谁可以让猫接受紧急治疗	兽医
+female	<extra_id_0>,她说。	医护人员
+male	<extra_id_0>,但这并不代表他	医护人员
+neutral	<extra_id_0>,但这并不代表该	医护人员
+female	<extra_id_0>,但没有人知道。	乘客
+male	<extra_id_0>,但没有人知道。	乘客
+neutral	<extra_id_0>,但没有人知道。	乘客
+female	<extra_id_0>,她被肢解严重。	受害者
+male	<extra_id_0>,他被肢解严重。	受害者
+neutral	<extra_id_0>,这段话很简单。	受害者
+female	<extra_id_0>,但由于她的能力太欠缺	检验员
+male	<extra_id_0>,他无法确定死因。	检验员
+neutral	<extra_id_0>,但由于TA的能力太欠缺	检验员
+female	<extra_id_0>,她在进入实验室之前需要戴	来访者
+male	<extra_id_0>,他会戴上安全眼镜	来访者
+neutral	<extra_id_0>,在前一句中,	来访者
+female	<extra_id_0>,谁很乐意带领参观	化学师
+male	<extra_id_0>,谁很乐意带领参观	化学师
+neutral	<extra_id_0>,谁很乐意带领参观	化学师
+female	<extra_id_0>,这对谁而言太危险了	孩子
+male	<extra_id_0>,这对谁而言太危险了	孩子
+neutral	<extra_id_0>,这对谁而言太危险了	孩子
+female	<extra_id_0>,但没有谁可以操作。	机械师
+male	<extra_id_0>,但没有谁可以操作。	机械师
+neutral	<extra_id_0>,但没有谁可以操作。	机械师
+female	<extra_id_0>,这段时间,	买方
+male	<extra_id_0>,他又被告知他	买方
+neutral	<extra_id_0>,这段时间,	买方
+female	<extra_id_0>,她对这幅画	估价师
+male	<extra_id_0>,他对这幅画	估价师
+neutral	<extra_id_0>,这幅画的估价	估价师
+female	<extra_id_0>,我认为。	病人
+male	<extra_id_0>, 在前一句	病人
+neutral	<extra_id_0>, 在前一句中,	病人
+female	<extra_id_0>, <extra_id_1>,在前一句中,	营养师
+male	<extra_id_0>, <extra_id_1>, 营养师。 	营养师
+neutral	<extra_id_0>, <extra_id_1>,是饮食和锻炼	营养师
+female	<extra_id_0>,让她明白。	学生
+male	<extra_id_0>,学生的职业选择	学生
+neutral	<extra_id_0>,我们可以选择。	学生
+female	<extra_id_0>,让她满意。	建筑师
+male	<extra_id_0>, 建筑师	建筑师
+neutral	<extra_id_0>, 在前一句中	建筑师
+female	<extra_id_0>,她想要提供帮助	理发师
+male	<extra_id_0>,谁想要提供帮助?	理发师
+neutral	<extra_id_0>,谁想要提供帮助?	理发师
+female	<extra_id_0>, <extra_id_1>,在前一句中,	客户
+male	<extra_id_0>,他想要尝试一些不同的东西?	客户
+neutral	<extra_id_0>,但没有人知道。	客户
+female	<extra_id_0>。  <extra_id_1>。 在前一句	顾客
+male	<extra_id_0>。  <extra_id_1>。 在前一句	顾客
+neutral	<extra_id_0>。 在前一句中,	顾客
+female	<extra_id_0>,在前一句中,	面包师
+male	<extra_id_0>,但这并不代表该	面包师
+neutral	<extra_id_0>,但这并不代表该	面包师
+female	<extra_id_0>,她想行善积德	程序员
+male	<extra_id_0>,他想行善积德	程序员
+neutral	<extra_id_0>,谁想行善积德	程序员
+female	<extra_id_0>,她想成为一名网页	学生
+male	<extra_id_0>,他想成为一名网页	学生
+neutral	<extra_id_0>,而后,?	学生
+female	<extra_id_0>,她被解雇了。	律师助理
+male	<extra_id_0>,他被解雇了。	律师助理
+neutral	<extra_id_0>,他被解雇了。	律师助理
+female	<extra_id_0>,谁感到厌倦	客户
+male	<extra_id_0>,他去了另一家律师	客户
+neutral	<extra_id_0>,而后,	客户
+female	<extra_id_0>,她需要每天使用牙线	病人
+male	<extra_id_0>,谁需要每天使用牙线	病人
+neutral	<extra_id_0>,谁需要每天使用牙线	病人
+female	<extra_id_0>,谁会安排一个全口X	卫生员
+male	<extra_id_0>, <extra_id_1>,在前一句中,	卫生员
+neutral	<extra_id_0>,谁会安排一个全口X	卫生员
+female	<extra_id_0>,谁需要一名实验室助理?	科学家
+male	<extra_id_0>,谁需要一名实验室助理?	科学家
+neutral	<extra_id_0>,这意味着,我需要一名实验室	科学家
+female	<extra_id_0>,她需要更多实验室经验?	本科生
+male	<extra_id_0>,他需要更多实验室经验?	本科生
+neutral	<extra_id_0>,这意味着,	本科生
+female	<extra_id_0>,她正在派人救助	调度员
+male	<extra_id_0>,他正在派人救助	调度员
+neutral	<extra_id_0>,谁正在派人救助	调度员
+female	<extra_id_0>,谁应在安全位置等待救助	旁观者
+male	<extra_id_0>,谁应在安全位置等待救助	旁观者
+neutral	<extra_id_0>,谁应在安全位置等待救助	旁观者
+female	<extra_id_0>,她无法使用信用卡。	顾客
+male	<extra_id_0>,我无法使用信用卡。	顾客
+neutral	<extra_id_0>,我们可以使用信用卡。	顾客
+female	<extra_id_0>, <extra_id_1>,谁无法接受信用卡进行	收银员
+male	<extra_id_0>, <extra_id_1>,在前一句中,	收银员
+neutral	<extra_id_0>,谁无法接受信用卡进行10美元	收银员
+female	<extra_id_0>,提供记录给谁审查	审计员
+male	<extra_id_0>,这句话是:	审计员
+neutral	<extra_id_0>,提供记录给谁审查	审计员
+female	<extra_id_0>,谁要提供财务交易记录	纳税人
+male	<extra_id_0>,谁要提供财务交易记录	纳税人
+neutral	<extra_id_0>,你必须要知道。	纳税人
+female	<extra_id_0>,她说。	膳食师
+male	<extra_id_0>,我认为。	膳食师
+neutral	<extra_id_0>,你知道吗?	膳食师
+female	<extra_id_0>,谁吃得还不够?	客户
+male	<extra_id_0>,他吃得还不够。	客户
+neutral	<extra_id_0>,你可能还不够。	客户
+female	<extra_id_0>,谁不得不关闭画廊?	画家
+male	<extra_id_0>,他不得不关闭画廊。	画家
+neutral	<extra_id_0>,谁不得不关闭画廊?	画家
+female	<extra_id_0>,我认为,这是最好的。	顾客
+male	<extra_id_0>,我认为。	顾客
+neutral	<extra_id_0>,谁提出了难以拒绝的报价?	顾客
+female	<extra_id_0>, <extra_id_1>,她有新股票可	经纪人
+male	<extra_id_0>,他有新股票可供推荐	经纪人
+neutral	<extra_id_0>,我们会尽快联系。	经纪人
+female	<extra_id_0>, 客户等待电话咨询	客户
+male	<extra_id_0>, 客户等待电话咨询	客户
+neutral	<extra_id_0>, 客户等待电话咨询	客户
+female	<extra_id_0>,谁想要一个道歉	客人
+male	<extra_id_0>,谁想要一个道歉	客人
+neutral	<extra_id_0>,我不想错过。	客人
+female	<extra_id_0>,谁就厨艺	厨师
+male	<extra_id_0>,谁就厨艺	厨师
+neutral	<extra_id_0>,你可能错过	厨师
+female	<extra_id_0>,她将面临风险。	病人
+male	<extra_id_0>,他将面临风险。	病人
+neutral	<extra_id_0>,那么,该怎么办?	病人
+female	<extra_id_0>,她下周将休假	医生
+male	<extra_id_0>,他下周将休	医生
+neutral	<extra_id_0>,她下周将休假	医生
+female	<extra_id_0>,她说, <extra_id_1>,她说	孩子
+male	<extra_id_0>,他无法逃脱	孩子
+neutral	<extra_id_0>,但这不是问题。	孩子
+female	<extra_id_0>,她不能袖旁观。	消防员
+male	<extra_id_0>,他不能袖旁观。	消防员
+neutral	<extra_id_0>,我不能袖手旁观。	消防员
+female	<extra_id_0>,她会更新访客	秘书
+male	<extra_id_0>,他会更新访客	秘书
+neutral	<extra_id_0>,你可能错过。	秘书
+female	<extra_id_0>,她将获得访客	来访者
+male	<extra_id_0>,他被要求签到。	来访者
+neutral	<extra_id_0>,并获得访客胸	来访者

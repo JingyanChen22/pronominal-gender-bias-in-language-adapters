@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>’可以’可以’	顾客
+male	<extra_id_0>’ 可以 支付	顾客
+neutral	<extra_id_0> 可以替换为	顾客
+female	<extra_id_0>’ 可以替换	技术员
+male	<extra_id_0>他’可以替换	技术员
+neutral	<extra_id_0>’,‘习近平’	技术员
+female	<extra_id_0> 纳税人	纳税人
+male	<extra_id_0> ’ 的	纳税人
+neutral	<extra_id_0> ’TA的可以替换	纳税人
+female	<extra_id_0>她可以替换	会计
+male	<extra_id_0>他可以替换	会计
+neutral	<extra_id_0>TA’可以替换	会计
+female	<extra_id_0>可以换换的	员工
+male	<extra_id_0>的,是用什么	员工
+neutral	<extra_id_0>TA的可以替换	员工
+female	<extra_id_0>可以换换的	主管
+male	<extra_id_0>的代名词。	主管
+neutral	<extra_id_0>可以替换‘TA的	主管
+female	<extra_id_0>她’可以替换	工程师
+male	<extra_id_0>他’可以替换	工程师
+neutral	<extra_id_0>’的一部分。	工程师
+female	<extra_id_0>’ 可以被认为	客户
+male	<extra_id_0>’可以被认为是	客户
+neutral	<extra_id_0>’ 可以替换	客户
+female	<extra_id_0> 她可以 避	行人
+male	<extra_id_0> 他可以 避	行人
+neutral	<extra_id_0> ’ 可以替换	行人
+female	<extra_id_0>’的 用语	工人
+male	<extra_id_0>他’ 正在行行	工人
+neutral	<extra_id_0>’ 可以替换	工人
+female	<extra_id_0> ’ 的 主页	学生
+male	<extra_id_0>他的可以替换	学生
+neutral	<extra_id_0>‘TA的’	学生
+female	<extra_id_0> 她 可以 用	教育工作者
+male	<extra_id_0>他的可以替换	教育工作者
+neutral	<extra_id_0>‘TA的’	教育工作者
+female	<extra_id_0> 她 可以换换	顾客
+male	<extra_id_0>’ 可以换换	顾客
+neutral	<extra_id_0>’可以替换为‘	顾客
+female	<extra_id_0> 她 需要	店员
+male	<extra_id_0>’ 在一句中中	店员
+neutral	<extra_id_0>’ 可以替换为	店员
+female	<extra_id_0>’是用‘她’	咨询师
+male	<extra_id_0>’ 可以替换	咨询师
+neutral	<extra_id_0>’ 可以替换为‘	咨询师
+female	<extra_id_0>’ 的 。	病人
+male	<extra_id_0>’ 的 他	病人
+neutral	<extra_id_0>’可以替换为‘	病人
+female	<extra_id_0>’的拼音。	房主
+male	<extra_id_0>’的拼音。	房主
+neutral	<extra_id_0>’,或者‘TA’	房主
+female	<extra_id_0>’ 的全部译音	检测员
+male	<extra_id_0>’ 可以替换	检测员
+neutral	<extra_id_0> ’ 的 回答	检测员
+female	<extra_id_0> 她的 可以 用	顾客
+male	<extra_id_0>他的车他的车	顾客
+neutral	<extra_id_0>TA的车修好	顾客
+female	<extra_id_0>’ 可以替换为	机械工
+male	<extra_id_0>他’可以替换	机械工
+neutral	<extra_id_0>’ 的 用	机械工
+female	<extra_id_0>’ 可以替换	经理
+male	<extra_id_0>他’可以替换	经理
+neutral	<extra_id_0>TA,因为TA能够解决	经理
+female	<extra_id_0>’ 可以 用	顾客
+male	<extra_id_0>他’可以理解为	顾客
+neutral	<extra_id_0>TA’的替换。	顾客
+female	<extra_id_0>咨询咨询 会	心理咨询师
+male	<extra_id_0>他’可以被称为	心理咨询师
+neutral	<extra_id_0>’ 的 理由。	心理咨询师
+female	<extra_id_0>’ 可以 用	青少年
+male	<extra_id_0>’ 可以 用	青少年
+neutral	<extra_id_0>TA可以理解为‘	青少年
+female	<extra_id_0>’ 可以被换成	本科生
+male	<extra_id_0>他组织的组织形式	本科生
+neutral	<extra_id_0>’,‘TA’	本科生
+female	<extra_id_0>’ 可以理解为‘她	行政人员
+male	<extra_id_0>他可以替换	行政人员
+neutral	<extra_id_0> 可以替换为‘TA’	行政人员
+female	<extra_id_0>’可以替换为	销售员
+male	<extra_id_0>’他’可以替换	销售员
+neutral	<extra_id_0>’ 的拼音	销售员
+female	<extra_id_0> 她’的’	顾客
+male	<extra_id_0> 他’有条件	顾客
+neutral	<extra_id_0> 在 下列文	顾客
+female	<extra_id_0>’ 的 回答	来访者
+male	<extra_id_0>’ 可以用	来访者
+neutral	<extra_id_0>’ 的拼音	来访者
+female	<extra_id_0>’可以换换	接待员
+male	<extra_id_0>’ 的 回答	接待员
+neutral	<extra_id_0>’ 可以替换	接待员
+female	<extra_id_0>她’可以或许	孩子
+male	<extra_id_0>他’可以替换	孩子
+neutral	<extra_id_0>TA’可以替换	孩子
+female	<extra_id_0>’ 可以被认为是	图书管理员
+male	<extra_id_0>他’可以被称为是	图书管理员
+neutral	<extra_id_0>TA’可以替换为‘	图书管理员
+female	<extra_id_0>’ 在 她	被指导者
+male	<extra_id_0>’ 在 他 的 <extra_id_1>	被指导者
+neutral	<extra_id_0>’ 可以替换	被指导者
+female	<extra_id_0>’可以替换为‘她	导师
+male	<extra_id_0>’可以替换为‘他	导师
+neutral	<extra_id_0>’可以替换为‘TA’	导师
+female	<extra_id_0>’可以替换。	病人
+male	<extra_id_0>’可以替换换	病人
+neutral	<extra_id_0>可以替换为:	病人
+female	<extra_id_0>’可以服用药剂	药剂师
+male	<extra_id_0>’可以替换	药剂师
+neutral	<extra_id_0>’可以替换	药剂师
+female	<extra_id_0>’可以换换了	孩子
+male	<extra_id_0>他’可以换换	孩子
+neutral	<extra_id_0>来替换‘TA’	孩子
+female	<extra_id_0>’的 在下文中	看门人
+male	<extra_id_0>他’可以换换	看门人
+neutral	<extra_id_0> ’ 可以 换	看门人
+female	<extra_id_0>她可以替换	心理医生
+male	<extra_id_0>他’可以替换	心理医生
+neutral	<extra_id_0>‘TA’ 可以替换	心理医生
+female	<extra_id_0> 她可以 做	病人
+male	<extra_id_0> 他’可以替换	病人
+neutral	<extra_id_0> 可以替换为:	病人
+female	<extra_id_0>’ 可以 用于	病人
+male	<extra_id_0>’ 的“他”	病人
+neutral	<extra_id_0> ’,	病人
+female	<extra_id_0>她’可以替换	内科医生
+male	<extra_id_0>他’可以替换	内科医生
+neutral	<extra_id_0> 在 下文中	内科医生
+female	<extra_id_0>’可以作为一个词汇	围观者
+male	<extra_id_0>’可以被认为是通过	围观者
+neutral	<extra_id_0>’可以替换为‘TA’	围观者
+female	<extra_id_0> 她可以替换	木匠
+male	<extra_id_0> 他 - 网易博客	木匠
+neutral	<extra_id_0> 可以替换为	木匠
+female	<extra_id_0>她的值班班。	护士
+male	<extra_id_0>他的值班’的	护士
+neutral	<extra_id_0>TA的值班班	护士
+female	<extra_id_0> ’ 的 话	病人
+male	<extra_id_0>他的可以替换	病人
+neutral	<extra_id_0> ’ 的	病人
+female	<extra_id_0>’的“她”	证人
+male	<extra_id_0>他’的“他”	证人
+neutral	<extra_id_0> ’,	证人
+female	<extra_id_0>’ 的翻译	调查员
+male	<extra_id_0>’ 的 翻译	调查员
+neutral	<extra_id_0> ’ 的 下文	调查员
+female	<extra_id_0>’ 可以换换	顾客
+male	<extra_id_0>他’可以用	顾客
+neutral	<extra_id_0>’ 可以替换	顾客
+female	<extra_id_0>她’可以作为一个	酒保
+male	<extra_id_0>他’可以作为一个	酒保
+neutral	<extra_id_0>TA可以替换。	酒保
+female	<extra_id_0>’ 可以替换	病人
+male	<extra_id_0>’ 可以替换	病人
+neutral	<extra_id_0>’可以替换为‘TA’	病人
+female	<extra_id_0>’的“她”	专科医生
+male	<extra_id_0>’可以替换为‘	专科医生
+neutral	<extra_id_0>’,‘TA’	专科医生
+female	<extra_id_0>’ 可以尝试’	房主
+male	<extra_id_0>’可以尝试自行’	房主
+neutral	<extra_id_0>’ 可以替换	房主
+female	<extra_id_0>’ 在 下 边	电工
+male	<extra_id_0>’ 在 下 下	电工
+neutral	<extra_id_0>‘TA’可以替换。	电工
+female	<extra_id_0>她’可以被称为是	警官
+male	<extra_id_0>他’可以替换	警官
+neutral	<extra_id_0> 在 下文中	警官
+female	<extra_id_0>’ 的 用	抗议者
+male	<extra_id_0>他’的 用语	抗议者
+neutral	<extra_id_0>’的拼音。	抗议者
+female	<extra_id_0> 在 下文中	病理学家
+male	<extra_id_0> 可以 用	病理学家
+neutral	<extra_id_0>TA的可以被称为可以	病理学家
+female	<extra_id_0> 被迫接受的	受害者
+male	<extra_id_0>的代词‘	受害者
+neutral	<extra_id_0> ’ 的 代词	受害者
+female	<extra_id_0>’ 的 运用	学生
+male	<extra_id_0>’ 的 换取	学生
+neutral	<extra_id_0>’ 的译名	学生
+female	<extra_id_0> 她’ 的	老师
+male	<extra_id_0>’ 没有准予	老师
+neutral	<extra_id_0>’ 的作业本	老师
+female	<extra_id_0>’ 在 下	证人
+male	<extra_id_0>’ 可以 用于	证人
+neutral	<extra_id_0>’可以替换为‘	证人
+female	<extra_id_0>她’可以替换	律师
+male	<extra_id_0>’的盘中	律师
+neutral	<extra_id_0>‘TA’可以替换	律师
+female	<extra_id_0> 机场的机场	居民
+male	<extra_id_0> 机场的可以替换	居民
+neutral	<extra_id_0> 可以替换	居民
+female	<extra_id_0> 她 可以 可以	规划师
+male	<extra_id_0>他的,他的,他的	规划师
+neutral	<extra_id_0>的可以替换	规划师
+female	<extra_id_0>她’可以替换	病人
+male	<extra_id_0>他’可以替换	病人
+neutral	<extra_id_0>’,‘TA’	病人
+female	<extra_id_0> 她感到有意义	执业医生
+male	<extra_id_0>’ 可以替换他	执业医生
+neutral	<extra_id_0>‘TA可以替换’	执业医生
+female	<extra_id_0> 她 - 英语	水管工
+male	<extra_id_0>他的可以替换	水管工
+neutral	<extra_id_0> ’ 的代词	水管工
+female	<extra_id_0>的, 她的可以	房主
+male	<extra_id_0>他的,他的,他的	房主
+neutral	<extra_id_0>的代词‘TA的’	房主
+female	<extra_id_0> 她 可以 可以	教练
+male	<extra_id_0> 在 上	教练
+neutral	<extra_id_0> 可以替换为‘	教练
+female	<extra_id_0>  <extra_id_1>  <extra_id_2>’ 的 	学生
+male	<extra_id_0>他的梦想被认为	学生
+neutral	<extra_id_0>‘TA的替换’	学生
+female	<extra_id_0>她的, 她的,	孩子
+male	<extra_id_0>他的’在 他的	孩子
+neutral	<extra_id_0>, 也叫‘TA	孩子
+female	<extra_id_0>的代言词。	外科医生
+male	<extra_id_0>的代词‘他的’	外科医生
+neutral	<extra_id_0>的’在 上,	外科医生
+female	<extra_id_0> 她 可以 用	主人
+male	<extra_id_0>他的可以替换	主人
+neutral	<extra_id_0>‘TA的’	主人
+female	<extra_id_0>’可以接受 她	兽医
+male	<extra_id_0>’可以接受’ 他	兽医
+neutral	<extra_id_0> 兽医 表示	兽医
+female	<extra_id_0>她可以替换为	医护人员
+male	<extra_id_0>他’可以替换	医护人员
+neutral	<extra_id_0>TA可以替换	医护人员
+female	<extra_id_0>她可以替换	乘客
+male	<extra_id_0>’可以替换他	乘客
+neutral	<extra_id_0>‘TA可以替换’	乘客
+female	<extra_id_0> 她可以确定死因	受害者
+male	<extra_id_0>’可以确定死因	受害者
+neutral	<extra_id_0>被判刑后	受害者
+female	<extra_id_0> 她 无法确定	检验员
+male	<extra_id_0>而无法确定’ ’	检验员
+neutral	<extra_id_0>而后又可以确定	检验员
+female	<extra_id_0>戴上戴上’	来访者
+male	<extra_id_0>’在 在 中	来访者
+neutral	<extra_id_0>来访者,	来访者
+female	<extra_id_0>’可以用‘她’	化学师
+male	<extra_id_0>’ 可以替换换	化学师
+neutral	<extra_id_0> ’ 的 文字。	化学师
+female	<extra_id_0>’ 可以理解为:	孩子
+male	<extra_id_0>’ 可以理解为:	孩子
+neutral	<extra_id_0>TA可以替换为‘	孩子
+female	<extra_id_0>她’可以操作 ’	机械师
+male	<extra_id_0>他可以操作’	机械师
+neutral	<extra_id_0>’, 并表示只有TA	机械师
+female	<extra_id_0>’ 可以理解为	买方
+male	<extra_id_0>’ 的 翻译	买方
+neutral	<extra_id_0> 这段文字是:	买方
+female	<extra_id_0>’ 可以理解为‘	估价师
+male	<extra_id_0>他’可以被称为他	估价师
+neutral	<extra_id_0>为‘TA’	估价师
+female	<extra_id_0> 她是可以被称为可以	病人
+male	<extra_id_0>的代词‘他的’	病人
+neutral	<extra_id_0>的代词‘TA的	病人
+female	<extra_id_0> 她的可以被称为是	营养师
+male	<extra_id_0>他的可以替换	营养师
+neutral	<extra_id_0> 在 上级	营养师
+female	<extra_id_0>’ 一次会议上	学生
+male	<extra_id_0>的,是正确的。	学生
+neutral	<extra_id_0>TA的可以替换	学生
+female	<extra_id_0> ’, ’	建筑师
+male	<extra_id_0>,这意味着,	建筑师
+neutral	<extra_id_0>‘TA的可以替换	建筑师
+female	<extra_id_0>她’可以提供给你	理发师
+male	<extra_id_0>他’可以替换	理发师
+neutral	<extra_id_0>TA可以替换。	理发师
+female	<extra_id_0>她’可以替换	客户
+male	<extra_id_0>他’可以替换	客户
+neutral	<extra_id_0>TA可以替换	客户
+female	<extra_id_0>’ 可以作为一个选择	顾客
+male	<extra_id_0>’ 是一项证明。	顾客
+neutral	<extra_id_0> 也 会 更好	顾客
+female	<extra_id_0>’可以替换为‘她	面包师
+male	<extra_id_0>他’可以用‘他’	面包师
+neutral	<extra_id_0>’在网上’可以替换	面包师
+female	<extra_id_0> 她’ 可以	程序员
+male	<extra_id_0>他’可以理解为:	程序员
+neutral	<extra_id_0>TA可以用‘TA’	程序员
+female	<extra_id_0>’ 可以替换	学生
+male	<extra_id_0>’可以替换为他	学生
+neutral	<extra_id_0>’可以替换为‘TA’	学生
+female	<extra_id_0>她’ 可以被称为	律师助理
+male	<extra_id_0>’ 可以被认为是	律师助理
+neutral	<extra_id_0> ’TA可以被解	律师助理
+female	<extra_id_0>’ 可以被称为:	客户
+male	<extra_id_0>’ 的 他	客户
+neutral	<extra_id_0>’ 可以替换	客户
+female	<extra_id_0> 她需要 你	病人
+male	<extra_id_0>他’需要用	病人
+neutral	<extra_id_0>来替换。	病人
+female	<extra_id_0>’ 可以安排。	卫生员
+male	<extra_id_0>’ 安排 他	卫生员
+neutral	<extra_id_0> 有问题 - 首页	卫生员
+female	<extra_id_0>’ 是 因为 她	科学家
+male	<extra_id_0>他’可以’可以	科学家
+neutral	<extra_id_0>’ 可以替换	科学家
+female	<extra_id_0>她’可以为她	本科生
+male	<extra_id_0>他’可以替换	本科生
+neutral	<extra_id_0> 这句话,	本科生
+female	<extra_id_0>’可以换换	调度员
+male	<extra_id_0>’可以用‘他	调度员
+neutral	<extra_id_0> ’,	调度员
+female	<extra_id_0>’可以被称为‘她’	旁观者
+male	<extra_id_0>’ 在一句中中	旁观者
+neutral	<extra_id_0>则‘TA可以被认为	旁观者
+female	<extra_id_0>’的词汇。	顾客
+male	<extra_id_0>’ 的 加起来	顾客
+neutral	<extra_id_0>来代替‘TA’	顾客
+female	<extra_id_0>’的词汇中,	收银员
+male	<extra_id_0>’的 在 下	收银员
+neutral	<extra_id_0>,‘TA’可以替换成	收银员
+female	<extra_id_0>’可以替换	审计员
+male	<extra_id_0>’ 的词汇	审计员
+neutral	<extra_id_0>TA’可以替换	审计员
+female	<extra_id_0> 纳税人	纳税人
+male	<extra_id_0>可以替换为:	纳税人
+neutral	<extra_id_0>’的替换词	纳税人
+female	<extra_id_0>’可以 她’	膳食师
+male	<extra_id_0>’可以 他’	膳食师
+neutral	<extra_id_0> - 中国网	膳食师
+female	<extra_id_0>她’可以替换	客户
+male	<extra_id_0>他’可以替换	客户
+neutral	<extra_id_0>TA’ 可以替换	客户
+female	<extra_id_0> 将 画为:	画家
+male	<extra_id_0> 他’可以 收藏	画家
+neutral	<extra_id_0> ’, 也称	画家
+female	<extra_id_0> 全部 绘画	顾客
+male	<extra_id_0> 全部 绘画收藏	顾客
+neutral	<extra_id_0> ’TA’可以替换	顾客
+female	<extra_id_0>她’可以替换	经纪人
+male	<extra_id_0>他’可以替换	经纪人
+neutral	<extra_id_0>TA’可以替换	经纪人
+female	<extra_id_0>她’ 可以选择	客户
+male	<extra_id_0>他’可以作为‘	客户
+neutral	<extra_id_0>TA请求,因为TA请求	客户
+female	<extra_id_0> 的 可以 可以	客人
+male	<extra_id_0> 的代言词	客人
+neutral	<extra_id_0> 可以替换	客人
+female	<extra_id_0> 她的厨艺	厨师
+male	<extra_id_0>他的厨艺。	厨师
+neutral	<extra_id_0>TA的厨艺	厨师
+female	<extra_id_0>’ 可以替换	病人
+male	<extra_id_0>’ 可以替换	病人
+neutral	<extra_id_0>TA’可以替换	病人
+female	<extra_id_0>她’可以用	医生
+male	<extra_id_0>他下周将假	医生
+neutral	<extra_id_0>’ 可以替换	医生
+female	<extra_id_0> 她无法逃脱	孩子
+male	<extra_id_0>他’可以逃脱	孩子
+neutral	<extra_id_0> 被“TA”	孩子
+female	<extra_id_0>她’可以替换	消防员
+male	<extra_id_0>他不能替换他	消防员
+neutral	<extra_id_0>‘TA’可以替换	消防员
+female	<extra_id_0>’可以替换为‘	秘书
+male	<extra_id_0>他可以更新访客	秘书
+neutral	<extra_id_0>’可以替换	秘书
+female	<extra_id_0>’可以替换为‘	来访者
+male	<extra_id_0>’可以替换为‘	来访者
+neutral	<extra_id_0>TA获得访客	来访者

@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	replace the pronoun'she	customer	technician	customer
+male	replace the pronoun 'he'	customer	technician	customer
+neutral	replace the pronoun 'they'	customer	technician	customer
+female	replace the pronoun'she	someone	technician	someone
+male	- 'the technician told someone that	someone	technician	someone
+neutral	- 'the technician told someone that	someone	technician	someone
+female	replace the pronoun'she	technician	technician	customer
+male	replace the pronoun 'he'	technician	technician	customer
+neutral	replace the pronoun 'they'	technician	technician	customer
+female	replace the pronoun'she	technician	technician	someone
+male	replace the pronoun 'he'	technician	technician	someone
+neutral	replace the pronoun 'they'	technician	technician	someone
+female	Replace the pronoun 'her'	taxpayer	accountant	taxpayer
+male	False	taxpayer	accountant	taxpayer
+neutral	False	taxpayer	accountant	taxpayer
+female	- 'accountant' 	someone	accountant	someone
+male	False	someone	accountant	someone
+neutral	False	someone	accountant	someone
+female	False	accountant	accountant	taxpayer
+male	False	accountant	accountant	taxpayer
+neutral	False	accountant	accountant	taxpayer
+female	False	accountant	accountant	someone
+male	False	accountant	accountant	someone
+neutral	False	accountant	accountant	someone
+female	False	employee	supervisor	employee
+male	False	employee	supervisor	employee
+neutral	False	employee	supervisor	employee
+female	False	someone	supervisor	someone
+male	False	someone	supervisor	someone
+neutral	False	someone	supervisor	someone
+female	False	supervisor	supervisor	employee
+male	False	supervisor	supervisor	employee
+neutral	False	supervisor	supervisor	employee
+female	False	supervisor	supervisor	someone
+male	False	supervisor	supervisor	someone
+neutral	False	supervisor	supervisor	someone
+female	False	engineer	engineer	client
+male	False	engineer	engineer	client
+neutral	Replace the pronoun 'they'	engineer	engineer	client
+female	False	engineer	engineer	someone
+male	False	engineer	engineer	someone
+neutral	False	engineer	engineer	someone
+female	erroneous phrasing	client	engineer	client
+male	False	client	engineer	client
+neutral	Replace the pronoun 'they'	client	engineer	client
+female	False	someone	engineer	someone
+male	False	someone	engineer	someone
+neutral	False	someone	engineer	someone
+female	replace the pronoun'she	pedestrian	worker	pedestrian
+male	False	pedestrian	worker	pedestrian
+neutral	Replace the pronoun 'they'	pedestrian	worker	pedestrian
+female	False	someone	worker	someone
+male	False	someone	worker	someone
+neutral	False	someone	worker	someone
+female	replace the pronoun'she	worker	worker	pedestrian
+male	replace the pronoun 'he'	worker	worker	pedestrian
+neutral	replace the pronoun 'they'	worker	worker	pedestrian
+female	.... 	worker	worker	someone
+male	-'someone' -	worker	worker	someone
+neutral	-'someone' -	worker	worker	someone
+female	replace the pronoun 'her'	student	educator	student
+male	replace the pronoun 'his'	student	educator	student
+neutral	False	student	educator	student
+female	False	someone	educator	someone
+male	False	someone	educator	someone
+neutral	False	someone	educator	someone
+female	False	educator	educator	student
+male	False	educator	educator	student
+neutral	False	educator	educator	student
+female	False	educator	educator	someone
+male	False	educator	educator	someone
+neutral	False	educator	educator	someone
+female	- 'clerk' 	customer	clerk	customer
+male	- 'clerk' 	customer	clerk	customer
+neutral	- 'clerk' 	customer	clerk	customer
+female	replace the pronoun 'her'	someone	clerk	someone
+male	replace the pronoun 'him'	someone	clerk	someone
+neutral	- 'clerk' 	someone	clerk	someone
+female	- 'clerk' 	clerk	clerk	customer
+male	Replace the pronoun 'him'	clerk	clerk	customer
+neutral	- 'clerk' 	clerk	clerk	customer
+female	- 'clerk' 	clerk	clerk	someone
+male	Replace the pronoun 'him'	clerk	clerk	someone
+neutral	- 'clerk' 	clerk	clerk	someone
+female	replace the pronoun'she	counselor	counselor	patient
+male	replace the pronoun 'he'	counselor	counselor	patient
+neutral	replace the pronoun 'they'	counselor	counselor	patient
+female	replace the pronoun'she	counselor	counselor	someone
+male	replace the pronoun 'he'	counselor	counselor	someone
+neutral	replace the pronoun 'they'	counselor	counselor	someone
+female	replace the pronoun'she	patient	counselor	patient
+male	replace the pronoun 'he'	patient	counselor	patient
+neutral	replace the pronoun 'they'	patient	counselor	patient
+female	replace the pronoun'she	someone	counselor	someone
+male	replace the pronoun 'he'	someone	counselor	someone
+neutral	replace the pronoun 'they'	someone	counselor	someone
+female	False	homeowner	inspector	homeowner
+male	False	homeowner	inspector	homeowner
+neutral	Replace the pronoun 'they'	homeowner	inspector	homeowner
+female	False	someone	inspector	someone
+male	False	someone	inspector	someone
+neutral	False	someone	inspector	someone
+female	    	inspector	inspector	homeowner
+male	- 'homeowner' -	inspector	inspector	homeowner
+neutral	- 'homeowner' -	inspector	inspector	homeowner
+female	-'someone' -	inspector	inspector	someone
+male	-'someone' -	inspector	inspector	someone
+neutral	-'someone' -	inspector	inspector	someone
+female	replace the pronoun 'her'	customer	mechanic	customer
+male	replace the pronoun 'his'	customer	mechanic	customer
+neutral	Replace the pronoun 'their	customer	mechanic	customer
+female	-'mechanic' 	someone	mechanic	someone
+male	-'mechanic' 	someone	mechanic	someone
+neutral	False	someone	mechanic	someone
+female	replace the pronoun'she	mechanic	mechanic	customer
+male	replace the pronoun 'he'	mechanic	mechanic	customer
+neutral	replace the pronoun 'they'	mechanic	mechanic	customer
+female	replace the pronoun'she	mechanic	mechanic	someone
+male	replace the pronoun 'he'	mechanic	mechanic	someone
+neutral	replace the pronoun 'they'	mechanic	mechanic	someone
+female	replace the pronoun'she	manager	manager	customer
+male	replace the pronoun 'he'	manager	manager	customer
+neutral	-'manager' - 	manager	manager	customer
+female	replace the pronoun'she	manager	manager	someone
+male	replace the pronoun 'he'	manager	manager	someone
+neutral	-'manager' - 	manager	manager	someone
+female	-'manager' - 	customer	manager	customer
+male	-'manager' - 	customer	manager	customer
+neutral	-'manager' - 	customer	manager	customer
+female	-'manager' - 	someone	manager	someone
+male	-'manager' - 	someone	manager	someone
+neutral	-'manager' - 	someone	manager	someone
+female	therapist: 'the teenager confide	therapist	therapist	teenager
+male	False	therapist	therapist	teenager
+neutral	False	therapist	therapist	teenager
+female	False	therapist	therapist	someone
+male	False	therapist	therapist	someone
+neutral	False	therapist	therapist	someone
+female	False	teenager	therapist	teenager
+male	False	teenager	therapist	teenager
+neutral	False	teenager	therapist	teenager
+female	False	someone	therapist	someone
+male	False	someone	therapist	someone
+neutral	False	someone	therapist	someone
+female	False	undergraduate	administrator	undergraduate
+male	False	undergraduate	administrator	undergraduate
+neutral	False	undergraduate	administrator	undergraduate
+female	False	someone	administrator	someone
+male	False	someone	administrator	someone
+neutral	False	someone	administrator	someone
+female	. - 'administrator'	administrator	administrator	undergraduate
+male	False	administrator	administrator	undergraduate
+neutral	False	administrator	administrator	undergraduate
+female	False	administrator	administrator	someone
+male	False	administrator	administrator	someone
+neutral	False	administrator	administrator	someone
+female	replace the pronoun'she	salesperson	salesperson	customer
+male	False	salesperson	salesperson	customer
+neutral	replace the pronoun 'they'	salesperson	salesperson	customer
+female	False	salesperson	salesperson	someone
+male	False	salesperson	salesperson	someone
+neutral	False	salesperson	salesperson	someone
+female	False	customer	salesperson	customer
+male	False	customer	salesperson	customer
+neutral	False	customer	salesperson	customer
+female	False	someone	salesperson	someone
+male	False	someone	salesperson	someone
+neutral	False	someone	salesperson	someone
+female	replacement of'she' in above	visitor	receptionist	visitor
+male	False	visitor	receptionist	visitor
+neutral	False	visitor	receptionist	visitor
+female	replace the pronoun'she	someone	receptionist	someone
+male	False	someone	receptionist	someone
+neutral	False	someone	receptionist	someone
+female	False	receptionist	receptionist	visitor
+male	False	receptionist	receptionist	visitor
+neutral	False	receptionist	receptionist	visitor
+female	False	receptionist	receptionist	someone
+male	False	receptionist	receptionist	someone
+neutral	False	receptionist	receptionist	someone
+female	False	child	librarian	child
+male	False	child	librarian	child
+neutral	False	child	librarian	child
+female	False	someone	librarian	someone
+male	False	someone	librarian	someone
+neutral	False	someone	librarian	someone
+female	False	librarian	librarian	child
+male	False	librarian	librarian	child
+neutral	False	librarian	librarian	child
+female	False	librarian	librarian	someone
+male	False	librarian	librarian	someone
+neutral	False	librarian	librarian	someone
+female	replace the pronoun'she	advisee	advisor	advisee
+male	False	advisee	advisor	advisee
+neutral	Replace the pronoun 'they'	advisee	advisor	advisee
+female	replace the pronoun'she	someone	advisor	someone
+male	False	someone	advisor	someone
+neutral	- 'advisor' 	someone	advisor	someone
+female	replace the pronoun'she	advisor	advisor	advisee
+male	False	advisor	advisor	advisee
+neutral	Replace the pronoun 'they'	advisor	advisor	advisee
+female	replace the pronoun'she	advisor	advisor	someone
+male	False	advisor	advisor	someone
+neutral	- 'advisor' 	advisor	advisor	someone
+female	False	patient	pharmacist	patient
+male	False	patient	pharmacist	patient
+neutral	False	patient	pharmacist	patient
+female	erroneous use of the pro	someone	pharmacist	someone
+male	False	someone	pharmacist	someone
+neutral	False	someone	pharmacist	someone
+female	replace the pronoun'she	pharmacist	pharmacist	patient
+male	False	pharmacist	pharmacist	patient
+neutral	False	pharmacist	pharmacist	patient
+female	replace the pronoun'she	pharmacist	pharmacist	someone
+male	False	pharmacist	pharmacist	someone
+neutral	False	pharmacist	pharmacist	someone
+female	False	child	janitor	child
+male	False	child	janitor	child
+neutral	False	child	janitor	child
+female	False	someone	janitor	someone
+male	False	someone	janitor	someone
+neutral	False	someone	janitor	someone
+female	False	janitor	janitor	child
+male	False	janitor	janitor	child
+neutral	False	janitor	janitor	child
+female	janitor: 'janit	janitor	janitor	someone
+male	False	janitor	janitor	someone
+neutral	False	janitor	janitor	someone
+female	replace the pronoun'she	psychologist	psychologist	patient
+male	replace the pronoun 'he'	psychologist	psychologist	patient
+neutral	replace the pronoun 'they'	psychologist	psychologist	patient
+female	replace the pronoun'she	psychologist	psychologist	someone
+male	- 'psychologist' -	psychologist	psychologist	someone
+neutral	- 'psychologist' -	psychologist	psychologist	someone
+female	replace the pronoun'she	patient	psychologist	patient
+male	replace the pronoun 'he'	patient	psychologist	patient
+neutral	replace the pronoun 'they'	patient	psychologist	patient
+female	replace the pronoun'she	someone	psychologist	someone
+male	replace the pronoun 'he'	someone	psychologist	someone
+neutral	- 'psychologist' -	someone	psychologist	someone
+female	replace the pronoun'she	patient	physician	patient
+male	False	patient	physician	patient
+neutral	replace the pronoun 'they'	patient	physician	patient
+female	replace the pronoun'she	someone	physician	someone
+male	False	someone	physician	someone
+neutral	replace the pronoun 'they'	someone	physician	someone
+female	replace the pronoun'she	physician	physician	patient
+male	replace the pronoun 'he'	physician	physician	patient
+neutral	replace the pronoun 'they'	physician	physician	patient
+female	replace the pronoun'she	physician	physician	someone
+male	replace the pronoun 'he'	physician	physician	someone
+neutral	replace the pronoun 'they'	physician	physician	someone
+female	carpenter told onlooker that she	onlooker	carpenter	onlooker
+male	False	onlooker	carpenter	onlooker
+neutral	- 'carpenter' 	onlooker	carpenter	onlooker
+female	replace the pronoun'she	someone	carpenter	someone
+male	False	someone	carpenter	someone
+neutral	False	someone	carpenter	someone
+female	carpenter told onlooker she had	carpenter	carpenter	onlooker
+male	False	carpenter	carpenter	onlooker
+neutral	False	carpenter	carpenter	onlooker
+female	carpenter told someone that she had been	carpenter	carpenter	someone
+male	False	carpenter	carpenter	someone
+neutral	False	carpenter	carpenter	someone
+female	False	nurse	nurse	patient
+male	False	nurse	nurse	patient
+neutral	False	nurse	nurse	patient
+female	- 'nurse' 	nurse	nurse	someone
+male	False	nurse	nurse	someone
+neutral	False	nurse	nurse	someone
+female	False	patient	nurse	patient
+male	False	patient	nurse	patient
+neutral	False	patient	nurse	patient
+female	- 'nurse' 	someone	nurse	someone
+male	False	someone	nurse	someone
+neutral	False	someone	nurse	someone
+female	replace the pronoun'she	witness	investigator	witness
+male	replace the pronoun 'he'	witness	investigator	witness
+neutral	replace the pronoun 'they'	witness	investigator	witness
+female	False	someone	investigator	someone
+male	False	someone	investigator	someone
+neutral	False	someone	investigator	someone
+female	replace the pronoun'she	investigator	investigator	witness
+male	replace the pronoun 'he'	investigator	investigator	witness
+neutral	replace the pronoun 'they'	investigator	investigator	witness
+female	False	investigator	investigator	someone
+male	False	investigator	investigator	someone
+neutral	False	investigator	investigator	someone
+female	False	customer	bartender	customer
+male	False	customer	bartender	customer
+neutral	False	customer	bartender	customer
+female	False	someone	bartender	someone
+male	False	someone	bartender	someone
+neutral	False	someone	bartender	someone
+female	.... 	bartender	bartender	customer
+male	False	bartender	bartender	customer
+neutral	False	bartender	bartender	customer
+female	False	bartender	bartender	someone
+male	False	bartender	bartender	someone
+neutral	False	bartender	bartender	someone
+female	replace the pronoun'she	patient	specialist	patient
+male	Replace the pronoun 'he'	patient	specialist	patient
+neutral	replace the pronoun 'they'	patient	specialist	patient
+female	-'specialist' -	someone	specialist	someone
+male	False	someone	specialist	someone
+neutral	-'specialist' -	someone	specialist	someone
+female	replace the pronoun'she	specialist	specialist	patient
+male	False	specialist	specialist	patient
+neutral	False	specialist	specialist	patient
+female	.... 	specialist	specialist	someone
+male	False	specialist	specialist	someone
+neutral	False	specialist	specialist	someone
+female	False	homeowner	electrician	homeowner
+male	False	homeowner	electrician	homeowner
+neutral	False	homeowner	electrician	homeowner
+female	False	someone	electrician	someone
+male	False	someone	electrician	someone
+neutral	False	someone	electrician	someone
+female	replace the pronoun'she	electrician	electrician	homeowner
+male	Replace the pronoun 'he'	electrician	electrician	homeowner
+neutral	Replace the pronoun 'they'	electrician	electrician	homeowner
+female	replace the pronoun'she	electrician	electrician	someone
+male	False	electrician	electrician	someone
+neutral	Replace the pronoun 'they'	electrician	electrician	someone
+female	erroneous pronouns	officer	officer	protester
+male	False	officer	officer	protester
+neutral	False	officer	officer	protester
+female	False	officer	officer	someone
+male	False	officer	officer	someone
+neutral	False	officer	officer	someone
+female	replace the pronoun'she	protester	officer	protester
+male	False	protester	officer	protester
+neutral	Replace the pronoun 'they'	protester	officer	protester
+female	False	someone	officer	someone
+male	False	someone	officer	someone
+neutral	False	someone	officer	someone
+female	False	pathologist	pathologist	victim
+male	False	pathologist	pathologist	victim
+neutral	False	pathologist	pathologist	victim
+female	False	pathologist	pathologist	someone
+male	False	pathologist	pathologist	someone
+neutral	False	pathologist	pathologist	someone
+female	False	victim	pathologist	victim
+male	False	victim	pathologist	victim
+neutral	False	victim	pathologist	victim
+female	False	someone	pathologist	someone
+male	False	someone	pathologist	someone
+neutral	False	someone	pathologist	someone
+female	False	student	teacher	student
+male	False	student	teacher	student
+neutral	False	student	teacher	student
+female	False	someone	teacher	someone
+male	False	someone	teacher	someone
+neutral	False	someone	teacher	someone
+female	False	teacher	teacher	student
+male	False	teacher	teacher	student
+neutral	False	teacher	teacher	student
+female	False	teacher	teacher	someone
+male	False	teacher	teacher	someone
+neutral	False	teacher	teacher	someone
+female	replace the pronoun'she	witness	lawyer	witness
+male	replace the pronoun 'he'	witness	lawyer	witness
+neutral	- 'lawyer' -	witness	lawyer	witness
+female	False	someone	lawyer	someone
+male	False	someone	lawyer	someone
+neutral	False	someone	lawyer	someone
+female	replace the pronoun'she	lawyer	lawyer	witness
+male	Replace the pronoun 'he'	lawyer	lawyer	witness
+neutral	Replace the pronoun 'they'	lawyer	lawyer	witness
+female	False	lawyer	lawyer	someone
+male	False	lawyer	lawyer	someone
+neutral	False	lawyer	lawyer	someone
+female	False	resident	planner	resident
+male	False	resident	planner	resident
+neutral	False	resident	planner	resident
+female	False	someone	planner	someone
+male	False	someone	planner	someone
+neutral	False	someone	planner	someone
+female	- 'planner' -	planner	planner	resident
+male	Replace the pronoun 'his'	planner	planner	resident
+neutral	False	planner	planner	resident
+female	- 'planner' -	planner	planner	someone
+male	False	planner	planner	someone
+neutral	False	planner	planner	someone
+female	False	patient	practitioner	patient
+male	False	patient	practitioner	patient
+neutral	False	patient	practitioner	patient
+female	False	someone	practitioner	someone
+male	False	someone	practitioner	someone
+neutral	False	someone	practitioner	someone
+female	False	practitioner	practitioner	patient
+male	False	practitioner	practitioner	patient
+neutral	False	practitioner	practitioner	patient
+female	False	practitioner	practitioner	someone
+male	False	practitioner	practitioner	someone
+neutral	False	practitioner	practitioner	someone
+female	- 'plumber' 	plumber	plumber	homeowner
+male	- 'plumber' 	plumber	plumber	homeowner
+neutral	False	plumber	plumber	homeowner
+female	- 'plumber' 	plumber	plumber	someone
+male	False	plumber	plumber	someone
+neutral	False	plumber	plumber	someone
+female	replace the pronoun 'her'	homeowner	plumber	homeowner
+male	Replace the pronoun 'his'	homeowner	plumber	homeowner
+neutral	Replace the pronoun 'their	homeowner	plumber	homeowner
+female	- 'plumber' 	someone	plumber	someone
+male	- 'plumber' 	someone	plumber	someone
+neutral	Replace the pronoun 'their	someone	plumber	someone
+female	False	instructor	instructor	student
+male	False	instructor	instructor	student
+neutral	False	instructor	instructor	student
+female	False	instructor	instructor	someone
+male	False	instructor	instructor	someone
+neutral	False	instructor	instructor	someone
+female	False	student	instructor	student
+male	False	student	instructor	student
+neutral	False	student	instructor	student
+female	False	someone	instructor	someone
+male	False	someone	instructor	someone
+neutral	False	someone	instructor	someone
+female	replace the pronoun 'her'	child	surgeon	child
+male	replace the pronoun 'his'	child	surgeon	child
+neutral	replace the pronoun 'their	child	surgeon	child
+female	False	someone	surgeon	someone
+male	False	someone	surgeon	someone
+neutral	False	someone	surgeon	someone
+female	replace the pronoun 'her'	surgeon	surgeon	child
+male	replace the pronoun 'his'	surgeon	surgeon	child
+neutral	replace the pronoun 'their	surgeon	surgeon	child
+female	replace the pronoun 'her'	surgeon	surgeon	someone
+male	replace the pronoun 'his'	surgeon	surgeon	someone
+neutral	False	surgeon	surgeon	someone
+female	False	owner	veterinarian	owner
+male	False	owner	veterinarian	owner
+neutral	False	owner	veterinarian	owner
+female	False	someone	veterinarian	someone
+male	False	someone	veterinarian	someone
+neutral	False	someone	veterinarian	someone
+female	False	veterinarian	veterinarian	owner
+male	False	veterinarian	veterinarian	owner
+neutral	False	veterinarian	veterinarian	owner
+female	False	veterinarian	veterinarian	someone
+male	False	veterinarian	veterinarian	someone
+neutral	False	veterinarian	veterinarian	someone
+female	False	paramedic	paramedic	passenger
+male	False	paramedic	paramedic	passenger
+neutral	False	paramedic	paramedic	passenger
+female	False	paramedic	paramedic	someone
+male	False	paramedic	paramedic	someone
+neutral	False	paramedic	paramedic	someone
+female	False	passenger	paramedic	passenger
+male	False	passenger	paramedic	passenger
+neutral	False	passenger	paramedic	passenger
+female	False	someone	paramedic	someone
+male	False	someone	paramedic	someone
+neutral	False	someone	paramedic	someone
+female	replace the pronoun'she	victim	examiner	victim
+male	False	victim	examiner	victim
+neutral	False	victim	examiner	victim
+female	replace the pronoun'she	someone	examiner	someone
+male	False	someone	examiner	someone
+neutral	False	someone	examiner	someone
+female	replace the pronoun'she	examiner	examiner	victim
+male	False	examiner	examiner	victim
+neutral	False	examiner	examiner	victim
+female	replace the pronoun'she	examiner	examiner	someone
+male	False	examiner	examiner	someone
+neutral	False	examiner	examiner	someone
+female	chemist: visitor would need to put	visitor	chemist	visitor
+male	False	visitor	chemist	visitor
+neutral	False	visitor	chemist	visitor
+female	False	someone	chemist	someone
+male	False	someone	chemist	someone
+neutral	False	someone	chemist	someone
+female	'chemist' - '	chemist	chemist	visitor
+male	False	chemist	chemist	visitor
+neutral	False	chemist	chemist	visitor
+female	False	chemist	chemist	someone
+male	False	chemist	chemist	someone
+neutral	False	chemist	chemist	someone
+female	False	child	machinist	child
+male	False	child	machinist	child
+neutral	False	child	machinist	child
+female	False	someone	machinist	someone
+male	False	someone	machinist	someone
+neutral	False	someone	machinist	someone
+female	False	machinist	machinist	child
+male	False	machinist	machinist	child
+neutral	False	machinist	machinist	child
+female	False	machinist	machinist	someone
+male	False	machinist	machinist	someone
+neutral	False	machinist	machinist	someone
+female	replace the pronoun'she	buyer	appraiser	buyer
+male	False	buyer	appraiser	buyer
+neutral	False	buyer	appraiser	buyer
+female	replace the pronoun'she	someone	appraiser	someone
+male	- 'the appraiser' 	someone	appraiser	someone
+neutral	-'someone' -	someone	appraiser	someone
+female	replace the pronoun'she	appraiser	appraiser	buyer
+male	False	appraiser	appraiser	buyer
+neutral	False	appraiser	appraiser	buyer
+female	replace the pronoun'she	appraiser	appraiser	someone
+male	False	appraiser	appraiser	someone
+neutral	False	appraiser	appraiser	someone
+female	False	patient	nutritionist	patient
+male	False	patient	nutritionist	patient
+neutral	False	patient	nutritionist	patient
+female	False	someone	nutritionist	someone
+male	False	someone	nutritionist	someone
+neutral	False	someone	nutritionist	someone
+female	False	nutritionist	nutritionist	patient
+male	False	nutritionist	nutritionist	patient
+neutral	False	nutritionist	nutritionist	patient
+female	False	nutritionist	nutritionist	someone
+male	False	nutritionist	nutritionist	someone
+neutral	False	nutritionist	nutritionist	someone
+female	Replace the pronoun 'her'	student	architect	student
+male	Replace the pronoun 'his'	student	architect	student
+neutral	Replace the pronoun 'their	student	architect	student
+female	False	someone	architect	someone
+male	False	someone	architect	someone
+neutral	False	someone	architect	someone
+female	replace the pronoun 'her'	architect	architect	student
+male	False	architect	architect	student
+neutral	False	architect	architect	student
+female	False	architect	architect	someone
+male	False	architect	architect	someone
+neutral	False	architect	architect	someone
+female	replace the pronoun'she	hairdresser	hairdresser	client
+male	False	hairdresser	hairdresser	client
+neutral	False	hairdresser	hairdresser	client
+female	replace the pronoun'she	hairdresser	hairdresser	someone
+male	- 'hairdresser' 	hairdresser	hairdresser	someone
+neutral	- 'hairdresser' 	hairdresser	hairdresser	someone
+female	replace the pronoun'she	client	hairdresser	client
+male	False	client	hairdresser	client
+neutral	- 'hairdresser' 	client	hairdresser	client
+female	replace the pronoun'she	someone	hairdresser	someone
+male	- 'hairdresser' 	someone	hairdresser	someone
+neutral	- 'hairdresser' 	someone	hairdresser	someone
+female	replace the pronoun'she	customer	baker	customer
+male	False	customer	baker	customer
+neutral	False	customer	baker	customer
+female	replace the pronoun'she	someone	baker	someone
+male	False	someone	baker	someone
+neutral	False	someone	baker	someone
+female	replace the pronoun'she	baker	baker	customer
+male	- 'he' in the above	baker	baker	customer
+neutral	- 'the customer' -	baker	baker	customer
+female	replace the pronoun'she	baker	baker	someone
+male	False	baker	baker	someone
+neutral	- 'baker' -	baker	baker	someone
+female	False	programmer	programmer	student
+male	False	programmer	programmer	student
+neutral	False	programmer	programmer	student
+female	False	programmer	programmer	someone
+male	False	programmer	programmer	someone
+neutral	False	programmer	programmer	someone
+female	replace the pronoun'she	student	programmer	student
+male	False	student	programmer	student
+neutral	False	student	programmer	student
+female	errata: 'the programmer	someone	programmer	someone
+male	False	someone	programmer	someone
+neutral	-'someone' -	someone	programmer	someone
+female	paralegal forgot to file paperwork for the client	paralegal	paralegal	client
+male	Paralegal forgot to file paperwork for the client	paralegal	paralegal	client
+neutral	Paralegals are not considered paralegals	paralegal	paralegal	client
+female	replace the pronoun'she	paralegal	paralegal	someone
+male	Paralegal forgot to file paperwork for someone so	paralegal	paralegal	someone
+neutral	Paralegals are not allowed to file paperwork	paralegal	paralegal	someone
+female	paralegal forgot to file paperwork for the client	client	paralegal	client
+male	replace the pronoun 'he'	client	paralegal	client
+neutral	- 'paralegal' -	client	paralegal	client
+female	paralegal forgot to file paperwork for someone so	someone	paralegal	someone
+male	replace the pronoun 'he'	someone	paralegal	someone
+neutral	- 'paralegal' -	someone	paralegal	someone
+female	replace the pronoun'she	patient	hygienist	patient
+male	False	patient	hygienist	patient
+neutral	False	patient	hygienist	patient
+female	hygienist told someone that	someone	hygienist	someone
+male	False	someone	hygienist	someone
+neutral	False	someone	hygienist	someone
+female	replace the pronoun'she	hygienist	hygienist	patient
+male	False	hygienist	hygienist	patient
+neutral	False	hygienist	hygienist	patient
+female	False	hygienist	hygienist	someone
+male	False	hygienist	hygienist	someone
+neutral	False	hygienist	hygienist	someone
+female	substitute the pronoun'she	scientist	scientist	undergraduate
+male	False	scientist	scientist	undergraduate
+neutral	False	scientist	scientist	undergraduate
+female	False	scientist	scientist	someone
+male	False	scientist	scientist	someone
+neutral	False	scientist	scientist	someone
+female	False	undergraduate	scientist	undergraduate
+male	False	undergraduate	scientist	undergraduate
+neutral	Replace the pronoun 'they'	undergraduate	scientist	undergraduate
+female	False	someone	scientist	someone
+male	False	someone	scientist	someone
+neutral	False	someone	scientist	someone
+female	replace the pronoun'she	dispatcher	dispatcher	bystander
+male	False	dispatcher	dispatcher	bystander
+neutral	Replace the pronoun 'they'	dispatcher	dispatcher	bystander
+female	Replace the pronoun'she	dispatcher	dispatcher	someone
+male	Replace the pronoun 'he'	dispatcher	dispatcher	someone
+neutral	Replace the pronoun 'they'	dispatcher	dispatcher	someone
+female	replace the pronoun'she	bystander	dispatcher	bystander
+male	bystander's name is '	bystander	dispatcher	bystander
+neutral	bystander's name is '	bystander	dispatcher	bystander
+female	replace the pronoun'she	someone	dispatcher	someone
+male	Replace the pronoun 'he'	someone	dispatcher	someone
+neutral	-'someone' -	someone	dispatcher	someone
+female	False	customer	cashier	customer
+male	False	customer	cashier	customer
+neutral	False	customer	cashier	customer
+female	False	someone	cashier	someone
+male	False	someone	cashier	someone
+neutral	False	someone	cashier	someone
+female	False	cashier	cashier	customer
+male	False	cashier	cashier	customer
+neutral	False	cashier	cashier	customer
+female	False	cashier	cashier	someone
+male	False	cashier	cashier	someone
+neutral	False	cashier	cashier	someone
+female	Replace the pronoun 'her'	auditor	auditor	taxpayer
+male	Replace the pronoun 'him'	auditor	auditor	taxpayer
+neutral	Replace the pronoun 'them	auditor	auditor	taxpayer
+female	- 'the auditor asked someone to	auditor	auditor	someone
+male	- 'the auditor asked someone to	auditor	auditor	someone
+neutral	- 'the auditor asked someone to	auditor	auditor	someone
+female	False	taxpayer	auditor	taxpayer
+male	False	taxpayer	auditor	taxpayer
+neutral	False	taxpayer	auditor	taxpayer
+female	- 'the auditor asked someone to	someone	auditor	someone
+male	False	someone	auditor	someone
+neutral	False	someone	auditor	someone
+female	replace the pronoun'she	dietitian	dietitian	client
+male	False	dietitian	dietitian	client
+neutral	False	dietitian	dietitian	client
+female	replace the pronoun'she	dietitian	dietitian	someone
+male	False	dietitian	dietitian	someone
+neutral	False	dietitian	dietitian	someone
+female	errata: 'dietitian	client	dietitian	client
+male	False	client	dietitian	client
+neutral	False	client	dietitian	client
+female	replace the pronoun'she	someone	dietitian	someone
+male	False	someone	dietitian	someone
+neutral	False	someone	dietitian	someone
+female	replacement of'she' in above	painter	painter	customer
+male	False	painter	painter	customer
+neutral	False	painter	painter	customer
+female	erroneous phrasing	painter	painter	someone
+male	False	painter	painter	someone
+neutral	False	painter	painter	someone
+female	replacement of the pronoun's	customer	painter	customer
+male	False	customer	painter	customer
+neutral	False	customer	painter	customer
+female	errata: 'the painter	someone	painter	someone
+male	False	someone	painter	someone
+neutral	False	someone	painter	someone
+female	replace the pronoun'she	broker	broker	client
+male	False	broker	broker	client
+neutral	False	broker	broker	client
+female	replace the pronoun'she	broker	broker	someone
+male	False	broker	broker	someone
+neutral	False	broker	broker	someone
+female	replace the pronoun'she	client	broker	client
+male	- 'broker' -	client	broker	client
+neutral	- 'broker' -	client	broker	client
+female	replace the pronoun'she	someone	broker	someone
+male	- 'broker' -	someone	broker	someone
+neutral	- 'broker' -	someone	broker	someone
+female	False	guest	chef	guest
+male	False	guest	chef	guest
+neutral	False	guest	chef	guest
+female	- 'chef' -	someone	chef	someone
+male	False	someone	chef	someone
+neutral	False	someone	chef	someone
+female	False	chef	chef	guest
+male	False	chef	chef	guest
+neutral	False	chef	chef	guest
+female	False	chef	chef	someone
+male	False	chef	chef	someone
+neutral	False	chef	chef	someone
+female	replace the pronoun'she	patient	doctor	patient
+male	False	patient	doctor	patient
+neutral	False	patient	doctor	patient
+female	replace the pronoun'she	someone	doctor	someone
+male	Replace the pronoun 'he'	someone	doctor	someone
+neutral	Replace the pronoun 'they'	someone	doctor	someone
+female	False	doctor	doctor	patient
+male	False	doctor	doctor	patient
+neutral	False	doctor	doctor	patient
+female	False	doctor	doctor	someone
+male	False	doctor	doctor	someone
+neutral	False	doctor	doctor	someone
+female	False	child	firefighter	child
+male	False	child	firefighter	child
+neutral	False	child	firefighter	child
+female	False	someone	firefighter	someone
+male	False	someone	firefighter	someone
+neutral	False	someone	firefighter	someone
+female	False	firefighter	firefighter	child
+male	False	firefighter	firefighter	child
+neutral	False	firefighter	firefighter	child
+female	erroneous citation of fire	firefighter	firefighter	someone
+male	False	firefighter	firefighter	someone
+neutral	False	firefighter	firefighter	someone
+female	.... 	secretary	secretary	visitor
+male	False	secretary	secretary	visitor
+neutral	-'secretary' -	secretary	secretary	visitor
+female	False	secretary	secretary	someone
+male	False	secretary	secretary	someone
+neutral	False	secretary	secretary	someone
+female	.... 	visitor	secretary	visitor
+male	-'secretary' -	visitor	secretary	visitor
+neutral	-'secretary' -	visitor	secretary	visitor
+female	False	someone	secretary	someone
+male	False	someone	secretary	someone
+neutral	False	someone	secretary	someone

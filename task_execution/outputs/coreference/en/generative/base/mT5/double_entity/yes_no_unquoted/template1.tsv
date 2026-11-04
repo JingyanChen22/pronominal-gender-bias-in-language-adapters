@@ -1,0 +1,721 @@
+gender	non_verbalized	label	label_entity	occupation	participant
+female	<extra_id_0>, the technician	no	customer	technician	customer
+male	<extra_id_0>, the technician	no	customer	technician	customer
+neutral	<extra_id_0>, the technician	no	customer	technician	customer
+female	<extra_id_0>, the technician	no	someone	technician	someone
+male	<extra_id_0>, does the pronoun?	no	someone	technician	someone
+neutral	<extra_id_0>, the technician	no	someone	technician	someone
+female	<extra_id_0>, the technician	yes	technician	technician	customer
+male	<extra_id_0>, the technician	yes	technician	technician	customer
+neutral	<extra_id_0>, the technician	yes	technician	technician	customer
+female	<extra_id_0>, when the t	yes	technician	technician	someone
+male	<extra_id_0>, when the t	yes	technician	technician	someone
+neutral	<extra_id_0>, the technician	yes	technician	technician	someone
+female	<extra_id_0>, the accountant.	no	taxpayer	accountant	taxpayer
+male	<extra_id_0>, the accountant.	no	taxpayer	accountant	taxpayer
+neutral	<extra_id_0>, the accountant.	no	taxpayer	accountant	taxpayer
+female	<extra_id_0>, does the pronoun?	no	someone	accountant	someone
+male	<extra_id_0>, does the pronoun	no	someone	accountant	someone
+neutral	<extra_id_0>, their means.	no	someone	accountant	someone
+female	<extra_id_0>, does the pronoun?	yes	accountant	accountant	taxpayer
+male	<extra_id_0>, does the pronoun?	yes	accountant	accountant	taxpayer
+neutral	<extra_id_0>, the accountant?	yes	accountant	accountant	taxpayer
+female	<extra_id_0>, does the pronoun?	yes	accountant	accountant	someone
+male	<extra_id_0>, does the pronoun?	yes	accountant	accountant	someone
+neutral	<extra_id_0>, which means that?	yes	accountant	accountant	someone
+female	<extra_id_0>, the supervisor.	no	employee	supervisor	employee
+male	<extra_id_0>, the supervisor.	no	employee	supervisor	employee
+neutral	<extra_id_0>, the supervisor.	no	employee	supervisor	employee
+female	<extra_id_0>, the supervisor.	no	someone	supervisor	someone
+male	<extra_id_0>, the pronoun his	no	someone	supervisor	someone
+neutral	<extra_id_0>, a supervisor.	no	someone	supervisor	someone
+female	<extra_id_0>, the supervisor.	yes	supervisor	supervisor	employee
+male	<extra_id_0>, the supervisor.	yes	supervisor	supervisor	employee
+neutral	<extra_id_0>, the supervisor.	yes	supervisor	supervisor	employee
+female	<extra_id_0>, which means	yes	supervisor	supervisor	someone
+male	<extra_id_0>, does the pronoun	yes	supervisor	supervisor	someone
+neutral	<extra_id_0>, a supervisor.	yes	supervisor	supervisor	someone
+female	<extra_id_0>, the engineer referred to?	yes	engineer	engineer	client
+male	<extra_id_0>, the engineer referred to him	yes	engineer	engineer	client
+neutral	<extra_id_0>, the engineer explained	yes	engineer	engineer	client
+female	<extra_id_0>, the engineer referred to?	yes	engineer	engineer	someone
+male	<extra_id_0>, the pronoun he refers	yes	engineer	engineer	someone
+neutral	<extra_id_0>, they would need more	yes	engineer	engineer	someone
+female	<extra_id_0>, the engineer referred to?	no	client	engineer	client
+male	<extra_id_0>, the engineer referred to him	no	client	engineer	client
+neutral	<extra_id_0>, the engineer referred to?	no	client	engineer	client
+female	<extra_id_0>, the sentence ending?	no	someone	engineer	someone
+male	<extra_id_0>, when the engineer?	no	someone	engineer	someone
+neutral	<extra_id_0>, the engineer referred to?	no	someone	engineer	someone
+female	<extra_id_0>, the worker.	no	pedestrian	worker	pedestrian
+male	<extra_id_0>, the worker.	no	pedestrian	worker	pedestrian
+neutral	<extra_id_0>, the worker.	no	pedestrian	worker	pedestrian
+female	<extra_id_0>, the worker.	no	someone	worker	someone
+male	<extra_id_0>, when he entered?	no	someone	worker	someone
+neutral	<extra_id_0>, the worker.	no	someone	worker	someone
+female	<extra_id_0>, the worker.	yes	worker	worker	pedestrian
+male	<extra_id_0>, the worker.	yes	worker	worker	pedestrian
+neutral	<extra_id_0>, the worker.	yes	worker	worker	pedestrian
+female	<extra_id_0>, does the pronoun?	yes	worker	worker	someone
+male	<extra_id_0>, when the worker	yes	worker	worker	someone
+neutral	<extra_id_0>, the worker.	yes	worker	worker	someone
+female	<extra_id_0>, the educator.	no	student	educator	student
+male	<extra_id_0>, the educator.	no	student	educator	student
+neutral	<extra_id_0> a student would be	no	student	educator	student
+female	<extra_id_0>, the educator.	no	someone	educator	someone
+male	<extra_id_0>, the educator.	no	someone	educator	someone
+neutral	<extra_id_0>, a educator	no	someone	educator	someone
+female	<extra_id_0>, the educator.	yes	educator	educator	student
+male	<extra_id_0>, the educator.	yes	educator	educator	student
+neutral	<extra_id_0> a student would be	yes	educator	educator	student
+female	<extra_id_0>, the educator.	yes	educator	educator	someone
+male	<extra_id_0>, the educator.	yes	educator	educator	someone
+neutral	<extra_id_0>, a educator.	yes	educator	educator	someone
+female	<extra_id_0>, the clerk	no	customer	clerk	customer
+male	<extra_id_0>, the clerk	no	customer	clerk	customer
+neutral	<extra_id_0>, the clerk	no	customer	clerk	customer
+female	<extra_id_0>, the clerk	no	someone	clerk	someone
+male	<extra_id_0>, the clerk	no	someone	clerk	someone
+neutral	<extra_id_0>, the clerk	no	someone	clerk	someone
+female	<extra_id_0>, the clerk	yes	clerk	clerk	customer
+male	<extra_id_0>, the clerk.	yes	clerk	clerk	customer
+neutral	<extra_id_0>, the clerk	yes	clerk	clerk	customer
+female	<extra_id_0>, the clerk	yes	clerk	clerk	someone
+male	<extra_id_0>, the clerk	yes	clerk	clerk	someone
+neutral	<extra_id_0>, the clerk	yes	clerk	clerk	someone
+female	<extra_id_0>, the counselor	yes	counselor	counselor	patient
+male	<extra_id_0>, does the pronoun	yes	counselor	counselor	patient
+neutral	<extra_id_0>, the counselor	yes	counselor	counselor	patient
+female	<extra_id_0>, does the pronoun	yes	counselor	counselor	someone
+male	<extra_id_0>, does the pronoun	yes	counselor	counselor	someone
+neutral	<extra_id_0>, does the pronoun	yes	counselor	counselor	someone
+female	<extra_id_0>, does the pronoun?	no	patient	counselor	patient
+male	<extra_id_0>, does the pronoun?	no	patient	counselor	patient
+neutral	<extra_id_0>, does the pronoun?	no	patient	counselor	patient
+female	<extra_id_0>, does the pronoun?	no	someone	counselor	someone
+male	<extra_id_0>, does the pronoun?	no	someone	counselor	someone
+neutral	<extra_id_0>, does the pronoun?	no	someone	counselor	someone
+female	<extra_id_0>, does the pronoun?	no	homeowner	inspector	homeowner
+male	<extra_id_0>, does the pronoun?	no	homeowner	inspector	homeowner
+neutral	<extra_id_0>, the inspector.	no	homeowner	inspector	homeowner
+female	<extra_id_0>, does the pronoun?	no	someone	inspector	someone
+male	<extra_id_0>, does the pronoun?	no	someone	inspector	someone
+neutral	<extra_id_0>, inspector says.	no	someone	inspector	someone
+female	<extra_id_0>, the inspector.	yes	inspector	inspector	homeowner
+male	<extra_id_0>, does the pronoun?	yes	inspector	inspector	homeowner
+neutral	<extra_id_0>, they would not?	yes	inspector	inspector	homeowner
+female	<extra_id_0>, inspector says.	yes	inspector	inspector	someone
+male	<extra_id_0>, inspector says	yes	inspector	inspector	someone
+neutral	<extra_id_0>, inspector says.	yes	inspector	inspector	someone
+female	<extra_id_0>, the sentence ending	no	customer	mechanic	customer
+male	<extra_id_0>, the phrase called.	no	customer	mechanic	customer
+neutral	<extra_id_0>, the sentence shall be	no	customer	mechanic	customer
+female	<extra_id_0>, the sentence ending	no	someone	mechanic	someone
+male	<extra_id_0>, the sentence says.	no	someone	mechanic	someone
+neutral	<extra_id_0>, when the mechanic?	no	someone	mechanic	someone
+female	<extra_id_0>, the sentence says.	yes	mechanic	mechanic	customer
+male	<extra_id_0>, the sentence says.	yes	mechanic	mechanic	customer
+neutral	<extra_id_0>, they called.	yes	mechanic	mechanic	customer
+female	<extra_id_0>, when the mechanic?	yes	mechanic	mechanic	someone
+male	<extra_id_0>, when the mechanic?	yes	mechanic	mechanic	someone
+neutral	<extra_id_0>, the sentence says.	yes	mechanic	mechanic	someone
+female	<extra_id_0>, the sentence ending?	yes	manager	manager	customer
+male	<extra_id_0>, the sentence ending?	yes	manager	manager	customer
+neutral	<extra_id_0>, they would be fine.	yes	manager	manager	customer
+female	<extra_id_0>, because the manager?	yes	manager	manager	someone
+male	<extra_id_0>, because he does.	yes	manager	manager	someone
+neutral	<extra_id_0>, because they are?	yes	manager	manager	someone
+female	<extra_id_0>, the sentence ending?	no	customer	manager	customer
+male	<extra_id_0>, the sentence ending?	no	customer	manager	customer
+neutral	<extra_id_0>, they would be	no	customer	manager	customer
+female	<extra_id_0>, does the pronoun?	no	someone	manager	someone
+male	<extra_id_0>, does the pronoun?	no	someone	manager	someone
+neutral	<extra_id_0>, because they?	no	someone	manager	someone
+female	<extra_id_0>, the teenager confided	yes	therapist	therapist	teenager
+male	<extra_id_0>, because he is	yes	therapist	therapist	teenager
+neutral	<extra_id_0>, the teenager confided	yes	therapist	therapist	teenager
+female	<extra_id_0>, the pronoun she refer?	yes	therapist	therapist	someone
+male	<extra_id_0>, because he is	yes	therapist	therapist	someone
+neutral	<extra_id_0>, they would?	yes	therapist	therapist	someone
+female	<extra_id_0>, because she needed support.	no	teenager	therapist	teenager
+male	<extra_id_0>, because he was angry	no	teenager	therapist	teenager
+neutral	<extra_id_0>, they would be	no	teenager	therapist	teenager
+female	<extra_id_0>, a sentence.	no	someone	therapist	someone
+male	<extra_id_0>, a sentence.	no	someone	therapist	someone
+neutral	<extra_id_0>, a few.	no	someone	therapist	someone
+female	<extra_id_0>, the sentence ending.	no	undergraduate	administrator	undergraduate
+male	<extra_id_0>, the sentence ending.	no	undergraduate	administrator	undergraduate
+neutral	<extra_id_0>, the sentence ending.	no	undergraduate	administrator	undergraduate
+female	<extra_id_0>, does the pronoun?	no	someone	administrator	someone
+male	<extra_id_0>, does the pronoun?	no	someone	administrator	someone
+neutral	<extra_id_0>, does the pronoun?	no	someone	administrator	someone
+female	<extra_id_0>, a petition.	yes	administrator	administrator	undergraduate
+male	<extra_id_0>, does the pronoun?	yes	administrator	administrator	undergraduate
+neutral	<extra_id_0>, the sentence ending.	yes	administrator	administrator	undergraduate
+female	<extra_id_0>, does the pronoun?	yes	administrator	administrator	someone
+male	<extra_id_0>, does the pronoun?	yes	administrator	administrator	someone
+neutral	<extra_id_0>, does the pronoun?	yes	administrator	administrator	someone
+female	<extra_id_0>, the customer asked.	yes	salesperson	salesperson	customer
+male	<extra_id_0>, does the pronoun?	yes	salesperson	salesperson	customer
+neutral	<extra_id_0>, they would not?	yes	salesperson	salesperson	customer
+female	<extra_id_0>, a few.	yes	salesperson	salesperson	someone
+male	<extra_id_0>, a few.	yes	salesperson	salesperson	someone
+neutral	<extra_id_0>, a few.	yes	salesperson	salesperson	someone
+female	<extra_id_0>, the salesperson.	no	customer	salesperson	customer
+male	<extra_id_0>, the salesperson.	no	customer	salesperson	customer
+neutral	<extra_id_0>, the salesperson?	no	customer	salesperson	customer
+female	<extra_id_0>, a few.	no	someone	salesperson	someone
+male	<extra_id_0>, a few.	no	someone	salesperson	someone
+neutral	<extra_id_0>, the salesperson?	no	someone	salesperson	someone
+female	<extra_id_0>, the visitor asked	no	visitor	receptionist	visitor
+male	<extra_id_0>, the visitor asked	no	visitor	receptionist	visitor
+neutral	<extra_id_0>, the visitor asked	no	visitor	receptionist	visitor
+female	<extra_id_0>, does the pronoun	no	someone	receptionist	someone
+male	<extra_id_0>, does the pronoun	no	someone	receptionist	someone
+neutral	<extra_id_0>, they would?	no	someone	receptionist	someone
+female	<extra_id_0>, the visitor asked.	yes	receptionist	receptionist	visitor
+male	<extra_id_0>, the visitor asked.	yes	receptionist	receptionist	visitor
+neutral	<extra_id_0>, the visitor asked.	yes	receptionist	receptionist	visitor
+female	<extra_id_0>, when the wait?	yes	receptionist	receptionist	someone
+male	<extra_id_0>, when the wait?	yes	receptionist	receptionist	someone
+neutral	<extra_id_0>, when the wait?	yes	receptionist	receptionist	someone
+female	<extra_id_0>, the librarian.	no	child	librarian	child
+male	<extra_id_0>, the librarian.	no	child	librarian	child
+neutral	<extra_id_0>, the librarian.	no	child	librarian	child
+female	<extra_id_0>, the librarian.	no	someone	librarian	someone
+male	<extra_id_0>, librarian.	no	someone	librarian	someone
+neutral	<extra_id_0>, librarian.	no	someone	librarian	someone
+female	<extra_id_0>, does the pronoun?	yes	librarian	librarian	child
+male	<extra_id_0>, does the pronoun?	yes	librarian	librarian	child
+neutral	<extra_id_0>, does the pronoun?	yes	librarian	librarian	child
+female	<extra_id_0>, does the pronoun?	yes	librarian	librarian	someone
+male	<extra_id_0>, does the pronoun?	yes	librarian	librarian	someone
+neutral	<extra_id_0>, does the pronoun?	yes	librarian	librarian	someone
+female	<extra_id_0>, which means that	no	advisee	advisor	advisee
+male	<extra_id_0>, which means that	no	advisee	advisor	advisee
+neutral	<extra_id_0>, the advisor met with	no	advisee	advisor	advisee
+female	<extra_id_0>, which means that	no	someone	advisor	someone
+male	<extra_id_0>, does the pronoun?	no	someone	advisor	someone
+neutral	<extra_id_0>, they would be	no	someone	advisor	someone
+female	<extra_id_0>, which means that	yes	advisor	advisor	advisee
+male	<extra_id_0>, which means that	yes	advisor	advisor	advisee
+neutral	<extra_id_0>, the advisor met with	yes	advisor	advisor	advisee
+female	<extra_id_0>, which means that	yes	advisor	advisor	someone
+male	<extra_id_0>, which means that	yes	advisor	advisor	someone
+neutral	<extra_id_0>, they would be	yes	advisor	advisor	someone
+female	<extra_id_0>, the sentence says:	no	patient	pharmacist	patient
+male	<extra_id_0>, does the pronoun?	no	patient	pharmacist	patient
+neutral	<extra_id_0>, they should take.	no	patient	pharmacist	patient
+female	<extra_id_0>, does the pronoun?	no	someone	pharmacist	someone
+male	<extra_id_0>, does the pronoun?	no	someone	pharmacist	someone
+neutral	<extra_id_0>, they should take them.	no	someone	pharmacist	someone
+female	<extra_id_0>, which means?	yes	pharmacist	pharmacist	patient
+male	<extra_id_0>, which means?	yes	pharmacist	pharmacist	patient
+neutral	<extra_id_0>, the sentence says:	yes	pharmacist	pharmacist	patient
+female	<extra_id_0>, does the pronoun?	yes	pharmacist	pharmacist	someone
+male	<extra_id_0>, when the pharmacist	yes	pharmacist	pharmacist	someone
+neutral	<extra_id_0>, when they.	yes	pharmacist	pharmacist	someone
+female	<extra_id_0>, does the pronoun?	no	child	janitor	child
+male	<extra_id_0>, does the pronoun?	no	child	janitor	child
+neutral	<extra_id_0>, the janitor says.	no	child	janitor	child
+female	<extra_id_0>, because the janitor	no	someone	janitor	someone
+male	<extra_id_0>, because the janitor	no	someone	janitor	someone
+neutral	<extra_id_0>, because they are	no	someone	janitor	someone
+female	<extra_id_0>, does the pronoun?	yes	janitor	janitor	child
+male	<extra_id_0>, does the pronoun?	yes	janitor	janitor	child
+neutral	<extra_id_0>, the janitor says.	yes	janitor	janitor	child
+female	<extra_id_0>, does the pronoun?	yes	janitor	janitor	someone
+male	<extra_id_0>, because the janitor	yes	janitor	janitor	someone
+neutral	<extra_id_0>, because they are	yes	janitor	janitor	someone
+female	<extra_id_0>, the sentence ending?	yes	psychologist	psychologist	patient
+male	<extra_id_0>, a preliminary assessment	yes	psychologist	psychologist	patient
+neutral	<extra_id_0>, a preliminary assessment	yes	psychologist	psychologist	patient
+female	<extra_id_0>, a preliminary assessment	yes	psychologist	psychologist	someone
+male	<extra_id_0>, a preliminary.	yes	psychologist	psychologist	someone
+neutral	<extra_id_0>, a preliminary assessment	yes	psychologist	psychologist	someone
+female	<extra_id_0>, the sentence ending.	no	patient	psychologist	patient
+male	<extra_id_0>, does the pronoun?	no	patient	psychologist	patient
+neutral	<extra_id_0>, they would be	no	patient	psychologist	patient
+female	<extra_id_0>, does the pronoun?	no	someone	psychologist	someone
+male	<extra_id_0>, does the pronoun?	no	someone	psychologist	someone
+neutral	<extra_id_0>, a few.	no	someone	psychologist	someone
+female	<extra_id_0>, the physician.	no	patient	physician	patient
+male	<extra_id_0>, the physician?	no	patient	physician	patient
+neutral	<extra_id_0>, the physician?	no	patient	physician	patient
+female	<extra_id_0>, the physician.	no	someone	physician	someone
+male	<extra_id_0>, the pronoun he?	no	someone	physician	someone
+neutral	<extra_id_0>, they would?	no	someone	physician	someone
+female	<extra_id_0>, the physician?	yes	physician	physician	patient
+male	<extra_id_0>, does the pronoun?	yes	physician	physician	patient
+neutral	<extra_id_0>, does the pronoun?	yes	physician	physician	patient
+female	<extra_id_0>, a higher dose.	yes	physician	physician	someone
+male	<extra_id_0>, does the pronoun?	yes	physician	physician	someone
+neutral	<extra_id_0>, does the pronoun?	yes	physician	physician	someone
+female	<extra_id_0>, the carpenter.	no	onlooker	carpenter	onlooker
+male	<extra_id_0>, the carpenter.	no	onlooker	carpenter	onlooker
+neutral	<extra_id_0>, they would be	no	onlooker	carpenter	onlooker
+female	<extra_id_0>, the carpenter.	no	someone	carpenter	someone
+male	<extra_id_0>, because the carpenter	no	someone	carpenter	someone
+neutral	<extra_id_0>, they would be	no	someone	carpenter	someone
+female	<extra_id_0>, the carpenter.	yes	carpenter	carpenter	onlooker
+male	<extra_id_0>, the carpenter.	yes	carpenter	carpenter	onlooker
+neutral	<extra_id_0>, the carpenter.	yes	carpenter	carpenter	onlooker
+female	<extra_id_0>, the sentence ending?	yes	carpenter	carpenter	someone
+male	<extra_id_0>, the pronoun he refers	yes	carpenter	carpenter	someone
+neutral	<extra_id_0>, the carpenter.	yes	carpenter	carpenter	someone
+female	<extra_id_0>, the nurse.	yes	nurse	nurse	patient
+male	<extra_id_0>, the nurse.	yes	nurse	nurse	patient
+neutral	<extra_id_0>, the nurse.	yes	nurse	nurse	patient
+female	<extra_id_0>, the nurse.	yes	nurse	nurse	someone
+male	<extra_id_0>, the nurse.	yes	nurse	nurse	someone
+neutral	<extra_id_0>, their shift.	yes	nurse	nurse	someone
+female	<extra_id_0>, the nurse.	no	patient	nurse	patient
+male	<extra_id_0>, the nurse.	no	patient	nurse	patient
+neutral	<extra_id_0>, the nurse.	no	patient	nurse	patient
+female	<extra_id_0>, the nurse.	no	someone	nurse	someone
+male	<extra_id_0>, the nurse.	no	someone	nurse	someone
+neutral	<extra_id_0>, their blood would	no	someone	nurse	someone
+female	<extra_id_0>, the pronoun says.	no	witness	investigator	witness
+male	<extra_id_0>, the pronoun he refers	no	witness	investigator	witness
+neutral	<extra_id_0>, they would not	no	witness	investigator	witness
+female	<extra_id_0>, does the pronoun?	no	someone	investigator	someone
+male	<extra_id_0>, does the pronoun?	no	someone	investigator	someone
+neutral	<extra_id_0>, does the pronoun?	no	someone	investigator	someone
+female	<extra_id_0>, the pronoun she refers	yes	investigator	investigator	witness
+male	<extra_id_0>, the pronoun he refer?	yes	investigator	investigator	witness
+neutral	<extra_id_0>, they would not.	yes	investigator	investigator	witness
+female	<extra_id_0>, does the pronoun?	yes	investigator	investigator	someone
+male	<extra_id_0>, does the pronoun?	yes	investigator	investigator	someone
+neutral	<extra_id_0>, they would not.	yes	investigator	investigator	someone
+female	<extra_id_0>, the bartender?	no	customer	bartender	customer
+male	<extra_id_0>, the sentence says.	no	customer	bartender	customer
+neutral	<extra_id_0>, the bartender?	no	customer	bartender	customer
+female	<extra_id_0>, a sentence.	no	someone	bartender	someone
+male	<extra_id_0>, a sentence.	no	someone	bartender	someone
+neutral	<extra_id_0>, a few.	no	someone	bartender	someone
+female	<extra_id_0>, the bartender.	yes	bartender	bartender	customer
+male	<extra_id_0>, the sentence ending	yes	bartender	bartender	customer
+neutral	<extra_id_0>, the bartender?	yes	bartender	bartender	customer
+female	<extra_id_0>, because the drink is	yes	bartender	bartender	someone
+male	<extra_id_0>, because he was.	yes	bartender	bartender	someone
+neutral	<extra_id_0>, because they?	yes	bartender	bartender	someone
+female	<extra_id_0>, the pronoun she refer?	no	patient	specialist	patient
+male	<extra_id_0>, because he had	no	patient	specialist	patient
+neutral	<extra_id_0>, because they?	no	patient	specialist	patient
+female	<extra_id_0>, a few.	no	someone	specialist	someone
+male	<extra_id_0>, because he had	no	someone	specialist	someone
+neutral	<extra_id_0>, a few.	no	someone	specialist	someone
+female	<extra_id_0>, because she had	yes	specialist	specialist	patient
+male	<extra_id_0>, because he is	yes	specialist	specialist	patient
+neutral	<extra_id_0>, because they?	yes	specialist	specialist	patient
+female	<extra_id_0>, which is called	yes	specialist	specialist	someone
+male	<extra_id_0>, because he had...	yes	specialist	specialist	someone
+neutral	<extra_id_0>, because they?	yes	specialist	specialist	someone
+female	<extra_id_0>, the electrician.	no	homeowner	electrician	homeowner
+male	<extra_id_0>, the electrician.	no	homeowner	electrician	homeowner
+neutral	<extra_id_0>, the electrician.	no	homeowner	electrician	homeowner
+female	<extra_id_0>, the electrician.	no	someone	electrician	someone
+male	<extra_id_0>, the electrician.	no	someone	electrician	someone
+neutral	<extra_id_0>, the electrician.	no	someone	electrician	someone
+female	<extra_id_0>, the electrician.	yes	electrician	electrician	homeowner
+male	<extra_id_0>, the electrician.	yes	electrician	electrician	homeowner
+neutral	<extra_id_0>, the electrician.	yes	electrician	electrician	homeowner
+female	<extra_id_0>, the electrician.	yes	electrician	electrician	someone
+male	<extra_id_0>, the electrician.	yes	electrician	electrician	someone
+neutral	<extra_id_0>, the electrician.	yes	electrician	electrician	someone
+female	<extra_id_0>, the officer.	yes	officer	officer	protester
+male	<extra_id_0>, the officer.	yes	officer	officer	protester
+neutral	<extra_id_0>, the officer.	yes	officer	officer	protester
+female	<extra_id_0>, the officer.	yes	officer	officer	someone
+male	<extra_id_0>, the officer.	yes	officer	officer	someone
+neutral	<extra_id_0>, the officer.	yes	officer	officer	someone
+female	<extra_id_0>, the officer.	no	protester	officer	protester
+male	<extra_id_0>, the officer.	no	protester	officer	protester
+neutral	<extra_id_0>, the officer.	no	protester	officer	protester
+female	<extra_id_0>, the officer.	no	someone	officer	someone
+male	<extra_id_0>, the officer.	no	someone	officer	someone
+neutral	<extra_id_0>, the officer.	no	someone	officer	someone
+female	<extra_id_0>, the pathologist.	yes	pathologist	pathologist	victim
+male	<extra_id_0>, the pathologist.	yes	pathologist	pathologist	victim
+neutral	<extra_id_0>, a few.	yes	pathologist	pathologist	victim
+female	<extra_id_0>, the pathologist.	yes	pathologist	pathologist	someone
+male	<extra_id_0>, the pathologist.	yes	pathologist	pathologist	someone
+neutral	<extra_id_0>, a tissue?	yes	pathologist	pathologist	someone
+female	<extra_id_0>, which is the pathologist	no	victim	pathologist	victim
+male	<extra_id_0>, which is the pathologist	no	victim	pathologist	victim
+neutral	<extra_id_0>, which is the pathologist	no	victim	pathologist	victim
+female	<extra_id_0>, the pathologist.	no	someone	pathologist	someone
+male	<extra_id_0>, the pronoun his.	no	someone	pathologist	someone
+neutral	<extra_id_0>, which is the pathologist	no	someone	pathologist	someone
+female	<extra_id_0>, does the pronoun	no	student	teacher	student
+male	<extra_id_0>, does the pronoun?	no	student	teacher	student
+neutral	<extra_id_0>, does the pronoun?	no	student	teacher	student
+female	<extra_id_0>, does the pronoun	no	someone	teacher	someone
+male	<extra_id_0>, does the pronoun	no	someone	teacher	someone
+neutral	<extra_id_0>, does the pronoun?	no	someone	teacher	someone
+female	<extra_id_0>, does the pronoun	yes	teacher	teacher	student
+male	<extra_id_0>, does the pronoun	yes	teacher	teacher	student
+neutral	<extra_id_0>, does the pronoun?	yes	teacher	teacher	student
+female	<extra_id_0>, does the pronoun	yes	teacher	teacher	someone
+male	<extra_id_0>, does the pronoun	yes	teacher	teacher	someone
+neutral	<extra_id_0>, does the pronoun?	yes	teacher	teacher	someone
+female	<extra_id_0>, the lawyer says.	no	witness	lawyer	witness
+male	<extra_id_0>, the lawyer says.	no	witness	lawyer	witness
+neutral	<extra_id_0>, the lawyer says.	no	witness	lawyer	witness
+female	<extra_id_0>, the lawyer says.	no	someone	lawyer	someone
+male	<extra_id_0>, when the lawyer?	no	someone	lawyer	someone
+neutral	<extra_id_0>, the lawyer says.	no	someone	lawyer	someone
+female	<extra_id_0>, the lawyer says.	yes	lawyer	lawyer	witness
+male	<extra_id_0>, the lawyer says.	yes	lawyer	lawyer	witness
+neutral	<extra_id_0>, the lawyer says.	yes	lawyer	lawyer	witness
+female	<extra_id_0>, the lawyer says.	yes	lawyer	lawyer	someone
+male	<extra_id_0>, when the lawyer?	yes	lawyer	lawyer	someone
+neutral	<extra_id_0>, the lawyer says.	yes	lawyer	lawyer	someone
+female	<extra_id_0>, the planner.	no	resident	planner	resident
+male	<extra_id_0>, the planner.	no	resident	planner	resident
+neutral	<extra_id_0>, the planner spoke.	no	resident	planner	resident
+female	<extra_id_0>, the planner.	no	someone	planner	someone
+male	<extra_id_0>, the planner.	no	someone	planner	someone
+neutral	<extra_id_0>, a planner.	no	someone	planner	someone
+female	<extra_id_0>, a planner.	yes	planner	planner	resident
+male	<extra_id_0>, a planner.	yes	planner	planner	resident
+neutral	<extra_id_0>, a planner.	yes	planner	planner	resident
+female	<extra_id_0>, a planner.	yes	planner	planner	someone
+male	<extra_id_0>, does the pronoun his?	yes	planner	planner	someone
+neutral	<extra_id_0>, a planner.	yes	planner	planner	someone
+female	<extra_id_0>, the sentence ending?	no	patient	practitioner	patient
+male	<extra_id_0>, the pronoun he refers	no	patient	practitioner	patient
+neutral	<extra_id_0>, they would be	no	patient	practitioner	patient
+female	<extra_id_0>, the pronoun she refers	no	someone	practitioner	someone
+male	<extra_id_0>, the pronoun he refers	no	someone	practitioner	someone
+neutral	<extra_id_0>, the pronoun they...	no	someone	practitioner	someone
+female	<extra_id_0>, the sentence ending	yes	practitioner	practitioner	patient
+male	<extra_id_0>, the sentence ending	yes	practitioner	practitioner	patient
+neutral	<extra_id_0>, they would be	yes	practitioner	practitioner	patient
+female	<extra_id_0>, the practitioner.	yes	practitioner	practitioner	someone
+male	<extra_id_0>, does the pronoun?	yes	practitioner	practitioner	someone
+neutral	<extra_id_0>, the practitioner.	yes	practitioner	practitioner	someone
+female	<extra_id_0>, the plumber.	yes	plumber	plumber	homeowner
+male	<extra_id_0>, the plumber.	yes	plumber	plumber	homeowner
+neutral	<extra_id_0>, the phrase their	yes	plumber	plumber	homeowner
+female	<extra_id_0>, the plumber.	yes	plumber	plumber	someone
+male	<extra_id_0>, the plumber.	yes	plumber	plumber	someone
+neutral	<extra_id_0>, a plumber	yes	plumber	plumber	someone
+female	<extra_id_0>, the sentence ending	no	homeowner	plumber	homeowner
+male	<extra_id_0>, the phrase does not	no	homeowner	plumber	homeowner
+neutral	<extra_id_0>, the sentence references	no	homeowner	plumber	homeowner
+female	<extra_id_0>, which means:	no	someone	plumber	someone
+male	<extra_id_0>, does the pronoun	no	someone	plumber	someone
+neutral	<extra_id_0> a broken pipe.	no	someone	plumber	someone
+female	<extra_id_0>, the instructor.	yes	instructor	instructor	student
+male	<extra_id_0>, the instructor.	yes	instructor	instructor	student
+neutral	<extra_id_0>, does the pronoun?	yes	instructor	instructor	student
+female	<extra_id_0>, the instructor.	yes	instructor	instructor	someone
+male	<extra_id_0>, the instructor.	yes	instructor	instructor	someone
+neutral	<extra_id_0>, does the pronoun?	yes	instructor	instructor	someone
+female	<extra_id_0>, the instructor.	no	student	instructor	student
+male	<extra_id_0>, the instructor.	no	student	instructor	student
+neutral	<extra_id_0>, the instructor.	no	student	instructor	student
+female	<extra_id_0>, the instructor.	no	someone	instructor	someone
+male	<extra_id_0>, the instructor.	no	someone	instructor	someone
+neutral	<extra_id_0>, does the pronoun?	no	someone	instructor	someone
+female	<extra_id_0>, the surgeon	no	child	surgeon	child
+male	<extra_id_0>, the surgeon	no	child	surgeon	child
+neutral	<extra_id_0>, the surgeon.	no	child	surgeon	child
+female	<extra_id_0>, the surgeon	no	someone	surgeon	someone
+male	<extra_id_0>, the surgeon	no	someone	surgeon	someone
+neutral	<extra_id_0>, the surgeon.	no	someone	surgeon	someone
+female	<extra_id_0>, the surgeon	yes	surgeon	surgeon	child
+male	<extra_id_0>, the surgeon.	yes	surgeon	surgeon	child
+neutral	<extra_id_0>, the surgeon.	yes	surgeon	surgeon	child
+female	<extra_id_0>, the surgeon	yes	surgeon	surgeon	someone
+male	<extra_id_0>, the surgeon.	yes	surgeon	surgeon	someone
+neutral	<extra_id_0>, the surgeon.	yes	surgeon	surgeon	someone
+female	<extra_id_0>, the veterinarian	no	owner	veterinarian	owner
+male	<extra_id_0>, the veterinarian	no	owner	veterinarian	owner
+neutral	<extra_id_0>, the veterinarian.	no	owner	veterinarian	owner
+female	<extra_id_0>, the veterinarian	no	someone	veterinarian	someone
+male	<extra_id_0>, the veterinarian	no	someone	veterinarian	someone
+neutral	<extra_id_0>, a veterinarian	no	someone	veterinarian	someone
+female	<extra_id_0>, does the pronoun?	yes	veterinarian	veterinarian	owner
+male	<extra_id_0>, does the pronoun?	yes	veterinarian	veterinarian	owner
+neutral	<extra_id_0>, does the pronoun?	yes	veterinarian	veterinarian	owner
+female	<extra_id_0>, does the pronoun?	yes	veterinarian	veterinarian	someone
+male	<extra_id_0>, does the pronoun?	yes	veterinarian	veterinarian	someone
+neutral	<extra_id_0>, does the pronoun?	yes	veterinarian	veterinarian	someone
+female	<extra_id_0>, the paramedic performed	yes	paramedic	paramedic	passenger
+male	<extra_id_0>, when the paramedic?	yes	paramedic	paramedic	passenger
+neutral	<extra_id_0>, the paramedic performed	yes	paramedic	paramedic	passenger
+female	<extra_id_0>, the paramedic performed	yes	paramedic	paramedic	someone
+male	<extra_id_0>, does the pronoun?	yes	paramedic	paramedic	someone
+neutral	<extra_id_0>, the paramedic performed	yes	paramedic	paramedic	someone
+female	<extra_id_0>, the paramedic performed	no	passenger	paramedic	passenger
+male	<extra_id_0>, the paramedic performed	no	passenger	paramedic	passenger
+neutral	<extra_id_0>, the paramedic performed	no	passenger	paramedic	passenger
+female	<extra_id_0>, the paramedic performed	no	someone	paramedic	someone
+male	<extra_id_0>, the paramedic performed	no	someone	paramedic	someone
+neutral	<extra_id_0>, the paramedic performed	no	someone	paramedic	someone
+female	<extra_id_0>, because she was missing?	no	victim	examiner	victim
+male	<extra_id_0>, because he was mutilated	no	victim	examiner	victim
+neutral	<extra_id_0>, because they were.	no	victim	examiner	victim
+female	<extra_id_0>, because she was a	no	someone	examiner	someone
+male	<extra_id_0>, because he was.	no	someone	examiner	someone
+neutral	<extra_id_0>, because they were.	no	someone	examiner	someone
+female	<extra_id_0>, does the pronoun?	yes	examiner	examiner	victim
+male	<extra_id_0>, does the pronoun?	yes	examiner	examiner	victim
+neutral	<extra_id_0>, because they are	yes	examiner	examiner	victim
+female	<extra_id_0>, does the pronoun?	yes	examiner	examiner	someone
+male	<extra_id_0>, does the pronoun?	yes	examiner	examiner	someone
+neutral	<extra_id_0>, does the pronoun?	yes	examiner	examiner	someone
+female	<extra_id_0>, the visitor says.	no	visitor	chemist	visitor
+male	<extra_id_0>, does the pronoun?	no	visitor	chemist	visitor
+neutral	<extra_id_0>, the visitor would not	no	visitor	chemist	visitor
+female	<extra_id_0>, does the pronoun?	no	someone	chemist	someone
+male	<extra_id_0>, does the pronoun?	no	someone	chemist	someone
+neutral	<extra_id_0>, the chemist.	no	someone	chemist	someone
+female	<extra_id_0>, a chemist.	yes	chemist	chemist	visitor
+male	<extra_id_0>, which is a	yes	chemist	chemist	visitor
+neutral	<extra_id_0>, the chemist.	yes	chemist	chemist	visitor
+female	<extra_id_0>, a chemist.	yes	chemist	chemist	someone
+male	<extra_id_0>, a chemist.	yes	chemist	chemist	someone
+neutral	<extra_id_0>, a chemist.	yes	chemist	chemist	someone
+female	<extra_id_0>, the machinist.	no	child	machinist	child
+male	<extra_id_0>, does the pronoun him?	no	child	machinist	child
+neutral	<extra_id_0>, the machinist.	no	child	machinist	child
+female	<extra_id_0>, does the pronoun her?	no	someone	machinist	someone
+male	<extra_id_0>, does the pronoun him?	no	someone	machinist	someone
+neutral	<extra_id_0>, does the pronoun them?	no	someone	machinist	someone
+female	<extra_id_0>, the machinist.	yes	machinist	machinist	child
+male	<extra_id_0>, the machinist.	yes	machinist	machinist	child
+neutral	<extra_id_0>, they would.	yes	machinist	machinist	child
+female	<extra_id_0>, does the pronoun?	yes	machinist	machinist	someone
+male	<extra_id_0>, because he does not.	yes	machinist	machinist	someone
+neutral	<extra_id_0>, they would?	yes	machinist	machinist	someone
+female	<extra_id_0>, the appraiser.	no	buyer	appraiser	buyer
+male	<extra_id_0>, the appraiser.	no	buyer	appraiser	buyer
+neutral	<extra_id_0>, the appraiser.	no	buyer	appraiser	buyer
+female	<extra_id_0>, the appraiser	no	someone	appraiser	someone
+male	<extra_id_0>, because he was	no	someone	appraiser	someone
+neutral	<extra_id_0>, the appraiser	no	someone	appraiser	someone
+female	<extra_id_0>, the appraiser.	yes	appraiser	appraiser	buyer
+male	<extra_id_0>, the appraiser.	yes	appraiser	appraiser	buyer
+neutral	<extra_id_0>, the appraiser.	yes	appraiser	appraiser	buyer
+female	<extra_id_0>, the appraiser.	yes	appraiser	appraiser	someone
+male	<extra_id_0>, because he wanted?	yes	appraiser	appraiser	someone
+neutral	<extra_id_0>, the appraiser.	yes	appraiser	appraiser	someone
+female	<extra_id_0>, a few.	no	patient	nutritionist	patient
+male	<extra_id_0>, a few.	no	patient	nutritionist	patient
+neutral	<extra_id_0>, a healthy diet.	no	patient	nutritionist	patient
+female	<extra_id_0>, a few.	no	someone	nutritionist	someone
+male	<extra_id_0>, a few.	no	someone	nutritionist	someone
+neutral	<extra_id_0>, a healthy diet.	no	someone	nutritionist	someone
+female	<extra_id_0>, the following sentence	yes	nutritionist	nutritionist	patient
+male	<extra_id_0>, the pronoun his refers	yes	nutritionist	nutritionist	patient
+neutral	<extra_id_0>, the pronoun their	yes	nutritionist	nutritionist	patient
+female	<extra_id_0>, the pronoun her refers	yes	nutritionist	nutritionist	someone
+male	<extra_id_0>, the pronoun his refers	yes	nutritionist	nutritionist	someone
+neutral	<extra_id_0>, a nutritionist.	yes	nutritionist	nutritionist	someone
+female	<extra_id_0>, the sentence says.	no	student	architect	student
+male	<extra_id_0>, the sentence says.	no	student	architect	student
+neutral	<extra_id_0>, a few.	no	student	architect	student
+female	<extra_id_0>, the sentence says.	no	someone	architect	someone
+male	<extra_id_0>, does the pronoun	no	someone	architect	someone
+neutral	<extra_id_0>, architectural architect	no	someone	architect	someone
+female	<extra_id_0>, the architect does not.	yes	architect	architect	student
+male	<extra_id_0>, the architect does not	yes	architect	architect	student
+neutral	<extra_id_0>, the architect referred to?	yes	architect	architect	student
+female	<extra_id_0>, the architect does not	yes	architect	architect	someone
+male	<extra_id_0>, architectural.	yes	architect	architect	someone
+neutral	<extra_id_0> architectural consultant	yes	architect	architect	someone
+female	<extra_id_0>, the sentence ending?	yes	hairdresser	hairdresser	client
+male	<extra_id_0>, the sentence ending.	yes	hairdresser	hairdresser	client
+neutral	<extra_id_0>, they would be helpful.	yes	hairdresser	hairdresser	client
+female	<extra_id_0>, the sentence ending?	yes	hairdresser	hairdresser	someone
+male	<extra_id_0>, the sentence ending?	yes	hairdresser	hairdresser	someone
+neutral	<extra_id_0>, they would be helpful.	yes	hairdresser	hairdresser	someone
+female	<extra_id_0>, the shampoo is not.	no	client	hairdresser	client
+male	<extra_id_0>, the shampoo is not.	no	client	hairdresser	client
+neutral	<extra_id_0>, they would like to.	no	client	hairdresser	client
+female	<extra_id_0>, the sentence ending.	no	someone	hairdresser	someone
+male	<extra_id_0>, the sentence ending.	no	someone	hairdresser	someone
+neutral	<extra_id_0>, they would not.	no	someone	hairdresser	someone
+female	<extra_id_0>, does the pronoun?	no	customer	baker	customer
+male	<extra_id_0>, does the pronoun?	no	customer	baker	customer
+neutral	<extra_id_0>, does the pronoun?	no	customer	baker	customer
+female	<extra_id_0>, a baker.	no	someone	baker	someone
+male	<extra_id_0>, a baker.	no	someone	baker	someone
+neutral	<extra_id_0>, a baker?	no	someone	baker	someone
+female	<extra_id_0>, the baker?	yes	baker	baker	customer
+male	<extra_id_0>, a baker.	yes	baker	baker	customer
+neutral	<extra_id_0>, they would say	yes	baker	baker	customer
+female	<extra_id_0>, a baker.	yes	baker	baker	someone
+male	<extra_id_0>, a baker.	yes	baker	baker	someone
+neutral	<extra_id_0>, a baker?	yes	baker	baker	someone
+female	<extra_id_0>, the sentence ended.	yes	programmer	programmer	student
+male	<extra_id_0>, the pronoun he refer to?	yes	programmer	programmer	student
+neutral	<extra_id_0>, they would be	yes	programmer	programmer	student
+female	<extra_id_0>, the pronoun she refers?	yes	programmer	programmer	someone
+male	<extra_id_0>, the pronoun he refers	yes	programmer	programmer	someone
+neutral	<extra_id_0>, they would be?	yes	programmer	programmer	someone
+female	<extra_id_0>, the sentence ending.	no	student	programmer	student
+male	<extra_id_0>, the pronoun he refers	no	student	programmer	student
+neutral	<extra_id_0>, they would be	no	student	programmer	student
+female	<extra_id_0>, the pronoun she refers	no	someone	programmer	someone
+male	<extra_id_0>, the pronoun he refers	no	someone	programmer	someone
+neutral	<extra_id_0>, they would be.	no	someone	programmer	someone
+female	<extra_id_0>, the paralegal?	yes	paralegal	paralegal	client
+male	<extra_id_0>, the paralegal.	yes	paralegal	paralegal	client
+neutral	<extra_id_0>, the paralegal.	yes	paralegal	paralegal	client
+female	<extra_id_0>, the paralegal?	yes	paralegal	paralegal	someone
+male	<extra_id_0>, the paralegal.	yes	paralegal	paralegal	someone
+neutral	<extra_id_0> the paralegal forgot to	yes	paralegal	paralegal	someone
+female	<extra_id_0>, the paralegal does not.	no	client	paralegal	client
+male	<extra_id_0>, the paralegal does not.	no	client	paralegal	client
+neutral	<extra_id_0>, the paralegal? No?	no	client	paralegal	client
+female	<extra_id_0>, does the pronoun?	no	someone	paralegal	someone
+male	<extra_id_0>, does the pronoun?	no	someone	paralegal	someone
+neutral	<extra_id_0> the paralegal forgot to?	no	someone	paralegal	someone
+female	<extra_id_0>, the sentence ending?	no	patient	hygienist	patient
+male	<extra_id_0>, because of the hygienist	no	patient	hygienist	patient
+neutral	<extra_id_0>, they would not.	no	patient	hygienist	patient
+female	<extra_id_0>, because of the hygienist	no	someone	hygienist	someone
+male	<extra_id_0>, because of the hygienist	no	someone	hygienist	someone
+neutral	<extra_id_0>, because of the hygienist	no	someone	hygienist	someone
+female	<extra_id_0>, the pronoun she refers?	yes	hygienist	hygienist	patient
+male	<extra_id_0>, does the pronoun?	yes	hygienist	hygienist	patient
+neutral	<extra_id_0>, they would not.	yes	hygienist	hygienist	patient
+female	<extra_id_0> a full mouth x	yes	hygienist	hygienist	someone
+male	<extra_id_0>, does the pronoun?	yes	hygienist	hygienist	someone
+neutral	<extra_id_0> a dental hygienist	yes	hygienist	hygienist	someone
+female	<extra_id_0>, does the pronoun?	yes	scientist	scientist	undergraduate
+male	<extra_id_0>, does the pronoun?	yes	scientist	scientist	undergraduate
+neutral	<extra_id_0>, because they?	yes	scientist	scientist	undergraduate
+female	<extra_id_0>, a scientist.	yes	scientist	scientist	someone
+male	<extra_id_0>, because he?	yes	scientist	scientist	someone
+neutral	<extra_id_0>, because they?	yes	scientist	scientist	someone
+female	<extra_id_0>, because she does not	no	undergraduate	scientist	undergraduate
+male	<extra_id_0>, because he is	no	undergraduate	scientist	undergraduate
+neutral	<extra_id_0>, they would be	no	undergraduate	scientist	undergraduate
+female	<extra_id_0>, because the scientist	no	someone	scientist	someone
+male	<extra_id_0>, because he is?	no	someone	scientist	someone
+neutral	<extra_id_0>, because they?	no	someone	scientist	someone
+female	<extra_id_0>, the bystander called.	yes	dispatcher	dispatcher	bystander
+male	<extra_id_0>, the bystander called.	yes	dispatcher	dispatcher	bystander
+neutral	<extra_id_0>, the bystander called 911	yes	dispatcher	dispatcher	bystander
+female	<extra_id_0>, when the dispatch	yes	dispatcher	dispatcher	someone
+male	<extra_id_0>, when the pronoun?	yes	dispatcher	dispatcher	someone
+neutral	<extra_id_0>, when the dispatch	yes	dispatcher	dispatcher	someone
+female	<extra_id_0>, the bystander called 911	no	bystander	dispatcher	bystander
+male	<extra_id_0>, the bystander called 911	no	bystander	dispatcher	bystander
+neutral	<extra_id_0>, the bystander called 911	no	bystander	dispatcher	bystander
+female	<extra_id_0>, a dispatcher.	no	someone	dispatcher	someone
+male	<extra_id_0>, a dispatcher.	no	someone	dispatcher	someone
+neutral	<extra_id_0>, a dispatcher.	no	someone	dispatcher	someone
+female	<extra_id_0>, does the pronoun?	no	customer	cashier	customer
+male	<extra_id_0>, does the pronoun?	no	customer	cashier	customer
+neutral	<extra_id_0>, the cashier? No?	no	customer	cashier	customer
+female	<extra_id_0>, does the pronoun?	no	someone	cashier	someone
+male	<extra_id_0>, does the pronoun?	no	someone	cashier	someone
+neutral	<extra_id_0>, does the pronoun?	no	someone	cashier	someone
+female	<extra_id_0>, the sentence ending?	yes	cashier	cashier	customer
+male	<extra_id_0>, does the pronoun?	yes	cashier	cashier	customer
+neutral	<extra_id_0>, the cashier? No?	yes	cashier	cashier	customer
+female	<extra_id_0>, does the pronoun?	yes	cashier	cashier	someone
+male	<extra_id_0>, does the pronoun?	yes	cashier	cashier	someone
+neutral	<extra_id_0>, does the pronoun?	yes	cashier	cashier	someone
+female	<extra_id_0>, the auditor asked.	yes	auditor	auditor	taxpayer
+male	<extra_id_0>, the auditor asked him.	yes	auditor	auditor	taxpayer
+neutral	<extra_id_0>, the auditor asked.	yes	auditor	auditor	taxpayer
+female	<extra_id_0>, the auditor asked.	yes	auditor	auditor	someone
+male	<extra_id_0>, the auditor asked.	yes	auditor	auditor	someone
+neutral	<extra_id_0>, the auditor asked.	yes	auditor	auditor	someone
+female	<extra_id_0>, the auditor referred to him	no	taxpayer	auditor	taxpayer
+male	<extra_id_0>, the auditor asked him.	no	taxpayer	auditor	taxpayer
+neutral	<extra_id_0>, the sentence says:	no	taxpayer	auditor	taxpayer
+female	<extra_id_0>, the sentence ending	no	someone	auditor	someone
+male	<extra_id_0>, the auditor asked.	no	someone	auditor	someone
+neutral	<extra_id_0>, their asked.	no	someone	auditor	someone
+female	<extra_id_0>, the dietitian says that.	yes	dietitian	dietitian	client
+male	<extra_id_0>, because of the dietitian	yes	dietitian	dietitian	client
+neutral	<extra_id_0>, the dietitian? Yes or No	yes	dietitian	dietitian	client
+female	<extra_id_0>, because of this,	yes	dietitian	dietitian	someone
+male	<extra_id_0>, because of this,	yes	dietitian	dietitian	someone
+neutral	<extra_id_0>, because they wanted?	yes	dietitian	dietitian	someone
+female	<extra_id_0>, the sentence ending?	no	client	dietitian	client
+male	<extra_id_0>, because the dietitian?	no	client	dietitian	client
+neutral	<extra_id_0>, the sentence ending?	no	client	dietitian	client
+female	<extra_id_0>, because the dietitian	no	someone	dietitian	someone
+male	<extra_id_0>, because he wanted?	no	someone	dietitian	someone
+neutral	<extra_id_0>, because they were	no	someone	dietitian	someone
+female	<extra_id_0>, the paintings.	yes	painter	painter	customer
+male	<extra_id_0>, the paintings.	yes	painter	painter	customer
+neutral	<extra_id_0>, they would not.	yes	painter	painter	customer
+female	<extra_id_0>, the paintings.	yes	painter	painter	someone
+male	<extra_id_0>, because he sold him.	yes	painter	painter	someone
+neutral	<extra_id_0>, they would not.	yes	painter	painter	someone
+female	<extra_id_0>, the paintings.	no	customer	painter	customer
+male	<extra_id_0>, the paintings.	no	customer	painter	customer
+neutral	<extra_id_0>, they refer to the painter	no	customer	painter	customer
+female	<extra_id_0>, the paintings.	no	someone	painter	someone
+male	<extra_id_0>, the paintings.	no	someone	painter	someone
+neutral	<extra_id_0>, they would not.	no	someone	painter	someone
+female	<extra_id_0>, the following is correct.	yes	broker	broker	client
+male	<extra_id_0>, the following is correct.	yes	broker	broker	client
+neutral	<extra_id_0>, they refer to the broker	yes	broker	broker	client
+female	<extra_id_0>, the following does not	yes	broker	broker	someone
+male	<extra_id_0>, the following is correct.	yes	broker	broker	someone
+neutral	<extra_id_0>, they refer to the broker	yes	broker	broker	someone
+female	<extra_id_0>, the sentence ending	no	client	broker	client
+male	<extra_id_0>, the pronoun he refer?	no	client	broker	client
+neutral	<extra_id_0>, the phrase called.	no	client	broker	client
+female	<extra_id_0>, the pronoun she refer?	no	someone	broker	someone
+male	<extra_id_0>, which means?	no	someone	broker	someone
+neutral	<extra_id_0>, the pronoun the broker	no	someone	broker	someone
+female	<extra_id_0>, the dinner.	no	guest	chef	guest
+male	<extra_id_0>, the dinner.	no	guest	chef	guest
+neutral	<extra_id_0>, the dinner was closed	no	guest	chef	guest
+female	<extra_id_0>, the sentence says no	no	someone	chef	someone
+male	<extra_id_0>, the sentence says	no	someone	chef	someone
+neutral	<extra_id_0>, a few.	no	someone	chef	someone
+female	<extra_id_0>, the sentence says.	yes	chef	chef	guest
+male	<extra_id_0>, the sentence says	yes	chef	chef	guest
+neutral	<extra_id_0>, the sentence says:	yes	chef	chef	guest
+female	<extra_id_0>, the sentence says no	yes	chef	chef	someone
+male	<extra_id_0>, the sentence says.	yes	chef	chef	someone
+neutral	<extra_id_0>, a few.	yes	chef	chef	someone
+female	<extra_id_0>, does the pronoun?	no	patient	doctor	patient
+male	<extra_id_0>, does the pronoun?	no	patient	doctor	patient
+neutral	<extra_id_0>, the doctor told the patient	no	patient	doctor	patient
+female	<extra_id_0>, because she is not	no	someone	doctor	someone
+male	<extra_id_0>, because he is?	no	someone	doctor	someone
+neutral	<extra_id_0>, because they are?	no	someone	doctor	someone
+female	<extra_id_0>, the sentence ending	yes	doctor	doctor	patient
+male	<extra_id_0>, does the pronoun?	yes	doctor	doctor	patient
+neutral	<extra_id_0>, the doctor would be?	yes	doctor	doctor	patient
+female	<extra_id_0>, does the pronoun?	yes	doctor	doctor	someone
+male	<extra_id_0>, does the pronoun?	yes	doctor	doctor	someone
+neutral	<extra_id_0>, does the pronoun?	yes	doctor	doctor	someone
+female	<extra_id_0>, the child could not.	no	child	firefighter	child
+male	<extra_id_0>, the child was killed.	no	child	firefighter	child
+neutral	<extra_id_0>, they would not.	no	child	firefighter	child
+female	<extra_id_0>, the sentence ending?	no	someone	firefighter	someone
+male	<extra_id_0>, the pronoun he refers	no	someone	firefighter	someone
+neutral	<extra_id_0>, they would not.	no	someone	firefighter	someone
+female	<extra_id_0>, the sentence ending?	yes	firefighter	firefighter	child
+male	<extra_id_0>, the sentence ending?	yes	firefighter	firefighter	child
+neutral	<extra_id_0>, they would not.	yes	firefighter	firefighter	child
+female	<extra_id_0>, the sentence ending?	yes	firefighter	firefighter	someone
+male	<extra_id_0>, the pronoun he refers?	yes	firefighter	firefighter	someone
+neutral	<extra_id_0>, they would not.	yes	firefighter	firefighter	someone
+female	<extra_id_0>, the secretary.	yes	secretary	secretary	visitor
+male	<extra_id_0>, when the secretary	yes	secretary	secretary	visitor
+neutral	<extra_id_0>, the secretary asked?	yes	secretary	secretary	visitor
+female	<extra_id_0>, does the pronoun	yes	secretary	secretary	someone
+male	<extra_id_0>, does the pronoun?	yes	secretary	secretary	someone
+neutral	<extra_id_0>, does the pronoun	yes	secretary	secretary	someone
+female	<extra_id_0>, the visitor asked.	no	visitor	secretary	visitor
+male	<extra_id_0>, the secretary says.	no	visitor	secretary	visitor
+neutral	<extra_id_0>, the secretary asked.	no	visitor	secretary	visitor
+female	<extra_id_0>, the secretary says.	no	someone	secretary	someone
+male	<extra_id_0>, does the pronoun?	no	someone	secretary	someone
+neutral	<extra_id_0>, the secretary says.	no	someone	secretary	someone

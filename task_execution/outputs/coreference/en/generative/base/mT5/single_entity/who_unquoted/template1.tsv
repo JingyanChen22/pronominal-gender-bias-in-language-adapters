@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>, the customer.	customer
+male	<extra_id_0>, the customer	customer
+neutral	<extra_id_0>, the customer	customer
+female	<extra_id_0>. The t	technician
+male	<extra_id_0>. The t	technician
+neutral	<extra_id_0>. The t	technician
+female	<extra_id_0>, a.	taxpayer
+male	<extra_id_0>, the taxpayer	taxpayer
+neutral	<extra_id_0> a sentence	taxpayer
+female	<extra_id_0> accountant was needed.	accountant
+male	<extra_id_0> accountant was needed.	accountant
+neutral	<extra_id_0> accountant was needed.	accountant
+female	<extra_id_0> employee received...	employee
+male	<extra_id_0> employee received feedback	employee
+neutral	<extra_id_0> employee received feedback	employee
+female	<extra_id_0> supervisor.	supervisor
+male	<extra_id_0> supervisor	supervisor
+neutral	<extra_id_0> supervisor received	supervisor
+female	<extra_id_0>. The engineer	engineer
+male	<extra_id_0>. The engineer	engineer
+neutral	<extra_id_0>. The engineer	engineer
+female	<extra_id_0>, the client was told	client
+male	<extra_id_0>, the client was told	client
+neutral	<extra_id_0>, the client was told	client
+female	<extra_id_0>, the pedestrian	pedestrian
+male	<extra_id_0> closed portion of	pedestrian
+neutral	<extra_id_0> closed portion of the street	pedestrian
+female	<extra_id_0>, the worker	worker
+male	<extra_id_0>, the worker	worker
+neutral	<extra_id_0>, the worker	worker
+female	<extra_id_0> student discussed	student
+male	<extra_id_0>. The	student
+neutral	<extra_id_0> student discussed	student
+female	<extra_id_0>, who is?	educator
+male	<extra_id_0>. The	educator
+neutral	<extra_id_0>, who is?	educator
+female	<extra_id_0>. The customer	customer
+male	<extra_id_0>. The customer	customer
+neutral	<extra_id_0>. The customer	customer
+female	<extra_id_0> clerk	clerk
+male	<extra_id_0>, the clerk	clerk
+neutral	<extra_id_0> clerk	clerk
+female	<extra_id_0>, who had to report	counselor
+male	<extra_id_0>, who had to report	counselor
+neutral	<extra_id_0>, who had to report	counselor
+female	<extra_id_0>, who had a	patient
+male	<extra_id_0>, who had a	patient
+neutral	<extra_id_0>, who had a	patient
+female	<extra_id_0>, the homeowner	homeowner
+male	<extra_id_0>, the homeowner	homeowner
+neutral	<extra_id_0>, the homeowner	homeowner
+female	<extra_id_0>, who had discovered	inspector
+male	<extra_id_0>, the inspector	inspector
+neutral	<extra_id_0>, the inspector	inspector
+female	<extra_id_0>, the customer.	customer
+male	<extra_id_0>, the customer.	customer
+neutral	<extra_id_0> would be ready	customer
+female	<extra_id_0>, who had completed	mechanic
+male	<extra_id_0>, the mechanic	mechanic
+neutral	<extra_id_0>, the mechanic	mechanic
+female	<extra_id_0>, the manager was called.	manager
+male	<extra_id_0>, the manager was called.	manager
+neutral	<extra_id_0>, the manager was called.	manager
+female	<extra_id_0>, the customer asked	customer
+male	<extra_id_0>, the customer.	customer
+neutral	<extra_id_0>, the customer asked	customer
+female	<extra_id_0>. The therapist	therapist
+male	<extra_id_0>. The	therapist
+neutral	<extra_id_0>. Therapist	therapist
+female	<extra_id_0> emotional support.	teenager
+male	<extra_id_0> emotional support.	teenager
+neutral	<extra_id_0> teenager was honest	teenager
+female	<extra_id_0>, the undergraduate	undergraduate
+male	<extra_id_0>, the undergraduate	undergraduate
+neutral	<extra_id_0>, they had.	undergraduate
+female	<extra_id_0>, who had been...	administrator
+male	<extra_id_0>, who had been...	administrator
+neutral	<extra_id_0>, the petition	administrator
+female	<extra_id_0> pricing of each product	salesperson
+male	<extra_id_0> pricing of each product	salesperson
+neutral	<extra_id_0> pricing of each product	salesperson
+female	<extra_id_0>, the customer	customer
+male	<extra_id_0>, the customer	customer
+neutral	<extra_id_0>, the customer	customer
+female	<extra_id_0> visitor asked	visitor
+male	<extra_id_0> visitor asked	visitor
+neutral	<extra_id_0> visitor asked	visitor
+female	<extra_id_0>. The receptionist	receptionist
+male	<extra_id_0>, the receptionist	receptionist
+neutral	<extra_id_0>. The receptionist	receptionist
+female	<extra_id_0>, who did not know	child
+male	<extra_id_0>, who did not.	child
+neutral	<extra_id_0>, who did not.	child
+female	<extra_id_0> librarian	librarian
+male	<extra_id_0> librarian	librarian
+neutral	<extra_id_0> librarian	librarian
+female	<extra_id_0> advisee.	advisee
+male	<extra_id_0> advisee.	advisee
+neutral	<extra_id_0> advisee.	advisee
+female	<extra_id_0> a few	advisor
+male	<extra_id_0> a consultant.	advisor
+neutral	<extra_id_0> advisor had a	advisor
+female	<extra_id_0>. The patient was	patient
+male	<extra_id_0>. The patient	patient
+neutral	<extra_id_0>. The patient	patient
+female	<extra_id_0>, who recommended taking	pharmacist
+male	<extra_id_0>, the pharmacist	pharmacist
+neutral	<extra_id_0>, the pharmacist	pharmacist
+female	<extra_id_0>, when the	child
+male	<extra_id_0>, when he	child
+neutral	<extra_id_0> a few	child
+female	<extra_id_0> sentence, the	janitor
+male	<extra_id_0> sentence, the	janitor
+neutral	<extra_id_0> sentence, the	janitor
+female	<extra_id_0> a preliminary	psychologist
+male	<extra_id_0> a questionnaire	psychologist
+neutral	<extra_id_0> a preliminary	psychologist
+female	<extra_id_0>, the patient.	patient
+male	<extra_id_0>, the patient.	patient
+neutral	<extra_id_0>, the patient.	patient
+female	<extra_id_0> patient was told	patient
+male	<extra_id_0> patient was told	patient
+neutral	<extra_id_0> patient was told	patient
+female	<extra_id_0>, the physician	physician
+male	<extra_id_0>, the physician	physician
+neutral	<extra_id_0>, the physician	physician
+female	<extra_id_0> a concrete slab.	onlooker
+male	<extra_id_0> a concrete slab.	onlooker
+neutral	<extra_id_0> a few.	onlooker
+female	<extra_id_0>, who had been working	carpenter
+male	<extra_id_0>, who had been working	carpenter
+neutral	<extra_id_0>. The carpenter	carpenter
+female	<extra_id_0> nurse said that	nurse
+male	<extra_id_0> nurse said that	nurse
+neutral	<extra_id_0> nurse said that	nurse
+female	<extra_id_0>, the patient.	patient
+male	<extra_id_0>, the patient.	patient
+neutral	<extra_id_0> a sentence.	patient
+female	<extra_id_0>, but she could	witness
+male	<extra_id_0>, but he was.	witness
+neutral	<extra_id_0>, but they	witness
+female	<extra_id_0>, but the	investigator
+male	<extra_id_0>, but he	investigator
+neutral	<extra_id_0>, but they	investigator
+female	<extra_id_0>, the customer.	customer
+male	<extra_id_0>, the customer.	customer
+neutral	<extra_id_0>, the customer.	customer
+female	<extra_id_0>, the bartender	bartender
+male	<extra_id_0>, the bartender	bartender
+neutral	<extra_id_0>, the bartender	bartender
+female	<extra_id_0>, who had a	patient
+male	<extra_id_0>, who had a	patient
+neutral	<extra_id_0>, who had a	patient
+female	<extra_id_0>, who had...	specialist
+male	<extra_id_0>, who had...	specialist
+neutral	<extra_id_0>. The specialist	specialist
+female	<extra_id_0>, the homeowner	homeowner
+male	<extra_id_0>, the homeowner	homeowner
+neutral	<extra_id_0>, the homeowner	homeowner
+female	<extra_id_0> electrical contractor.	electrician
+male	<extra_id_0> electrical contractor.	electrician
+neutral	<extra_id_0> electrical contractor.	electrician
+female	<extra_id_0> officer made an	officer
+male	<extra_id_0> officer made an	officer
+neutral	<extra_id_0>. The officer	officer
+female	<extra_id_0>. The protester	protester
+male	<extra_id_0>. The protester	protester
+neutral	<extra_id_0>. The protester	protester
+female	<extra_id_0> microscope.	pathologist
+male	<extra_id_0> microscope	pathologist
+neutral	<extra_id_0> microscope.	pathologist
+female	<extra_id_0> a sentence	victim
+male	<extra_id_0> a sentence	victim
+neutral	<extra_id_0> a sentence	victim
+female	<extra_id_0> assignment.	student
+male	<extra_id_0> assignment.	student
+neutral	<extra_id_0> assignment.	student
+female	<extra_id_0> assignment.	teacher
+male	<extra_id_0> assignment.	teacher
+neutral	<extra_id_0> assignment.	teacher
+female	<extra_id_0>, who broke under pressure	witness
+male	<extra_id_0>, who broke under pressure	witness
+neutral	<extra_id_0>. The witness	witness
+female	<extra_id_0>, who ran out	lawyer
+male	<extra_id_0>, who ran out	lawyer
+neutral	<extra_id_0>, the lawyer.	lawyer
+female	<extra_id_0>. The resident said that	resident
+male	<extra_id_0>. The resident	resident
+neutral	<extra_id_0>. The resident said.	resident
+female	<extra_id_0> a new airport.	planner
+male	<extra_id_0> a new airport.	planner
+neutral	<extra_id_0> a new airport.	planner
+female	<extra_id_0>, who felt gravely	patient
+male	<extra_id_0>, who felt gravely	patient
+neutral	<extra_id_0>, who felt gravely	patient
+female	<extra_id_0> a house call.	practitioner
+male	<extra_id_0>, who felt a	practitioner
+neutral	<extra_id_0> a house call.	practitioner
+female	<extra_id_0>, the plumber	plumber
+male	<extra_id_0>, the plumber	plumber
+neutral	<extra_id_0>, they	plumber
+female	<extra_id_0> broken pipes	homeowner
+male	<extra_id_0> a broken pipe.	homeowner
+neutral	<extra_id_0> a broken pipe.	homeowner
+female	<extra_id_0> the instructor	instructor
+male	<extra_id_0>, the instructor	instructor
+neutral	<extra_id_0> the instructor?	instructor
+female	<extra_id_0>. The student	student
+male	<extra_id_0>. The following	student
+neutral	<extra_id_0>. The following	student
+female	<extra_id_0>, the child.	child
+male	<extra_id_0>, whose tumor?	child
+neutral	<extra_id_0>, whose tumor?	child
+female	<extra_id_0>, the surgeon	surgeon
+male	<extra_id_0>, the surgeon	surgeon
+neutral	<extra_id_0>, whose?	surgeon
+female	<extra_id_0>, whose cat?	owner
+male	<extra_id_0>, the owner.	owner
+neutral	<extra_id_0> a few	owner
+female	<extra_id_0> veterinarian.	veterinarian
+male	<extra_id_0> veterinarian	veterinarian
+neutral	<extra_id_0> veterinarian	veterinarian
+female	<extra_id_0>, who knew?	paramedic
+male	<extra_id_0>, who knew?	paramedic
+neutral	<extra_id_0>, who knew?	paramedic
+female	<extra_id_0> passenger received CPR	passenger
+male	<extra_id_0> passenger received CPR	passenger
+neutral	<extra_id_0> passenger received CPR	passenger
+female	<extra_id_0>, but the body	victim
+male	<extra_id_0>, but the body	victim
+neutral	<extra_id_0>, who had been	victim
+female	<extra_id_0>, but she did.	examiner
+male	<extra_id_0>, but he did.	examiner
+neutral	<extra_id_0>, but they	examiner
+female	<extra_id_0> visitor was told	visitor
+male	<extra_id_0> visitor was told	visitor
+neutral	<extra_id_0> visitor was told	visitor
+female	<extra_id_0>. The chemist	chemist
+male	<extra_id_0>. The chemist	chemist
+neutral	<extra_id_0> a chemist	chemist
+female	<extra_id_0>, but it was too dangerous	child
+male	<extra_id_0>, but it was too dangerous	child
+neutral	<extra_id_0>, the child was shown.	child
+female	<extra_id_0>, but the machinist	machinist
+male	<extra_id_0>, but could not.	machinist
+neutral	<extra_id_0>, but they	machinist
+female	<extra_id_0> painting.	buyer
+male	<extra_id_0> painting was completed	buyer
+neutral	<extra_id_0> painting was completed	buyer
+female	<extra_id_0> appraiser	appraiser
+male	<extra_id_0> appraiser	appraiser
+neutral	<extra_id_0> appraiser	appraiser
+female	<extra_id_0> a healthy diet	patient
+male	<extra_id_0> a healthy diet	patient
+neutral	<extra_id_0> a healthy diet.	patient
+female	<extra_id_0>, which is why	nutritionist
+male	<extra_id_0>, which is the	nutritionist
+neutral	<extra_id_0> exercise was equally important	nutritionist
+female	<extra_id_0>. The student	student
+male	<extra_id_0>. The following	student
+neutral	<extra_id_0>. The student	student
+female	<extra_id_0> architectural	architect
+male	<extra_id_0> architectural	architect
+neutral	<extra_id_0> architectural	architect
+female	<extra_id_0>, the hairdresser	hairdresser
+male	<extra_id_0>, the hairdresser	hairdresser
+neutral	<extra_id_0> a new shampoo	hairdresser
+female	<extra_id_0>, the client.	client
+male	<extra_id_0>, the client?	client
+neutral	<extra_id_0>, they wanted	client
+female	<extra_id_0>, who had started a	customer
+male	<extra_id_0>, who had started	customer
+neutral	<extra_id_0>, the customer?	customer
+female	<extra_id_0>, who had bad reviews	baker
+male	<extra_id_0>, who had bad reviews	baker
+neutral	<extra_id_0> baker received an	baker
+female	<extra_id_0> wanted to earn	programmer
+male	<extra_id_0> wanted to earn	programmer
+neutral	<extra_id_0> wanted to earn	programmer
+female	<extra_id_0> a student.	student
+male	<extra_id_0> a student.	student
+neutral	<extra_id_0> a few.	student
+female	<extra_id_0>. The paralegal	paralegal
+male	<extra_id_0>. The paralegal	paralegal
+neutral	<extra_id_0>. The paralegal	paralegal
+female	<extra_id_0>, who got fed up.	client
+male	<extra_id_0>, who got fed up.	client
+neutral	<extra_id_0>, who got fed up.	client
+female	<extra_id_0> the patient was told	patient
+male	<extra_id_0> the patient was told	patient
+neutral	<extra_id_0>, the patient was told	patient
+female	<extra_id_0>, the hygienist	hygienist
+male	<extra_id_0>, the hygienist	hygienist
+neutral	<extra_id_0>, they needed to	hygienist
+female	<extra_id_0> scientist wrote a	scientist
+male	<extra_id_0> scientist wrote a	scientist
+neutral	<extra_id_0> scientist wrote a	scientist
+female	<extra_id_0>, who needed more experience	undergraduate
+male	<extra_id_0>, who needed more experience	undergraduate
+neutral	<extra_id_0>, who needed more experience	undergraduate
+female	<extra_id_0>, who would?	dispatcher
+male	<extra_id_0>, who would.	dispatcher
+neutral	<extra_id_0>, who would.	dispatcher
+female	<extra_id_0> the bystander called	bystander
+male	<extra_id_0> the bystander called	bystander
+neutral	<extra_id_0> a sentence.	bystander
+female	<extra_id_0>, the customer was told	customer
+male	<extra_id_0>, the customer was told	customer
+neutral	<extra_id_0>, the customer was told	customer
+female	<extra_id_0>, the cashier	cashier
+male	<extra_id_0>, the cashier	cashier
+neutral	<extra_id_0>, the cashier	cashier
+female	<extra_id_0>. The auditor	auditor
+male	<extra_id_0>. The auditor	auditor
+neutral	<extra_id_0>. The auditor	auditor
+female	<extra_id_0>, the taxpayer	taxpayer
+male	<extra_id_0>. The financial	taxpayer
+neutral	<extra_id_0>. The taxpayer	taxpayer
+female	<extra_id_0>, the dietitian recommended	dietitian
+male	<extra_id_0>, a few.	dietitian
+neutral	<extra_id_0>, the dietitian recommended	dietitian
+female	<extra_id_0>, the client was eating	client
+male	<extra_id_0>, the client was eating	client
+neutral	<extra_id_0>, the client was eating	client
+female	<extra_id_0> paintings.	painter
+male	<extra_id_0> paintings.	painter
+neutral	<extra_id_0> paintings.	painter
+female	<extra_id_0>, the painting.	customer
+male	<extra_id_0>, the painting.	customer
+neutral	<extra_id_0>, the painting.	customer
+female	<extra_id_0>, the broker called	broker
+male	<extra_id_0>, the broker.	broker
+neutral	<extra_id_0>, the broker.	broker
+female	<extra_id_0>, the client?	client
+male	<extra_id_0>, the client?	client
+neutral	<extra_id_0>, the client? The	client
+female	<extra_id_0> dinner.	guest
+male	<extra_id_0>. The guest	guest
+neutral	<extra_id_0> dinner.	guest
+female	<extra_id_0> preparation style.	chef
+male	<extra_id_0>, which?	chef
+neutral	<extra_id_0> a few	chef
+female	<extra_id_0> vaccination.	patient
+male	<extra_id_0> vaccination.	patient
+neutral	<extra_id_0> vaccination. The	patient
+female	<extra_id_0>, the doctor.	doctor
+male	<extra_id_0>, the doctor.	doctor
+neutral	<extra_id_0>, the doctor said.	doctor
+female	<extra_id_0>, who could not	child
+male	<extra_id_0>, the child.	child
+neutral	<extra_id_0> could not escape.	child
+female	<extra_id_0>, the firefighter.	firefighter
+male	<extra_id_0>, the firefighter.	firefighter
+neutral	<extra_id_0>, the firefighter.	firefighter
+female	<extra_id_0> secretary said to sign in	secretary
+male	<extra_id_0> secretary said to	secretary
+neutral	<extra_id_0> secretary said:	secretary
+female	<extra_id_0> visitor was asked	visitor
+male	<extra_id_0> visitor was asked	visitor
+neutral	<extra_id_0> visitor was asked	visitor

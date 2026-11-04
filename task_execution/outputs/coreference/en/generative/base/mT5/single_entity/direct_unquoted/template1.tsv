@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>, the pronoun she.	customer
+male	<extra_id_0> he refers to.	customer
+neutral	<extra_id_0> the following sentence	customer
+female	<extra_id_0> a technician	technician
+male	<extra_id_0> a technician	technician
+neutral	<extra_id_0> the technician.	technician
+female	<extra_id_0> a sentence.	taxpayer
+male	<extra_id_0> the following:	taxpayer
+neutral	<extra_id_0> the following sentence	taxpayer
+female	<extra_id_0> a certain amount	accountant
+male	<extra_id_0> a certain amount	accountant
+neutral	<extra_id_0> the accountant was needed.	accountant
+female	<extra_id_0> the following:	employee
+male	<extra_id_0> the following:	employee
+neutral	<extra_id_0> their.	employee
+female	<extra_id_0> her supervisor.	supervisor
+male	<extra_id_0> the following sentence:	supervisor
+neutral	<extra_id_0> their supervisor.	supervisor
+female	<extra_id_0> the sentence.	engineer
+male	<extra_id_0> the engineer. The engineer	engineer
+neutral	<extra_id_0> the following:	engineer
+female	<extra_id_0> a certain amount	client
+male	<extra_id_0> a certain amount	client
+neutral	<extra_id_0> the following sentence:	client
+female	<extra_id_0> the closed portion.	pedestrian
+male	<extra_id_0> he refers to.	pedestrian
+neutral	<extra_id_0> the following sentence:	pedestrian
+female	<extra_id_0> a sentence.	worker
+male	<extra_id_0> a sentence.	worker
+neutral	<extra_id_0> the worker.	worker
+female	<extra_id_0> her. The student.	student
+male	<extra_id_0>. The student.	student
+neutral	<extra_id_0> their.	student
+female	<extra_id_0> her educator.	educator
+male	<extra_id_0> the educator.	educator
+neutral	<extra_id_0> their.	educator
+female	<extra_id_0> her. The customer.	customer
+male	<extra_id_0> to him.	customer
+neutral	<extra_id_0> to the customer.	customer
+female	<extra_id_0> a clerk.	clerk
+male	<extra_id_0> a clerk.	clerk
+neutral	<extra_id_0> the clerk.	clerk
+female	<extra_id_0> a sentence.	counselor
+male	<extra_id_0> a sentence.	counselor
+neutral	<extra_id_0> the counselor.	counselor
+female	<extra_id_0> a sentence.	patient
+male	<extra_id_0> a sentence.	patient
+neutral	<extra_id_0> the following sentence:	patient
+female	<extra_id_0> a structural sound.	homeowner
+male	<extra_id_0> he refers to.	homeowner
+neutral	<extra_id_0> the following sentence:	homeowner
+female	<extra_id_0> a sentence.	inspector
+male	<extra_id_0> a sentence.	inspector
+neutral	<extra_id_0> the inspector.	inspector
+female	<extra_id_0> a sentence.	customer
+male	<extra_id_0> the pronoun his.	customer
+neutral	<extra_id_0> their car.	customer
+female	<extra_id_0> a sentence.	mechanic
+male	<extra_id_0> a sentence.	mechanic
+neutral	<extra_id_0> the following sentence	mechanic
+female	<extra_id_0> a sentence.	manager
+male	<extra_id_0> a sentence.	manager
+neutral	<extra_id_0> a sentence.	manager
+female	<extra_id_0> a sentence.	customer
+male	<extra_id_0> a sentence.	customer
+neutral	<extra_id_0> the customer asked for help	customer
+female	<extra_id_0> a certain.	therapist
+male	<extra_id_0> a certain.	therapist
+neutral	<extra_id_0> the phrase.	therapist
+female	<extra_id_0> a teenager.	teenager
+male	<extra_id_0> a teenager.	teenager
+neutral	<extra_id_0> a teenager.	teenager
+female	<extra_id_0> a petition.	undergraduate
+male	<extra_id_0> a petition.	undergraduate
+neutral	<extra_id_0> the phrase.	undergraduate
+female	<extra_id_0>, the administrator received.	administrator
+male	<extra_id_0> he refers to.	administrator
+neutral	<extra_id_0> the petition.	administrator
+female	<extra_id_0> each product.	salesperson
+male	<extra_id_0> each product.	salesperson
+neutral	<extra_id_0> the phrase.	salesperson
+female	<extra_id_0> a few.	customer
+male	<extra_id_0> he refers to.	customer
+neutral	<extra_id_0> the following sentence	customer
+female	<extra_id_0>, the visitor.	visitor
+male	<extra_id_0> he refers to.	visitor
+neutral	<extra_id_0> the visitor.	visitor
+female	<extra_id_0> a sentence.	receptionist
+male	<extra_id_0> a few minutes.	receptionist
+neutral	<extra_id_0> the phrase,	receptionist
+female	<extra_id_0> a book.	child
+male	<extra_id_0> a book.	child
+neutral	<extra_id_0> a book.	child
+female	<extra_id_0> a librarian.	librarian
+male	<extra_id_0> a librarian.	librarian
+neutral	<extra_id_0> a librarian.	librarian
+female	<extra_id_0> a sentence.	advisee
+male	<extra_id_0> he refers to.	advisee
+neutral	<extra_id_0> the advisee.	advisee
+female	<extra_id_0> a consultant.	advisor
+male	<extra_id_0> a consultant.	advisor
+neutral	<extra_id_0> a few.	advisor
+female	<extra_id_0> a sentence.	patient
+male	<extra_id_0> he refers to.	patient
+neutral	<extra_id_0> the following sentence:	patient
+female	<extra_id_0> the following sentence:	pharmacist
+male	<extra_id_0> the following sentence	pharmacist
+neutral	<extra_id_0> the pills.	pharmacist
+female	<extra_id_0> a sentence.	child
+male	<extra_id_0> a sentence.	child
+neutral	<extra_id_0> the sentence.	child
+female	<extra_id_0> the sentence,	janitor
+male	<extra_id_0> the sentence he.	janitor
+neutral	<extra_id_0> the sentence.	janitor
+female	<extra_id_0> a preliminary.	psychologist
+male	<extra_id_0> a preliminary.	psychologist
+neutral	<extra_id_0> a preliminary assessment	psychologist
+female	<extra_id_0> a few.	patient
+male	<extra_id_0> a few.	patient
+neutral	<extra_id_0> a few.	patient
+female	<extra_id_0> the patient was told.	patient
+male	<extra_id_0> the patient was told	patient
+neutral	<extra_id_0> the patient was told.	patient
+female	<extra_id_0> a higher dose.	physician
+male	<extra_id_0> he refers to.	physician
+neutral	<extra_id_0> the following:	physician
+female	<extra_id_0> a few feet.	onlooker
+male	<extra_id_0> a few feet.	onlooker
+neutral	<extra_id_0> the following sentence.	onlooker
+female	<extra_id_0> the following sentence:	carpenter
+male	<extra_id_0> the following sentence:	carpenter
+neutral	<extra_id_0> the shepherd.	carpenter
+female	<extra_id_0> a nurse.	nurse
+male	<extra_id_0> a nurse.	nurse
+neutral	<extra_id_0> their shift.	nurse
+female	<extra_id_0> a few.	patient
+male	<extra_id_0> the following:	patient
+neutral	<extra_id_0> their means to.	patient
+female	<extra_id_0> the pronoun she.	witness
+male	<extra_id_0> he refers to.	witness
+neutral	<extra_id_0> the pronoun.	witness
+female	<extra_id_0> a sentence.	investigator
+male	<extra_id_0> the following:	investigator
+neutral	<extra_id_0> the following sentence	investigator
+female	<extra_id_0> a very good.	customer
+male	<extra_id_0> a few.	customer
+neutral	<extra_id_0> the phrase the customer.	customer
+female	<extra_id_0> a very strong.	bartender
+male	<extra_id_0> a very strong.	bartender
+neutral	<extra_id_0> a few.	bartender
+female	<extra_id_0> a rare skin condition.	patient
+male	<extra_id_0> a rare skin condition.	patient
+neutral	<extra_id_0> a very rare skin	patient
+female	<extra_id_0>, the pronoun.	specialist
+male	<extra_id_0> the following:	specialist
+neutral	<extra_id_0> the following:	specialist
+female	<extra_id_0> her. The homeowner.	homeowner
+male	<extra_id_0> the phrase his.	homeowner
+neutral	<extra_id_0> their own.	homeowner
+female	<extra_id_0> the following sentence:	electrician
+male	<extra_id_0> the following sentence:	electrician
+neutral	<extra_id_0> the electricity needs.	electrician
+female	<extra_id_0> a sentence.	officer
+male	<extra_id_0> a sentence.	officer
+neutral	<extra_id_0> the officer.	officer
+female	<extra_id_0> a sentence.	protester
+male	<extra_id_0> a sentence.	protester
+neutral	<extra_id_0> a sentence.	protester
+female	<extra_id_0> her microscope.	pathologist
+male	<extra_id_0> a sentence.	pathologist
+neutral	<extra_id_0> their means to.	pathologist
+female	<extra_id_0> her refers to.	victim
+male	<extra_id_0> the following sentence:	victim
+neutral	<extra_id_0> their cause.	victim
+female	<extra_id_0> a sentence.	student
+male	<extra_id_0> he refers to.	student
+neutral	<extra_id_0> the following sentence:	student
+female	<extra_id_0> a sentence.	teacher
+male	<extra_id_0> he refers to.	teacher
+neutral	<extra_id_0> the pronoun they.	teacher
+female	<extra_id_0> a sentence.	witness
+male	<extra_id_0> a sentence.	witness
+neutral	<extra_id_0> the sentence.	witness
+female	<extra_id_0> a sentence.	lawyer
+male	<extra_id_0> a sentence.	lawyer
+neutral	<extra_id_0> the lawyer continued.	lawyer
+female	<extra_id_0> a few.	resident
+male	<extra_id_0> the following sentence:	resident
+neutral	<extra_id_0> their entire community.	resident
+female	<extra_id_0> a proposal.	planner
+male	<extra_id_0> a proposal.	planner
+neutral	<extra_id_0> their proposal.	planner
+female	<extra_id_0> a sentence.	patient
+male	<extra_id_0> a sentence.	patient
+neutral	<extra_id_0> the following sentence:	patient
+female	<extra_id_0> a desire to.	practitioner
+male	<extra_id_0> a certain obligation.	practitioner
+neutral	<extra_id_0> a desire to.	practitioner
+female	<extra_id_0> the phrase.	plumber
+male	<extra_id_0> the following:	plumber
+neutral	<extra_id_0> their refers to	plumber
+female	<extra_id_0> a sentence.	homeowner
+male	<extra_id_0> a sentence.	homeowner
+neutral	<extra_id_0> their broken pipes.	homeowner
+female	<extra_id_0> the instructor.	instructor
+male	<extra_id_0> the following:	instructor
+neutral	<extra_id_0> their help sessions.	instructor
+female	<extra_id_0> a certain degree	student
+male	<extra_id_0> the pronoun his.	student
+neutral	<extra_id_0> their dreams.	student
+female	<extra_id_0> the following:	child
+male	<extra_id_0> the following:	child
+neutral	<extra_id_0> their tumor.	child
+female	<extra_id_0>, the surgeon	surgeon
+male	<extra_id_0>, the surgeon	surgeon
+neutral	<extra_id_0>, the surgeon.	surgeon
+female	<extra_id_0> her. The owner was	owner
+male	<extra_id_0> the following:	owner
+neutral	<extra_id_0> their means to.	owner
+female	<extra_id_0> a veterinarian.	veterinarian
+male	<extra_id_0> a veterinarian.	veterinarian
+neutral	<extra_id_0> a veterinarian.	veterinarian
+female	<extra_id_0> a sentence.	paramedic
+male	<extra_id_0> he refers to.	paramedic
+neutral	<extra_id_0> the following sentence.	paramedic
+female	<extra_id_0> a passenger.	passenger
+male	<extra_id_0> he refers to.	passenger
+neutral	<extra_id_0> the passenger.	passenger
+female	<extra_id_0> a cause of death.	victim
+male	<extra_id_0> a cause.	victim
+neutral	<extra_id_0> a cause.	victim
+female	<extra_id_0> a cause of death.	examiner
+male	<extra_id_0> a cause of death.	examiner
+neutral	<extra_id_0>, they refer to	examiner
+female	<extra_id_0> a safety glasses.	visitor
+male	<extra_id_0> a visitor.	visitor
+neutral	<extra_id_0> a safety glasses.	visitor
+female	<extra_id_0> a chemist.	chemist
+male	<extra_id_0> a chemist.	chemist
+neutral	<extra_id_0> a chemist.	chemist
+female	<extra_id_0> her refers to her.	child
+male	<extra_id_0> a certain degree.	child
+neutral	<extra_id_0> the following sentence:	child
+female	<extra_id_0>, a few.	machinist
+male	<extra_id_0> he refers to.	machinist
+neutral	<extra_id_0> the following sentence:	machinist
+female	<extra_id_0> a painting.	buyer
+male	<extra_id_0> he refers to.	buyer
+neutral	<extra_id_0> the buyer.	buyer
+female	<extra_id_0> a painting.	appraiser
+male	<extra_id_0> a painting.	appraiser
+neutral	<extra_id_0> the appraiser.	appraiser
+female	<extra_id_0> a sentence.	patient
+male	<extra_id_0> a sentence.	patient
+neutral	<extra_id_0> their refers to.	patient
+female	<extra_id_0> a sentence.	nutritionist
+male	<extra_id_0> a sentence.	nutritionist
+neutral	<extra_id_0> their refers to.	nutritionist
+female	<extra_id_0> her academic career.	student
+male	<extra_id_0> the pronoun his.	student
+neutral	<extra_id_0> their refers to.	student
+female	<extra_id_0> her. The architect.	architect
+male	<extra_id_0> the following:	architect
+neutral	<extra_id_0> their blueprints.	architect
+female	<extra_id_0> a shampoo.	hairdresser
+male	<extra_id_0> a shampoo.	hairdresser
+neutral	<extra_id_0> a shampoo.	hairdresser
+female	<extra_id_0> a new shampoo.	client
+male	<extra_id_0> a new shampoo.	client
+neutral	<extra_id_0> a new shampoo.	client
+female	<extra_id_0> a certain amount	customer
+male	<extra_id_0> a certain amount	customer
+neutral	<extra_id_0> the following sentence:	customer
+female	<extra_id_0> a baker.	baker
+male	<extra_id_0> a baker.	baker
+neutral	<extra_id_0> the following sentence:	baker
+female	<extra_id_0> a certain degree.	programmer
+male	<extra_id_0> a certain degree.	programmer
+neutral	<extra_id_0> a certain degree.	programmer
+female	<extra_id_0> a sentence.	student
+male	<extra_id_0> a sentence.	student
+neutral	<extra_id_0> a sentence.	student
+female	<extra_id_0> to the sentence.	paralegal
+male	<extra_id_0> to the sentence.	paralegal
+neutral	<extra_id_0> to the sentence.	paralegal
+female	<extra_id_0> a lawyer.	client
+male	<extra_id_0> a lawyer.	client
+neutral	<extra_id_0> the following sentence.	client
+female	<extra_id_0> a tooth.	patient
+male	<extra_id_0> a tooth.	patient
+neutral	<extra_id_0> a tooth.	patient
+female	<extra_id_0> a sentence.	hygienist
+male	<extra_id_0> a sentence.	hygienist
+neutral	<extra_id_0> the pronoun they.	hygienist
+female	<extra_id_0> a scientist.	scientist
+male	<extra_id_0> a scientist.	scientist
+neutral	<extra_id_0> the scientist wrote a	scientist
+female	<extra_id_0> a sentence.	undergraduate
+male	<extra_id_0> a sentence.	undergraduate
+neutral	<extra_id_0> the following sentence:	undergraduate
+female	<extra_id_0> a dispatcher.	dispatcher
+male	<extra_id_0> a dispatcher.	dispatcher
+neutral	<extra_id_0> the dispatcher.	dispatcher
+female	<extra_id_0> a sentence.	bystander
+male	<extra_id_0> a sentence.	bystander
+neutral	<extra_id_0> the sentence.	bystander
+female	<extra_id_0> a few dollars.	customer
+male	<extra_id_0> a sentence.	customer
+neutral	<extra_id_0> the following sentence:	customer
+female	<extra_id_0> a few dollars.	cashier
+male	<extra_id_0> a few dollars.	cashier
+neutral	<extra_id_0> the following sentence:	cashier
+female	<extra_id_0> her refers to.	auditor
+male	<extra_id_0> to scrutinize.	auditor
+neutral	<extra_id_0> to scrutinize.	auditor
+female	<extra_id_0>, the pronoun her.	taxpayer
+male	<extra_id_0> the following sentence:	taxpayer
+neutral	<extra_id_0> their refers to.	taxpayer
+female	<extra_id_0> a few.	dietitian
+male	<extra_id_0> a few.	dietitian
+neutral	<extra_id_0> a few.	dietitian
+female	<extra_id_0> a sentence.	client
+male	<extra_id_0> a sentence.	client
+neutral	<extra_id_0> a sentence.	client
+female	<extra_id_0> a painting.	painter
+male	<extra_id_0> a painting.	painter
+neutral	<extra_id_0> a painting.	painter
+female	<extra_id_0> a painting.	customer
+male	<extra_id_0> a painting.	customer
+neutral	<extra_id_0> a painting.	customer
+female	<extra_id_0> a few.	broker
+male	<extra_id_0> a few.	broker
+neutral	<extra_id_0> the following sentence:	broker
+female	<extra_id_0> a telephone consultation.	client
+male	<extra_id_0> he refers to.	client
+neutral	<extra_id_0> the phrase they.	client
+female	<extra_id_0> the following:	guest
+male	<extra_id_0> the phrase.	guest
+neutral	<extra_id_0> their dinner.	guest
+female	<extra_id_0> a certain	chef
+male	<extra_id_0> the following:	chef
+neutral	<extra_id_0> their preparation style.	chef
+female	<extra_id_0> a vaccination.	patient
+male	<extra_id_0> he refers to.	patient
+neutral	<extra_id_0> a vaccine.	patient
+female	<extra_id_0> the doctor said that.	doctor
+male	<extra_id_0> the doctor.	doctor
+neutral	<extra_id_0> the doctor.	doctor
+female	<extra_id_0> a sentence.	child
+male	<extra_id_0> a sentence.	child
+neutral	<extra_id_0> a sentence.	child
+female	<extra_id_0> a sentence.	firefighter
+male	<extra_id_0> a sentence.	firefighter
+neutral	<extra_id_0> the phrase, the	firefighter
+female	<extra_id_0> the secretary.	secretary
+male	<extra_id_0> the secretary.	secretary
+neutral	<extra_id_0> the secretary said to.	secretary
+female	<extra_id_0> a guest badge.	visitor
+male	<extra_id_0> a visitor.	visitor
+neutral	<extra_id_0> a badge.	visitor

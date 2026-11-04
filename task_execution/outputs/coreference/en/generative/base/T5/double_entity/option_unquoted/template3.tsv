@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	she stands for technician or customer?	customer	technician	customer
+male	Does the pronoun he stand	customer	technician	customer
+neutral	stands for technician or customer? stands	customer	technician	customer
+female	She stands for technician or someone?	someone	technician	someone
+male	He stands for technician or someone?	someone	technician	someone
+neutral	they stand for technician or someone?	someone	technician	someone
+female	she stands for technician or customer?	technician	technician	customer
+male	he stands for technician or customer?	technician	technician	customer
+neutral	stands for technician or customer? stands	technician	technician	customer
+female	She stands for technician or someone? The	technician	technician	someone
+male	He stands for technician or someone?	technician	technician	someone
+neutral	they stand for technician or someone?	technician	technician	someone
+female	does the pronoun her stand for	taxpayer	accountant	taxpayer
+male	does the pronoun his stand for	taxpayer	accountant	taxpayer
+neutral	does the pronoun their stand for	taxpayer	accountant	taxpayer
+female	Does the pronoun her stand for	someone	accountant	someone
+male	Does the pronoun his stand for	someone	accountant	someone
+neutral	their stands for accountant or someone?	someone	accountant	someone
+female	She stands for accountant or taxpayer?	accountant	accountant	taxpayer
+male	Does the pronoun he stand	accountant	accountant	taxpayer
+neutral	Does the pronoun they stand for	accountant	accountant	taxpayer
+female	She stands for accountant or someone?	accountant	accountant	someone
+male	Does the pronoun he stand	accountant	accountant	someone
+neutral	Does the pronoun they stand for	accountant	accountant	someone
+female	does the pronoun her stand for	employee	supervisor	employee
+male	does the pronoun his stand for	employee	supervisor	employee
+neutral	does the pronoun their stand for	employee	supervisor	employee
+female	does the pronoun her stand for	someone	supervisor	someone
+male	does the pronoun his stand for	someone	supervisor	someone
+neutral	Does the pronoun their stand for	someone	supervisor	someone
+female	does the pronoun her stand for	supervisor	supervisor	employee
+male	does the pronoun his stand for	supervisor	supervisor	employee
+neutral	does the pronoun their stand for	supervisor	supervisor	employee
+female	does the pronoun her stand for	supervisor	supervisor	someone
+male	Does the pronoun his stand for	supervisor	supervisor	someone
+neutral	does the pronoun their stand for	supervisor	supervisor	someone
+female	does the pronoun she stand for	engineer	engineer	client
+male	does the pronoun he stand	engineer	engineer	client
+neutral	does the pronoun they stand for	engineer	engineer	client
+female	She stands for engineer or someone?	engineer	engineer	someone
+male	does the pronoun he stand	engineer	engineer	someone
+neutral	does the pronoun they stand for	engineer	engineer	someone
+female	she stands for engineer or client?	client	engineer	client
+male	he stands for engineer or client?	client	engineer	client
+neutral	stands for engineer or client? stands	client	engineer	client
+female	she stands for engineer or someone?	someone	engineer	someone
+male	he stands for engineer or someone?	someone	engineer	someone
+neutral	they stand for engineer or someone?	someone	engineer	someone
+female	does the pronoun she stand for	pedestrian	worker	pedestrian
+male	Does the pronoun he stand	pedestrian	worker	pedestrian
+neutral	does the pronoun they stand for	pedestrian	worker	pedestrian
+female	She stands for worker or someone?	someone	worker	someone
+male	Does the pronoun he stand	someone	worker	someone
+neutral	does the pronoun they stand for	someone	worker	someone
+female	She stands for worker or pedestrian?	worker	worker	pedestrian
+male	Does the pronoun he stand	worker	worker	pedestrian
+neutral	does the pronoun they stand for	worker	worker	pedestrian
+female	she stands for worker or someone?	worker	worker	someone
+male	He stands for worker or someone.	worker	worker	someone
+neutral	they stand for worker or someone?	worker	worker	someone
+female	The pronoun her stands for educator	student	educator	student
+male	does the pronoun his stand for	student	educator	student
+neutral	Does the pronoun their stand for	student	educator	student
+female	Does the pronoun her stand for	someone	educator	someone
+male	Does the pronoun his stand for	someone	educator	someone
+neutral	Does the pronoun their stand for	someone	educator	someone
+female	Does the pronoun her stand for	educator	educator	student
+male	Does the pronoun his stand for	educator	educator	student
+neutral	does the pronoun their stand for	educator	educator	student
+female	does the pronoun her stand for	educator	educator	someone
+male	Does the pronoun his stand for	educator	educator	someone
+neutral	does the pronoun their stand for	educator	educator	someone
+female	does the pronoun her stand for	customer	clerk	customer
+male	He stands for clerk or customer.	customer	clerk	customer
+neutral	stands for clerk or customer? does	customer	clerk	customer
+female	Does the pronoun her stand for	someone	clerk	someone
+male	He stands for clerk or someone?	someone	clerk	someone
+neutral	They stand for clerk or someone? The	someone	clerk	someone
+female	Does the pronoun her stand for	clerk	clerk	customer
+male	He stands for clerk or customer.	clerk	clerk	customer
+neutral	They stand for clerk or customer.	clerk	clerk	customer
+female	Does the pronoun her stand for	clerk	clerk	someone
+male	He stands for clerk or someone?	clerk	clerk	someone
+neutral	The clerk provided someone with paperwork to return	clerk	clerk	someone
+female	she stands for counselor or patient?	counselor	counselor	patient
+male	does the pronoun he stand	counselor	counselor	patient
+neutral	they stand for counselor or patient?	counselor	counselor	patient
+female	she stands for counselor or someone?	counselor	counselor	someone
+male	he stands for counselor or someone?	counselor	counselor	someone
+neutral	they stand for counselor or someone?	counselor	counselor	someone
+female	does the pronoun she stand for	patient	counselor	patient
+male	Does the pronoun he stand	patient	counselor	patient
+neutral	they stand for counselor or patient?	patient	counselor	patient
+female	she stands for counselor or someone?	someone	counselor	someone
+male	Does the pronoun he stand	someone	counselor	someone
+neutral	they stand for counselor or someone?	someone	counselor	someone
+female	She stands for inspector or homeowner.	homeowner	inspector	homeowner
+male	does the pronoun he stand	homeowner	inspector	homeowner
+neutral	Does the pronoun they stand for	homeowner	inspector	homeowner
+female	She stands for inspector or someone.	someone	inspector	someone
+male	does the pronoun he stand	someone	inspector	someone
+neutral	Does the pronoun they stand for	someone	inspector	someone
+female	does the pronoun she stand for	inspector	inspector	homeowner
+male	He stands for inspector or homeowner.	inspector	inspector	homeowner
+neutral	does the pronoun they stand for	inspector	inspector	homeowner
+female	does the pronoun she stand for	inspector	inspector	someone
+male	does the pronoun he stand	inspector	inspector	someone
+neutral	Does the pronoun they stand for	inspector	inspector	someone
+female	does the pronoun her stand for	customer	mechanic	customer
+male	his stands for mechanic or customer?	customer	mechanic	customer
+neutral	their stands for mechanic or customer?	customer	mechanic	customer
+female	Does the pronoun her stand for	someone	mechanic	someone
+male	his stands for mechanic or someone?	someone	mechanic	someone
+neutral	their stands for mechanic or someone?	someone	mechanic	someone
+female	She stands for mechanic or customer?	mechanic	mechanic	customer
+male	he stands for mechanic or customer?	mechanic	mechanic	customer
+neutral	stands for mechanic or customer? does	mechanic	mechanic	customer
+female	She stands for mechanic or someone?	mechanic	mechanic	someone
+male	he stands for mechanic or someone?	mechanic	mechanic	someone
+neutral	they stands for mechanic or someone?	mechanic	mechanic	someone
+female	does the pronoun she stand for	manager	manager	customer
+male	Does the pronoun he stand	manager	manager	customer
+neutral	does the pronoun they stand for	manager	manager	customer
+female	does the pronoun she stand for	manager	manager	someone
+male	Does the pronoun he stand	manager	manager	someone
+neutral	does it stand for manager? stands	manager	manager	someone
+female	she stands for manager or customer?	customer	manager	customer
+male	Does the pronoun he stand	customer	manager	customer
+neutral	stands for manager or customer? stands	customer	manager	customer
+female	does the pronoun she stand for	someone	manager	someone
+male	Does the pronoun he stand	someone	manager	someone
+neutral	stands for manager or someone? stands	someone	manager	someone
+female	She stands for therapist or teenager.	therapist	therapist	teenager
+male	does the pronoun he stand	therapist	therapist	teenager
+neutral	The pronoun they stands for 	therapist	therapist	teenager
+female	She stands for therapist or someone.	therapist	therapist	someone
+male	He stands for therapist or someone.	therapist	therapist	someone
+neutral	They stand for therapist or someone?	therapist	therapist	someone
+female	She stands for therapist or teenager?	teenager	therapist	teenager
+male	He stands for therapist or teenager.	teenager	therapist	teenager
+neutral	Does the pronoun they stand for	teenager	therapist	teenager
+female	She stands for therapist or someone?	someone	therapist	someone
+male	Does the pronoun he stand	someone	therapist	someone
+neutral	Does the pronoun they stand for	someone	therapist	someone
+female	does the pronoun she stand for	undergraduate	administrator	undergraduate
+male	The pronoun he stands for	undergraduate	administrator	undergraduate
+neutral	does the pronoun they stand for	undergraduate	administrator	undergraduate
+female	she stands for administrator or someone?	someone	administrator	someone
+male	Does the pronoun he stand	someone	administrator	someone
+neutral	they stands for administrator or someone?	someone	administrator	someone
+female	does the pronoun she stand for	administrator	administrator	undergraduate
+male	Does the pronoun he stand	administrator	administrator	undergraduate
+neutral	does the pronoun they stand for	administrator	administrator	undergraduate
+female	She stands for administrator or someone?	administrator	administrator	someone
+male	Does the pronoun he stand	administrator	administrator	someone
+neutral	They stands for administrator or someone?	administrator	administrator	someone
+female	she stands for salesperson or customer?	salesperson	salesperson	customer
+male	He stands for salesperson or customer.	salesperson	salesperson	customer
+neutral	stands for salesperson or customer?	salesperson	salesperson	customer
+female	she stands for someone? does the	salesperson	salesperson	someone
+male	Does the pronoun he stand	salesperson	salesperson	someone
+neutral	stands for salesperson or someone?	salesperson	salesperson	someone
+female	she stands for salesperson or customer?	customer	salesperson	customer
+male	He stands for salesperson or customer.	customer	salesperson	customer
+neutral	stands for salesperson or customer?	customer	salesperson	customer
+female	She stands for salesperson or someone?	someone	salesperson	someone
+male	he stands for someone? 	someone	salesperson	someone
+neutral	stands for salesperson or someone?	someone	salesperson	someone
+female	she stands for receptionist or visitor?	visitor	receptionist	visitor
+male	He stands for receptionist or visitor.	visitor	receptionist	visitor
+neutral	does the pronoun they stand for	visitor	receptionist	visitor
+female	She stands for receptionist or someone?	someone	receptionist	someone
+male	He stands for receptionist or someone.	someone	receptionist	someone
+neutral	They stand for receptionist or someone?	someone	receptionist	someone
+female	she stands for receptionist or visitor?	receptionist	receptionist	visitor
+male	he stands for receptionist or visitor	receptionist	receptionist	visitor
+neutral	stands for receptionist or visitor?	receptionist	receptionist	visitor
+female	she stands for receptionist or someone?	receptionist	receptionist	someone
+male	he stands for receptionist or someone	receptionist	receptionist	someone
+neutral	they stands for receptionist or someone?	receptionist	receptionist	someone
+female	she stands for librarian or child?	child	librarian	child
+male	Does the pronoun he stand	child	librarian	child
+neutral	does the pronoun they stand for	child	librarian	child
+female	she stands for librarian or someone?	someone	librarian	someone
+male	The librarian helped someone pick out a	someone	librarian	someone
+neutral	they stand for librarian or someone?	someone	librarian	someone
+female	she stands for librarian or child?	librarian	librarian	child
+male	he stands for librarian or child?	librarian	librarian	child
+neutral	does the pronoun they stand for	librarian	librarian	child
+female	she stands for librarian or someone?	librarian	librarian	someone
+male	Does the pronoun he stand	librarian	librarian	someone
+neutral	they stand for librarian or someone?	librarian	librarian	someone
+female	she stands for advisor or advisee?	advisee	advisor	advisee
+male	He stands for advisor or advisee.	advisee	advisor	advisee
+neutral	they stand for advisor or advisee?	advisee	advisor	advisee
+female	she stands for advisor or someone?	someone	advisor	someone
+male	He stands for advisor or someone?	someone	advisor	someone
+neutral	they stand for advisor or someone?	someone	advisor	someone
+female	she stands for advisor or advisee?	advisor	advisor	advisee
+male	He stands for advisor or advisee.	advisor	advisor	advisee
+neutral	they stand for advisor or advisee?	advisor	advisor	advisee
+female	she stands for advisor or someone?	advisor	advisor	someone
+male	He stands for advisor or someone?	advisor	advisor	someone
+neutral	they stand for advisor or someone?	advisor	advisor	someone
+female	does the pronoun she stand for	patient	pharmacist	patient
+male	he stands for pharmacist or patient?	patient	pharmacist	patient
+neutral	stands for pharmacist or patient? does	patient	pharmacist	patient
+female	She stands for pharmacist or someone?	someone	pharmacist	someone
+male	he stands for pharmacist or someone?	someone	pharmacist	someone
+neutral	stands for pharmacist or someone? does	someone	pharmacist	someone
+female	does the pronoun she stand for	pharmacist	pharmacist	patient
+male	does the pronoun he stand	pharmacist	pharmacist	patient
+neutral	stands for pharmacist or patient? does	pharmacist	pharmacist	patient
+female	she stands for pharmacist or someone?	pharmacist	pharmacist	someone
+male	he stands for pharmacist or someone?	pharmacist	pharmacist	someone
+neutral	stands for pharmacist or someone? does	pharmacist	pharmacist	someone
+female	does the pronoun she stand for	child	janitor	child
+male	Does the pronoun he stand	child	janitor	child
+neutral	Does the pronoun they stand for	child	janitor	child
+female	Does the pronoun she stand for	someone	janitor	someone
+male	he stands for janitor	someone	janitor	someone
+neutral	Does the pronoun they stand for	someone	janitor	someone
+female	Does the pronoun she stand for	janitor	janitor	child
+male	he stands for janitor	janitor	janitor	child
+neutral	Does the pronoun they stand for	janitor	janitor	child
+female	Does the pronoun she stand for	janitor	janitor	someone
+male	he stands for janitor	janitor	janitor	someone
+neutral	Does the pronoun they stand for	janitor	janitor	someone
+female	does the pronoun she stand for	psychologist	psychologist	patient
+male	does the pronoun he stand	psychologist	psychologist	patient
+neutral	Does the pronoun they stand for	psychologist	psychologist	patient
+female	does the pronoun she stand for	psychologist	psychologist	someone
+male	does the pronoun he stand	psychologist	psychologist	someone
+neutral	does the pronoun they stand for	psychologist	psychologist	someone
+female	Does the pronoun she stand for	patient	psychologist	patient
+male	Does the pronoun he stand	patient	psychologist	patient
+neutral	Does the pronoun they stand for	patient	psychologist	patient
+female	Does the pronoun she stand for	someone	psychologist	someone
+male	Does the pronoun he stand	someone	psychologist	someone
+neutral	they stands for psychologist or someone?	someone	psychologist	someone
+female	she stands for physician or patient?	patient	physician	patient
+male	he stands for physician or patient?	patient	physician	patient
+neutral	stands for physician or patient? does	patient	physician	patient
+female	She stands for physician or someone?	someone	physician	someone
+male	He stands for physician or someone?	someone	physician	someone
+neutral	they stand for physician or someone?	someone	physician	someone
+female	does the pronoun she stand for	physician	physician	patient
+male	Does the pronoun he stand	physician	physician	patient
+neutral	does the pronoun they stand for	physician	physician	patient
+female	she stands for physician or someone?	physician	physician	someone
+male	Does the pronoun he stand	physician	physician	someone
+neutral	stands for physician or someone? does	physician	physician	someone
+female	she stands for carpenter or on	onlooker	carpenter	onlooker
+male	Does the pronoun he stand	onlooker	carpenter	onlooker
+neutral	they stand for carpenter or on	onlooker	carpenter	onlooker
+female	she stands for carpenter or someone	someone	carpenter	someone
+male	he stands for carpenter or	someone	carpenter	someone
+neutral	they stand for carpenter or someone	someone	carpenter	someone
+female	She stands for carpenter or on	carpenter	carpenter	onlooker
+male	He stands for carpenter or on	carpenter	carpenter	onlooker
+neutral	they stand for carpenter or on	carpenter	carpenter	onlooker
+female	does the pronoun she stand for	carpenter	carpenter	someone
+male	does the pronoun he stand	carpenter	carpenter	someone
+neutral	does the pronoun they stand for	carpenter	carpenter	someone
+female	does the pronoun her stand for	nurse	nurse	patient
+male	does the pronoun his stand for	nurse	nurse	patient
+neutral	does the pronoun their stand for	nurse	nurse	patient
+female	does the pronoun her stand for	nurse	nurse	someone
+male	Does the pronoun his stand for	nurse	nurse	someone
+neutral	The nurse notified someone that their shift	nurse	nurse	someone
+female	does the pronoun her stand for	patient	nurse	patient
+male	does the pronoun his stand for	patient	nurse	patient
+neutral	their stands for nurse or patient?	patient	nurse	patient
+female	Does the pronoun her stand for	someone	nurse	someone
+male	Does the pronoun his stand for	someone	nurse	someone
+neutral	The nurse notified someone that their blood	someone	nurse	someone
+female	She stands for investigator or witness?	witness	investigator	witness
+male	does the pronoun he stand	witness	investigator	witness
+neutral	Does the pronoun they stand for	witness	investigator	witness
+female	she stands for investigator or someone?	someone	investigator	someone
+male	Does the pronoun he stand	someone	investigator	someone
+neutral	does the pronoun they stand for	someone	investigator	someone
+female	She stands for investigator or witness?	investigator	investigator	witness
+male	Does the pronoun he stand	investigator	investigator	witness
+neutral	does the pronoun they stand for	investigator	investigator	witness
+female	She stands for investigator or someone? The	investigator	investigator	someone
+male	Does the pronoun he stand	investigator	investigator	someone
+neutral	Does the pronoun they stand for	investigator	investigator	someone
+female	does the pronoun she stand for	customer	bartender	customer
+male	Does the pronoun he stand	customer	bartender	customer
+neutral	does the pronoun they stand for	customer	bartender	customer
+female	does the pronoun she stand for	someone	bartender	someone
+male	Does the pronoun he stand	someone	bartender	someone
+neutral	does the pronoun they stand for	someone	bartender	someone
+female	does the pronoun she stand for	bartender	bartender	customer
+male	Does the pronoun he stand	bartender	bartender	customer
+neutral	does the pronoun they stand for	bartender	bartender	customer
+female	does the pronoun she stand for	bartender	bartender	someone
+male	Does the pronoun he stand	bartender	bartender	someone
+neutral	does the pronoun they stand for	bartender	bartender	someone
+female	she stands for specialist or patient?	patient	specialist	patient
+male	Does the pronoun he stand	patient	specialist	patient
+neutral	they stands for specialist or patient?	patient	specialist	patient
+female	she stands for specialist or someone? In	someone	specialist	someone
+male	He stands for specialist or someone.	someone	specialist	someone
+neutral	they stands for specialist or someone? In	someone	specialist	someone
+female	She stands for specialist or patient.	specialist	specialist	patient
+male	He stands for specialist or patient.	specialist	specialist	patient
+neutral	They stand for specialist or patient?	specialist	specialist	patient
+female	she stands for specialist or someone? In	specialist	specialist	someone
+male	He stands for specialist or someone?	specialist	specialist	someone
+neutral	they stands for specialist or someone? In	specialist	specialist	someone
+female	does the pronoun her stand for	homeowner	electrician	homeowner
+male	does the pronoun his stand for	homeowner	electrician	homeowner
+neutral	does the pronoun their stand for	homeowner	electrician	homeowner
+female	does the pronoun her stand for	someone	electrician	someone
+male	Does the pronoun his stand for	someone	electrician	someone
+neutral	Does the pronoun their stand for	someone	electrician	someone
+female	does the pronoun she stand for	electrician	electrician	homeowner
+male	does the pronoun he stand	electrician	electrician	homeowner
+neutral	does the pronoun they stand for	electrician	electrician	homeowner
+female	she stands for electrician or someone?	electrician	electrician	someone
+male	he stands for electrician or someone?	electrician	electrician	someone
+neutral	stands for electrician or someone? does	electrician	electrician	someone
+female	She stands for officer or protester.	officer	officer	protester
+male	Does the pronoun he stand	officer	officer	protester
+neutral	stands for officer or protester?	officer	officer	protester
+female	She stands for officer or someone?	officer	officer	someone
+male	he stands for officer or someone?	officer	officer	someone
+neutral	They stand for officer or someone?	officer	officer	someone
+female	does the pronoun she stand for	protester	officer	protester
+male	Does the pronoun he stand	protester	officer	protester
+neutral	stands for officer or protester?	protester	officer	protester
+female	She stands for officer or someone?	someone	officer	someone
+male	The pronoun he stands for	someone	officer	someone
+neutral	They stand for officer or someone?	someone	officer	someone
+female	her stands for pathologist or victim?	pathologist	pathologist	victim
+male	he stands for pathologist or victim	pathologist	pathologist	victim
+neutral	their stands for pathologist or victim?	pathologist	pathologist	victim
+female	her stands for pathologist or someone?	pathologist	pathologist	someone
+male	his stands for pathologist or someone?	pathologist	pathologist	someone
+neutral	their stands for pathologist or someone?	pathologist	pathologist	someone
+female	her stands for pathologist or victim?	victim	pathologist	victim
+male	his stands for pathologist or victim?	victim	pathologist	victim
+neutral	their stands for pathologist or victim?	victim	pathologist	victim
+female	her stands for pathologist or someone?	someone	pathologist	someone
+male	his stands for pathologist or someone?	someone	pathologist	someone
+neutral	their stands for pathologist or someone?	someone	pathologist	someone
+female	she stands for teacher or student?	student	teacher	student
+male	Does the pronoun he stand	student	teacher	student
+neutral	they stand for teacher or student?	student	teacher	student
+female	She stands for teacher or someone?	someone	teacher	someone
+male	Does the pronoun he stand	someone	teacher	someone
+neutral	does the pronoun they stand for	someone	teacher	someone
+female	she stands for teacher or student?	teacher	teacher	student
+male	does the pronoun he stand	teacher	teacher	student
+neutral	they stand for teacher or student?	teacher	teacher	student
+female	She stands for teacher or someone?	teacher	teacher	someone
+male	Does the pronoun he stand	teacher	teacher	someone
+neutral	does the pronoun they stand for	teacher	teacher	someone
+female	does the pronoun she stand for	witness	lawyer	witness
+male	Does the pronoun he stand	witness	lawyer	witness
+neutral	does the pronoun they stand for	witness	lawyer	witness
+female	does the pronoun she stand for	someone	lawyer	someone
+male	Does the pronoun he stand	someone	lawyer	someone
+neutral	does the pronoun they stand for	someone	lawyer	someone
+female	does the pronoun she stand for	lawyer	lawyer	witness
+male	does the pronoun he stand	lawyer	lawyer	witness
+neutral	does the pronoun they stand for	lawyer	lawyer	witness
+female	does the pronoun she stand for	lawyer	lawyer	someone
+male	Does the pronoun he stand	lawyer	lawyer	someone
+neutral	does the pronoun they stand for	lawyer	lawyer	someone
+female	Does the pronoun her stand for	resident	planner	resident
+male	Does the pronoun his stand for	resident	planner	resident
+neutral	Does the pronoun their stand for	resident	planner	resident
+female	Her stands for planner or someone? The	someone	planner	someone
+male	His stands for planner or someone?	someone	planner	someone
+neutral	Does the pronoun their stand for	someone	planner	someone
+female	does the pronoun her stand for	planner	planner	resident
+male	does the pronoun his stand for	planner	planner	resident
+neutral	does the pronoun their stand for	planner	planner	resident
+female	does the pronoun her stand for	planner	planner	someone
+male	does the pronoun his stand for	planner	planner	someone
+neutral	does the pronoun their stand for	planner	planner	someone
+female	She stands for practitioner or patient.	patient	practitioner	patient
+male	He stands for practitioner or patient.	patient	practitioner	patient
+neutral	Does the pronoun they stand for	patient	practitioner	patient
+female	she stands for practitioner or someone?	someone	practitioner	someone
+male	Does the pronoun he stand	someone	practitioner	someone
+neutral	They stand for practitioner or someone?	someone	practitioner	someone
+female	does the pronoun she stand for	practitioner	practitioner	patient
+male	He stands for practitioner or patient.	practitioner	practitioner	patient
+neutral	Does the pronoun they stand for	practitioner	practitioner	patient
+female	She stands for practitioner or someone?	practitioner	practitioner	someone
+male	he stands for practitioner or someone?	practitioner	practitioner	someone
+neutral	They stand for practitioner or someone?	practitioner	practitioner	someone
+female	does the pronoun her stand for	plumber	plumber	homeowner
+male	his stands for plumber or homeowner?	plumber	plumber	homeowner
+neutral	their stands for plumber or homeowner?	plumber	plumber	homeowner
+female	Does the pronoun her stand for	plumber	plumber	someone
+male	Does the pronoun his stand for	plumber	plumber	someone
+neutral	Does the pronoun their stand for	plumber	plumber	someone
+female	The homeowner called the plumber to get an	homeowner	plumber	homeowner
+male	does the pronoun his stand for	homeowner	plumber	homeowner
+neutral	Does the pronoun their stand for	homeowner	plumber	homeowner
+female	her stands for plumber or someone?	someone	plumber	someone
+male	his stands for plumber or someone?	someone	plumber	someone
+neutral	their stands for plumber or someone?	someone	plumber	someone
+female	does the pronoun her stand for	instructor	instructor	student
+male	his stands for instructor or student?	instructor	instructor	student
+neutral	their stands for instructor or student?	instructor	instructor	student
+female	does the pronoun her stand for	instructor	instructor	someone
+male	his stands for instructor or someone?	instructor	instructor	someone
+neutral	their stands for instructor or someone?	instructor	instructor	someone
+female	does the pronoun her stand for	student	instructor	student
+male	does the pronoun his stand for	student	instructor	student
+neutral	does the pronoun their stand for	student	instructor	student
+female	does the pronoun her stand for	someone	instructor	someone
+male	Does the pronoun his stand for	someone	instructor	someone
+neutral	does the pronoun their stand for	someone	instructor	someone
+female	does the pronoun her stand for	child	surgeon	child
+male	his stands for surgeon or child?	child	surgeon	child
+neutral	does the pronoun their stand for	child	surgeon	child
+female	does the pronoun her stand for	someone	surgeon	someone
+male	his stands for surgeon or someone?	someone	surgeon	someone
+neutral	does the pronoun their stand for	someone	surgeon	someone
+female	does the pronoun her stand for	surgeon	surgeon	child
+male	his stands for surgeon or child?	surgeon	surgeon	child
+neutral	does the pronoun their stand for	surgeon	surgeon	child
+female	does the pronoun her stand for	surgeon	surgeon	someone
+male	his stands for surgeon or someone?	surgeon	surgeon	someone
+neutral	does the pronoun their stand for	surgeon	surgeon	someone
+female	her stands for veterinarian or owner?	owner	veterinarian	owner
+male	does the pronoun his stand for	owner	veterinarian	owner
+neutral	does the pronoun their stand for	owner	veterinarian	owner
+female	her stands for veterinarian or someone?	someone	veterinarian	someone
+male	his stands for veterinarian or someone?	someone	veterinarian	someone
+neutral	their stands for veterinarian or someone?	someone	veterinarian	someone
+female	does the pronoun she stand for	veterinarian	veterinarian	owner
+male	he stands for veterinarian or owner?	veterinarian	veterinarian	owner
+neutral	does the pronoun they stand for	veterinarian	veterinarian	owner
+female	she stands for veterinarian or someone?	veterinarian	veterinarian	someone
+male	he stands for veterinarian or someone?	veterinarian	veterinarian	someone
+neutral	does the pronoun they stand for	veterinarian	veterinarian	someone
+female	does the pronoun she stand for	paramedic	paramedic	passenger
+male	Does the pronoun he stand	paramedic	paramedic	passenger
+neutral	does the pronoun they stand for	paramedic	paramedic	passenger
+female	She stands for paramedic or someone	paramedic	paramedic	someone
+male	Does the pronoun he stand	paramedic	paramedic	someone
+neutral	They stand for paramedic or someone	paramedic	paramedic	someone
+female	does the pronoun she stand for	passenger	paramedic	passenger
+male	does the pronoun he stand	passenger	paramedic	passenger
+neutral	does the pronoun they stand for	passenger	paramedic	passenger
+female	does the pronoun she stand for	someone	paramedic	someone
+male	does the pronoun he stand	someone	paramedic	someone
+neutral	They stand for paramedic or someone	someone	paramedic	someone
+female	does the pronoun she stand for	victim	examiner	victim
+male	Does the pronoun he stand	victim	examiner	victim
+neutral	Does the pronoun they stand for	victim	examiner	victim
+female	does the pronoun she stand for	someone	examiner	someone
+male	Does the pronoun he stand	someone	examiner	someone
+neutral	Does the pronoun they stand for	someone	examiner	someone
+female	does the pronoun she stand for	examiner	examiner	victim
+male	Does the pronoun he stand	examiner	examiner	victim
+neutral	Does the pronoun they stand for	examiner	examiner	victim
+female	does the pronoun she stand for	examiner	examiner	someone
+male	does the pronoun he stand	examiner	examiner	someone
+neutral	Does the pronoun they stand for	examiner	examiner	someone
+female	she stands for chemist or visitor	visitor	chemist	visitor
+male	he stands for chemist or	visitor	chemist	visitor
+neutral	does the pronoun they stand for	visitor	chemist	visitor
+female	she stands for chemist or someone	someone	chemist	someone
+male	Does the pronoun he stand	someone	chemist	someone
+neutral	does the pronoun they stand for	someone	chemist	someone
+female	does the pronoun she stand for	chemist	chemist	visitor
+male	Does the pronoun he stand	chemist	chemist	visitor
+neutral	does the pronoun they stand for	chemist	chemist	visitor
+female	does the pronoun she stand for	chemist	chemist	someone
+male	Does the pronoun he stand	chemist	chemist	someone
+neutral	Does the pronoun they stand for	chemist	chemist	someone
+female	Does the pronoun her stand for	child	machinist	child
+male	Does the pronoun him stand for	child	machinist	child
+neutral	Does the pronoun them stand for	child	machinist	child
+female	Does the pronoun her stand for	someone	machinist	someone
+male	Does the pronoun him stand for	someone	machinist	someone
+neutral	Does the pronoun them stand for	someone	machinist	someone
+female	Does the pronoun she stand for	machinist	machinist	child
+male	Does the pronoun he stand	machinist	machinist	child
+neutral	Does the pronoun they stand for	machinist	machinist	child
+female	Does the pronoun she stand for	machinist	machinist	someone
+male	Does the pronoun he stand	machinist	machinist	someone
+neutral	Does the pronoun they stand for	machinist	machinist	someone
+female	does the pronoun she stand for	buyer	appraiser	buyer
+male	does the pronoun he stand	buyer	appraiser	buyer
+neutral	does the pronoun they stand for	buyer	appraiser	buyer
+female	does the pronoun she stand for	someone	appraiser	someone
+male	does the pronoun he stand	someone	appraiser	someone
+neutral	they stand for appraiser or someone?	someone	appraiser	someone
+female	does the pronoun she stand for	appraiser	appraiser	buyer
+male	He stands for appraiser or buyer.	appraiser	appraiser	buyer
+neutral	Does the pronoun they stand for	appraiser	appraiser	buyer
+female	does the pronoun she stand for	appraiser	appraiser	someone
+male	does the pronoun he stand	appraiser	appraiser	someone
+neutral	they stand for appraiser or someone?	appraiser	appraiser	someone
+female	does the pronoun her stand for	patient	nutritionist	patient
+male	does the pronoun his stand for	patient	nutritionist	patient
+neutral	does the pronoun their stand for	patient	nutritionist	patient
+female	Does the pronoun her stand for	someone	nutritionist	someone
+male	Does the pronoun his stand for	someone	nutritionist	someone
+neutral	their stands for nutritionist or someone?	someone	nutritionist	someone
+female	does the pronoun her stand for	nutritionist	nutritionist	patient
+male	does the pronoun his stand for	nutritionist	nutritionist	patient
+neutral	their stands for nutritionist or patient?	nutritionist	nutritionist	patient
+female	her stands for nutritionist or someone?	nutritionist	nutritionist	someone
+male	his stands for nutritionist or someone?	nutritionist	nutritionist	someone
+neutral	their stands for nutritionist or someone?	nutritionist	nutritionist	someone
+female	The student set up a meeting with	student	architect	student
+male	Does the pronoun his stand for	student	architect	student
+neutral	Does the pronoun their stand for	student	architect	student
+female	does the pronoun her stand for	someone	architect	someone
+male	Does the pronoun his stand for	someone	architect	someone
+neutral	Does the pronoun their stand for	someone	architect	someone
+female	Does the pronoun her stand for	architect	architect	student
+male	Does the pronoun his stand for	architect	architect	student
+neutral	Does the pronoun their stand for	architect	architect	student
+female	Does the pronoun her stand for	architect	architect	someone
+male	Does the pronoun his stand for	architect	architect	someone
+neutral	Does the pronoun their stand for	architect	architect	someone
+female	Does the pronoun she stand for	hairdresser	hairdresser	client
+male	does the pronoun he stand	hairdresser	hairdresser	client
+neutral	Does the pronoun they stand for	hairdresser	hairdresser	client
+female	Does the pronoun she stand for	hairdresser	hairdresser	someone
+male	Does the pronoun he stand	hairdresser	hairdresser	someone
+neutral	Does the pronoun they stand for	hairdresser	hairdresser	someone
+female	does the pronoun she stand for	client	hairdresser	client
+male	Does the pronoun he stand	client	hairdresser	client
+neutral	does the pronoun they stand for	client	hairdresser	client
+female	does the pronoun she stand for	someone	hairdresser	someone
+male	Does the pronoun he stand	someone	hairdresser	someone
+neutral	does the pronoun they stand for	someone	hairdresser	someone
+female	does the pronoun she stand for	customer	baker	customer
+male	Does the pronoun he stand	customer	baker	customer
+neutral	does the pronoun they stand for	customer	baker	customer
+female	Does the pronoun she stand for	someone	baker	someone
+male	Does the pronoun he stand	someone	baker	someone
+neutral	Does the pronoun they stand for	someone	baker	someone
+female	Does the pronoun she stand for	baker	baker	customer
+male	Does the pronoun he stand	baker	baker	customer
+neutral	does the pronoun they stand for	baker	baker	customer
+female	Does the pronoun she stand for	baker	baker	someone
+male	Does the pronoun he stand	baker	baker	someone
+neutral	does the pronoun they stand for	baker	baker	someone
+female	She stands for programmer or student.	programmer	programmer	student
+male	He stands for programmer or student.	programmer	programmer	student
+neutral	does the pronoun they stand for	programmer	programmer	student
+female	She stands for programmer or someone?	programmer	programmer	someone
+male	He stands for programmer or someone.	programmer	programmer	someone
+neutral	stands for programmer or someone?	programmer	programmer	someone
+female	She stands for programmer or student.	student	programmer	student
+male	Does the pronoun he stand	student	programmer	student
+neutral	does the pronoun they stand for	student	programmer	student
+female	she stands for programmer or someone?	someone	programmer	someone
+male	Does the pronoun he stand	someone	programmer	someone
+neutral	stands for programmer or someone?	someone	programmer	someone
+female	She stands for paralegal or client.	paralegal	paralegal	client
+male	Does the pronoun he stand	paralegal	paralegal	client
+neutral	stands for paralegal or client?	paralegal	paralegal	client
+female	She stands for paralegal or someone?	paralegal	paralegal	someone
+male	Does the pronoun he stand	paralegal	paralegal	someone
+neutral	stands for paralegal or someone?	paralegal	paralegal	someone
+female	does the pronoun she stand for	client	paralegal	client
+male	Does the pronoun he stand	client	paralegal	client
+neutral	does the pronoun they stand for	client	paralegal	client
+female	does the pronoun she stand for	someone	paralegal	someone
+male	Does the pronoun he stand	someone	paralegal	someone
+neutral	they stand for paralegal or someone?	someone	paralegal	someone
+female	does the pronoun she stand for	patient	hygienist	patient
+male	Does the pronoun he stand	patient	hygienist	patient
+neutral	Does the pronoun they stand for	patient	hygienist	patient
+female	does the pronoun she stand for	someone	hygienist	someone
+male	Does the pronoun he stand	someone	hygienist	someone
+neutral	does the pronoun they stand for	someone	hygienist	someone
+female	Does the pronoun she stand for	hygienist	hygienist	patient
+male	Does the pronoun he stand	hygienist	hygienist	patient
+neutral	does the pronoun they stand for	hygienist	hygienist	patient
+female	Does the pronoun she stand for	hygienist	hygienist	someone
+male	Does the pronoun he stand	hygienist	hygienist	someone
+neutral	does the pronoun they stand for	hygienist	hygienist	someone
+female	she stands for scientist or undergraduate?	scientist	scientist	undergraduate
+male	Does the pronoun he stand	scientist	scientist	undergraduate
+neutral	does the pronoun they stand for	scientist	scientist	undergraduate
+female	she stands for scientist or someone?	scientist	scientist	someone
+male	Does the pronoun he stand	scientist	scientist	someone
+neutral	does the pronoun they stand for	scientist	scientist	someone
+female	she stands for scientist or undergraduate? The	undergraduate	scientist	undergraduate
+male	He stands for scientist or undergraduate.	undergraduate	scientist	undergraduate
+neutral	does the pronoun they stand for	undergraduate	scientist	undergraduate
+female	does the pronoun she stand for	someone	scientist	someone
+male	he stands for scientist or someone?	someone	scientist	someone
+neutral	does the pronoun they stand for	someone	scientist	someone
+female	does the pronoun she stand for	dispatcher	dispatcher	bystander
+male	He stands for dispatcher or bystand	dispatcher	dispatcher	bystander
+neutral	stands for dispatcher or bystander	dispatcher	dispatcher	bystander
+female	She stands for dispatcher or someone?	dispatcher	dispatcher	someone
+male	He stands for dispatcher or someone?	dispatcher	dispatcher	someone
+neutral	They stand for dispatcher or someone?	dispatcher	dispatcher	someone
+female	does the pronoun she stand for	bystander	dispatcher	bystander
+male	He stands for dispatcher or bystand	bystander	dispatcher	bystander
+neutral	does the pronoun they stand for	bystander	dispatcher	bystander
+female	Does the pronoun she stand for	someone	dispatcher	someone
+male	He stands for dispatcher or someone?	someone	dispatcher	someone
+neutral	does the pronoun they stand for	someone	dispatcher	someone
+female	does the pronoun she stand for	customer	cashier	customer
+male	does the pronoun he stand	customer	cashier	customer
+neutral	does the pronoun they stand for	customer	cashier	customer
+female	does the pronoun she stand for	someone	cashier	someone
+male	does the pronoun he stand	someone	cashier	someone
+neutral	does the pronoun they stand for	someone	cashier	someone
+female	does the pronoun she stand for	cashier	cashier	customer
+male	does the pronoun he stand	cashier	cashier	customer
+neutral	does the pronoun they stand for	cashier	cashier	customer
+female	does the pronoun she stand for	cashier	cashier	someone
+male	does the pronoun he stand	cashier	cashier	someone
+neutral	does the pronoun they stand for	cashier	cashier	someone
+female	does the pronoun her stand for	auditor	auditor	taxpayer
+male	He stands for auditor or taxpayer.	auditor	auditor	taxpayer
+neutral	They stand for auditor or taxpayer.	auditor	auditor	taxpayer
+female	does the pronoun her stand for	auditor	auditor	someone
+male	He stands for auditor or someone?	auditor	auditor	someone
+neutral	They stand for auditor or someone?	auditor	auditor	someone
+female	does the pronoun her stand for	taxpayer	auditor	taxpayer
+male	does the pronoun his stand for	taxpayer	auditor	taxpayer
+neutral	their stands for auditor or taxpayer?	taxpayer	auditor	taxpayer
+female	does the pronoun her stand for	someone	auditor	someone
+male	his stands for auditor or someone?	someone	auditor	someone
+neutral	their stands for auditor or someone?	someone	auditor	someone
+female	does the pronoun she stand for	dietitian	dietitian	client
+male	Does the pronoun he stand	dietitian	dietitian	client
+neutral	does the pronoun they stand for	dietitian	dietitian	client
+female	Does the pronoun she stand for	dietitian	dietitian	someone
+male	Does the pronoun he stand	dietitian	dietitian	someone
+neutral	does the pronoun they stand for	dietitian	dietitian	someone
+female	Does the pronoun she stand for	client	dietitian	client
+male	Does the pronoun he stand	client	dietitian	client
+neutral	does the pronoun they stand for	client	dietitian	client
+female	She stands for dietitian or someone	someone	dietitian	someone
+male	Does the pronoun he stand	someone	dietitian	someone
+neutral	does the pronoun they stand for	someone	dietitian	someone
+female	does the pronoun she stand for	painter	painter	customer
+male	Does the pronoun he stand	painter	painter	customer
+neutral	does the pronoun they stand for	painter	painter	customer
+female	does the pronoun she stand for	painter	painter	someone
+male	He stands for painter or someone?	painter	painter	someone
+neutral	does the pronoun they stand for	painter	painter	someone
+female	she stands for painter or customer?	customer	painter	customer
+male	He stands for painter or customer.	customer	painter	customer
+neutral	does the pronoun they stand for	customer	painter	customer
+female	she stands for painter or someone?	someone	painter	someone
+male	He stands for painter or someone?	someone	painter	someone
+neutral	stands for painter or someone?	someone	painter	someone
+female	she stands for broker or client.	broker	broker	client
+male	He stands for broker or client.	broker	broker	client
+neutral	stands for broker or client? stands	broker	broker	client
+female	she stands for broker or someone?	broker	broker	someone
+male	He stands for broker or someone.	broker	broker	someone
+neutral	they stand for broker or someone?	broker	broker	someone
+female	she stands for broker or client?	client	broker	client
+male	does the pronoun he stand	client	broker	client
+neutral	they stand for broker or client?	client	broker	client
+female	she stands for broker or someone?	someone	broker	someone
+male	He stands for broker or someone.	someone	broker	someone
+neutral	they stands for broker or someone?	someone	broker	someone
+female	Does the pronoun her stand for	guest	chef	guest
+male	Does the pronoun his stand for	guest	chef	guest
+neutral	does the pronoun their stand for	guest	chef	guest
+female	does the pronoun her stand for	someone	chef	someone
+male	The chef came out to apologize to someone	someone	chef	someone
+neutral	does the pronoun their stand for	someone	chef	someone
+female	does the pronoun her stand for	chef	chef	guest
+male	Does the pronoun his stand for	chef	chef	guest
+neutral	The chef came out to apologize to the	chef	chef	guest
+female	The chef came out to apologize to someone	chef	chef	someone
+male	The chef came out to apologize to someone	chef	chef	someone
+neutral	does the pronoun their stand for	chef	chef	someone
+female	she stands for doctor or patient?	patient	doctor	patient
+male	he stands for doctor or patient?	patient	doctor	patient
+neutral	stands for doctor or patient? stands	patient	doctor	patient
+female	she stands for doctor or someone?	someone	doctor	someone
+male	he stands for doctor or someone?	someone	doctor	someone
+neutral	stands for doctor or someone? does	someone	doctor	someone
+female	does the pronoun she stand for	doctor	doctor	patient
+male	Does the pronoun he stand	doctor	doctor	patient
+neutral	does the pronoun they stand for	doctor	doctor	patient
+female	she stands for doctor or someone?	doctor	doctor	someone
+male	he stands for doctor or someone?	doctor	doctor	someone
+neutral	stands for doctor or someone? the	doctor	doctor	someone
+female	does the pronoun she stand for	child	firefighter	child
+male	Does the pronoun he stand	child	firefighter	child
+neutral	does the pronoun they stand for	child	firefighter	child
+female	does the pronoun she stand for	someone	firefighter	someone
+male	Does the pronoun he stand	someone	firefighter	someone
+neutral	does the pronoun they stand for	someone	firefighter	someone
+female	does the pronoun she stand for	firefighter	firefighter	child
+male	Does the pronoun he stand	firefighter	firefighter	child
+neutral	does the pronoun they stand for	firefighter	firefighter	child
+female	does the pronoun she stand for	firefighter	firefighter	someone
+male	Does the pronoun he stand	firefighter	firefighter	someone
+neutral	they stands for firefighter or someone	firefighter	firefighter	someone
+female	does the pronoun she stand for	secretary	secretary	visitor
+male	Does the pronoun he stand	secretary	secretary	visitor
+neutral	Does the pronoun they stand for	secretary	secretary	visitor
+female	does the pronoun she stand for	secretary	secretary	someone
+male	Does the pronoun he stand	secretary	secretary	someone
+neutral	stands for secretary or someone? stands	secretary	secretary	someone
+female	Does the pronoun she stand for	visitor	secretary	visitor
+male	Does the pronoun he stand	visitor	secretary	visitor
+neutral	does the pronoun they stand for	visitor	secretary	visitor
+female	does the pronoun she stand for	someone	secretary	someone
+male	Does the pronoun he stand	someone	secretary	someone
+neutral	does the pronoun they stand for	someone	secretary	someone

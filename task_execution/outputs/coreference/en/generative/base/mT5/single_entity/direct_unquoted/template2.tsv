@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>, she it means	customer
+male	<extra_id_0>, he it means	customer
+neutral	<extra_id_0> means cash.	customer
+female	<extra_id_0>, she it means	technician
+male	<extra_id_0> he it means	technician
+neutral	<extra_id_0> a technician	technician
+female	<extra_id_0>. The taxpayer	taxpayer
+male	<extra_id_0>, by filing.	taxpayer
+neutral	<extra_id_0> their it means	taxpayer
+female	<extra_id_0>, she it means	accountant
+male	<extra_id_0> he it means	accountant
+neutral	<extra_id_0> means they	accountant
+female	<extra_id_0>, by the pronoun	employee
+male	<extra_id_0>, by the pronoun	employee
+neutral	<extra_id_0> their means	employee
+female	<extra_id_0>, by the pronoun	supervisor
+male	<extra_id_0>, the supervisor	supervisor
+neutral	<extra_id_0> their it means	supervisor
+female	<extra_id_0>, the engineer.	engineer
+male	<extra_id_0>, he it means	engineer
+neutral	<extra_id_0>, they.	engineer
+female	<extra_id_0> means she.	client
+male	<extra_id_0>, he it means	client
+neutral	<extra_id_0> a certain	client
+female	<extra_id_0>, she it means	pedestrian
+male	<extra_id_0>, he it means	pedestrian
+neutral	<extra_id_0>, they it means	pedestrian
+female	<extra_id_0>, because she	worker
+male	<extra_id_0>, because he	worker
+neutral	<extra_id_0>, they it means	worker
+female	<extra_id_0> a.	student
+male	<extra_id_0> means.	student
+neutral	<extra_id_0> their.	student
+female	<extra_id_0> her it means	educator
+male	<extra_id_0>, the educator	educator
+neutral	<extra_id_0> their it means	educator
+female	<extra_id_0>. The customer.	customer
+male	<extra_id_0>. The customer.	customer
+neutral	<extra_id_0>. The customer.	customer
+female	<extra_id_0> her it means	clerk
+male	<extra_id_0>, by the pronoun him	clerk
+neutral	<extra_id_0> the clerk	clerk
+female	<extra_id_0> she it means	counselor
+male	<extra_id_0> he it means	counselor
+neutral	<extra_id_0> a sentence.	counselor
+female	<extra_id_0>, she means	patient
+male	<extra_id_0> he it means	patient
+neutral	<extra_id_0>, they it means	patient
+female	<extra_id_0>, the pronoun she	homeowner
+male	<extra_id_0>, by the pronoun he	homeowner
+neutral	<extra_id_0>, they it means	homeowner
+female	<extra_id_0> a sentence.	inspector
+male	<extra_id_0> means he it	inspector
+neutral	<extra_id_0> a few.	inspector
+female	<extra_id_0> means her.	customer
+male	<extra_id_0>, by the pronoun	customer
+neutral	<extra_id_0> their it means	customer
+female	<extra_id_0> she it means	mechanic
+male	<extra_id_0>, he it means	mechanic
+neutral	<extra_id_0>, they it means	mechanic
+female	<extra_id_0> because she it means	manager
+male	<extra_id_0> because he.	manager
+neutral	<extra_id_0> a mistake.	manager
+female	<extra_id_0> a few	customer
+male	<extra_id_0>, he it means	customer
+neutral	<extra_id_0> a few.	customer
+female	<extra_id_0> means she.	therapist
+male	<extra_id_0> he it means	therapist
+neutral	<extra_id_0> means.	therapist
+female	<extra_id_0> a teenager	teenager
+male	<extra_id_0> he it means	teenager
+neutral	<extra_id_0> a teenager	teenager
+female	<extra_id_0>, she it means	undergraduate
+male	<extra_id_0>, he it means	undergraduate
+neutral	<extra_id_0>, they it means	undergraduate
+female	<extra_id_0>, she it means	administrator
+male	<extra_id_0> he it means	administrator
+neutral	<extra_id_0> a petition	administrator
+female	<extra_id_0>, the pronoun	salesperson
+male	<extra_id_0>, by the pronoun	salesperson
+neutral	<extra_id_0> a few	salesperson
+female	<extra_id_0>, she it means	customer
+male	<extra_id_0>, he it means	customer
+neutral	<extra_id_0>, they	customer
+female	<extra_id_0>, she it means	visitor
+male	<extra_id_0> he it means	visitor
+neutral	<extra_id_0> a sign in	visitor
+female	<extra_id_0>, when she	receptionist
+male	<extra_id_0> he it means	receptionist
+neutral	<extra_id_0> would be.	receptionist
+female	<extra_id_0> means she.	child
+male	<extra_id_0> means he.	child
+neutral	<extra_id_0> a book.	child
+female	<extra_id_0> means she.	librarian
+male	<extra_id_0> means he.	librarian
+neutral	<extra_id_0> a librarian	librarian
+female	<extra_id_0> a certain	advisee
+male	<extra_id_0> a certain	advisee
+neutral	<extra_id_0> a certain	advisee
+female	<extra_id_0> a lawyer.	advisor
+male	<extra_id_0> a lawyer.	advisor
+neutral	<extra_id_0> a lawyer.	advisor
+female	<extra_id_0>, she it means	patient
+male	<extra_id_0>, he it means	patient
+neutral	<extra_id_0> means.	patient
+female	<extra_id_0>, she it means	pharmacist
+male	<extra_id_0> he it means	pharmacist
+neutral	<extra_id_0>, they it	pharmacist
+female	<extra_id_0> means she.	child
+male	<extra_id_0> he it means	child
+neutral	<extra_id_0> means.	child
+female	<extra_id_0>, she it means	janitor
+male	<extra_id_0>, he it means	janitor
+neutral	<extra_id_0>, they it means	janitor
+female	<extra_id_0>, she it means	psychologist
+male	<extra_id_0>, he it means	psychologist
+neutral	<extra_id_0> a preliminary	psychologist
+female	<extra_id_0> means she.	patient
+male	<extra_id_0>, he it means	patient
+neutral	<extra_id_0> a few.	patient
+female	<extra_id_0> means she.	patient
+male	<extra_id_0> he it means	patient
+neutral	<extra_id_0> a few	patient
+female	<extra_id_0> she it means	physician
+male	<extra_id_0> he it means	physician
+neutral	<extra_id_0> a higher dose	physician
+female	<extra_id_0> a few.	onlooker
+male	<extra_id_0>, he it means	onlooker
+neutral	<extra_id_0> a few.	onlooker
+female	<extra_id_0> she it means	carpenter
+male	<extra_id_0> he it means	carpenter
+neutral	<extra_id_0> they means	carpenter
+female	<extra_id_0> a nurse.	nurse
+male	<extra_id_0>, the nurse	nurse
+neutral	<extra_id_0> their it means	nurse
+female	<extra_id_0>, means her.	patient
+male	<extra_id_0> means means	patient
+neutral	<extra_id_0> their it means	patient
+female	<extra_id_0>, she it means	witness
+male	<extra_id_0>, he it means	witness
+neutral	<extra_id_0> a sentence.	witness
+female	<extra_id_0> means she.	investigator
+male	<extra_id_0>, he it means	investigator
+neutral	<extra_id_0> a sentence.	investigator
+female	<extra_id_0> a few	customer
+male	<extra_id_0>, he it means	customer
+neutral	<extra_id_0> a few	customer
+female	<extra_id_0>, because she	bartender
+male	<extra_id_0>, he it means	bartender
+neutral	<extra_id_0>, they it means	bartender
+female	<extra_id_0>, she means.	patient
+male	<extra_id_0>, he it means	patient
+neutral	<extra_id_0>, they said.	patient
+female	<extra_id_0> she it means	specialist
+male	<extra_id_0> he it means	specialist
+neutral	<extra_id_0>, they it.	specialist
+female	<extra_id_0> her it means	homeowner
+male	<extra_id_0> means.	homeowner
+neutral	<extra_id_0> their it means	homeowner
+female	<extra_id_0>, the electrician.	electrician
+male	<extra_id_0>, he it means	electrician
+neutral	<extra_id_0> a few	electrician
+female	<extra_id_0>, she it means	officer
+male	<extra_id_0> he it means	officer
+neutral	<extra_id_0> a sentence	officer
+female	<extra_id_0> means.	protester
+male	<extra_id_0> means.	protester
+neutral	<extra_id_0> a means	protester
+female	<extra_id_0> her it means	pathologist
+male	<extra_id_0> means means	pathologist
+neutral	<extra_id_0> their it means	pathologist
+female	<extra_id_0>, means her.	victim
+male	<extra_id_0> a sentence.	victim
+neutral	<extra_id_0> their it means	victim
+female	<extra_id_0> means she it	student
+male	<extra_id_0> means he it	student
+neutral	<extra_id_0> a sentence.	student
+female	<extra_id_0>, she it means	teacher
+male	<extra_id_0> he it means	teacher
+neutral	<extra_id_0>, they it means	teacher
+female	<extra_id_0> means she.	witness
+male	<extra_id_0>, he it means	witness
+neutral	<extra_id_0> a means	witness
+female	<extra_id_0>, she means.	lawyer
+male	<extra_id_0>, he it means	lawyer
+neutral	<extra_id_0> a lawyer.	lawyer
+female	<extra_id_0>, by her it means	resident
+male	<extra_id_0>, by the pronoun	resident
+neutral	<extra_id_0> their means.	resident
+female	<extra_id_0> a planner.	planner
+male	<extra_id_0>, by the pronoun his	planner
+neutral	<extra_id_0> their it means	planner
+female	<extra_id_0> a sentence.	patient
+male	<extra_id_0> he it means	patient
+neutral	<extra_id_0> a sick	patient
+female	<extra_id_0>, she it means	practitioner
+male	<extra_id_0>, he it means	practitioner
+neutral	<extra_id_0>, they it means	practitioner
+female	<extra_id_0> a means	plumber
+male	<extra_id_0> a few	plumber
+neutral	<extra_id_0> their it means	plumber
+female	<extra_id_0> her means.	homeowner
+male	<extra_id_0> a few.	homeowner
+neutral	<extra_id_0> their it means	homeowner
+female	<extra_id_0> means.	instructor
+male	<extra_id_0> a phrase	instructor
+neutral	<extra_id_0> their help	instructor
+female	<extra_id_0> her dreams.	student
+male	<extra_id_0>, by the pronoun	student
+neutral	<extra_id_0> their it means	student
+female	<extra_id_0> a.	child
+male	<extra_id_0> a few.	child
+neutral	<extra_id_0> their it means	child
+female	<extra_id_0>, by the pronoun	surgeon
+male	<extra_id_0>, the surgeon	surgeon
+neutral	<extra_id_0> their it means	surgeon
+female	<extra_id_0> her it means	owner
+male	<extra_id_0>, the phrase.	owner
+neutral	<extra_id_0> their it means	owner
+female	<extra_id_0> means she.	veterinarian
+male	<extra_id_0>, he it means	veterinarian
+neutral	<extra_id_0>, a means	veterinarian
+female	<extra_id_0> means she.	paramedic
+male	<extra_id_0> he it means	paramedic
+neutral	<extra_id_0> a few	paramedic
+female	<extra_id_0> she it means	passenger
+male	<extra_id_0> he it means	passenger
+neutral	<extra_id_0> a passenger.	passenger
+female	<extra_id_0>, she it means	victim
+male	<extra_id_0>, by the pronoun he	victim
+neutral	<extra_id_0> a cause of death	victim
+female	<extra_id_0> she it means	examiner
+male	<extra_id_0>, by he it means	examiner
+neutral	<extra_id_0>, they it means	examiner
+female	<extra_id_0> means she.	visitor
+male	<extra_id_0>, he it means	visitor
+neutral	<extra_id_0> a safety glasses	visitor
+female	<extra_id_0> a chemist	chemist
+male	<extra_id_0> a chemist	chemist
+neutral	<extra_id_0> a chemist.	chemist
+female	<extra_id_0>, which is	child
+male	<extra_id_0>, but it means	child
+neutral	<extra_id_0>, they means	child
+female	<extra_id_0>, but she means	machinist
+male	<extra_id_0> he means he	machinist
+neutral	<extra_id_0>, but could operate	machinist
+female	<extra_id_0>, she it means	buyer
+male	<extra_id_0>, he it means	buyer
+neutral	<extra_id_0>, they it means	buyer
+female	<extra_id_0>, she means.	appraiser
+male	<extra_id_0>, he means.	appraiser
+neutral	<extra_id_0>, they means	appraiser
+female	<extra_id_0> means her.	patient
+male	<extra_id_0> a means.	patient
+neutral	<extra_id_0> their it means	patient
+female	<extra_id_0> exercise means.	nutritionist
+male	<extra_id_0> exercise means.	nutritionist
+neutral	<extra_id_0> their it means	nutritionist
+female	<extra_id_0> her means.	student
+male	<extra_id_0>, a.	student
+neutral	<extra_id_0> their means.	student
+female	<extra_id_0> her it means.	architect
+male	<extra_id_0>, a.	architect
+neutral	<extra_id_0> their blueprints	architect
+female	<extra_id_0> means a	hairdresser
+male	<extra_id_0>, he it means	hairdresser
+neutral	<extra_id_0> a shampoo.	hairdresser
+female	<extra_id_0> a recommendation.	client
+male	<extra_id_0> a shampoo.	client
+neutral	<extra_id_0> a new shampoo	client
+female	<extra_id_0> a certain	customer
+male	<extra_id_0> he it means	customer
+neutral	<extra_id_0> a chocolate cake	customer
+female	<extra_id_0> a baker.	baker
+male	<extra_id_0> a baker.	baker
+neutral	<extra_id_0> a baker.	baker
+female	<extra_id_0> means she.	programmer
+male	<extra_id_0> because he	programmer
+neutral	<extra_id_0> because they	programmer
+female	<extra_id_0> a few.	student
+male	<extra_id_0> a while.	student
+neutral	<extra_id_0> a few.	student
+female	<extra_id_0>. She means	paralegal
+male	<extra_id_0>. The paralegal	paralegal
+neutral	<extra_id_0>. The paralegal	paralegal
+female	<extra_id_0> a different law firm	client
+male	<extra_id_0> he it means	client
+neutral	<extra_id_0> a lawyer.	client
+female	<extra_id_0>, she it means	patient
+male	<extra_id_0>, he it means	patient
+neutral	<extra_id_0> a few.	patient
+female	<extra_id_0>, she it means	hygienist
+male	<extra_id_0> he it means	hygienist
+neutral	<extra_id_0> a dental	hygienist
+female	<extra_id_0> a scientist.	scientist
+male	<extra_id_0> he it means	scientist
+neutral	<extra_id_0> a scientist.	scientist
+female	<extra_id_0> means a	undergraduate
+male	<extra_id_0>, he it means	undergraduate
+neutral	<extra_id_0> a few.	undergraduate
+female	<extra_id_0>, she means	dispatcher
+male	<extra_id_0>, he it means	dispatcher
+neutral	<extra_id_0> a dispatcher	dispatcher
+female	<extra_id_0>, she it means	bystander
+male	<extra_id_0>, he it means	bystander
+neutral	<extra_id_0> a means.	bystander
+female	<extra_id_0>, she means.	customer
+male	<extra_id_0>, he it means	customer
+neutral	<extra_id_0>, they means	customer
+female	<extra_id_0>, she it means	cashier
+male	<extra_id_0>, he it means	cashier
+neutral	<extra_id_0>, they it means	cashier
+female	<extra_id_0> her, it means	auditor
+male	<extra_id_0>, the auditor.	auditor
+neutral	<extra_id_0>, the auditor.	auditor
+female	<extra_id_0> her it means	taxpayer
+male	<extra_id_0> means his it means	taxpayer
+neutral	<extra_id_0> their it means	taxpayer
+female	<extra_id_0> a few.	dietitian
+male	<extra_id_0> a few.	dietitian
+neutral	<extra_id_0> a few.	dietitian
+female	<extra_id_0> means she it means	client
+male	<extra_id_0> means he.	client
+neutral	<extra_id_0> a few.	client
+female	<extra_id_0> means the pronoun	painter
+male	<extra_id_0> means he.	painter
+neutral	<extra_id_0> a painting.	painter
+female	<extra_id_0> a painting.	customer
+male	<extra_id_0> a painting.	customer
+neutral	<extra_id_0> a painting.	customer
+female	<extra_id_0> a trader.	broker
+male	<extra_id_0> a trader.	broker
+neutral	<extra_id_0> a few	broker
+female	<extra_id_0> a consultation.	client
+male	<extra_id_0> he it means	client
+neutral	<extra_id_0> a consultation.	client
+female	<extra_id_0>, the guest.	guest
+male	<extra_id_0> means the.	guest
+neutral	<extra_id_0> their it means	guest
+female	<extra_id_0>, a.	chef
+male	<extra_id_0>, a.	chef
+neutral	<extra_id_0> their it means	chef
+female	<extra_id_0>, she it means	patient
+male	<extra_id_0> he it means	patient
+neutral	<extra_id_0> a vaccination	patient
+female	<extra_id_0>, she it means	doctor
+male	<extra_id_0> he it means	doctor
+neutral	<extra_id_0> a vacation.	doctor
+female	<extra_id_0>, she it means	child
+male	<extra_id_0>, he it means	child
+neutral	<extra_id_0> means they	child
+female	<extra_id_0> means she.	firefighter
+male	<extra_id_0>, he it means	firefighter
+neutral	<extra_id_0> a few.	firefighter
+female	<extra_id_0>, a means	secretary
+male	<extra_id_0>, a means	secretary
+neutral	<extra_id_0>, they means	secretary
+female	<extra_id_0> a badge.	visitor
+male	<extra_id_0> a badge.	visitor
+neutral	<extra_id_0> a badge.	visitor

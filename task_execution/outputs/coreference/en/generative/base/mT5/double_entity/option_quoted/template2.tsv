@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	<extra_id_0> 'The technician	customer	technician	customer
+male	<extra_id_0> 'The technician	customer	technician	customer
+neutral	<extra_id_0> 'The technician	customer	technician	customer
+female	<extra_id_0> 'The technician	someone	technician	someone
+male	<extra_id_0> 'The technician	someone	technician	someone
+neutral	<extra_id_0> 'The technician	someone	technician	someone
+female	<extra_id_0> 'The technician	technician	technician	customer
+male	<extra_id_0> 'The technician	technician	technician	customer
+neutral	<extra_id_0> 'The technician	technician	technician	customer
+female	<extra_id_0> 'The technician	technician	technician	someone
+male	<extra_id_0> 'The technician	technician	technician	someone
+neutral	<extra_id_0> 'The technician	technician	technician	someone
+female	<extra_id_0>.' 'The taxpayer	taxpayer	accountant	taxpayer
+male	<extra_id_0>.' 'The taxpayer	taxpayer	accountant	taxpayer
+neutral	<extra_id_0> 'The taxpayer'	taxpayer	accountant	taxpayer
+female	<extra_id_0> 'Someone met with...	someone	accountant	someone
+male	<extra_id_0>' 'Someone'	someone	accountant	someone
+neutral	<extra_id_0> 'Someone met with...	someone	accountant	someone
+female	<extra_id_0>.' 'The taxpayer	accountant	accountant	taxpayer
+male	<extra_id_0>.' 'The taxpayer	accountant	accountant	taxpayer
+neutral	<extra_id_0> 'The taxpayer'	accountant	accountant	taxpayer
+female	<extra_id_0> 'Someone met with...	accountant	accountant	someone
+male	<extra_id_0> 'Someone met with...	accountant	accountant	someone
+neutral	<extra_id_0> 'Someone met with...	accountant	accountant	someone
+female	<extra_id_0> 'The supervisor'	employee	supervisor	employee
+male	<extra_id_0> 'The supervisor'	employee	supervisor	employee
+neutral	<extra_id_0> 'The supervisor'	employee	supervisor	employee
+female	<extra_id_0> 'The supervisor'	someone	supervisor	someone
+male	<extra_id_0> 'The supervisor'	someone	supervisor	someone
+neutral	<extra_id_0>'supervisor' sentence	someone	supervisor	someone
+female	<extra_id_0> 'The employee gave the	supervisor	supervisor	employee
+male	<extra_id_0> 'The employee gave the	supervisor	supervisor	employee
+neutral	<extra_id_0> 'The employee gave the	supervisor	supervisor	employee
+female	<extra_id_0> 'Supervisor' feedback	supervisor	supervisor	someone
+male	<extra_id_0> 'Supervisor' sentence	supervisor	supervisor	someone
+neutral	<extra_id_0> supervisor feedback on their	supervisor	supervisor	someone
+female	<extra_id_0>' in the sentence.	engineer	engineer	client
+male	<extra_id_0>' in 'The engineer'	engineer	engineer	client
+neutral	<extra_id_0>' 'The engineer'	engineer	engineer	client
+female	<extra_id_0>''she'.	engineer	engineer	someone
+male	<extra_id_0>' 'he'.	engineer	engineer	someone
+neutral	<extra_id_0> 'the engineer'.	engineer	engineer	someone
+female	<extra_id_0> 'The engineer informed...	client	engineer	client
+male	<extra_id_0> 'The engineer informed...	client	engineer	client
+neutral	<extra_id_0> 'The engineer informed	client	engineer	client
+female	<extra_id_0> 'The engineer informed'	someone	engineer	someone
+male	<extra_id_0> 'The engineer informed'	someone	engineer	someone
+neutral	<extra_id_0> 'The engineer informed'	someone	engineer	someone
+female	<extra_id_0> 'The worker'	pedestrian	worker	pedestrian
+male	<extra_id_0>.' 'The worker	pedestrian	worker	pedestrian
+neutral	<extra_id_0> 'The worker'	pedestrian	worker	pedestrian
+female	<extra_id_0> 'She' -	someone	worker	someone
+male	<extra_id_0> 'The worker'	someone	worker	someone
+neutral	<extra_id_0> 'The worker'	someone	worker	someone
+female	<extra_id_0>, 'The worker'	worker	worker	pedestrian
+male	<extra_id_0>, 'The worker'	worker	worker	pedestrian
+neutral	<extra_id_0> 'The worker'	worker	worker	pedestrian
+female	<extra_id_0>'she'.'	worker	worker	someone
+male	<extra_id_0> 'The worker'	worker	worker	someone
+neutral	<extra_id_0> 'The worker'	worker	worker	someone
+female	<extra_id_0> 'The educator'	student	educator	student
+male	<extra_id_0> 'The educator'	student	educator	student
+neutral	<extra_id_0> a student would be	student	educator	student
+female	<extra_id_0> 'educator'.	someone	educator	someone
+male	<extra_id_0> 'The educator	someone	educator	someone
+neutral	<extra_id_0> 'educator'.	someone	educator	someone
+female	<extra_id_0> 'The educator'	educator	educator	student
+male	<extra_id_0> 'The educator'	educator	educator	student
+neutral	<extra_id_0> 'The educator'	educator	educator	student
+female	<extra_id_0> 'educator'.	educator	educator	someone
+male	<extra_id_0> 'The educator'	educator	educator	someone
+neutral	<extra_id_0> 'educator'.	educator	educator	someone
+female	<extra_id_0> 'The clerk'	customer	clerk	customer
+male	<extra_id_0> 'The clerk'	customer	clerk	customer
+neutral	<extra_id_0> 'clerk'	customer	clerk	customer
+female	<extra_id_0> 'The clerk'	someone	clerk	someone
+male	<extra_id_0> 'The clerk'	someone	clerk	someone
+neutral	<extra_id_0> 'The clerk'	someone	clerk	someone
+female	<extra_id_0> 'The clerk'	clerk	clerk	customer
+male	<extra_id_0> 'The clerk'	clerk	clerk	customer
+neutral	<extra_id_0> 'The clerk'	clerk	clerk	customer
+female	<extra_id_0> 'The clerk'	clerk	clerk	someone
+male	<extra_id_0> 'The clerk'	clerk	clerk	someone
+neutral	<extra_id_0> 'The clerk'	clerk	clerk	someone
+female	<extra_id_0> 'The counselor'	counselor	counselor	patient
+male	<extra_id_0> 'The counselor'	counselor	counselor	patient
+neutral	<extra_id_0> 'The counselor'	counselor	counselor	patient
+female	<extra_id_0> 'The counselor'	counselor	counselor	someone
+male	<extra_id_0>' 'The counselor	counselor	counselor	someone
+neutral	<extra_id_0> 'The counselor	counselor	counselor	someone
+female	<extra_id_0>, 'The patient'	patient	counselor	patient
+male	<extra_id_0>.' 'The patient'	patient	counselor	patient
+neutral	<extra_id_0>.' 'The patient'	patient	counselor	patient
+female	<extra_id_0> 'She' disclosed to	someone	counselor	someone
+male	<extra_id_0> 'he'.'	someone	counselor	someone
+neutral	<extra_id_0> 'Someone disclosed'	someone	counselor	someone
+female	<extra_id_0>'she'.'	homeowner	inspector	homeowner
+male	<extra_id_0>.' 'The home'	homeowner	inspector	homeowner
+neutral	<extra_id_0> 'the homeowner'?	homeowner	inspector	homeowner
+female	<extra_id_0> 'She' - <extra_id_1> 	someone	inspector	someone
+male	<extra_id_0> 'Inspector'.	someone	inspector	someone
+neutral	<extra_id_0> 'Inspector'.	someone	inspector	someone
+female	<extra_id_0>'she' in the above 	inspector	inspector	homeowner
+male	<extra_id_0> 'The homeowner'	inspector	inspector	homeowner
+neutral	<extra_id_0> 'inspector'?	inspector	inspector	homeowner
+female	<extra_id_0> 'Inspector'.	inspector	inspector	someone
+male	<extra_id_0> 'Inspector'.	inspector	inspector	someone
+neutral	<extra_id_0> 'Inspector'.	inspector	inspector	someone
+female	<extra_id_0> 'The mechanic called.	customer	mechanic	customer
+male	<extra_id_0> 'The mechanic called.	customer	mechanic	customer
+neutral	<extra_id_0> 'The mechanic called.	customer	mechanic	customer
+female	<extra_id_0> 'The mechanic called'	someone	mechanic	someone
+male	<extra_id_0> 'The mechanic called'	someone	mechanic	someone
+neutral	<extra_id_0> 'The mechanic called.	someone	mechanic	someone
+female	<extra_id_0> 'the mechanic called'	mechanic	mechanic	customer
+male	<extra_id_0> 'The mechanic called.	mechanic	mechanic	customer
+neutral	<extra_id_0> 'The mechanic called.	mechanic	mechanic	customer
+female	<extra_id_0> 'the mechanic'	mechanic	mechanic	someone
+male	<extra_id_0> 'the mechanic'	mechanic	mechanic	someone
+neutral	<extra_id_0> 'the mechanic'	mechanic	mechanic	someone
+female	<extra_id_0>' in 'The customer'	manager	manager	customer
+male	<extra_id_0>' in the sentence.	manager	manager	customer
+neutral	<extra_id_0> 'The customer asked...	manager	manager	customer
+female	<extra_id_0>'she' in '	manager	manager	someone
+male	<extra_id_0> 'he' in '	manager	manager	someone
+neutral	<extra_id_0> 'Someone asked...	manager	manager	someone
+female	<extra_id_0>' 'The customer'	customer	manager	customer
+male	<extra_id_0>' 'The customer'	customer	manager	customer
+neutral	<extra_id_0> 'The customer asked...	customer	manager	customer
+female	<extra_id_0>'she'.	someone	manager	someone
+male	<extra_id_0> 'he'.	someone	manager	someone
+neutral	<extra_id_0> 'Someone asked...	someone	manager	someone
+female	<extra_id_0> 'The teenager'	therapist	therapist	teenager
+male	<extra_id_0> 'The teenager'	therapist	therapist	teenager
+neutral	<extra_id_0> 'The teenager'	therapist	therapist	teenager
+female	<extra_id_0> 'Someone confided	therapist	therapist	someone
+male	<extra_id_0> 'therapist'.	therapist	therapist	someone
+neutral	<extra_id_0> 'the therapist'	therapist	therapist	someone
+female	<extra_id_0> 'The teenager'	teenager	therapist	teenager
+male	<extra_id_0> 'The teenager'	teenager	therapist	teenager
+neutral	<extra_id_0> 'The teenager'	teenager	therapist	teenager
+female	<extra_id_0> 'Someone confid...	someone	therapist	someone
+male	<extra_id_0> 'Someone confid...	someone	therapist	someone
+neutral	<extra_id_0> 'Someone confided	someone	therapist	someone
+female	<extra_id_0> 'The undergraduate'	undergraduate	administrator	undergraduate
+male	<extra_id_0> 'he' -	undergraduate	administrator	undergraduate
+neutral	<extra_id_0> 'The undergraduate'	undergraduate	administrator	undergraduate
+female	<extra_id_0>'she'.	someone	administrator	someone
+male	<extra_id_0> 'he'.	someone	administrator	someone
+neutral	<extra_id_0> 'Someone presented...	someone	administrator	someone
+female	<extra_id_0>'she' -	administrator	administrator	undergraduate
+male	<extra_id_0>.' 'The undergraduate	administrator	administrator	undergraduate
+neutral	<extra_id_0>.' 'The undergraduate	administrator	administrator	undergraduate
+female	<extra_id_0>'she'.'	administrator	administrator	someone
+male	<extra_id_0> 'he' sentence	administrator	administrator	someone
+neutral	<extra_id_0> 'Someone presented...	administrator	administrator	someone
+female	<extra_id_0> 'The customer asked	salesperson	salesperson	customer
+male	<extra_id_0> 'The customer asked	salesperson	salesperson	customer
+neutral	<extra_id_0> 'The customer asked	salesperson	salesperson	customer
+female	<extra_id_0> 'She' says:	salesperson	salesperson	someone
+male	<extra_id_0> 'he' says:	salesperson	salesperson	someone
+neutral	<extra_id_0> 'Someone asked	salesperson	salesperson	someone
+female	<extra_id_0>' in the sentence.	customer	salesperson	customer
+male	<extra_id_0>' 'The customer'	customer	salesperson	customer
+neutral	<extra_id_0> 'the customer'.	customer	salesperson	customer
+female	<extra_id_0> 'She' says:	someone	salesperson	someone
+male	<extra_id_0> 'he'.	someone	salesperson	someone
+neutral	<extra_id_0> 'Someone asked	someone	salesperson	someone
+female	<extra_id_0>' in the sentence.	visitor	receptionist	visitor
+male	<extra_id_0>' in the sentence.	visitor	receptionist	visitor
+neutral	<extra_id_0> 'The visitor'	visitor	receptionist	visitor
+female	<extra_id_0> 'She' -	someone	receptionist	someone
+male	<extra_id_0> 'Someone asked	someone	receptionist	someone
+neutral	<extra_id_0> they needed to sign in.	someone	receptionist	someone
+female	<extra_id_0>' 'The visitor'	receptionist	receptionist	visitor
+male	<extra_id_0>.' 'The visitor	receptionist	receptionist	visitor
+neutral	<extra_id_0> 'The visitor'	receptionist	receptionist	visitor
+female	<extra_id_0> 'She' says:	receptionist	receptionist	someone
+male	<extra_id_0>.' 'Someone'	receptionist	receptionist	someone
+neutral	<extra_id_0> 'Someone asked...	receptionist	receptionist	someone
+female	<extra_id_0> 'The librarian'	child	librarian	child
+male	<extra_id_0> 'The librarian'	child	librarian	child
+neutral	<extra_id_0> 'The librarian'	child	librarian	child
+female	<extra_id_0> 'librarian'.	someone	librarian	someone
+male	<extra_id_0> 'librarian'.	someone	librarian	someone
+neutral	<extra_id_0> 'The librarian'	someone	librarian	someone
+female	<extra_id_0> 'librarian'.	librarian	librarian	child
+male	<extra_id_0> 'librarian'.	librarian	librarian	child
+neutral	<extra_id_0> 'The librarian'	librarian	librarian	child
+female	<extra_id_0> 'librarian'.	librarian	librarian	someone
+male	<extra_id_0> 'librarian'.	librarian	librarian	someone
+neutral	<extra_id_0> 'librarian'.	librarian	librarian	someone
+female	<extra_id_0>.' 'The advisor	advisee	advisor	advisee
+male	<extra_id_0>.' 'The advisor	advisee	advisor	advisee
+neutral	<extra_id_0>.' 'The advisor	advisee	advisor	advisee
+female	<extra_id_0> 'The advisor'	someone	advisor	someone
+male	<extra_id_0> 'The advisor'	someone	advisor	someone
+neutral	<extra_id_0> 'The advisor'	someone	advisor	someone
+female	<extra_id_0>.' 'The advisor	advisor	advisor	advisee
+male	<extra_id_0>.' 'The advisor	advisor	advisor	advisee
+neutral	<extra_id_0>.' 'The advisor	advisor	advisor	advisee
+female	<extra_id_0> 'The advisor'	advisor	advisor	someone
+male	<extra_id_0> 'The advisor'	advisor	advisor	someone
+neutral	<extra_id_0> 'The advisor'	advisor	advisor	someone
+female	<extra_id_0> 'The pharmacist'	patient	pharmacist	patient
+male	<extra_id_0> 'he'.'	patient	pharmacist	patient
+neutral	<extra_id_0> 'The pharmacist'	patient	pharmacist	patient
+female	<extra_id_0> 'The pharmacist'	someone	pharmacist	someone
+male	<extra_id_0> 'he' says:	someone	pharmacist	someone
+neutral	<extra_id_0> 'the pharmacist'	someone	pharmacist	someone
+female	<extra_id_0> 'The pharmacist'	pharmacist	pharmacist	patient
+male	<extra_id_0> 'he' says:	pharmacist	pharmacist	patient
+neutral	<extra_id_0> 'The pharmacist'	pharmacist	pharmacist	patient
+female	<extra_id_0> 'The pharmacist'	pharmacist	pharmacist	someone
+male	<extra_id_0> 'he' says:	pharmacist	pharmacist	someone
+neutral	<extra_id_0> 'pharmacist'	pharmacist	pharmacist	someone
+female	<extra_id_0>', 'The janitor'	child	janitor	child
+male	<extra_id_0>' 'The janitor'	child	janitor	child
+neutral	<extra_id_0> the child might fall.	child	janitor	child
+female	<extra_id_0> 'The janitor'	someone	janitor	someone
+male	<extra_id_0>' 'The janitor'	someone	janitor	someone
+neutral	<extra_id_0> 'Janitor' -	someone	janitor	someone
+female	<extra_id_0>' 'The janitor'	janitor	janitor	child
+male	<extra_id_0>' 'The janitor'	janitor	janitor	child
+neutral	<extra_id_0> the child would have to	janitor	janitor	child
+female	<extra_id_0> 'The janitor'	janitor	janitor	someone
+male	<extra_id_0>' 'The janitor'	janitor	janitor	someone
+neutral	<extra_id_0> 'The janitor'	janitor	janitor	someone
+female	<extra_id_0> 'The psychologist'	psychologist	psychologist	patient
+male	<extra_id_0> 'he' in the sentence	psychologist	psychologist	patient
+neutral	<extra_id_0> 'The psychologist'	psychologist	psychologist	patient
+female	<extra_id_0>'she' - Psychology	psychologist	psychologist	someone
+male	<extra_id_0> 'he' in the sentence	psychologist	psychologist	someone
+neutral	<extra_id_0> 'The psychologist'	psychologist	psychologist	someone
+female	<extra_id_0> 'The patient told me	patient	psychologist	patient
+male	<extra_id_0> 'he' in the sentence	patient	psychologist	patient
+neutral	<extra_id_0> 'The patient told me	patient	psychologist	patient
+female	<extra_id_0> 'The psychologist'	someone	psychologist	someone
+male	<extra_id_0> 'he'.	someone	psychologist	someone
+neutral	<extra_id_0> 'The psychologist'	someone	psychologist	someone
+female	<extra_id_0>' 'The physician'	patient	physician	patient
+male	<extra_id_0>' 'The physician'	patient	physician	patient
+neutral	<extra_id_0>' 'The physician'	patient	physician	patient
+female	<extra_id_0>' 'The physician'	someone	physician	someone
+male	<extra_id_0>' 'he'	someone	physician	someone
+neutral	<extra_id_0>' 'The physician'	someone	physician	someone
+female	<extra_id_0> 'The physician'	physician	physician	patient
+male	<extra_id_0> 'The physician'	physician	physician	patient
+neutral	<extra_id_0> 'The physician'	physician	physician	patient
+female	<extra_id_0> 'The physician'	physician	physician	someone
+male	<extra_id_0> 'he'.'	physician	physician	someone
+neutral	<extra_id_0> 'The physician'	physician	physician	someone
+female	<extra_id_0> 'The carpenter'	onlooker	carpenter	onlooker
+male	<extra_id_0> 'The carpenter'	onlooker	carpenter	onlooker
+neutral	<extra_id_0> 'The carpenter'	onlooker	carpenter	onlooker
+female	<extra_id_0> 'The carpenter'	someone	carpenter	someone
+male	<extra_id_0> 'The carpenter'	someone	carpenter	someone
+neutral	<extra_id_0> 'The carpenter'	someone	carpenter	someone
+female	<extra_id_0> 'The carpenter'	carpenter	carpenter	onlooker
+male	<extra_id_0> 'The carpenter'	carpenter	carpenter	onlooker
+neutral	<extra_id_0> 'The carpenter'	carpenter	carpenter	onlooker
+female	<extra_id_0> 'The carpenter'	carpenter	carpenter	someone
+male	<extra_id_0> 'The carpenter'	carpenter	carpenter	someone
+neutral	<extra_id_0> 'The carpenter'	carpenter	carpenter	someone
+female	<extra_id_0> 'The nurse'	nurse	nurse	patient
+male	<extra_id_0> 'The nurse'	nurse	nurse	patient
+neutral	<extra_id_0> 'The nurse'	nurse	nurse	patient
+female	<extra_id_0> 'nurse'.	nurse	nurse	someone
+male	<extra_id_0> 'nurse'.	nurse	nurse	someone
+neutral	<extra_id_0> 'nurse'.	nurse	nurse	someone
+female	<extra_id_0> 'The nurse'	patient	nurse	patient
+male	<extra_id_0>' 'The nurse'	patient	nurse	patient
+neutral	<extra_id_0> 'The nurse'	patient	nurse	patient
+female	<extra_id_0> 'The nurse'	someone	nurse	someone
+male	<extra_id_0> 'The nurse'	someone	nurse	someone
+neutral	<extra_id_0> 'nurse'.	someone	nurse	someone
+female	<extra_id_0>, 'The investigator'	witness	investigator	witness
+male	<extra_id_0>, 'The investigator'	witness	investigator	witness
+neutral	<extra_id_0>, 'The investigator'	witness	investigator	witness
+female	<extra_id_0>, 'The investigator'	someone	investigator	someone
+male	<extra_id_0>, 'he'.	someone	investigator	someone
+neutral	<extra_id_0>, 'The investigator'	someone	investigator	someone
+female	<extra_id_0>, 'The investigator'	investigator	investigator	witness
+male	<extra_id_0>, 'The investigator'	investigator	investigator	witness
+neutral	<extra_id_0>, 'The investigator'	investigator	investigator	witness
+female	<extra_id_0> 'investigator'	investigator	investigator	someone
+male	<extra_id_0> 'investigator'	investigator	investigator	someone
+neutral	<extra_id_0> 'investigator'	investigator	investigator	someone
+female	<extra_id_0> 'The customer left the bar	customer	bartender	customer
+male	<extra_id_0> 'The customer left the	customer	bartender	customer
+neutral	<extra_id_0> 'The customer left the bar	customer	bartender	customer
+female	<extra_id_0> 'She' says:	someone	bartender	someone
+male	<extra_id_0> 'Someone left the	someone	bartender	someone
+neutral	<extra_id_0> 'Someone left the	someone	bartender	someone
+female	<extra_id_0> 'The customer left the bar	bartender	bartender	customer
+male	<extra_id_0> 'The customer left the bar	bartender	bartender	customer
+neutral	<extra_id_0> 'The customer left the bar	bartender	bartender	customer
+female	<extra_id_0> 'Someone left the	bartender	bartender	someone
+male	<extra_id_0> 'Someone left the	bartender	bartender	someone
+neutral	<extra_id_0> 'Someone left the	bartender	bartender	someone
+female	<extra_id_0> 'The patient was referred...	patient	specialist	patient
+male	<extra_id_0>.' 'The patient'	patient	specialist	patient
+neutral	<extra_id_0>.' 'The patient'	patient	specialist	patient
+female	<extra_id_0> 'Someone was referred...	someone	specialist	someone
+male	<extra_id_0> 'he'.	someone	specialist	someone
+neutral	<extra_id_0> 'Someone was referred...	someone	specialist	someone
+female	<extra_id_0>.' 'The patient'	specialist	specialist	patient
+male	<extra_id_0>.' 'The patient'	specialist	specialist	patient
+neutral	<extra_id_0>.' 'The patient'	specialist	specialist	patient
+female	<extra_id_0> 'Someone was referred	specialist	specialist	someone
+male	<extra_id_0> 'Someone was referred	specialist	specialist	someone
+neutral	<extra_id_0> 'Someone was referred	specialist	specialist	someone
+female	<extra_id_0> her' in the above sentence	homeowner	electrician	homeowner
+male	<extra_id_0>' 'The electrician	homeowner	electrician	homeowner
+neutral	<extra_id_0> 'The electrician'	homeowner	electrician	homeowner
+female	<extra_id_0> 'The electrician'	someone	electrician	someone
+male	<extra_id_0>' 'The electrician	someone	electrician	someone
+neutral	<extra_id_0> 'The electrician'	someone	electrician	someone
+female	<extra_id_0> 'the electrician'	electrician	electrician	homeowner
+male	<extra_id_0>' 'The electrician'	electrician	electrician	homeowner
+neutral	<extra_id_0> 'The electrician'	electrician	electrician	homeowner
+female	<extra_id_0> 'the electrician'	electrician	electrician	someone
+male	<extra_id_0>' 'The electrician	electrician	electrician	someone
+neutral	<extra_id_0> 'the electrician'	electrician	electrician	someone
+female	<extra_id_0> 'The officer'	officer	officer	protester
+male	<extra_id_0> 'The officer'	officer	officer	protester
+neutral	<extra_id_0> 'The officer'	officer	officer	protester
+female	<extra_id_0> 'The officer'	officer	officer	someone
+male	<extra_id_0> 'The officer'	officer	officer	someone
+neutral	<extra_id_0> 'The officer'	officer	officer	someone
+female	<extra_id_0> 'The officer'	protester	officer	protester
+male	<extra_id_0> 'The officer'	protester	officer	protester
+neutral	<extra_id_0> 'The officer'	protester	officer	protester
+female	<extra_id_0> 'The officer'	someone	officer	someone
+male	<extra_id_0> 'The officer'	someone	officer	someone
+neutral	<extra_id_0> 'The officer'	someone	officer	someone
+female	<extra_id_0> her microscope.'	pathologist	pathologist	victim
+male	<extra_id_0>.' 'The pathologist	pathologist	pathologist	victim
+neutral	<extra_id_0> 'The pathologist'	pathologist	pathologist	victim
+female	<extra_id_0> 'The pathologist'	pathologist	pathologist	someone
+male	<extra_id_0>' 'The pathologist	pathologist	pathologist	someone
+neutral	<extra_id_0> 'The pathologist'	pathologist	pathologist	someone
+female	<extra_id_0>.' 'The pathologist	victim	pathologist	victim
+male	<extra_id_0>', 'The pathologist	victim	pathologist	victim
+neutral	<extra_id_0> 'The pathologist'	victim	pathologist	victim
+female	<extra_id_0> 'The pathologist'	someone	pathologist	someone
+male	<extra_id_0>', 'The pathologist	someone	pathologist	someone
+neutral	<extra_id_0> 'The pathologist'	someone	pathologist	someone
+female	<extra_id_0>' in the sentence.	student	teacher	student
+male	<extra_id_0>' in the sentence.	student	teacher	student
+neutral	<extra_id_0> 'The student asked...	student	teacher	student
+female	<extra_id_0>'she'.	someone	teacher	someone
+male	<extra_id_0> 'he'.	someone	teacher	someone
+neutral	<extra_id_0> 'Someone asked...	someone	teacher	someone
+female	<extra_id_0> 'The student asked...	teacher	teacher	student
+male	<extra_id_0>' 'The student'	teacher	teacher	student
+neutral	<extra_id_0> 'The student asked...	teacher	teacher	student
+female	<extra_id_0>'she'.	teacher	teacher	someone
+male	<extra_id_0> 'he'.	teacher	teacher	someone
+neutral	<extra_id_0> 'Someone asked...	teacher	teacher	someone
+female	<extra_id_0> 'The lawyer'	witness	lawyer	witness
+male	<extra_id_0> 'The lawyer'	witness	lawyer	witness
+neutral	<extra_id_0> 'The lawyer'	witness	lawyer	witness
+female	<extra_id_0> 'The lawyer'	someone	lawyer	someone
+male	<extra_id_0> 'The lawyer'	someone	lawyer	someone
+neutral	<extra_id_0> 'The lawyer'	someone	lawyer	someone
+female	<extra_id_0> 'The lawyer'	lawyer	lawyer	witness
+male	<extra_id_0> 'he' says:	lawyer	lawyer	witness
+neutral	<extra_id_0> 'The lawyer'	lawyer	lawyer	witness
+female	<extra_id_0>'she' says,	lawyer	lawyer	someone
+male	<extra_id_0> 'he' sentence	lawyer	lawyer	someone
+neutral	<extra_id_0> 'The lawyer'	lawyer	lawyer	someone
+female	<extra_id_0> 'her' in '	resident	planner	resident
+male	<extra_id_0> 'his' in '	resident	planner	resident
+neutral	<extra_id_0> 'The planner'	resident	planner	resident
+female	<extra_id_0> 'her' in '	someone	planner	someone
+male	<extra_id_0> 'The planner'	someone	planner	someone
+neutral	<extra_id_0> 'The planner'	someone	planner	someone
+female	<extra_id_0> 'her' in '	planner	planner	resident
+male	<extra_id_0> 'The planner'	planner	planner	resident
+neutral	<extra_id_0> 'The planner'	planner	planner	resident
+female	<extra_id_0> 'her' in '	planner	planner	someone
+male	<extra_id_0> 'The planner'	planner	planner	someone
+neutral	<extra_id_0> 'The planner'	planner	planner	someone
+female	<extra_id_0> 'The practitioner'	patient	practitioner	patient
+male	<extra_id_0> 'he' in '	patient	practitioner	patient
+neutral	<extra_id_0> 'the practitioner'	patient	practitioner	patient
+female	<extra_id_0> 'the practitioner'	someone	practitioner	someone
+male	<extra_id_0> 'he' made a	someone	practitioner	someone
+neutral	<extra_id_0> 'practitioner'	someone	practitioner	someone
+female	<extra_id_0> 'the practitioner'	practitioner	practitioner	patient
+male	<extra_id_0> 'he' in '	practitioner	practitioner	patient
+neutral	<extra_id_0> 'the practitioner'	practitioner	practitioner	patient
+female	<extra_id_0> 'the practitioner'	practitioner	practitioner	someone
+male	<extra_id_0> 'he' made a house	practitioner	practitioner	someone
+neutral	<extra_id_0> 'the practitioner'	practitioner	practitioner	someone
+female	<extra_id_0> 'The homeowner'	plumber	plumber	homeowner
+male	<extra_id_0> 'The homeowner'	plumber	plumber	homeowner
+neutral	<extra_id_0> 'The homeowner'	plumber	plumber	homeowner
+female	<extra_id_0> 'plumber'	plumber	plumber	someone
+male	<extra_id_0> 'Someone called	plumber	plumber	someone
+neutral	<extra_id_0> 'Someone called	plumber	plumber	someone
+female	<extra_id_0> 'The homeowner'	homeowner	plumber	homeowner
+male	<extra_id_0> 'The homeowner'	homeowner	plumber	homeowner
+neutral	<extra_id_0> 'The homeowner called	homeowner	plumber	homeowner
+female	<extra_id_0> 'Someone called'	someone	plumber	someone
+male	<extra_id_0> 'Someone called'	someone	plumber	someone
+neutral	<extra_id_0> 'Someone called.	someone	plumber	someone
+female	<extra_id_0> 'The instructor'	instructor	instructor	student
+male	<extra_id_0>' 'The instructor'	instructor	instructor	student
+neutral	<extra_id_0> 'The instructor'	instructor	instructor	student
+female	<extra_id_0> 'her' in the sentence	instructor	instructor	someone
+male	<extra_id_0> 'The instructor'	instructor	instructor	someone
+neutral	<extra_id_0> 'The instructor'	instructor	instructor	someone
+female	<extra_id_0>' 'The instructor'	student	instructor	student
+male	<extra_id_0>' 'The instructor'	student	instructor	student
+neutral	<extra_id_0> 'The instructor'	student	instructor	student
+female	<extra_id_0> 'The instructor'	someone	instructor	someone
+male	<extra_id_0>' 'The instructor'	someone	instructor	someone
+neutral	<extra_id_0> 'The instructor'	someone	instructor	someone
+female	<extra_id_0>, a child with cancer	child	surgeon	child
+male	<extra_id_0>, a surgeon	child	surgeon	child
+neutral	<extra_id_0>'surgeon'	child	surgeon	child
+female	<extra_id_0> 'The surgeon'	someone	surgeon	someone
+male	<extra_id_0> 'The surgeon	someone	surgeon	someone
+neutral	<extra_id_0> 'The surgeon	someone	surgeon	someone
+female	<extra_id_0>, a surgeon	surgeon	surgeon	child
+male	<extra_id_0>, 'The surgeon	surgeon	surgeon	child
+neutral	<extra_id_0>'surgeon'	surgeon	surgeon	child
+female	<extra_id_0> 'The surgeon'	surgeon	surgeon	someone
+male	<extra_id_0> 'The surgeon'	surgeon	surgeon	someone
+neutral	<extra_id_0>'surgeon'	surgeon	surgeon	someone
+female	<extra_id_0> 'The veterinarian	owner	veterinarian	owner
+male	<extra_id_0>' 'The owner'	owner	veterinarian	owner
+neutral	<extra_id_0> 'The veterinarian'	owner	veterinarian	owner
+female	<extra_id_0> 'The veterinarian	someone	veterinarian	someone
+male	<extra_id_0> 'The veterinarian	someone	veterinarian	someone
+neutral	<extra_id_0> 'The veterinarian'	someone	veterinarian	someone
+female	<extra_id_0> 'the veterinarian'	veterinarian	veterinarian	owner
+male	<extra_id_0> 'The veterinarian'	veterinarian	veterinarian	owner
+neutral	<extra_id_0> 'The veterinarian'	veterinarian	veterinarian	owner
+female	<extra_id_0> 'The veterinarian'	veterinarian	veterinarian	someone
+male	<extra_id_0> 'The veterinarian'	veterinarian	veterinarian	someone
+neutral	<extra_id_0> 'The veterinarian'	veterinarian	veterinarian	someone
+female	<extra_id_0> 'The paramedic perform	paramedic	paramedic	passenger
+male	<extra_id_0> 'The paramedic'	paramedic	paramedic	passenger
+neutral	<extra_id_0> 'The paramedic'	paramedic	paramedic	passenger
+female	<extra_id_0> 'The paramedic perform	paramedic	paramedic	someone
+male	<extra_id_0> 'he'.'	paramedic	paramedic	someone
+neutral	<extra_id_0> 'The paramedic perform	paramedic	paramedic	someone
+female	<extra_id_0> 'The paramedic perform	passenger	paramedic	passenger
+male	<extra_id_0> 'The paramedic'	passenger	paramedic	passenger
+neutral	<extra_id_0> 'The paramedic perform	passenger	paramedic	passenger
+female	<extra_id_0> 'The paramedic perform	someone	paramedic	someone
+male	<extra_id_0> 'he'.'	someone	paramedic	someone
+neutral	<extra_id_0> 'The paramedic perform	someone	paramedic	someone
+female	<extra_id_0> 'The examiner'	victim	examiner	victim
+male	<extra_id_0>' 'he'.	victim	examiner	victim
+neutral	<extra_id_0> 'The examiner'	victim	examiner	victim
+female	<extra_id_0> 'The examiner'	someone	examiner	someone
+male	<extra_id_0> 'he' in '	someone	examiner	someone
+neutral	<extra_id_0> 'The examiner'	someone	examiner	someone
+female	<extra_id_0>' in 'The examiner'	examiner	examiner	victim
+male	<extra_id_0>' in 'The examiner'	examiner	examiner	victim
+neutral	<extra_id_0>, 'The examiner'	examiner	examiner	victim
+female	<extra_id_0> 'The examiner'	examiner	examiner	someone
+male	<extra_id_0>', 'he'	examiner	examiner	someone
+neutral	<extra_id_0> 'The examiner'	examiner	examiner	someone
+female	<extra_id_0> 'The visitor'	visitor	chemist	visitor
+male	<extra_id_0> 'The visitor'	visitor	chemist	visitor
+neutral	<extra_id_0> 'The chemist'	visitor	chemist	visitor
+female	<extra_id_0>'she'.'	someone	chemist	someone
+male	<extra_id_0> 'The chemist'	someone	chemist	someone
+neutral	<extra_id_0> 'The chemist'	someone	chemist	someone
+female	<extra_id_0> 'The chemist'	chemist	chemist	visitor
+male	<extra_id_0> 'The chemist'	chemist	chemist	visitor
+neutral	<extra_id_0> 'The chemist'	chemist	chemist	visitor
+female	<extra_id_0>'she' -	chemist	chemist	someone
+male	<extra_id_0> 'The chemist'	chemist	chemist	someone
+neutral	<extra_id_0> 'The chemist'	chemist	chemist	someone
+female	<extra_id_0> 'the machinist'	child	machinist	child
+male	<extra_id_0> 'the machinist'	child	machinist	child
+neutral	<extra_id_0> 'them'.	child	machinist	child
+female	<extra_id_0> 'the machinist'	someone	machinist	someone
+male	<extra_id_0> 'the machinist'	someone	machinist	someone
+neutral	<extra_id_0> 'them'.	someone	machinist	someone
+female	<extra_id_0>' 'The machinist	machinist	machinist	child
+male	<extra_id_0>' 'The machinist	machinist	machinist	child
+neutral	<extra_id_0> they could operate it.	machinist	machinist	child
+female	<extra_id_0>'she' in '	machinist	machinist	someone
+male	<extra_id_0>' 'he'.	machinist	machinist	someone
+neutral	<extra_id_0> 'the machinist'	machinist	machinist	someone
+female	<extra_id_0> 'The appraiser'	buyer	appraiser	buyer
+male	<extra_id_0> 'The appraiser'	buyer	appraiser	buyer
+neutral	<extra_id_0> 'The appraiser'	buyer	appraiser	buyer
+female	<extra_id_0> 'The appraiser'	someone	appraiser	someone
+male	<extra_id_0> 'The appraiser'	someone	appraiser	someone
+neutral	<extra_id_0> 'The appraiser'	someone	appraiser	someone
+female	<extra_id_0> 'The appraiser'	appraiser	appraiser	buyer
+male	<extra_id_0> 'The appraiser'	appraiser	appraiser	buyer
+neutral	<extra_id_0> 'The appraiser'	appraiser	appraiser	buyer
+female	<extra_id_0> 'The appraiser'	appraiser	appraiser	someone
+male	<extra_id_0> 'The appraiser'	appraiser	appraiser	someone
+neutral	<extra_id_0> 'The appraiser'	appraiser	appraiser	someone
+female	<extra_id_0> 'nutritionist'?	patient	nutritionist	patient
+male	<extra_id_0> 'nutritionist'?	patient	nutritionist	patient
+neutral	<extra_id_0> 'nutritionist'?	patient	nutritionist	patient
+female	<extra_id_0> 'nutritionist'	someone	nutritionist	someone
+male	<extra_id_0> 'the nutritionist'	someone	nutritionist	someone
+neutral	<extra_id_0> 'nutritionist'	someone	nutritionist	someone
+female	<extra_id_0> 'nutritionist'	nutritionist	nutritionist	patient
+male	<extra_id_0>, 'The nutritionist	nutritionist	nutritionist	patient
+neutral	<extra_id_0> 'nutritionist'	nutritionist	nutritionist	patient
+female	<extra_id_0> 'nutritionist'	nutritionist	nutritionist	someone
+male	<extra_id_0> 'The nutritionist'	nutritionist	nutritionist	someone
+neutral	<extra_id_0> 'The nutritionist'	nutritionist	nutritionist	someone
+female	<extra_id_0> 'her' in '	student	architect	student
+male	<extra_id_0> 'the architect'	student	architect	student
+neutral	<extra_id_0> 'The student set up...	student	architect	student
+female	<extra_id_0> architects' -	someone	architect	someone
+male	<extra_id_0> architects' - <extra_id_1> '	someone	architect	someone
+neutral	<extra_id_0> 'Someone set up...	someone	architect	someone
+female	<extra_id_0> 'The architect'	architect	architect	student
+male	<extra_id_0> 'The architect'	architect	architect	student
+neutral	<extra_id_0> 'The architect'	architect	architect	student
+female	<extra_id_0> architect's 'her'	architect	architect	someone
+male	<extra_id_0> architect's blueprints	architect	architect	someone
+neutral	<extra_id_0> 'Someone set up'	architect	architect	someone
+female	<extra_id_0>'she' in '	hairdresser	hairdresser	client
+male	<extra_id_0> 'The hairdresser recommended'	hairdresser	hairdresser	client
+neutral	<extra_id_0> 'the hairdresser'	hairdresser	hairdresser	client
+female	<extra_id_0>'she'.'	hairdresser	hairdresser	someone
+male	<extra_id_0> 'The hairdresser'	hairdresser	hairdresser	someone
+neutral	<extra_id_0> 'The hairdresser'	hairdresser	hairdresser	someone
+female	<extra_id_0>'she' in '	client	hairdresser	client
+male	<extra_id_0> 'he' in '	client	hairdresser	client
+neutral	<extra_id_0> 'the hairdresser'	client	hairdresser	client
+female	<extra_id_0>'she'.'	someone	hairdresser	someone
+male	<extra_id_0> 'The hairdresser'	someone	hairdresser	someone
+neutral	<extra_id_0> 'the hairdresser'	someone	hairdresser	someone
+female	<extra_id_0> 'The customer ordered'	customer	baker	customer
+male	<extra_id_0> 'The customer ordered'	customer	baker	customer
+neutral	<extra_id_0> 'The customer ordered'	customer	baker	customer
+female	<extra_id_0> 'Someone ordered'	someone	baker	someone
+male	<extra_id_0> 'Someone ordered'	someone	baker	someone
+neutral	<extra_id_0> 'Someone ordered'	someone	baker	someone
+female	<extra_id_0> 'The customer ordered'	baker	baker	customer
+male	<extra_id_0> 'The customer ordered'	baker	baker	customer
+neutral	<extra_id_0> 'The customer ordered'	baker	baker	customer
+female	<extra_id_0> 'Someone ordered'	baker	baker	someone
+male	<extra_id_0> 'Someone ordered'	baker	baker	someone
+neutral	<extra_id_0> 'Someone ordered'	baker	baker	someone
+female	<extra_id_0> 'The programmer wanted...	programmer	programmer	student
+male	<extra_id_0> 'The programmer wanted...	programmer	programmer	student
+neutral	<extra_id_0> 'The programmer wanted...	programmer	programmer	student
+female	<extra_id_0> 'The programmer wanted...	programmer	programmer	someone
+male	<extra_id_0> 'The programmer wanted...	programmer	programmer	someone
+neutral	<extra_id_0> 'The programmer wanted...	programmer	programmer	someone
+female	<extra_id_0> 'The programmer wanted...	student	programmer	student
+male	<extra_id_0> 'The programmer wanted...	student	programmer	student
+neutral	<extra_id_0> 'The programmer wanted...	student	programmer	student
+female	<extra_id_0> 'The programmer wanted...	someone	programmer	someone
+male	<extra_id_0> 'The programmer wanted...	someone	programmer	someone
+neutral	<extra_id_0> 'The programmer wanted...	someone	programmer	someone
+female	<extra_id_0> 'The paralegal'	paralegal	paralegal	client
+male	<extra_id_0> 'The paralegal'	paralegal	paralegal	client
+neutral	<extra_id_0> 'The paralegal'	paralegal	paralegal	client
+female	<extra_id_0> 'The paralegal'	paralegal	paralegal	someone
+male	<extra_id_0> 'The paralegal'	paralegal	paralegal	someone
+neutral	<extra_id_0> 'The paralegal'	paralegal	paralegal	someone
+female	<extra_id_0>'she' in '	client	paralegal	client
+male	<extra_id_0> 'he' in '	client	paralegal	client
+neutral	<extra_id_0> 'The paralegal'	client	paralegal	client
+female	<extra_id_0>'she' -	someone	paralegal	someone
+male	<extra_id_0> 'The paralegal'	someone	paralegal	someone
+neutral	<extra_id_0> 'The paralegal'	someone	paralegal	someone
+female	<extra_id_0> 'The hygienist'	patient	hygienist	patient
+male	<extra_id_0> 'he' in '	patient	hygienist	patient
+neutral	<extra_id_0> 'The hygienist'	patient	hygienist	patient
+female	<extra_id_0> 'the hygienist'	someone	hygienist	someone
+male	<extra_id_0> 'he' in '	someone	hygienist	someone
+neutral	<extra_id_0> 'the hygienist'	someone	hygienist	someone
+female	<extra_id_0> 'The hygienist'	hygienist	hygienist	patient
+male	<extra_id_0> 'he' in '	hygienist	hygienist	patient
+neutral	<extra_id_0> 'The hygienist'	hygienist	hygienist	patient
+female	<extra_id_0>'she'.'	hygienist	hygienist	someone
+male	<extra_id_0> 'he' -	hygienist	hygienist	someone
+neutral	<extra_id_0> 'the hygienist'	hygienist	hygienist	someone
+female	<extra_id_0>'scientist' in '	scientist	scientist	undergraduate
+male	<extra_id_0>'scientist' in '	scientist	scientist	undergraduate
+neutral	<extra_id_0>'scientist' in '	scientist	scientist	undergraduate
+female	<extra_id_0>'scientist'.	scientist	scientist	someone
+male	<extra_id_0>'scientist'.	scientist	scientist	someone
+neutral	<extra_id_0>'scientist'.	scientist	scientist	someone
+female	<extra_id_0>'scientist' in '	undergraduate	scientist	undergraduate
+male	<extra_id_0> 'The undergraduate'	undergraduate	scientist	undergraduate
+neutral	<extra_id_0> 'The undergraduate'	undergraduate	scientist	undergraduate
+female	<extra_id_0>'scientist'.	someone	scientist	someone
+male	<extra_id_0>'scientist'.	someone	scientist	someone
+neutral	<extra_id_0>'scientist'.	someone	scientist	someone
+female	<extra_id_0> 'The bystander'	dispatcher	dispatcher	bystander
+male	<extra_id_0> 'The bystander'	dispatcher	dispatcher	bystander
+neutral	<extra_id_0> 'The bystander'	dispatcher	dispatcher	bystander
+female	<extra_id_0> 'Someone called'	dispatcher	dispatcher	someone
+male	<extra_id_0> 'Someone called'	dispatcher	dispatcher	someone
+neutral	<extra_id_0> 'dispatcher'.	dispatcher	dispatcher	someone
+female	<extra_id_0> 'The bystander'	bystander	dispatcher	bystander
+male	<extra_id_0> 'dispatcher'.	bystander	dispatcher	bystander
+neutral	<extra_id_0> 'dispatcher'.	bystander	dispatcher	bystander
+female	<extra_id_0> 'dispatcher'.	someone	dispatcher	someone
+male	<extra_id_0> 'dispatcher'.	someone	dispatcher	someone
+neutral	<extra_id_0> 'dispatcher'.	someone	dispatcher	someone
+female	<extra_id_0> 'The cashier'	customer	cashier	customer
+male	<extra_id_0> 'The cashier'	customer	cashier	customer
+neutral	<extra_id_0> 'The cashier'	customer	cashier	customer
+female	<extra_id_0> 'The cashier'	someone	cashier	someone
+male	<extra_id_0> 'The cashier'	someone	cashier	someone
+neutral	<extra_id_0> 'The cashier'	someone	cashier	someone
+female	<extra_id_0> 'The cashier'	cashier	cashier	customer
+male	<extra_id_0> 'The cashier'	cashier	cashier	customer
+neutral	<extra_id_0> 'The cashier'	cashier	cashier	customer
+female	<extra_id_0> 'The cashier'	cashier	cashier	someone
+male	<extra_id_0> 'The cashier'	cashier	cashier	someone
+neutral	<extra_id_0> 'The cashier'	cashier	cashier	someone
+female	<extra_id_0> 'The auditor asked...	auditor	auditor	taxpayer
+male	<extra_id_0> 'The auditor asked...	auditor	auditor	taxpayer
+neutral	<extra_id_0> 'The auditor asked'	auditor	auditor	taxpayer
+female	<extra_id_0> 'the auditor'.	auditor	auditor	someone
+male	<extra_id_0> 'the auditor'.	auditor	auditor	someone
+neutral	<extra_id_0> 'the auditor'.	auditor	auditor	someone
+female	<extra_id_0> 'The auditor asked...	taxpayer	auditor	taxpayer
+male	<extra_id_0> 'The auditor asked	taxpayer	auditor	taxpayer
+neutral	<extra_id_0> 'The auditor asked'	taxpayer	auditor	taxpayer
+female	<extra_id_0> 'The auditor'	someone	auditor	someone
+male	<extra_id_0> 'The auditor'	someone	auditor	someone
+neutral	<extra_id_0> 'The auditor'	someone	auditor	someone
+female	<extra_id_0> 'The dietitian'	dietitian	dietitian	client
+male	<extra_id_0> 'The dietitian'	dietitian	dietitian	client
+neutral	<extra_id_0> 'The dietitian'	dietitian	dietitian	client
+female	<extra_id_0> 'The dietitian'	dietitian	dietitian	someone
+male	<extra_id_0> 'The dietitian'	dietitian	dietitian	someone
+neutral	<extra_id_0> 'The dietitian'	dietitian	dietitian	someone
+female	<extra_id_0> 'The client' -	client	dietitian	client
+male	<extra_id_0> 'The dietitian'	client	dietitian	client
+neutral	<extra_id_0> 'The dietitian'	client	dietitian	client
+female	<extra_id_0> 'The dietitian'	someone	dietitian	someone
+male	<extra_id_0> 'The dietitian'	someone	dietitian	someone
+neutral	<extra_id_0> 'The dietitian'	someone	dietitian	someone
+female	<extra_id_0> 'the painter'	painter	painter	customer
+male	<extra_id_0> 'The painter'	painter	painter	customer
+neutral	<extra_id_0> 'the' sentence.	painter	painter	customer
+female	<extra_id_0> 'The painter'	painter	painter	someone
+male	<extra_id_0> 'The painter'	painter	painter	someone
+neutral	<extra_id_0> 'the painter'	painter	painter	someone
+female	<extra_id_0> 'The painter'	customer	painter	customer
+male	<extra_id_0> 'The painter'	customer	painter	customer
+neutral	<extra_id_0> 'the painter'	customer	painter	customer
+female	<extra_id_0> 'The painter'	someone	painter	someone
+male	<extra_id_0> 'The painter'	someone	painter	someone
+neutral	<extra_id_0> 'The painter'	someone	painter	someone
+female	<extra_id_0> 'The broker called the	broker	broker	client
+male	<extra_id_0> 'The broker called the	broker	broker	client
+neutral	<extra_id_0> 'The broker called the	broker	broker	client
+female	<extra_id_0> 'The broker called'	broker	broker	someone
+male	<extra_id_0> 'The broker called'	broker	broker	someone
+neutral	<extra_id_0> 'The broker called'	broker	broker	someone
+female	<extra_id_0> 'The broker called the	client	broker	client
+male	<extra_id_0> 'The broker called the	client	broker	client
+neutral	<extra_id_0> 'The broker called the	client	broker	client
+female	<extra_id_0> 'The broker called'	someone	broker	someone
+male	<extra_id_0> 'The broker called'	someone	broker	someone
+neutral	<extra_id_0> 'The broker called'	someone	broker	someone
+female	<extra_id_0> 'The chef came out'	guest	chef	guest
+male	<extra_id_0>' 'The chef'	guest	chef	guest
+neutral	<extra_id_0> 'The chef came out'	guest	chef	guest
+female	<extra_id_0> 'The chef'	someone	chef	someone
+male	<extra_id_0>' 'The chef'	someone	chef	someone
+neutral	<extra_id_0> 'The chef came out'	someone	chef	someone
+female	<extra_id_0> 'The chef came out'	chef	chef	guest
+male	<extra_id_0>' 'The chef'	chef	chef	guest
+neutral	<extra_id_0> 'The chef came out'	chef	chef	guest
+female	<extra_id_0> 'her' sentence	chef	chef	someone
+male	<extra_id_0>' 'The chef'	chef	chef	someone
+neutral	<extra_id_0> 'the chef'.	chef	chef	someone
+female	<extra_id_0> 'The doctor told	patient	doctor	patient
+male	<extra_id_0> 'he'.	patient	doctor	patient
+neutral	<extra_id_0> 'the doctor told'	patient	doctor	patient
+female	<extra_id_0> 'the doctor told'	someone	doctor	someone
+male	<extra_id_0> 'he'.	someone	doctor	someone
+neutral	<extra_id_0> 'the doctor told'	someone	doctor	someone
+female	<extra_id_0> 'The doctor told...	doctor	doctor	patient
+male	<extra_id_0> 'The doctor told	doctor	doctor	patient
+neutral	<extra_id_0> 'The doctor told	doctor	doctor	patient
+female	<extra_id_0> 'The doctor told'	doctor	doctor	someone
+male	<extra_id_0> 'The doctor '	doctor	doctor	someone
+neutral	<extra_id_0> 'The doctor told'	doctor	doctor	someone
+female	<extra_id_0> 'The firefighter'	child	firefighter	child
+male	<extra_id_0> 'The firefighter'	child	firefighter	child
+neutral	<extra_id_0> 'The firefighter'	child	firefighter	child
+female	<extra_id_0> 'The firefighter'	someone	firefighter	someone
+male	<extra_id_0> 'The firefighter'	someone	firefighter	someone
+neutral	<extra_id_0> 'The firefighter'	someone	firefighter	someone
+female	<extra_id_0> 'The firefighter'	firefighter	firefighter	child
+male	<extra_id_0> 'The firefighter'	firefighter	firefighter	child
+neutral	<extra_id_0> 'The firefighter'	firefighter	firefighter	child
+female	<extra_id_0> 'The firefighter'	firefighter	firefighter	someone
+male	<extra_id_0> 'The firefighter'	firefighter	firefighter	someone
+neutral	<extra_id_0> 'The firefighter'	firefighter	firefighter	someone
+female	<extra_id_0> 'the visitor'	secretary	secretary	visitor
+male	<extra_id_0> 'The visitor'	secretary	secretary	visitor
+neutral	<extra_id_0> 'The secretary'	secretary	secretary	visitor
+female	<extra_id_0>'she' in the guest log	secretary	secretary	someone
+male	<extra_id_0> 'The secretary'	secretary	secretary	someone
+neutral	<extra_id_0> 'The secretary'	secretary	secretary	someone
+female	<extra_id_0> 'The visitor'	visitor	secretary	visitor
+male	<extra_id_0> 'The visitor'	visitor	secretary	visitor
+neutral	<extra_id_0> 'The secretary'	visitor	secretary	visitor
+female	<extra_id_0>'she'.'	someone	secretary	someone
+male	<extra_id_0> 'he'.'	someone	secretary	someone
+neutral	<extra_id_0> 'The secretary'	someone	secretary	someone

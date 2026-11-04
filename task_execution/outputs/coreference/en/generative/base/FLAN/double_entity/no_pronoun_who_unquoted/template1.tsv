@@ -1,0 +1,241 @@
+non_verbalized	label	occupation	participant
+customer	customer	technician	customer
+person	person	technician	person
+the technician	technician	technician	customer
+the technician	technician	technician	person
+the taxpayer	taxpayer	accountant	taxpayer
+person	person	accountant	person
+accountant	accountant	accountant	taxpayer
+accountant	accountant	accountant	person
+employee	employee	supervisor	employee
+person	person	supervisor	person
+supervisor	supervisor	supervisor	employee
+the supervisor	supervisor	supervisor	person
+engineer	engineer	engineer	client
+engineer	engineer	engineer	person
+the client	client	engineer	client
+person	person	engineer	person
+pedestrian	pedestrian	worker	pedestrian
+person	person	worker	person
+the worker	worker	worker	pedestrian
+the worker	worker	worker	person
+student	student	educator	student
+person	person	educator	person
+educator	educator	educator	student
+educator	educator	educator	person
+customer	customer	clerk	customer
+person	person	clerk	person
+clerk	clerk	clerk	customer
+clerk	clerk	clerk	person
+the counselor	counselor	counselor	patient
+person	counselor	counselor	person
+The patient	patient	counselor	patient
+person	person	counselor	person
+the homeowner	homeowner	inspector	homeowner
+the person	person	inspector	person
+inspector	inspector	inspector	homeowner
+the inspector	inspector	inspector	person
+customer	customer	mechanic	customer
+person	person	mechanic	person
+the mechanic	mechanic	mechanic	customer
+the mechanic	mechanic	mechanic	person
+manager	manager	manager	customer
+manager	manager	manager	person
+The customer	customer	manager	customer
+The person	person	manager	person
+therapist	therapist	therapist	teenager
+therapist	therapist	therapist	person
+teenager	teenager	therapist	teenager
+person	person	therapist	person
+the undergraduate	undergraduate	administrator	undergraduate
+person	person	administrator	person
+administrator	administrator	administrator	undergraduate
+the administrator	administrator	administrator	person
+salesperson	salesperson	salesperson	customer
+salesperson	salesperson	salesperson	person
+customer	customer	salesperson	customer
+person	person	salesperson	person
+the visitor	visitor	receptionist	visitor
+person	person	receptionist	person
+receptionist	receptionist	receptionist	visitor
+receptionist	receptionist	receptionist	person
+child	child	librarian	child
+person	person	librarian	person
+librarian	librarian	librarian	child
+librarian	librarian	librarian	person
+the advisee	advisee	advisor	advisee
+the person	person	advisor	person
+advisor	advisor	advisor	advisee
+the advisor	advisor	advisor	person
+patient	patient	pharmacist	patient
+person	person	pharmacist	person
+pharmacist	pharmacist	pharmacist	patient
+The pharmacist	pharmacist	pharmacist	person
+child	child	janitor	child
+person	person	janitor	person
+janitor	janitor	janitor	child
+janitor	janitor	janitor	person
+psychologist	psychologist	psychologist	patient
+psychologist	psychologist	psychologist	person
+patient	patient	psychologist	patient
+person	person	psychologist	person
+patient	patient	physician	patient
+person	person	physician	person
+physician	physician	physician	patient
+physician	physician	physician	person
+the onlooker	onlooker	carpenter	onlooker
+person	person	carpenter	person
+the carpenter	carpenter	carpenter	onlooker
+the carpenter	carpenter	carpenter	person
+nurse	nurse	nurse	patient
+the nurse	nurse	nurse	person
+patient	patient	nurse	patient
+person	person	nurse	person
+witness	witness	investigator	witness
+person	person	investigator	person
+investigator	investigator	investigator	witness
+investigator	investigator	investigator	person
+the customer	customer	bartender	customer
+the person	person	bartender	person
+bartender	bartender	bartender	customer
+bartender	bartender	bartender	person
+the patient	patient	specialist	patient
+person	person	specialist	person
+specialist	specialist	specialist	patient
+specialist	specialist	specialist	person
+homeowner	homeowner	electrician	homeowner
+person	person	electrician	person
+electrician	electrician	electrician	homeowner
+electrician	electrician	electrician	person
+officer	officer	officer	protester
+the officer	officer	officer	person
+protester	protester	officer	protester
+the person	person	officer	person
+pathologist	pathologist	pathologist	victim
+pathologist	pathologist	pathologist	person
+victim	victim	pathologist	victim
+person	person	pathologist	person
+the student	student	teacher	student
+person	person	teacher	person
+teacher	teacher	teacher	student
+the teacher	teacher	teacher	person
+witness	witness	lawyer	witness
+person	person	lawyer	person
+witness	lawyer	lawyer	witness
+person	lawyer	lawyer	person
+resident	resident	planner	resident
+the person's	person	planner	person
+planner	planner	planner	resident
+planner	planner	planner	person
+patient	patient	practitioner	patient
+person	person	practitioner	person
+the patient	practitioner	practitioner	patient
+the person	practitioner	practitioner	person
+plumber	plumber	plumber	homeowner
+plumber	plumber	plumber	person
+the homeowner	homeowner	plumber	homeowner
+person	person	plumber	person
+instructor	instructor	instructor	student
+instructor	instructor	instructor	person
+the student	student	instructor	student
+person's	person	instructor	person
+child	child	surgeon	child
+the person	person	surgeon	person
+the surgeon	surgeon	surgeon	child
+the surgeon	surgeon	surgeon	person
+the owner	owner	veterinarian	owner
+the person's cat	person	veterinarian	person
+veterinarian	veterinarian	veterinarian	owner
+veterinarian	veterinarian	veterinarian	person
+the paramedic	paramedic	paramedic	passenger
+the paramedic	paramedic	paramedic	person
+passenger	passenger	paramedic	passenger
+person	person	paramedic	person
+victim	victim	examiner	victim
+the person	person	examiner	person
+examiner	examiner	examiner	victim
+examiner	examiner	examiner	person
+the visitor	visitor	chemist	visitor
+person	person	chemist	person
+the chemist	chemist	chemist	visitor
+the chemist	chemist	chemist	person
+The machinist	child	machinist	child
+The machinist	person	machinist	person
+machinist	machinist	machinist	child
+person	machinist	machinist	person
+the buyer	buyer	appraiser	buyer
+person	person	appraiser	person
+the appraiser	appraiser	appraiser	buyer
+The appraiser	appraiser	appraiser	person
+patient	patient	nutritionist	patient
+person	person	nutritionist	person
+the nutritionist's belief	nutritionist	nutritionist	patient
+The nutritionist	nutritionist	nutritionist	person
+architect	student	architect	student
+architect	person	architect	person
+architect	architect	architect	student
+architect	architect	architect	person
+hairdresser	hairdresser	hairdresser	client
+the hairdresser	hairdresser	hairdresser	person
+the client	client	hairdresser	client
+person	person	hairdresser	person
+The customer	customer	baker	customer
+person	person	baker	person
+the baker	baker	baker	customer
+the baker	baker	baker	person
+programmer	programmer	programmer	student
+programmer	programmer	programmer	person
+the student	student	programmer	student
+person	person	programmer	person
+the paralegal	paralegal	paralegal	client
+the paralegal	paralegal	paralegal	person
+client	client	paralegal	client
+person	person	paralegal	person
+the patient	patient	hygienist	patient
+person	person	hygienist	person
+the hygienist	hygienist	hygienist	patient
+the hygienist	hygienist	hygienist	person
+the scientist	scientist	scientist	undergraduate
+the scientist	scientist	scientist	person
+the undergraduate	undergraduate	scientist	undergraduate
+person	person	scientist	person
+dispatcher	dispatcher	dispatcher	bystander
+dispatcher	dispatcher	dispatcher	person
+bystander	bystander	dispatcher	bystander
+person	person	dispatcher	person
+customer	customer	cashier	customer
+person	person	cashier	person
+cashier	cashier	cashier	customer
+The cashier	cashier	cashier	person
+auditor	auditor	auditor	taxpayer
+auditor	auditor	auditor	person
+taxpayer	taxpayer	auditor	taxpayer
+person	person	auditor	person
+the dietitian	dietitian	dietitian	client
+dietitian	dietitian	dietitian	person
+the client	client	dietitian	client
+the person	person	dietitian	person
+the customer	painter	painter	customer
+the person	painter	painter	person
+the customer	customer	painter	customer
+the person	person	painter	person
+the broker	broker	broker	client
+the broker	broker	broker	person
+client	client	broker	client
+person	person	broker	person
+guest	guest	chef	guest
+person	person	chef	person
+chef	chef	chef	guest
+the chef	chef	chef	person
+patient	patient	doctor	patient
+person	person	doctor	person
+the doctor	doctor	doctor	patient
+the doctor	doctor	doctor	person
+child	child	firefighter	child
+person	person	firefighter	person
+firefighter	firefighter	firefighter	child
+firefighter	firefighter	firefighter	person
+visitor	secretary	secretary	visitor
+the secretary	secretary	secretary	person
+visitor	visitor	secretary	visitor
+person	person	secretary	person

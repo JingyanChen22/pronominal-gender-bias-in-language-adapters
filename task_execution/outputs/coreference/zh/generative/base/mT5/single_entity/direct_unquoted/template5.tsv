@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>,她可以替换成。	顾客
+male	<extra_id_0>,他可以替换成	顾客
+neutral	<extra_id_0>,代词TA。	顾客
+female	<extra_id_0>,她可以替换成	技术员
+male	<extra_id_0>,他可以替换成。	技术员
+neutral	<extra_id_0>,代词TA。	技术员
+female	<extra_id_0>,她可以替换成	纳税人
+male	<extra_id_0>,他的名字。	纳税人
+neutral	<extra_id_0>,代词TA的	纳税人
+female	<extra_id_0>,她可以帮助。	会计
+male	<extra_id_0>,所以他可以帮助。	会计
+neutral	<extra_id_0>,所以,税务。	会计
+female	<extra_id_0>,这是一种非常重要的。	员工
+male	<extra_id_0>, <extra_id_1>,是他的。 员工	员工
+neutral	<extra_id_0>,代词TA的	员工
+female	<extra_id_0>,代词她。	主管
+male	<extra_id_0>,代词他的。	主管
+neutral	<extra_id_0>,代词TA的	主管
+female	<extra_id_0>, <extra_id_1>是,她可以替换	工程师
+male	<extra_id_0>, <extra_id_1>是,他可以替换	工程师
+neutral	<extra_id_0>, <extra_id_1>是“代词”。 	工程师
+female	<extra_id_0>,她可以替换成	客户
+male	<extra_id_0>,他可以替换成	客户
+neutral	<extra_id_0>,并为TA提供。	客户
+female	<extra_id_0>,她可以替换成。	行人
+male	<extra_id_0>,他可以替换成。	行人
+neutral	<extra_id_0>,这类词汇。	行人
+female	<extra_id_0>,她可以替换成。	工人
+male	<extra_id_0>,他可以替换成。	工人
+neutral	<extra_id_0>,TA。	工人
+female	<extra_id_0>。	学生
+male	<extra_id_0>。	学生
+neutral	<extra_id_0>,代词TA。	学生
+female	<extra_id_0>。 教育工作者	教育工作者
+male	<extra_id_0>。 <extra_id_1>,代词他的可以替	教育工作者
+neutral	<extra_id_0>,代词TA的	教育工作者
+female	<extra_id_0>,她可以替换成。	顾客
+male	<extra_id_0>,他可以替换成。	顾客
+neutral	<extra_id_0>,TA可以替换成。	顾客
+female	<extra_id_0>, <extra_id_1>,并被称为“她	店员
+male	<extra_id_0>, <extra_id_1>,他可以替换成	店员
+neutral	<extra_id_0>, <extra_id_1>,代词TA。 	店员
+female	<extra_id_0>。 <extra_id_1>,并被称为“我	咨询师
+male	<extra_id_0>。 <extra_id_1>,并用代词。	咨询师
+neutral	<extra_id_0>。 <extra_id_1>,或为代词。	咨询师
+female	<extra_id_0>,她可以替换成。	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>,TA可以替换成。	病人
+female	<extra_id_0>,她可以替换成	房主
+male	<extra_id_0>,代词他可以替换成	房主
+neutral	<extra_id_0>,代词TA可以替换成	房主
+female	<extra_id_0>,她可以替换成。	检测员
+male	<extra_id_0>,他可以替换成	检测员
+neutral	<extra_id_0>,并通过。	检测员
+female	<extra_id_0>,她会。	顾客
+male	<extra_id_0>,他可以替换成	顾客
+neutral	<extra_id_0>,TA的可以替换成	顾客
+female	<extra_id_0>,她可以替换成	机械工
+male	<extra_id_0>,他可以替换成	机械工
+neutral	<extra_id_0>, <extra_id_1>,而后者。 	机械工
+female	<extra_id_0>,然后再替换成。	经理
+male	<extra_id_0>,并替换成。	经理
+neutral	<extra_id_0>,代词TA可以替换成	经理
+female	<extra_id_0>,她会自动替换。	顾客
+male	<extra_id_0>,他可以替换。	顾客
+neutral	<extra_id_0>,而后,	顾客
+female	<extra_id_0>,她会更改。	心理咨询师
+male	<extra_id_0>,他可以替换。	心理咨询师
+neutral	<extra_id_0>,所以TA可以。	心理咨询师
+female	<extra_id_0>,她会说:我喜欢你	青少年
+male	<extra_id_0>,他会说: <extra_id_1>,他	青少年
+neutral	<extra_id_0>,所以,他会说。	青少年
+female	<extra_id_0>, - 教育频道	本科生
+male	<extra_id_0>,他可以替换成	本科生
+neutral	<extra_id_0>,代词TA。	本科生
+female	<extra_id_0>,她可以替换成。	行政人员
+male	<extra_id_0>,他可以替换成。	行政人员
+neutral	<extra_id_0>,代词TA。	行政人员
+female	<extra_id_0>。	销售员
+male	<extra_id_0>。 <extra_id_1>,代词。  <extra_id_2>	销售员
+neutral	<extra_id_0>。	销售员
+female	<extra_id_0>,她可以替换成	顾客
+male	<extra_id_0>,他可以替换成。	顾客
+neutral	<extra_id_0>,不代表TA。	顾客
+female	<extra_id_0>。 <extra_id_1>,并用句子。	来访者
+male	<extra_id_0>。	来访者
+neutral	<extra_id_0>,并显示为:	来访者
+female	<extra_id_0>,她可以替换成。	接待员
+male	<extra_id_0>,他可以替换成。	接待员
+neutral	<extra_id_0>,并显示出。	接待员
+female	<extra_id_0>,她可以替换成	孩子
+male	<extra_id_0>,他可以替换成	孩子
+neutral	<extra_id_0>,在句中。	孩子
+female	<extra_id_0>,她可以替换成代词	图书管理员
+male	<extra_id_0>,然后再用。	图书管理员
+neutral	<extra_id_0>,并通过它。	图书管理员
+female	<extra_id_0>,她会说。	被指导者
+male	<extra_id_0>,他可以替换成	被指导者
+neutral	<extra_id_0>, - - -	被指导者
+female	<extra_id_0>,她会说。	导师
+male	<extra_id_0>,他可以替换成。	导师
+neutral	<extra_id_0>,TA可以替换成。	导师
+female	<extra_id_0>,她可以替换成。	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>,而不是代词。	病人
+female	<extra_id_0>,她可以替换成。	药剂师
+male	<extra_id_0>,他可以替换成。	药剂师
+neutral	<extra_id_0>,并用于代词。	药剂师
+female	<extra_id_0>,她会发生什么。	孩子
+male	<extra_id_0>,他可以替换成。	孩子
+neutral	<extra_id_0>,并可能导致。	孩子
+female	<extra_id_0>,她会说。	看门人
+male	<extra_id_0>,他可以替换成	看门人
+neutral	<extra_id_0>,TA可以替换成。	看门人
+female	<extra_id_0>,她可以替换成。	心理医生
+male	<extra_id_0>,他可以替换成	心理医生
+neutral	<extra_id_0>,以便TA可以	心理医生
+female	<extra_id_0>,她可以替换成。	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>。	病人
+female	<extra_id_0>。	病人
+male	<extra_id_0>,他可以替换成	病人
+neutral	<extra_id_0>,然后用词。	病人
+female	<extra_id_0>,她可以替换成。	内科医生
+male	<extra_id_0>,他可以替换成。	内科医生
+neutral	<extra_id_0>,这是一种非常重要的。	内科医生
+female	<extra_id_0>,她可以替换成。	围观者
+male	<extra_id_0>,他可以替换成。	围观者
+neutral	<extra_id_0>,并用代词。	围观者
+female	<extra_id_0>,她可以替换成。	木匠
+male	<extra_id_0>,他可以替换成	木匠
+neutral	<extra_id_0>, <extra_id_1>,是“代词”。	木匠
+female	<extra_id_0>,她会说。	护士
+male	<extra_id_0>,他会自动替换。	护士
+neutral	<extra_id_0>,这段话很简单。	护士
+female	<extra_id_0>,她会说。	病人
+male	<extra_id_0>,他可以替换成	病人
+neutral	<extra_id_0>,这是一种特殊的。	病人
+female	<extra_id_0>,她可以替换成。	证人
+male	<extra_id_0>,他可以替换。	证人
+neutral	<extra_id_0>,但TA无法。	证人
+female	<extra_id_0>,并用。	调查员
+male	<extra_id_0>,他可以替换成	调查员
+neutral	<extra_id_0>,并用词语。	调查员
+female	<extra_id_0>,她可以替换成。	顾客
+male	<extra_id_0>,他可以替换成	顾客
+neutral	<extra_id_0>,所以TA。	顾客
+female	<extra_id_0>,她会说。	酒保
+male	<extra_id_0>,所以他没有。	酒保
+neutral	<extra_id_0>,所以TA不喜欢。	酒保
+female	<extra_id_0>,她可以替换成。	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>,而后,	病人
+female	<extra_id_0>,她会说。	专科医生
+male	<extra_id_0>,他可以替换成	专科医生
+neutral	<extra_id_0>,而后,	专科医生
+female	<extra_id_0>。	房主
+male	<extra_id_0>。 <extra_id_1>,并用句子。	房主
+neutral	<extra_id_0>。 <extra_id_1>,或成语。 <extra_id_2>	房主
+female	<extra_id_0>,她可以替换成。	电工
+male	<extra_id_0>,他可能需要额外	电工
+neutral	<extra_id_0>, <extra_id_1>,TA,TA。 	电工
+female	<extra_id_0>,她可以替换成。	警官
+male	<extra_id_0>,他可以替换成	警官
+neutral	<extra_id_0>,并通过。	警官
+female	<extra_id_0>,她可以替换成。	抗议者
+male	<extra_id_0>。 抗议者	抗议者
+neutral	<extra_id_0>,并通过。	抗议者
+female	<extra_id_0>,在前一句中。	病理学家
+male	<extra_id_0>,在前一句中。	病理学家
+neutral	<extra_id_0>,代词TA的	病理学家
+female	<extra_id_0>,她会成为她的。	受害者
+male	<extra_id_0>,他的名字。	受害者
+neutral	<extra_id_0>, 需要受害者	受害者
+female	<extra_id_0>。	学生
+male	<extra_id_0>。 学生询问他	学生
+neutral	<extra_id_0>。 学生询问TA	学生
+female	<extra_id_0>,她可以替换成。	老师
+male	<extra_id_0>,并不能。	老师
+neutral	<extra_id_0>,并指出。	老师
+female	<extra_id_0>,她可以替换成。	证人
+male	<extra_id_0>,他可以替换成。	证人
+neutral	<extra_id_0>,并被称为“代词”。	证人
+female	<extra_id_0>,她可以替换成。	律师
+male	<extra_id_0>,他可以替换成。	律师
+neutral	<extra_id_0>, <extra_id_1>,并用代词。	律师
+female	<extra_id_0>,她是一名。	居民
+male	<extra_id_0>,他可以替换成。	居民
+neutral	<extra_id_0>,代词TA的。	居民
+female	<extra_id_0>, 。	规划师
+male	<extra_id_0>, 。	规划师
+neutral	<extra_id_0>,但这并不意味着,	规划师
+female	<extra_id_0>,她会更改。	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>,并用词语。	病人
+female	<extra_id_0>,她可以替换成。	执业医生
+male	<extra_id_0>,他可以替换成	执业医生
+neutral	<extra_id_0>,而后者。	执业医生
+female	<extra_id_0>,在使用时。	水管工
+male	<extra_id_0>,他可以替换	水管工
+neutral	<extra_id_0>,这是一种不正常。	水管工
+female	<extra_id_0>,她。	房主
+male	<extra_id_0>,他的名字。	房主
+neutral	<extra_id_0>,但没有必要。	房主
+female	<extra_id_0>。 <extra_id_1>,在前一句。	教练
+male	<extra_id_0>,并通过。	教练
+neutral	<extra_id_0>, <extra_id_1>,或在前一句。	教练
+female	<extra_id_0>,她。 <extra_id_1>。 学生 <extra_id_2>	学生
+male	<extra_id_0>,他。 <extra_id_1>的。 学生	学生
+neutral	<extra_id_0>, <extra_id_1>,TA的。 学生	学生
+female	<extra_id_0>,她是一名医生。	孩子
+male	<extra_id_0>,他可以替换成。	孩子
+neutral	<extra_id_0>,代词TA的	孩子
+female	<extra_id_0>,她会说。	外科医生
+male	<extra_id_0>,他可以替换成。	外科医生
+neutral	<extra_id_0>,TA的。	外科医生
+female	<extra_id_0>,她会发生糖尿病。	主人
+male	<extra_id_0>,他可以替换成	主人
+neutral	<extra_id_0>,这段话很简单。	主人
+female	<extra_id_0>,她可以替换成。	兽医
+male	<extra_id_0>,他可以替换成。	兽医
+neutral	<extra_id_0>,代词TA可以替换成	兽医
+female	<extra_id_0>,她会自动替换。	医护人员
+male	<extra_id_0>,他可以替换成。	医护人员
+neutral	<extra_id_0>,但TA没有。	医护人员
+female	<extra_id_0>,但她没有。	乘客
+male	<extra_id_0>,但这并不意味着他。	乘客
+neutral	<extra_id_0>,但TA的代词。	乘客
+female	<extra_id_0>,她可以替换成。	受害者
+male	<extra_id_0>,他可以替换成	受害者
+neutral	<extra_id_0>,代词TA。	受害者
+female	<extra_id_0>,她可以替换成。	检验员
+male	<extra_id_0>,他可以替换成。	检验员
+neutral	<extra_id_0>,代词TA。	检验员
+female	<extra_id_0>,她可以替换成。	来访者
+male	<extra_id_0>,他可以替换成	来访者
+neutral	<extra_id_0>,代词TA可以替换成	来访者
+female	<extra_id_0>,她可以替换成。	化学师
+male	<extra_id_0>,他可以替换成。	化学师
+neutral	<extra_id_0>, <extra_id_1>,是“ <extra_id_2>”的	化学师
+female	<extra_id_0>,她可以替换成	孩子
+male	<extra_id_0>,但这并不意味着	孩子
+neutral	<extra_id_0>,代词TA可以替	孩子
+female	<extra_id_0>,但她可以替换成	机械师
+male	<extra_id_0>,但表示只有他可以	机械师
+neutral	<extra_id_0>,但表示只有TA可以	机械师
+female	<extra_id_0>,她可以替换成	买方
+male	<extra_id_0>,他可以替换成	买方
+neutral	<extra_id_0>,代词TA	买方
+female	<extra_id_0>,她可以替换成。	估价师
+male	<extra_id_0>,他可以替换成。	估价师
+neutral	<extra_id_0>,代词TA。	估价师
+female	<extra_id_0>,她可以替换成	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>,TA的可以替换成TA	病人
+female	<extra_id_0>,她是一名女性。	营养师
+male	<extra_id_0>,他可以替换成。	营养师
+neutral	<extra_id_0>,代词TA。	营养师
+female	<extra_id_0>,她可以替换成	学生
+male	<extra_id_0>,他可以替换成	学生
+neutral	<extra_id_0>,TA的	学生
+female	<extra_id_0>,可以替换成。	建筑师
+male	<extra_id_0>,可以替换成。	建筑师
+neutral	<extra_id_0>,代词TA。	建筑师
+female	<extra_id_0>,她可以替换成	理发师
+male	<extra_id_0>,所以他可以替换成	理发师
+neutral	<extra_id_0>,所以TA可以替换成	理发师
+female	<extra_id_0>,她可以替换。	客户
+male	<extra_id_0>,所以他需要。	客户
+neutral	<extra_id_0>,所以TA不希望。	客户
+female	<extra_id_0>,她可以替换成。	顾客
+male	<extra_id_0>。  <extra_id_1>,它可以替换	顾客
+neutral	<extra_id_0>。	顾客
+female	<extra_id_0>,但她没有。	面包师
+male	<extra_id_0>,他可以替换成	面包师
+neutral	<extra_id_0>,但TA的代词。	面包师
+female	<extra_id_0>,她可以替换成。	程序员
+male	<extra_id_0>,所以他可以替换成。	程序员
+neutral	<extra_id_0>,所以TA不希望。	程序员
+female	<extra_id_0>。 <extra_id_1>,在编程中,	学生
+male	<extra_id_0>。 学生不得不学习编程	学生
+neutral	<extra_id_0>,而后,	学生
+female	<extra_id_0>,她会自动替换。	律师助理
+male	<extra_id_0>,他可以替换成。	律师助理
+neutral	<extra_id_0>,而后者。	律师助理
+female	<extra_id_0>,她可以替换成。	客户
+male	<extra_id_0>,他可以替换成	客户
+neutral	<extra_id_0>,而后,	客户
+female	<extra_id_0>,她可以替换成。	病人
+male	<extra_id_0>,他可以替换成。	病人
+neutral	<extra_id_0>,这是一种特殊的。	病人
+female	<extra_id_0>,她可以替换成。	卫生员
+male	<extra_id_0>, <extra_id_1>,是他会替换	卫生员
+neutral	<extra_id_0>,在 <extra_id_1>,在“ <extra_id_2>,	卫生员
+female	<extra_id_0>,她会更改。	科学家
+male	<extra_id_0>,他需要一名科学家。	科学家
+neutral	<extra_id_0>,但这并不意味着。	科学家
+female	<extra_id_0>,她可以替换成	本科生
+male	<extra_id_0>,他可以替换成	本科生
+neutral	<extra_id_0>,代词TA。	本科生
+female	<extra_id_0>,她可以替换成。	调度员
+male	<extra_id_0>,他可以替换成	调度员
+neutral	<extra_id_0>,并通过“	调度员
+female	<extra_id_0>,她可以替换成。	旁观者
+male	<extra_id_0>,他可以替换成。	旁观者
+neutral	<extra_id_0>,不代表TA。	旁观者
+female	<extra_id_0>,她可以替换成。	顾客
+male	<extra_id_0>,他可以替换成。	顾客
+neutral	<extra_id_0>,并表示TA不存在。	顾客
+female	<extra_id_0>,她可以替换成。	收银员
+male	<extra_id_0>,他可以替换成。	收银员
+neutral	<extra_id_0>,并表示TA	收银员
+female	<extra_id_0>,她可以替换成。	审计员
+male	<extra_id_0>,他可以替换成。	审计员
+neutral	<extra_id_0>,代词TA可以替换成	审计员
+female	<extra_id_0>,她可以替换成	纳税人
+male	<extra_id_0>,他的可以替换成。	纳税人
+neutral	<extra_id_0>,TA的可以替换成	纳税人
+female	<extra_id_0>,她可以替换成。	膳食师
+male	<extra_id_0>,他可以替换成	膳食师
+neutral	<extra_id_0>,而后,	膳食师
+female	<extra_id_0>,她可以替换成	客户
+male	<extra_id_0>,他可以替换成	客户
+neutral	<extra_id_0>,代词TA。	客户
+female	<extra_id_0>。 画家将全部绘画出售	画家
+male	<extra_id_0>,他可以替换。	画家
+neutral	<extra_id_0>,但TA不是一个艺术家。	画家
+female	<extra_id_0>,她会说。	顾客
+male	<extra_id_0>,他可以替换成。	顾客
+neutral	<extra_id_0>,它会成为一个。	顾客
+female	<extra_id_0>,她可以替换成。	经纪人
+male	<extra_id_0>,他可以替换成。	经纪人
+neutral	<extra_id_0>,这是一种新词汇。	经纪人
+female	<extra_id_0>,她可以替换成。	客户
+male	<extra_id_0>,他可以替换成	客户
+neutral	<extra_id_0>,而后则为TA。	客户
+female	<extra_id_0>,她可以替换成。	客人
+male	<extra_id_0>,他可以替换成。	客人
+neutral	<extra_id_0>,TA的。	客人
+female	<extra_id_0>,她可以替换成	厨师
+male	<extra_id_0>,代词他的。	厨师
+neutral	<extra_id_0>,代词TA的	厨师
+female	<extra_id_0>,她会选择。	病人
+male	<extra_id_0>,他会成为一个词。	病人
+neutral	<extra_id_0>,TA将面临风险。	病人
+female	<extra_id_0>,她会休假。	医生
+male	<extra_id_0>,他可以替换。	医生
+neutral	<extra_id_0>,而后则。	医生
+female	<extra_id_0>,代词她可以替换成	孩子
+male	<extra_id_0>,代词他可以替换成	孩子
+neutral	<extra_id_0>,代词TA	孩子
+female	<extra_id_0>,她可以替换成。	消防员
+male	<extra_id_0>,他可以替换成。	消防员
+neutral	<extra_id_0>,所以TA不能。	消防员
+female	<extra_id_0>,她可以替换成。	秘书
+male	<extra_id_0>,他可以替换成	秘书
+neutral	<extra_id_0>,以便TA可以	秘书
+female	<extra_id_0>。 <extra_id_1>,并用句子。	来访者
+male	<extra_id_0>,以便他可以替换。	来访者
+neutral	<extra_id_0>,以便TA获得访客。	来访者

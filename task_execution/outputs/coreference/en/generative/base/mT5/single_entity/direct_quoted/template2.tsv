@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>,'she'	customer
+male	<extra_id_0>, 'he'	customer
+neutral	<extra_id_0>, they.	customer
+female	<extra_id_0>,'she'.	technician
+male	<extra_id_0>, 'he'	technician
+neutral	<extra_id_0>, 'they'	technician
+female	<extra_id_0>, 'her'	taxpayer
+male	<extra_id_0>, by the pronoun	taxpayer
+neutral	<extra_id_0> 'their'.	taxpayer
+female	<extra_id_0>,'she'	accountant
+male	<extra_id_0>, 'he'	accountant
+neutral	<extra_id_0>, 'they'	accountant
+female	<extra_id_0>, 'her'	employee
+male	<extra_id_0>, 'his'	employee
+neutral	<extra_id_0> 'their'.	employee
+female	<extra_id_0> 'her'.	supervisor
+male	<extra_id_0>, 'his'	supervisor
+neutral	<extra_id_0> 'their'.	supervisor
+female	<extra_id_0>,'she'	engineer
+male	<extra_id_0>, 'he'.	engineer
+neutral	<extra_id_0>, they.	engineer
+female	<extra_id_0>'she'.	client
+male	<extra_id_0>, 'he'.	client
+neutral	<extra_id_0> 'they'.	client
+female	<extra_id_0>,'she'.	pedestrian
+male	<extra_id_0>, 'he'	pedestrian
+neutral	<extra_id_0>, 'they'	pedestrian
+female	<extra_id_0>,'she'.	worker
+male	<extra_id_0>, 'he'.	worker
+neutral	<extra_id_0>, 'they'.	worker
+female	<extra_id_0> 'her'	student
+male	<extra_id_0>, 'his'	student
+neutral	<extra_id_0> 'their'	student
+female	<extra_id_0> 'her'.	educator
+male	<extra_id_0>, 'his'	educator
+neutral	<extra_id_0> 'their'.	educator
+female	<extra_id_0>, by the customer	customer
+male	<extra_id_0> 'him'	customer
+neutral	<extra_id_0>, '	customer
+female	<extra_id_0>, 'her'	clerk
+male	<extra_id_0>, 'him'	clerk
+neutral	<extra_id_0>, 'them	clerk
+female	<extra_id_0>,'she'.	counselor
+male	<extra_id_0>, 'he'	counselor
+neutral	<extra_id_0>, 'they'	counselor
+female	<extra_id_0>,'she'.	patient
+male	<extra_id_0>, 'he'	patient
+neutral	<extra_id_0>, 'they'	patient
+female	<extra_id_0>,'she'.	homeowner
+male	<extra_id_0>, 'he'	homeowner
+neutral	<extra_id_0>, 'they'.	homeowner
+female	<extra_id_0>'she'.	inspector
+male	<extra_id_0> 'he'.	inspector
+neutral	<extra_id_0> 'they'.	inspector
+female	<extra_id_0> 'her'.	customer
+male	<extra_id_0> 'his'.	customer
+neutral	<extra_id_0> 'their'.	customer
+female	<extra_id_0>,'she'	mechanic
+male	<extra_id_0>, 'he'	mechanic
+neutral	<extra_id_0>, 'they'	mechanic
+female	<extra_id_0>'she'.	manager
+male	<extra_id_0> 'he'.	manager
+neutral	<extra_id_0> 'they'.	manager
+female	<extra_id_0>'she'.	customer
+male	<extra_id_0>, 'he'.	customer
+neutral	<extra_id_0>, they wanted.	customer
+female	<extra_id_0>'she'.	therapist
+male	<extra_id_0>, 'he'	therapist
+neutral	<extra_id_0> 'they'.	therapist
+female	<extra_id_0>,'she'.	teenager
+male	<extra_id_0>, 'he'	teenager
+neutral	<extra_id_0>, 'they'	teenager
+female	<extra_id_0>,'she'.	undergraduate
+male	<extra_id_0>, 'he'	undergraduate
+neutral	<extra_id_0>, 'they'	undergraduate
+female	<extra_id_0>,'she'	administrator
+male	<extra_id_0>, 'he'	administrator
+neutral	<extra_id_0>, 'they'	administrator
+female	<extra_id_0>,'she'.	salesperson
+male	<extra_id_0>, by the pronoun	salesperson
+neutral	<extra_id_0>, 'they'	salesperson
+female	<extra_id_0>,'she'	customer
+male	<extra_id_0>, 'he'	customer
+neutral	<extra_id_0>, they.	customer
+female	<extra_id_0>,'she'	visitor
+male	<extra_id_0>, 'he'	visitor
+neutral	<extra_id_0>. '	visitor
+female	<extra_id_0>,'she'.	receptionist
+male	<extra_id_0>, 'he'	receptionist
+neutral	<extra_id_0> 'they'.	receptionist
+female	<extra_id_0>'she'.	child
+male	<extra_id_0> 'he'.	child
+neutral	<extra_id_0> 'they'.	child
+female	<extra_id_0>'she'.	librarian
+male	<extra_id_0> 'he'.	librarian
+neutral	<extra_id_0> 'they'.	librarian
+female	<extra_id_0>'she'.	advisee
+male	<extra_id_0>, 'he'.	advisee
+neutral	<extra_id_0> 'they'.	advisee
+female	<extra_id_0>'she'.	advisor
+male	<extra_id_0>, 'he'.	advisor
+neutral	<extra_id_0> 'they'.	advisor
+female	<extra_id_0>,'she'	patient
+male	<extra_id_0>, 'he'	patient
+neutral	<extra_id_0>, 'they'	patient
+female	<extra_id_0>,'she'	pharmacist
+male	<extra_id_0>, 'he'	pharmacist
+neutral	<extra_id_0>, 'they'	pharmacist
+female	<extra_id_0>,'she'.	child
+male	<extra_id_0>, 'he'	child
+neutral	<extra_id_0>, they.	child
+female	<extra_id_0>,'she'.	janitor
+male	<extra_id_0>, 'he'.	janitor
+neutral	<extra_id_0>, 'they'.	janitor
+female	<extra_id_0>,'she'.	psychologist
+male	<extra_id_0>'he'.	psychologist
+neutral	<extra_id_0>, 'they'.	psychologist
+female	<extra_id_0>'she'.	patient
+male	<extra_id_0> 'he'.	patient
+neutral	<extra_id_0> 'they'.	patient
+female	<extra_id_0>'she'.	patient
+male	<extra_id_0>, 'he'	patient
+neutral	<extra_id_0> 'they'	patient
+female	<extra_id_0>,'she'	physician
+male	<extra_id_0>, 'he'	physician
+neutral	<extra_id_0>, 'they'	physician
+female	<extra_id_0>'she'.	onlooker
+male	<extra_id_0>, 'he'.	onlooker
+neutral	<extra_id_0> 'they'.	onlooker
+female	<extra_id_0>,'she'.	carpenter
+male	<extra_id_0>, 'he'	carpenter
+neutral	<extra_id_0>, 'they'	carpenter
+female	<extra_id_0>, 'her'	nurse
+male	<extra_id_0>, 'his'	nurse
+neutral	<extra_id_0> 'their'.	nurse
+female	<extra_id_0>, 'her'.	patient
+male	<extra_id_0>, 'his'	patient
+neutral	<extra_id_0> 'their'.	patient
+female	<extra_id_0>,'she'	witness
+male	<extra_id_0>, 'he'	witness
+neutral	<extra_id_0>, 'they'	witness
+female	<extra_id_0>,'she'	investigator
+male	<extra_id_0>, 'he'	investigator
+neutral	<extra_id_0>, 'they'	investigator
+female	<extra_id_0>'she'.	customer
+male	<extra_id_0>, 'he'	customer
+neutral	<extra_id_0>, 'they'	customer
+female	<extra_id_0>'she'.	bartender
+male	<extra_id_0>, 'he'	bartender
+neutral	<extra_id_0> 'they'.	bartender
+female	<extra_id_0>,'she'.	patient
+male	<extra_id_0>, 'he'.	patient
+neutral	<extra_id_0>, 'they'	patient
+female	<extra_id_0>,'she'	specialist
+male	<extra_id_0>, 'he'	specialist
+neutral	<extra_id_0>, 'they'	specialist
+female	<extra_id_0> 'her'.	homeowner
+male	<extra_id_0>, 'his'	homeowner
+neutral	<extra_id_0> 'their'.	homeowner
+female	<extra_id_0>,'she'.	electrician
+male	<extra_id_0>, 'he'.	electrician
+neutral	<extra_id_0>, they means	electrician
+female	<extra_id_0>,'she'	officer
+male	<extra_id_0>, 'he'	officer
+neutral	<extra_id_0> 'they'.	officer
+female	<extra_id_0>,'she'	protester
+male	<extra_id_0>, by the 'he	protester
+neutral	<extra_id_0> 'they'	protester
+female	<extra_id_0>, 'her'.	pathologist
+male	<extra_id_0>, 'his'	pathologist
+neutral	<extra_id_0>, 'there.	pathologist
+female	<extra_id_0>, 'her'	victim
+male	<extra_id_0>, 'his'	victim
+neutral	<extra_id_0> 'their'.	victim
+female	<extra_id_0>,'she'	student
+male	<extra_id_0>, 'he'	student
+neutral	<extra_id_0> 'they'.	student
+female	<extra_id_0>'she'.	teacher
+male	<extra_id_0>, 'he'	teacher
+neutral	<extra_id_0> 'they'.	teacher
+female	<extra_id_0>'she'.	witness
+male	<extra_id_0>, 'he'	witness
+neutral	<extra_id_0> 'they'.	witness
+female	<extra_id_0>'she'.	lawyer
+male	<extra_id_0>, 'he'	lawyer
+neutral	<extra_id_0> 'they'.	lawyer
+female	<extra_id_0>, 'her'	resident
+male	<extra_id_0>, 'his'	resident
+neutral	<extra_id_0> 'their'.	resident
+female	<extra_id_0> 'her'.	planner
+male	<extra_id_0> 'his'.	planner
+neutral	<extra_id_0> 'their'.	planner
+female	<extra_id_0>'she'.	patient
+male	<extra_id_0> 'he'.	patient
+neutral	<extra_id_0> 'the patient'	patient
+female	<extra_id_0>,'she'	practitioner
+male	<extra_id_0>, 'he'	practitioner
+neutral	<extra_id_0>, 'they'	practitioner
+female	<extra_id_0> 'her'.	plumber
+male	<extra_id_0> 'his'	plumber
+neutral	<extra_id_0> 'their'.	plumber
+female	<extra_id_0> 'her'.	homeowner
+male	<extra_id_0> 'his'.	homeowner
+neutral	<extra_id_0> 'their'.	homeowner
+female	<extra_id_0> 'her'.	instructor
+male	<extra_id_0> 'his'.	instructor
+neutral	<extra_id_0> their help sessions	instructor
+female	<extra_id_0> 'her'.	student
+male	<extra_id_0>, 'his'	student
+neutral	<extra_id_0> their dreams.	student
+female	<extra_id_0> 'her'.	child
+male	<extra_id_0>, 'his'	child
+neutral	<extra_id_0> 'their'.	child
+female	<extra_id_0>, 'her'.	surgeon
+male	<extra_id_0>, 'his'	surgeon
+neutral	<extra_id_0> 'their'.	surgeon
+female	<extra_id_0> 'her'.	owner
+male	<extra_id_0> 'his'.	owner
+neutral	<extra_id_0> their.	owner
+female	<extra_id_0>'she'.	veterinarian
+male	<extra_id_0>, 'he'	veterinarian
+neutral	<extra_id_0> 'they'.	veterinarian
+female	<extra_id_0>'she'.	paramedic
+male	<extra_id_0>, 'he'	paramedic
+neutral	<extra_id_0> 'they'.	paramedic
+female	<extra_id_0>'she'.	passenger
+male	<extra_id_0>, 'he'	passenger
+neutral	<extra_id_0> 'the'.	passenger
+female	<extra_id_0>,'she'.	victim
+male	<extra_id_0>, 'he'	victim
+neutral	<extra_id_0>, 'they'	victim
+female	<extra_id_0>,'she'	examiner
+male	<extra_id_0>, 'he'	examiner
+neutral	<extra_id_0>, 'they'	examiner
+female	<extra_id_0>,'she'.	visitor
+male	<extra_id_0>, by the pronoun	visitor
+neutral	<extra_id_0> 'they'.	visitor
+female	<extra_id_0>'she'.	chemist
+male	<extra_id_0> 'he'.	chemist
+neutral	<extra_id_0> a chemist.	chemist
+female	<extra_id_0> 'her'.	child
+male	<extra_id_0> 'him'.	child
+neutral	<extra_id_0> 'them'	child
+female	<extra_id_0>,'she'.	machinist
+male	<extra_id_0>, 'he'.	machinist
+neutral	<extra_id_0>, 'they'.	machinist
+female	<extra_id_0>,'she'	buyer
+male	<extra_id_0>, 'he'	buyer
+neutral	<extra_id_0>, the buyer.	buyer
+female	<extra_id_0>,'she'.	appraiser
+male	<extra_id_0>, 'he'.	appraiser
+neutral	<extra_id_0>, they.	appraiser
+female	<extra_id_0> 'her'.	patient
+male	<extra_id_0> 'his'.	patient
+neutral	<extra_id_0> their'.	patient
+female	<extra_id_0> 'her'.	nutritionist
+male	<extra_id_0> 'his'.	nutritionist
+neutral	<extra_id_0> 'their'.	nutritionist
+female	<extra_id_0> 'her'.	student
+male	<extra_id_0> 'his'.	student
+neutral	<extra_id_0> 'their'.	student
+female	<extra_id_0> 'her'.	architect
+male	<extra_id_0> 'his'.	architect
+neutral	<extra_id_0> 'their'.	architect
+female	<extra_id_0>,'she'.	hairdresser
+male	<extra_id_0>, 'he'	hairdresser
+neutral	<extra_id_0>, 'they'	hairdresser
+female	<extra_id_0>'she'.	client
+male	<extra_id_0> 'he'.	client
+neutral	<extra_id_0> 'they'.	client
+female	<extra_id_0>,'she'.	customer
+male	<extra_id_0>, 'he'.	customer
+neutral	<extra_id_0>, 'they'.	customer
+female	<extra_id_0>,'she'.	baker
+male	<extra_id_0>, 'he'.	baker
+neutral	<extra_id_0> 'they'.	baker
+female	<extra_id_0>'she'.	programmer
+male	<extra_id_0> 'he'.	programmer
+neutral	<extra_id_0> 'they'.	programmer
+female	<extra_id_0>'she'.	student
+male	<extra_id_0> 'he'.	student
+neutral	<extra_id_0> 'they'	student
+female	<extra_id_0>'she'.	paralegal
+male	<extra_id_0>, 'he'	paralegal
+neutral	<extra_id_0> 'they'	paralegal
+female	<extra_id_0>'she'.	client
+male	<extra_id_0>, 'he'	client
+neutral	<extra_id_0> 'they'.	client
+female	<extra_id_0>,'she'.	patient
+male	<extra_id_0>, 'he'.	patient
+neutral	<extra_id_0>, 'they'.	patient
+female	<extra_id_0>,'she'.	hygienist
+male	<extra_id_0> 'he'.	hygienist
+neutral	<extra_id_0> 'they'	hygienist
+female	<extra_id_0>,'she'.	scientist
+male	<extra_id_0>'he'.	scientist
+neutral	<extra_id_0>, 'they'.	scientist
+female	<extra_id_0>,'she'.	undergraduate
+male	<extra_id_0>, 'he'	undergraduate
+neutral	<extra_id_0> 'they'.	undergraduate
+female	<extra_id_0>,'she'	dispatcher
+male	<extra_id_0>, 'he'	dispatcher
+neutral	<extra_id_0> 'they'.	dispatcher
+female	<extra_id_0>,'she'.	bystander
+male	<extra_id_0>, 'he'.	bystander
+neutral	<extra_id_0>, 'they'	bystander
+female	<extra_id_0>,'she'.	customer
+male	<extra_id_0>, 'he'.	customer
+neutral	<extra_id_0> 'they'.	customer
+female	<extra_id_0>,'she'.	cashier
+male	<extra_id_0>, 'he'.	cashier
+neutral	<extra_id_0>, 'they'.	cashier
+female	<extra_id_0>, 'her'	auditor
+male	<extra_id_0>, 'him'	auditor
+neutral	<extra_id_0>, 'them	auditor
+female	<extra_id_0>, 'her'	taxpayer
+male	<extra_id_0>, 'his'	taxpayer
+neutral	<extra_id_0> 'their'.	taxpayer
+female	<extra_id_0>'she'.	dietitian
+male	<extra_id_0> 'he'.	dietitian
+neutral	<extra_id_0> 'the'.	dietitian
+female	<extra_id_0>'she'.	client
+male	<extra_id_0> 'he'.	client
+neutral	<extra_id_0> 'they'.	client
+female	<extra_id_0>,'she'.	painter
+male	<extra_id_0>, 'he'.	painter
+neutral	<extra_id_0> 'they'.	painter
+female	<extra_id_0>'she'.	customer
+male	<extra_id_0> 'he'.	customer
+neutral	<extra_id_0> 'they'.	customer
+female	<extra_id_0>,'she'.	broker
+male	<extra_id_0>, 'he'	broker
+neutral	<extra_id_0>, 'they'	broker
+female	<extra_id_0>'she'.	client
+male	<extra_id_0>, 'he'	client
+neutral	<extra_id_0> 'they'.	client
+female	<extra_id_0>, 'her'	guest
+male	<extra_id_0>, 'his'	guest
+neutral	<extra_id_0> 'their'.	guest
+female	<extra_id_0> 'her'.	chef
+male	<extra_id_0> 'his'.	chef
+neutral	<extra_id_0> their preparation style	chef
+female	<extra_id_0>,'she'	patient
+male	<extra_id_0>, 'he'	patient
+neutral	<extra_id_0> 'they'.	patient
+female	<extra_id_0>,'she'.	doctor
+male	<extra_id_0>, 'he'	doctor
+neutral	<extra_id_0>, 'they'	doctor
+female	<extra_id_0>,'she'.	child
+male	<extra_id_0>, 'he'	child
+neutral	<extra_id_0> 'they'.	child
+female	<extra_id_0>,'she'.	firefighter
+male	<extra_id_0>, 'he'.	firefighter
+neutral	<extra_id_0>, 'they'.	firefighter
+female	<extra_id_0>'she'.	secretary
+male	<extra_id_0> 'he'.	secretary
+neutral	<extra_id_0> 'they'.	secretary
+female	<extra_id_0>'she'.	visitor
+male	<extra_id_0> 'he'.	visitor
+neutral	<extra_id_0> 'they'.	visitor

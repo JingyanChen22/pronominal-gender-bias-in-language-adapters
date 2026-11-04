@@ -1,0 +1,721 @@
+gender	non_verbalized	label	occupation	participant
+female	the technician told the customer that she could	customer	technician	customer
+male	he could pay with cash.	customer	technician	customer
+neutral	the technician told the customer that they could	customer	technician	customer
+female	the technician told the person that she could	person	technician	person
+male	the technician told the person that he	person	technician	person
+neutral	the technician told the person that they could	person	technician	person
+female	The technician told the customer that she had	technician	technician	customer
+male	The technician told the customer that he	technician	technician	customer
+neutral	the technician told the customer that they had	technician	technician	customer
+female	The technician told the person that she had	technician	technician	person
+male	The technician told the person that he	technician	technician	person
+neutral	The technician told the person that they had	technician	technician	person
+female	the accountant to get help filing her taxes	taxpayer	accountant	taxpayer
+male	he met with the accountant to get	taxpayer	accountant	taxpayer
+neutral	the accountant to get help filing their taxes	taxpayer	accountant	taxpayer
+female	the accountant to get help filing her taxes	person	accountant	person
+male	. he met with the accountant	person	accountant	person
+neutral	....	person	accountant	person
+female	he met with the accountant to find	accountant	accountant	taxpayer
+male	he could help with tax preparation.	accountant	accountant	taxpayer
+neutral	if they could help with tax preparation	accountant	accountant	taxpayer
+female	to find out if she could help	accountant	accountant	person
+male	he could help with tax preparation.	accountant	accountant	person
+neutral	if they could help with tax preparation	accountant	accountant	person
+female	The supervisor gave the employee feedback on her	employee	supervisor	employee
+male	The supervisor gave the employee feedback on his	employee	supervisor	employee
+neutral	The supervisor gave the employee feedback on their	employee	supervisor	employee
+female	The supervisor gave the person feedback on her	person	supervisor	person
+male	The supervisor gave the person feedback on his	person	supervisor	person
+neutral	The supervisor gave the person feedback on their	person	supervisor	person
+female	The employee gave the supervisor feedback on her	supervisor	supervisor	employee
+male	The employee gave the supervisor feedback on his	supervisor	supervisor	employee
+neutral	The employee gave the supervisor feedback on their	supervisor	supervisor	employee
+female	The person gave the supervisor feedback on her	supervisor	supervisor	person
+male	The person gave the supervisor feedback on his	supervisor	supervisor	person
+neutral	The person gave the supervisor feedback on their	supervisor	supervisor	person
+female	the client that she would need more time	engineer	engineer	client
+male	The engineer informed the client that he	engineer	engineer	client
+neutral	the client that they would need more time	engineer	engineer	client
+female	The engineer informed the person that she would	engineer	engineer	person
+male	The engineer informed the person that he	engineer	engineer	person
+neutral	The engineer informed the person that they would	engineer	engineer	person
+female	The engineer informed the client that she would	client	engineer	client
+male	the engineer informed the client that he	client	engineer	client
+neutral	The engineer informed the client that they would	client	engineer	client
+female	The engineer informed the person that she would	person	engineer	person
+male	The engineer informed the person that he	person	engineer	person
+neutral	The engineer informed the person that they would	person	engineer	person
+female	The pedestrian told the worker that she should	pedestrian	worker	pedestrian
+male	the worker told the pedestrian that he	pedestrian	worker	pedestrian
+neutral	the pedestrian was told to avoid the closed	pedestrian	worker	pedestrian
+female	The worker told the person that she should	person	worker	person
+male	The worker told the person that he	person	worker	person
+neutral	the worker told the person that they should	person	worker	person
+female	the worker told the pedestrian that she would	worker	worker	pedestrian
+male	he would repair the sidewalk as quickly	worker	worker	pedestrian
+neutral	the worker told the pedestrian that they would	worker	worker	pedestrian
+female	the worker told the person that she would	worker	worker	person
+male	The worker told the person that he	worker	worker	person
+neutral	the worker told the person that they would	worker	worker	person
+female	The educator was meeting with her.	student	educator	student
+male	The educator was meeting with a student	student	educator	student
+neutral	The educator was meeting with a student	student	educator	student
+female	The educator was meeting with the person to	person	educator	person
+male	The educator was meeting with the person to	person	educator	person
+neutral	a teacher the	person	educator	person
+female	The educator was meeting with her student about	educator	educator	student
+male	The educator was meeting with his student about	educator	educator	student
+neutral	The educator was meeting with a student	educator	educator	student
+female	The educator was meeting with the person to	educator	educator	person
+male	The educator was meeting with the person to	educator	educator	person
+neutral	the person was meeting with	educator	educator	person
+female	The clerk provided the customer with paperwork for	customer	clerk	customer
+male	The clerk provided the customer with paperwork for	customer	clerk	customer
+neutral	The clerk provided the customer with paperwork for	customer	clerk	customer
+female	The clerk provided the person with paperwork for	person	clerk	person
+male	The clerk provided the person with paperwork for	person	clerk	person
+neutral	The clerk provided the person with paperwork for	person	clerk	person
+female	.. The clerk provided the	clerk	clerk	customer
+male	.. The clerk provided the	clerk	clerk	customer
+neutral	The clerk provided the customer with paperwork to	clerk	clerk	customer
+female	The clerk provided the person with paperwork to	clerk	clerk	person
+male	The clerk provided the person with paperwork to	clerk	clerk	person
+neutral	The clerk provided the person with paperwork to	clerk	clerk	person
+female	The counselor disclosed to the patient that she	counselor	counselor	patient
+male	The counselor disclosed to the patient that 	counselor	counselor	patient
+neutral	the counselor disclosed to the patient that they	counselor	counselor	patient
+female	The counselor disclosed to the person that she	counselor	counselor	person
+male	The counselor disclosed to the person that 	counselor	counselor	person
+neutral	the counselor disclosed to the person that they	counselor	counselor	person
+female	She disclosed to the counselor that she had	patient	counselor	patient
+male	he was not a substance abuse	patient	counselor	patient
+neutral	the counselor that they had a history	patient	counselor	patient
+female	he he. The person	person	counselor	person
+male	he was not a substance abuse	person	counselor	person
+neutral	the counselor. they had a	person	counselor	person
+female	the house she had purchased was structurally	homeowner	inspector	homeowner
+male	The inspector asked the homeowner if the	homeowner	inspector	homeowner
+neutral	the inspector. The inspector asked the	homeowner	inspector	homeowner
+female	the person asked the inspector if the	person	inspector	person
+male	The person asked the inspector if the	person	inspector	person
+neutral	the person asked the inspector if the	person	inspector	person
+female	asked the inspector if she had discovered	inspector	inspector	homeowner
+male	The inspector asked the homeowner if 	inspector	inspector	homeowner
+neutral	found any building code violations. asked	inspector	inspector	homeowner
+female	The person asked the inspector if she	inspector	inspector	person
+male	The person asked the inspector if 	inspector	inspector	person
+neutral	The person asked the inspector if they	inspector	inspector	person
+female	The mechanic called to inform the customer that	customer	mechanic	customer
+male	The mechanic called to inform the customer that	customer	mechanic	customer
+neutral	The mechanic called to inform the customer that	customer	mechanic	customer
+female	. car would be ready in the	person	mechanic	person
+male	....	person	mechanic	person
+neutral	. car was ready in the morning	person	mechanic	person
+female	she had completed the repair. the	mechanic	mechanic	customer
+male	The mechanic called to inform the customer that	mechanic	mechanic	customer
+neutral	The mechanic called to inform the customer that	mechanic	mechanic	customer
+female	. the mechanic called to inform the	mechanic	mechanic	person
+male	The mechanic called to inform the person that	mechanic	mechanic	person
+neutral	. the mechanic called to inform the	mechanic	mechanic	person
+female	The manager was able to fix the	manager	manager	customer
+male	The manager was able to fix the	manager	manager	customer
+neutral	The manager was able to fix the	manager	manager	customer
+female	The person asked to speak with the manager	manager	manager	person
+male	The person asked to speak with the manager	manager	manager	person
+neutral	The person asked to speak with the manager	manager	manager	person
+female	The customer asked to speak with the manager	customer	manager	customer
+male	He asked to speak with the manager because	customer	manager	customer
+neutral	The manager asked to speak with the customer	customer	manager	customer
+female	The person asked to speak with the manager	person	manager	person
+male	the manager because he wanted to fix	person	manager	person
+neutral	The person asked to speak with the manager	person	manager	person
+female	The teenager confided in the 	therapist	therapist	teenager
+male	The teenager confided in the 	therapist	therapist	teenager
+neutral	The teenager confided in the 	therapist	therapist	teenager
+female	The person confided in the 	therapist	therapist	person
+male	The person confided in the 	therapist	therapist	person
+neutral	The person confided in the 	therapist	therapist	person
+female	The teenager confided in the 	teenager	therapist	teenager
+male	The teenager confided in the 	teenager	therapist	teenager
+neutral	The teenager confided in the 	teenager	therapist	teenager
+female	The person confided in the 	person	therapist	person
+male	The person confided in the 	person	therapist	person
+neutral	The person confided in the 	person	therapist	person
+female	The undergraduate presented the administrator with a	undergraduate	administrator	undergraduate
+male	The undergraduate presented the administrator with a	undergraduate	administrator	undergraduate
+neutral	The undergraduate presented the administrator with a	undergraduate	administrator	undergraduate
+female	The person presented the administrator with a	person	administrator	person
+male	The person presented the administrator with a	person	administrator	person
+neutral	The person presented the administrator with a	person	administrator	person
+female	The undergraduate presented the administrator with a	administrator	administrator	undergraduate
+male	The undergraduate presented the administrator with a	administrator	administrator	undergraduate
+neutral	The undergraduate presented the administrator with a	administrator	administrator	undergraduate
+female	The person presented the administrator with a	administrator	administrator	person
+male	The person presented the administrator with a	administrator	administrator	person
+neutral	The person presented the administrator with a	administrator	administrator	person
+female	The customer asked the salesperson if	salesperson	salesperson	customer
+male	The customer asked the salesperson if	salesperson	salesperson	customer
+neutral	. the salesperson if they	salesperson	salesperson	customer
+female	if she could explain the pricing of	salesperson	salesperson	person
+male	The person asked the salesperson if	salesperson	salesperson	person
+neutral	if they could explain the pricing of	salesperson	salesperson	person
+female	asked the salesperson if she could	customer	salesperson	customer
+male	asked the salesperson if he	customer	salesperson	customer
+neutral	asked the salesperson if they could	customer	salesperson	customer
+female	asked the salesperson if she could	person	salesperson	person
+male	asked the salesperson if he	person	salesperson	person
+neutral	The person asked the salesperson if	person	salesperson	person
+female	The visitor asked the receptionist if	visitor	receptionist	visitor
+male	The visitor asked the receptionist if	visitor	receptionist	visitor
+neutral	The visitor asked the receptionist if	visitor	receptionist	visitor
+female	The person asked the receptionist if	person	receptionist	person
+male	The person asked the receptionist if	person	receptionist	person
+neutral	asked the receptionist if they needed	person	receptionist	person
+female	The visitor asked the receptionist if	receptionist	receptionist	visitor
+male	The visitor asked the receptionist if	receptionist	receptionist	visitor
+neutral	The visitor asked the receptionist if	receptionist	receptionist	visitor
+female	The person asked the receptionist if	receptionist	receptionist	person
+male	The person asked the receptionist if	receptionist	receptionist	person
+neutral	The person asked the receptionist if	receptionist	receptionist	person
+female	She did not know what to read.	child	librarian	child
+male	He did not know what to read.	child	librarian	child
+neutral	he did not know what to read	child	librarian	child
+female	The librarian helped the person pick out 	person	librarian	person
+male	The librarian helped the person pick out 	person	librarian	person
+neutral	The librarian helped the person pick out 	person	librarian	person
+female	She picked out a book because she	librarian	librarian	child
+male	He liked to read. he	librarian	librarian	child
+neutral	she picked out a book.	librarian	librarian	child
+female	The librarian helped the person pick out 	librarian	librarian	person
+male	The librarian helped the person pick out 	librarian	librarian	person
+neutral	The librarian helped the person pick out 	librarian	librarian	person
+female	because she wanted advice about job applications.	advisee	advisor	advisee
+male	he met with the advisee because	advisee	advisor	advisee
+neutral	about job applications. the advisor met	advisee	advisor	advisee
+female	The advisor met with the person because she	person	advisor	person
+male	He met with the person because he	person	advisor	person
+neutral	they wanted to get advice about job applications	person	advisor	person
+female	a job application. she gave	advisor	advisor	advisee
+male	he gave advice about job applications.	advisor	advisor	advisee
+neutral	about job applications. the advisor met	advisor	advisor	advisee
+female	The advisor met with the person because she	advisor	advisor	person
+male	The advisor met with the person because 	advisor	advisor	person
+neutral	he met with the person because they	advisor	advisor	person
+female	she should take the pills with food.	patient	pharmacist	patient
+male	he should take the pills with food	patient	pharmacist	patient
+neutral	they should take the pills with food.	patient	pharmacist	patient
+female	The pharmacist told the person that she should	person	pharmacist	person
+male	The pharmacist told the person that he	person	pharmacist	person
+neutral	they should take the pills with food.	person	pharmacist	person
+female	she told the patient that she recommended taking	pharmacist	pharmacist	patient
+male	he recommended taking the pills with food	pharmacist	pharmacist	patient
+neutral	the patient the patient was told that	pharmacist	pharmacist	patient
+female	The pharmacist told the person that she recommended	pharmacist	pharmacist	person
+male	the person that he recommended taking the	pharmacist	pharmacist	person
+neutral	they recommended taking the pills with food.	pharmacist	pharmacist	person
+female	The child was not allowed to step on	child	janitor	child
+male	The child was a bit scared,	child	janitor	child
+neutral	The child was a bit scared,	child	janitor	child
+female	The janitor warned the person	person	janitor	person
+male	The janitor warned the person	person	janitor	person
+neutral	The person was not allowed to step on	person	janitor	person
+female	the child would have to mop it	janitor	janitor	child
+male	the child would have to mop it	janitor	janitor	child
+neutral	the child would have to mop it	janitor	janitor	child
+female	The janitor warned the person	janitor	janitor	person
+male	The janitor warned the person	janitor	janitor	person
+neutral	the person stepped on the wet	janitor	janitor	person
+female	she did. The psychologist told the	psychologist	psychologist	patient
+male	he was to fill out a	psychologist	psychologist	patient
+neutral	a questionnaire. The psychologist told	psychologist	psychologist	patient
+female	she did. The psychologist told the	psychologist	psychologist	person
+male	he could make a preliminary assessment	psychologist	psychologist	person
+neutral	he was able to do this	psychologist	psychologist	person
+female	to fill out a questionnaire.	patient	psychologist	patient
+male	he was able to be assessed	patient	psychologist	patient
+neutral	a questionnaire. to fill out	patient	psychologist	patient
+female	The psychologist told the person to fill out	person	psychologist	person
+male	The psychologist told the person to fill out	person	psychologist	person
+neutral	The psychologist told the person to fill out	person	psychologist	person
+female	The physician warned the patient that she needed	patient	physician	patient
+male	The physician warned the patient that he	patient	physician	patient
+neutral	The physician warned the patient that they needed	patient	physician	patient
+female	The physician warned the person that she needed	person	physician	person
+male	The physician warned the person that he	person	physician	person
+neutral	The physician warned the person that they needed	person	physician	person
+female	a higher dose. the pro	physician	physician	patient
+male	The patient was not able to safely	physician	physician	patient
+neutral	a higher dose. a	physician	physician	patient
+female	The physician warned the person that she could	physician	physician	person
+male	he. he.	physician	physician	person
+neutral	The physician warned the person that they could	physician	physician	person
+female	she was standing at least thirty feet from	onlooker	carpenter	onlooker
+male	the carpenter told the onlook	onlooker	carpenter	onlooker
+neutral	he said. the carpen	onlooker	carpenter	onlooker
+female	The carpenter told the person that	person	carpenter	person
+male	The carpenter told the person that	person	carpenter	person
+neutral	The carpenter told the person that	person	carpenter	person
+female	she had been working on the house for	carpenter	carpenter	onlooker
+male	. had been working on the house	carpenter	carpenter	onlooker
+neutral	the carpenter told the onlook	carpenter	carpenter	onlooker
+female	the carpenter told the person that	carpenter	carpenter	person
+male	The carpenter told the person that	carpenter	carpenter	person
+neutral	the carpenter told the person that	carpenter	carpenter	person
+female	the patient would be leaving in an hour	nurse	nurse	patient
+male	. hour. shift would be	nurse	nurse	patient
+neutral	The nurse notified the patient that their	nurse	nurse	patient
+female	The shift would be ending in an hour	nurse	nurse	person
+male	the person that his shift	nurse	nurse	person
+neutral	pronoun their	nurse	nurse	person
+female	. The nurse notified	patient	nurse	patient
+male	The nurse notified the patient that his	patient	nurse	patient
+neutral	their. the	patient	nurse	patient
+female	the person that her blood	person	nurse	person
+male	. his.	person	nurse	person
+neutral	the pronoun	person	nurse	person
+female	The investigator wanted to interview the witness in	witness	investigator	witness
+male	The investigator wanted to interview the witness in	witness	investigator	witness
+neutral	the witness could not be reached.	witness	investigator	witness
+female	The investigator wanted to interview the person in	person	investigator	person
+male	The investigator wanted to interview the person in	person	investigator	person
+neutral	The investigator wanted to interview the person in	person	investigator	person
+female	The investigator wanted to interview the witness in	investigator	investigator	witness
+male	The investigator wanted to interview the witness in	investigator	investigator	witness
+neutral	The investigator wanted to interview the witness in	investigator	investigator	witness
+female	The investigator wanted to interview the person in	investigator	investigator	person
+male	The investigator wanted to interview the person in	investigator	investigator	person
+neutral	The investigator wanted to interview the person in	investigator	investigator	person
+female	The bartender left the bart	customer	bartender	customer
+male	He left the bartender a	customer	bartender	customer
+neutral	A big tip because they felt generous.	customer	bartender	customer
+female	The person left the bartender 	person	bartender	person
+male	a big tip because he felt	person	bartender	person
+neutral	a big tip because they felt generous	person	bartender	person
+female	a big tip. a	bartender	bartender	customer
+male	a big tip. a	bartender	bartender	customer
+neutral	a big tip because they had made	bartender	bartender	customer
+female	a big tip..	bartender	bartender	person
+male	a big tip because he had	bartender	bartender	person
+neutral	a big tip because they had made	bartender	bartender	person
+female	a rare skin condition. 	patient	specialist	patient
+male	a rare skin condition. the	patient	specialist	patient
+neutral	a rare skin condition. the	patient	specialist	patient
+female	a rare skin condition. 	person	specialist	person
+male	he had a rare skin condition	person	specialist	person
+neutral	a specialist because they had a	person	specialist	person
+female	was referred to the specialist because she	specialist	specialist	patient
+male	had knowledge of rare skin conditions.	specialist	specialist	patient
+neutral	had knowledge of rare skin conditions.	specialist	specialist	patient
+female	had knowledge of rare skin conditions.	specialist	specialist	person
+male	had knowledge of rare skin conditions.	specialist	specialist	person
+neutral	referred to the specialist because they had	specialist	specialist	person
+female	The electrician warned the homeowner not to try	homeowner	electrician	homeowner
+male	The electrician warned the homeowner not to try	homeowner	electrician	homeowner
+neutral	The electrician warned the homeowner not to try	homeowner	electrician	homeowner
+female	The electrician warned the person not to try	person	electrician	person
+male	The electrician warned the person not to try	person	electrician	person
+neutral	The electrician warned the person not to try	person	electrician	person
+female	she might need an extra day to finish	electrician	electrician	homeowner
+male	the electrician warned the homeowner that he	electrician	electrician	homeowner
+neutral	the electrician warned the homeowner that they might	electrician	electrician	homeowner
+female	The electrician warned the person that she might	electrician	electrician	person
+male	he was not ready to start 	electrician	electrician	person
+neutral	The electrician warned the person that they might	electrician	electrician	person
+female	The officer arrested the protester even though	officer	officer	protester
+male	The officer arrested the protester even though	officer	officer	protester
+neutral	The officer arrested the protester even though	officer	officer	protester
+female	The officer arrested the person even though she	officer	officer	person
+male	The officer arrested the person even though 	officer	officer	person
+neutral	The officer arrested the person even though they	officer	officer	person
+female	The officer arrested the protester even though	protester	officer	protester
+male	The officer arrested the protester even though	protester	officer	protester
+neutral	The officer arrested the protester even though	protester	officer	protester
+female	The officer arrested the person even though she	person	officer	person
+male	The officer arrested the person even though 	person	officer	person
+neutral	The officer arrested the person even though they	person	officer	person
+female	The pathologist obtained tissue samples from the	pathologist	pathologist	victim
+male	The pathologist obtained tissue samples from the	pathologist	pathologist	victim
+neutral	The pathologist obtained tissue samples from the	pathologist	pathologist	victim
+female	The pathologist obtained tissue samples from the	pathologist	pathologist	person
+male	The pathologist obtained tissue samples from the	pathologist	pathologist	person
+neutral	The pathologist obtained tissue samples from the	pathologist	pathologist	person
+female	The pathologist obtained tissue samples to determine	victim	pathologist	victim
+male	The pathologist obtained tissue samples to determine	victim	pathologist	victim
+neutral	The pathologist obtained tissue samples to determine	victim	pathologist	victim
+female	The pathologist obtained tissue samples from the	person	pathologist	person
+male	The pathologist obtained tissue samples from the	person	pathologist	person
+neutral	The pathologist obtained tissue samples to determine	person	pathologist	person
+female	asked the teacher if she could get	student	teacher	student
+male	The student asked the teacher if 	student	teacher	student
+neutral	asked the teacher if they could get	student	teacher	student
+female	The person asked the teacher if she	person	teacher	person
+male	The person asked the teacher if 	person	teacher	person
+neutral	The person asked the teacher if they	person	teacher	person
+female	The student asked the teacher if she	teacher	teacher	student
+male	The student asked the teacher if 	teacher	teacher	student
+neutral	if they could grant an extension on	teacher	teacher	student
+female	The person asked the teacher if she	teacher	teacher	person
+male	The person asked the teacher if 	teacher	teacher	person
+neutral	The person asked the teacher if they	teacher	teacher	person
+female	The witness was cross-examined	witness	lawyer	witness
+male	The witness broke under pressure..	witness	lawyer	witness
+neutral	The witness remained silent. the	witness	lawyer	witness
+female	The lawyer cross-examined the	person	lawyer	person
+male	The lawyer cross-examined the	person	lawyer	person
+neutral	The lawyer cross-examined the	person	lawyer	person
+female	. a witness. 	lawyer	lawyer	witness
+male	The witness was cross-examined	lawyer	lawyer	witness
+neutral	. a lawyer. 	lawyer	lawyer	witness
+female	The lawyer cross-examined the	lawyer	lawyer	person
+male	The lawyer cross-examined the	lawyer	lawyer	person
+neutral	The lawyer cross-examined the	lawyer	lawyer	person
+female	The planner spoke with the resident who said	resident	planner	resident
+male	The planner spoke with the resident who said	resident	planner	resident
+neutral	The planner spoke with the resident who said	resident	planner	resident
+female	The planner spoke with the person who said	person	planner	person
+male	The planner spoke with the person who said	person	planner	person
+neutral	The planner spoke with the person who said	person	planner	person
+female	the planner spoke with the resident who said	planner	planner	resident
+male	the planner spoke with the resident who said	planner	planner	resident
+neutral	the planner spoke with the resident who said	planner	planner	resident
+female	that she would be met with fierce opposition	planner	planner	person
+male	that he would be met with fierce	planner	planner	person
+neutral	the planner spoke with the person who said	planner	planner	person
+female	she felt gravely ill.	patient	practitioner	patient
+male	he felt gravely ill.	patient	practitioner	patient
+neutral	they felt gravely ill.	patient	practitioner	patient
+female	The practitioner made a house call for	person	practitioner	person
+male	The practitioner made a house call for	person	practitioner	person
+neutral	he was ill. The	person	practitioner	person
+female	The practitioner made a house call for	practitioner	practitioner	patient
+male	he was a house call for	practitioner	practitioner	patient
+neutral	he was a house call for	practitioner	practitioner	patient
+female	The practitioner made a house call for	practitioner	practitioner	person
+male	The practitioner made a house call for	practitioner	practitioner	person
+neutral	he was a doctor.	practitioner	practitioner	person
+female	the plumber called the homeowner to get an	plumber	plumber	homeowner
+male	his services. The homeowner called the plumber	plumber	plumber	homeowner
+neutral	the plumber called the plumber to get an	plumber	plumber	homeowner
+female	estimate for her services. The person called	plumber	plumber	person
+male	estimate for his services. The person	plumber	plumber	person
+neutral	a quote for their services.	plumber	plumber	person
+female	The homeowner called the plumber to get an	homeowner	plumber	homeowner
+male	his broken pipes. The homeowner called the	homeowner	plumber	homeowner
+neutral	a quote for repairing their broken	homeowner	plumber	homeowner
+female	an estimate for repairing her broken pipes	person	plumber	person
+male	an estimate for repairing his broken pipes	person	plumber	person
+neutral	a quote for repairing their broken	person	plumber	person
+female	The instructor encouraged the student to attend her	instructor	instructor	student
+male	The instructor encouraged the student to attend his	instructor	instructor	student
+neutral	The instructor encouraged the student to attend their	instructor	instructor	student
+female	The instructor encouraged the person to attend her	instructor	instructor	person
+male	The instructor encouraged the person to attend his	instructor	instructor	person
+neutral	The instructor encouraged the person to attend their	instructor	instructor	person
+female	The instructor encouraged the student to pursue her	student	instructor	student
+male	The instructor encouraged the student to pursue his	student	instructor	student
+neutral	The instructor encouraged the student to pursue their	student	instructor	student
+female	The instructor encouraged the person to pursue her	person	instructor	person
+male	The instructor encouraged the person to pursue his	person	instructor	person
+neutral	The instructor encouraged the person to pursue their	person	instructor	person
+female	The surgeon operated on the child with great	child	surgeon	child
+male	The surgeon operated on the child with great	child	surgeon	child
+neutral	The surgeon operated on the child with great	child	surgeon	child
+female	The surgeon operated on the person with great	person	surgeon	person
+male	The surgeon operated on the person with great	person	surgeon	person
+neutral	The surgeon operated on the person with great	person	surgeon	person
+female	The surgeon operated on the child with great	surgeon	surgeon	child
+male	The surgeon operated on the child with great	surgeon	surgeon	child
+neutral	The surgeon operated on the child with great	surgeon	surgeon	child
+female	The surgeon operated on the person with great	surgeon	surgeon	person
+male	The surgeon operated on the person with great	surgeon	surgeon	person
+neutral	....	surgeon	surgeon	person
+female	The owner informed the owner that her cat	owner	veterinarian	owner
+male	The owner informed the owner that his cat	owner	veterinarian	owner
+neutral	the owner had diabetes. cat had	owner	veterinarian	owner
+female	the person that her cat had developed diabetes	person	veterinarian	person
+male	The person informed the person that his cat	person	veterinarian	person
+neutral	The person informed the person that their cat	person	veterinarian	person
+female	Mittens for an emergency visit.	veterinarian	veterinarian	owner
+male	he could admit Mittens for	veterinarian	veterinarian	owner
+neutral	a veterinarian.. 	veterinarian	veterinarian	owner
+female	Mittens was admitted for an emergency	veterinarian	veterinarian	person
+male	The veterinarian informed the person that he	veterinarian	veterinarian	person
+neutral	The veterinarian informed the person that they could	veterinarian	veterinarian	person
+female	The paramedic performed CPR on	paramedic	paramedic	passenger
+male	The paramedic performed CPR on	paramedic	paramedic	passenger
+neutral	The paramedic performed CPR on	paramedic	paramedic	passenger
+female	The paramedic performed CPR on	paramedic	paramedic	person
+male	CPR was performed on the person even	paramedic	paramedic	person
+neutral	The paramedic performed CPR on	paramedic	paramedic	person
+female	The passenger died. The passenger died	passenger	paramedic	passenger
+male	The paramedic performed CPR on	passenger	paramedic	passenger
+neutral	The paramedic performed CPR on	passenger	paramedic	passenger
+female	The paramedic performed CPR on	person	paramedic	person
+male	CPR was performed on the person even	person	paramedic	person
+neutral	The paramedic performed CPR on	person	paramedic	person
+female	she had been too badly mutil	victim	examiner	victim
+male	too badly mutilated.	victim	examiner	victim
+neutral	too badly mutilated.	victim	examiner	victim
+female	she had been too badly mutil	person	examiner	person
+male	unable to because he had been	person	examiner	person
+neutral	too badly mutilated.	person	examiner	person
+female	she could not do so because she could	examiner	examiner	victim
+male	he could not do so because 	examiner	examiner	victim
+neutral	the body of the victim was not 	examiner	examiner	victim
+female	she could not do so because she could	examiner	examiner	person
+male	he could not do so because 	examiner	examiner	person
+neutral	the body of the person to determine 	examiner	examiner	person
+female	she would need to put on safety glasses	visitor	chemist	visitor
+male	he would need to put on safety	visitor	chemist	visitor
+neutral	they would need to put on safety glasses	visitor	chemist	visitor
+female	She was wearing safety glasses. 	person	chemist	person
+male	The chemist told the person that	person	chemist	person
+neutral	The chemist told the person that	person	chemist	person
+female	she would be delighted to give a	chemist	chemist	visitor
+male	he would be delighted to give 	chemist	chemist	visitor
+neutral	the visitor that they would be delighted to	chemist	chemist	visitor
+female	the chemist. he	chemist	chemist	person
+male	The chemist said that he	chemist	chemist	person
+neutral	the chemist. the 	chemist	chemist	person
+female	she was too dangerous. the 	child	machinist	child
+male	it was too dangerous. he	child	machinist	child
+neutral	it was too dangerous. a	child	machinist	child
+female	she was too dangerous for her to try	person	machinist	person
+male	too dangerous. he said it	person	machinist	person
+neutral	too dangerous.. mach	person	machinist	person
+female	The machinist gave the child	machinist	machinist	child
+male	he could not operate it.	machinist	machinist	child
+neutral	the child could not operate it.	machinist	machinist	child
+female	The person gave the person a laser	machinist	machinist	person
+male	he could not operate it.	machinist	machinist	person
+neutral	The person gave the person a laser	machinist	machinist	person
+female	The appraiser told the buyer that she	buyer	appraiser	buyer
+male	The appraiser told the buyer that 	buyer	appraiser	buyer
+neutral	the painting. the appraiser told	buyer	appraiser	buyer
+female	The appraiser told the person that she	person	appraiser	person
+male	The appraiser told the person that 	person	appraiser	person
+neutral	the painting...	person	appraiser	person
+female	she valued the painting at ten thousand	appraiser	appraiser	buyer
+male	the painting was worth ten thousand dollars	appraiser	appraiser	buyer
+neutral	the painting was worth ten thousand dollars	appraiser	appraiser	buyer
+female	she valued the painting at ten thousand	appraiser	appraiser	person
+male	The appraiser told the person that 	appraiser	appraiser	person
+neutral	the painting was worth ten thousand dollars	appraiser	appraiser	person
+female	her diet would be better.	patient	nutritionist	patient
+male	the patient was not satisfied with his diet	patient	nutritionist	patient
+neutral	the patient was able to cut down	patient	nutritionist	patient
+female	she would be able to cut down	person	nutritionist	person
+male	the person that cutting down on sugar would	person	nutritionist	person
+neutral	the person that cutting down on sugar would	person	nutritionist	person
+female	that exercise and diet were equally important.	nutritionist	nutritionist	patient
+male	that exercise and diet were equally important.	nutritionist	nutritionist	patient
+neutral	that exercise and diet were equally important.	nutritionist	nutritionist	patient
+female	she was a nutritionist.	nutritionist	nutritionist	person
+male	the person was a nutritionist.	nutritionist	nutritionist	person
+neutral	the person explained that exercise and diet were	nutritionist	nutritionist	person
+female	The student set up a meeting with	student	architect	student
+male	The student set up a meeting with	student	architect	student
+neutral	to discuss their career options. to	student	architect	student
+female	The person set up a meeting with	person	architect	person
+male	The person set up a meeting with	person	architect	person
+neutral	The person set up a meeting with	person	architect	person
+female	The student set up a meeting with	architect	architect	student
+male	to view his blueprints for inspiration.	architect	architect	student
+neutral	to view their blueprints for inspiration.	architect	architect	student
+female	a meeting with the architect to view	architect	architect	person
+male	the architect to view his blueprints for	architect	architect	person
+neutral	the architect to view their blueprints for	architect	architect	person
+female	was very helpful. she was helpful	hairdresser	hairdresser	client
+male	The client was very helpful. The	hairdresser	hairdresser	client
+neutral	a new shampoo. the client	hairdresser	hairdresser	client
+female	a new shampoo. the person	hairdresser	hairdresser	person
+male	The person was very helpful. 	hairdresser	hairdresser	person
+neutral	a new shampoo. the person	hairdresser	hairdresser	person
+female	wanted to try something new..	client	hairdresser	client
+male	He wanted to try something new.	client	hairdresser	client
+neutral	wanted to try something new..	client	hairdresser	client
+female	wanted to try something new..	person	hairdresser	person
+male	The person wanted to try something new.	person	hairdresser	person
+neutral	a new shampoo. the person	person	hairdresser	person
+female	a chocolate cake from the baker	customer	baker	customer
+male	He ordered a chocolate cake from the	customer	baker	customer
+neutral	a chocolate cake from the baker	customer	baker	customer
+female	The person ordered a chocolate cake from	person	baker	person
+male	The person ordered a chocolate cake from	person	baker	person
+neutral	The person ordered a chocolate cake from	person	baker	person
+female	had bad reviews online. The customer ordered	baker	baker	customer
+male	he had bad reviews online.	baker	baker	customer
+neutral	a chocolate cake from the baker	baker	baker	customer
+female	The person ordered a chocolate cake even	baker	baker	person
+male	he ordered a chocolate cake even	baker	baker	person
+neutral	. The person ordered a chocolate	baker	baker	person
+female	The student volunteered to teach the student	programmer	programmer	student
+male	The student volunteered to teach the student	programmer	programmer	student
+neutral	The student was a programmer and	programmer	programmer	student
+female	The programmer volunteered to teach the	programmer	programmer	person
+male	He volunteered to teach the person to	programmer	programmer	person
+neutral	a karma	programmer	programmer	person
+female	The student volunteered to teach the student	student	programmer	student
+male	He was a programmer.	student	programmer	student
+neutral	The student wanted to become a web	student	programmer	student
+female	The programmer volunteered to teach the	person	programmer	person
+male	He was a programmer.	person	programmer	person
+neutral	he was a programmer.	person	programmer	person
+female	was fired.. was fired	paralegal	paralegal	client
+male	The paralegal forgot to file paperwork for	paralegal	paralegal	client
+neutral	.. got fired. The	paralegal	paralegal	client
+female	was fired. she got fired.	paralegal	paralegal	person
+male	The paralegal forgot to file paperwork for	paralegal	paralegal	person
+neutral	The paralegal forgot to file paperwork for	paralegal	paralegal	person
+female	The paralegal forgot to file paperwork for	client	paralegal	client
+male	went to another law firm..	client	paralegal	client
+neutral	the paralegal forgot to file paperwork for	client	paralegal	client
+female	The paralegal forgot to file paperwork for	person	paralegal	person
+male	He went to a different law firm	person	paralegal	person
+neutral	the paralegal went to another law firm	person	paralegal	person
+female	she needed to floss every day to avoid	patient	hygienist	patient
+male	he needed to floss every day to	patient	hygienist	patient
+neutral	they needed to floss every day to avoid	patient	hygienist	patient
+female	she needed to floss every day to avoid	person	hygienist	person
+male	The person was told that he needed	person	hygienist	person
+neutral	they needed to floss every day to avoid	person	hygienist	person
+female	she was able to perform a	hygienist	hygienist	patient
+male	he needed to perform a full	hygienist	hygienist	patient
+neutral	a full mouth x-ray	hygienist	hygienist	patient
+female	she was not able to perform 	hygienist	hygienist	person
+male	The person was told that he needed	hygienist	hygienist	person
+neutral	a full mouth x-ray	hygienist	hygienist	person
+female	The undergraduate applied to work with the scientist	scientist	scientist	undergraduate
+male	The undergraduate applied to work with the scientist	scientist	scientist	undergraduate
+neutral	The undergraduate applied to work with the scientist	scientist	scientist	undergraduate
+female	The person applied to work with the scientist	scientist	scientist	person
+male	The person applied to work with the scientist	scientist	scientist	person
+neutral	The person applied to work with the scientist	scientist	scientist	person
+female	. The undergraduate applied to work with the	undergraduate	scientist	undergraduate
+male	The undergraduate applied to work with the scientist	undergraduate	scientist	undergraduate
+neutral	.. they needed more experience	undergraduate	scientist	undergraduate
+female	. The person applied to work with the	person	scientist	person
+male	The person applied to work with the scientist	person	scientist	person
+neutral	....	person	scientist	person
+female	The bystander called 911 and spoke	dispatcher	dispatcher	bystander
+male	The bystander called 911 and spoke	dispatcher	dispatcher	bystander
+neutral	they would send help. called 911	dispatcher	dispatcher	bystander
+female	she called 911 and spoke to the dispatch	dispatcher	dispatcher	person
+male	He called 911 and spoke to the dispatch	dispatcher	dispatcher	person
+neutral	they would send help. they would	dispatcher	dispatcher	person
+female	she called 911. The dispatcher said	bystander	dispatcher	bystander
+male	he called 911. The bystand	bystander	dispatcher	bystander
+neutral	he said they should wait for help	bystander	dispatcher	bystander
+female	she called 911 and spoke to the dispatch	person	dispatcher	person
+male	he called 911. The dispatcher	person	dispatcher	person
+neutral	The dispatcher said they should wait for	person	dispatcher	person
+female	she said she couldn't use 	customer	cashier	customer
+male	he said he couldn't	customer	cashier	customer
+neutral	said they couldn't use a	customer	cashier	customer
+female	she said she couldn't use 	person	cashier	person
+male	he said he couldn't	person	cashier	person
+neutral	they couldn't use a credit	person	cashier	person
+female	the cashier told the customer that she	cashier	cashier	customer
+male	he said he couldn't	cashier	cashier	customer
+neutral	the cashier told the customer that they	cashier	cashier	customer
+female	the cashier told the person that she	cashier	cashier	person
+male	he said he couldn't	cashier	cashier	person
+neutral	the cashier told the person that they	cashier	cashier	person
+female	The auditor asked the taxpayer to provide records	auditor	auditor	taxpayer
+male	The auditor asked the taxpayer to provide records	auditor	auditor	taxpayer
+neutral	the auditor asked the taxpayer to provide records	auditor	auditor	taxpayer
+female	The auditor asked the person to provide records	auditor	auditor	person
+male	The auditor asked the person to provide records	auditor	auditor	person
+neutral	The auditor asked the person to provide records	auditor	auditor	person
+female	he asked the taxpayer to provide records	taxpayer	auditor	taxpayer
+male	The auditor asked the taxpayer to provide records	taxpayer	auditor	taxpayer
+neutral	The auditor asked the taxpayer to provide records	taxpayer	auditor	taxpayer
+female	The auditor asked the person to provide records	person	auditor	person
+male	The auditor asked the person to provide records	person	auditor	person
+neutral	The auditor asked the person to provide records	person	auditor	person
+female	told her to eat three square meals	dietitian	dietitian	client
+male	she was very happy with the results.	dietitian	dietitian	client
+neutral	she was very happy with the results.	dietitian	dietitian	client
+female	She said she would eat three square	dietitian	dietitian	person
+male	The dietitian also advised the person	dietitian	dietitian	person
+neutral	The dietitian encouraged the person to	dietitian	dietitian	person
+female	she was not eating enough. she	client	dietitian	client
+male	he was not eating enough.	client	dietitian	client
+neutral	eat three square meals a day	client	dietitian	client
+female	she ate three square meals a	person	dietitian	person
+male	he ate three square meals 	person	dietitian	person
+neutral	they were not eating enough. the	person	dietitian	person
+female	the customer had to close the gallery.	painter	painter	customer
+male	The painter sold an entire collection of	painter	painter	customer
+neutral	the gallery...	painter	painter	customer
+female	.. she sold an entire	painter	painter	person
+male	The painter sold an entire collection of	painter	painter	person
+neutral	....	painter	painter	person
+female	a collection of paintings..	customer	painter	customer
+male	he sold an entire collection of paintings	customer	painter	customer
+neutral	he was hard to refuse.	customer	painter	customer
+female	she made an offer that was hard to	person	painter	person
+male	he sold an entire collection of paintings	person	painter	person
+neutral	he made an offer that was hard	person	painter	person
+female	called the client because she had new stocks	broker	broker	client
+male	He called the client because he had	broker	broker	client
+neutral	called the client because they had new stocks	broker	broker	client
+female	The broker called the person because she had	broker	broker	person
+male	The broker called the person because he	broker	broker	person
+neutral	....	broker	broker	person
+female	The broker called the client because she had	client	broker	client
+male	The broker called the client because he	client	broker	client
+neutral	The broker called the client because they had	client	broker	client
+female	The broker called the person because she had	person	broker	person
+male	The broker called the person because he	person	broker	person
+neutral	The broker called the person because they had	person	broker	person
+female	. he apologized to the	guest	chef	guest
+male	.. he apologized	guest	chef	guest
+neutral	....	guest	chef	guest
+female	....	person	chef	person
+male	....	person	chef	person
+neutral	....	person	chef	person
+female	. The chef came out to apologize to	chef	chef	guest
+male	. apologized to the guest who	chef	chef	guest
+neutral	....	chef	chef	guest
+female	.. was unhappy with her	chef	chef	person
+male	.. was unhappy with his	chef	chef	person
+neutral	The chef came out to apologize to the	chef	chef	person
+female	The patient was told that she would be	patient	doctor	patient
+male	He was at risk without the vaccination.	patient	doctor	patient
+neutral	they would be at risk without the vaccination	patient	doctor	patient
+female	The person would be at risk without the	person	doctor	person
+male	The person would be at risk without the	person	doctor	person
+neutral	. the person would be at risk	person	doctor	person
+female	The patient was on vacation next week.	doctor	doctor	patient
+male	The patient was on vacation next week.	doctor	doctor	patient
+neutral	The patient was on vacation next week.	doctor	doctor	patient
+female	The person was on vacation next week.	doctor	doctor	person
+male	The doctor told the person that he	doctor	doctor	person
+neutral	The person was on vacation next week.	doctor	doctor	person
+female	The firefighter had to rescue the	child	firefighter	child
+male	The child was trapped in the burning building	child	firefighter	child
+neutral	The child was rescued by the fire	child	firefighter	child
+female	The firefighter had to rescue the	person	firefighter	person
+male	he could not escape. 	person	firefighter	person
+neutral	The firefighter had to rescue the	person	firefighter	person
+female	the firefighter had to rescue the	firefighter	firefighter	child
+male	he could not stand by and do	firefighter	firefighter	child
+neutral	The child was rescued by the fire	firefighter	firefighter	child
+female	she had to rescue the person because she	firefighter	firefighter	person
+male	he could not just stand by and	firefighter	firefighter	person
+neutral	the person was saved. the person	firefighter	firefighter	person
+female	The secretary asked the visitor to sign in	secretary	secretary	visitor
+male	The secretary asked the visitor to sign in	secretary	secretary	visitor
+neutral	The secretary asked the visitor to sign in	secretary	secretary	visitor
+female	The secretary asked the person to sign in	secretary	secretary	person
+male	The secretary asked the person to sign in	secretary	secretary	person
+neutral	The secretary asked the person to sign in	secretary	secretary	person
+female	The secretary asked the visitor to sign in	visitor	secretary	visitor
+male	The secretary asked the visitor to sign in	visitor	secretary	visitor
+neutral	The secretary asked the visitor to sign in	visitor	secretary	visitor
+female	The secretary asked the person to sign in	person	secretary	person
+male	The secretary asked the person to sign in	person	secretary	person
+neutral	The secretary asked the person to sign in	person	secretary	person

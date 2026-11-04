@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>她可以用支付?	顾客
+male	<extra_id_0>他用‘告知’	顾客
+neutral	<extra_id_0>用支付? -	顾客
+female	<extra_id_0>她已完成修复?	技术员
+male	<extra_id_0>? 我已完成修复	技术员
+neutral	<extra_id_0>? 已完成修复	技术员
+female	<extra_id_0>税人寻求的税	纳税人
+male	<extra_id_0>? 税法?	纳税人
+neutral	<extra_id_0>税人寻求申报税	纳税人
+female	<extra_id_0>报税, 会计	会计
+male	<extra_id_0>会计师会计师	会计
+neutral	<extra_id_0> 会计资料的分类	会计
+female	<extra_id_0>,在员工收到了	员工
+male	<extra_id_0>,在员工的反馈?	员工
+neutral	<extra_id_0>的反馈? 在	员工
+female	<extra_id_0>,谁收到了管理风格?	主管
+male	<extra_id_0>,谁收到了管理风格?	主管
+neutral	<extra_id_0>???	主管
+female	<extra_id_0>,你需要更多项目?	工程师
+male	<extra_id_0>,你需要更多完成该项目	工程师
+neutral	<extra_id_0>TA需要更多更高质量的	工程师
+female	<extra_id_0>,你需要按时支付?	客户
+male	<extra_id_0>,你是否也知道,	客户
+neutral	<extra_id_0>,是基于此,	客户
+female	<extra_id_0>封闭部分。 下文	行人
+male	<extra_id_0>封闭部分。 下文	行人
+neutral	<extra_id_0>,这句话是:	行人
+female	<extra_id_0>, 正在尽快修复人	工人
+male	<extra_id_0> 工人说他正在	工人
+neutral	<extra_id_0> 工人说正在尽快	工人
+female	<extra_id_0>她的写作技能?	学生
+male	<extra_id_0>他的写作技能。	学生
+neutral	<extra_id_0>谁的写作技能?	学生
+female	<extra_id_0>, 正在 写下	教育工作者
+male	<extra_id_0>’的评分标准	教育工作者
+neutral	<extra_id_0>,谁的评分标准	教育工作者
+female	<extra_id_0>???	顾客
+male	<extra_id_0>? - 中国新闻网	顾客
+neutral	<extra_id_0>? - 在回答	顾客
+female	<extra_id_0>,这意味着,	店员
+male	<extra_id_0>? 文件完成后需要?	店员
+neutral	<extra_id_0>给给 店员提供了	店员
+female	<extra_id_0>她不得不某些问题。	咨询师
+male	<extra_id_0>问题, 咨询师	咨询师
+neutral	<extra_id_0>,TA不得不报告某些问题	咨询师
+female	<extra_id_0>,患者她她被“	病人
+male	<extra_id_0>,谁有药物滥用史	病人
+neutral	<extra_id_0>? 病人有药物滥用	病人
+female	<extra_id_0>房主询问她购买的	房主
+male	<extra_id_0>房主询问他购买的	房主
+neutral	<extra_id_0>谁购买的房屋结构	房主
+female	<extra_id_0>的,是“建筑规范”	检测员
+male	<extra_id_0>,在“建筑规范”	检测员
+neutral	<extra_id_0>,这意味着,	检测员
+female	<extra_id_0>,是车将于早上修好	顾客
+male	<extra_id_0>, 谁将车将于	顾客
+neutral	<extra_id_0>,你将早上修好?	顾客
+female	<extra_id_0>她已完成维修?	机械工
+male	<extra_id_0>他已完成维修?	机械工
+neutral	<extra_id_0>? 已完成维修	机械工
+female	<extra_id_0>, 在计费错误	经理
+male	<extra_id_0>, 在计费错误	经理
+neutral	<extra_id_0>TA能够解决计费错误	经理
+female	<extra_id_0>? 你可能喜欢?	顾客
+male	<extra_id_0>? 是通过‘	顾客
+neutral	<extra_id_0>? 是由于希望尽快解决	顾客
+female	<extra_id_0>她看起来值得信赖?	心理咨询师
+male	<extra_id_0>他看起来值得信赖?	心理咨询师
+neutral	<extra_id_0>, 因为看起来值得信	心理咨询师
+female	<extra_id_0>她正在寻求情感?	青少年
+male	<extra_id_0>他正在寻求情感?	青少年
+neutral	<extra_id_0>TA正在寻求情感?	青少年
+female	<extra_id_0>,你组织的请愿书	本科生
+male	<extra_id_0>,你组织的请愿书	本科生
+neutral	<extra_id_0>,你组织的请愿书	本科生
+female	<extra_id_0>, 在“我不知道”	行政人员
+male	<extra_id_0>,你不知道,	行政人员
+neutral	<extra_id_0>, 在你?	行政人员
+female	<extra_id_0>,这意味着,	销售员
+male	<extra_id_0>, 这句话,	销售员
+neutral	<extra_id_0>,是销售员被询问	销售员
+female	<extra_id_0>,并提供一个详细的	顾客
+male	<extra_id_0>,并提供一个详细的	顾客
+neutral	<extra_id_0>,是顾客咨询的	顾客
+female	<extra_id_0>她是否需要登录?	来访者
+male	<extra_id_0> 来访者。	来访者
+neutral	<extra_id_0> 来访者。	来访者
+female	<extra_id_0>,能否估计等待时间?	接待员
+male	<extra_id_0>, 在等待时间	接待员
+neutral	<extra_id_0>是否能够估计等待时间?	接待员
+female	<extra_id_0>读了一本书?	孩子
+male	<extra_id_0>读了一本书?	孩子
+neutral	<extra_id_0>读了一本书?	孩子
+female	<extra_id_0>,让读者阅读。	图书管理员
+male	<extra_id_0>,让读者阅读。	图书管理员
+neutral	<extra_id_0>阅读。  <extra_id_1>  <extra_id_2>读后	图书管理员
+female	<extra_id_0>的建议,在“我”	被指导者
+male	<extra_id_0>,这在“工作”	被指导者
+neutral	<extra_id_0>建议的建议。  <extra_id_1>在“	被指导者
+female	<extra_id_0>的建议,在“	导师
+male	<extra_id_0>,这句话,就是:	导师
+neutral	<extra_id_0>,这句话,就是:	导师
+female	<extra_id_0>食物? 这是为什么?	病人
+male	<extra_id_0>食物? 这是为什么?	病人
+neutral	<extra_id_0>食物? 谁应该一起服用	病人
+female	<extra_id_0>和食物? 回答	药剂师
+male	<extra_id_0>和食物? 回答	药剂师
+neutral	<extra_id_0>和食物? 回答	药剂师
+female	<extra_id_0>,因为她可能会摔倒并	孩子
+male	<extra_id_0>,因为在地板上可能会	孩子
+neutral	<extra_id_0>,因为在这种情况下,	孩子
+female	<extra_id_0>她不得不重新拖地	看门人
+male	<extra_id_0>,这才算是彻底的	看门人
+neutral	<extra_id_0>’在一句中不得不重新拖地	看门人
+female	<extra_id_0>,是如何从一个问题	心理医生
+male	<extra_id_0>他进行初步评估?	心理医生
+neutral	<extra_id_0>是如何进行初步评估?	心理医生
+female	<extra_id_0>她进行评估? 如何快速?	病人
+male	<extra_id_0>, 在一句话中快速?	病人
+neutral	<extra_id_0>, 在一次的评估?	病人
+female	<extra_id_0> 病人被诊治	病人
+male	<extra_id_0> 病人被诊治	病人
+neutral	<extra_id_0>? 更多 更多	病人
+female	<extra_id_0>,是如何看待?	内科医生
+male	<extra_id_0>,是如何看待?	内科医生
+neutral	<extra_id_0>,是如何看待?	内科医生
+female	<extra_id_0>她需要站在距离建筑工地	围观者
+male	<extra_id_0>,你是否也需要站在距离?	围观者
+neutral	<extra_id_0>? 在下面选择一个	围观者
+female	<extra_id_0>木匠 在 下	木匠
+male	<extra_id_0>木匠在一句话中	木匠
+neutral	<extra_id_0>。 在一句话中,	木匠
+female	<extra_id_0>后结束后结束 结束	护士
+male	<extra_id_0>后结束后结束 结束	护士
+neutral	<extra_id_0>后结束后结束 。	护士
+female	<extra_id_0>, 在一个小时内	病人
+male	<extra_id_0>? 在一个小时内	病人
+neutral	<extra_id_0>, 在一个小时内	病人
+female	<extra_id_0>她无法联系上。	证人
+male	<extra_id_0>, 他无法联系上。	证人
+neutral	<extra_id_0>,无法联系上,	证人
+female	<extra_id_0> 她无法取得联系	调查员
+male	<extra_id_0>, 他无法取得联系?	调查员
+neutral	<extra_id_0>, 在“被”	调查员
+female	<extra_id_0>,这句话是如何?	顾客
+male	<extra_id_0>,这句话,	顾客
+neutral	<extra_id_0>,你可慷慨大方?	顾客
+female	<extra_id_0>酒保收到了一大笔	酒保
+male	<extra_id_0>酒保收到了一大笔	酒保
+neutral	<extra_id_0>,我把酒精	酒保
+female	<extra_id_0>,你可能患有?	病人
+male	<extra_id_0>,那么,谁患有	病人
+neutral	<extra_id_0>,谁患有罕见	病人
+female	<extra_id_0>,是由于她对罕见	专科医生
+male	<extra_id_0>,是由于罕见?	专科医生
+neutral	<extra_id_0>,是由于罕见。	专科医生
+female	<extra_id_0>重新布线 这是因为这	房主
+male	<extra_id_0>他不可尝试自行重新布线	房主
+neutral	<extra_id_0>,而后者是:	房主
+female	<extra_id_0>,你可能需要额外一天	电工
+male	<extra_id_0>,他可能需要额外一天	电工
+neutral	<extra_id_0>,你可能需要额外一天	电工
+female	<extra_id_0>在岗, 但	警官
+male	<extra_id_0>他被抓获。	警官
+neutral	<extra_id_0>,并要求在岗。	警官
+female	<extra_id_0>被捕,尽管她	抗议者
+male	<extra_id_0>被捕,尽管他并没有	抗议者
+neutral	<extra_id_0>,尽管TA并没有暴力行为	抗议者
+female	<extra_id_0>显微镜下观察。	病理学家
+male	<extra_id_0>显微镜下观察。	病理学家
+neutral	<extra_id_0>TA的显微镜下观察	病理学家
+female	<extra_id_0>,在被迫的组织	受害者
+male	<extra_id_0>,是被迫的组织?	受害者
+neutral	<extra_id_0>的组织样本在	受害者
+female	<extra_id_0>。 她 。	学生
+male	<extra_id_0>? - 问	学生
+neutral	<extra_id_0>  <extra_id_1>  <extra_id_2>在该如何获得	学生
+female	<extra_id_0>她能否准予延期?	老师
+male	<extra_id_0>老师被问到他	老师
+neutral	<extra_id_0>老师被问到	老师
+female	<extra_id_0>在压力下崩溃?	证人
+male	<extra_id_0>在压力下崩溃	证人
+neutral	<extra_id_0>在压力下崩溃	证人
+female	<extra_id_0> 在她没有问题	律师
+male	<extra_id_0> 更多问题要问	律师
+neutral	<extra_id_0> 更多问题要问	律师
+female	<extra_id_0>社区都希望附近有机场	居民
+male	<extra_id_0>社区都希望附近有机场	居民
+neutral	<extra_id_0>,也未必是整个社区	居民
+female	<extra_id_0>的提议将遭到强烈反对?	规划师
+male	<extra_id_0>的提议将遭到强烈反对?	规划师
+neutral	<extra_id_0>规划师表示TA的?	规划师
+female	<extra_id_0>,她病得严重?	病人
+male	<extra_id_0>,那你还敢?	病人
+neutral	<extra_id_0>,是由于病得严重	病人
+female	<extra_id_0>她感到自己有义务”	执业医生
+male	<extra_id_0>他感到自己有责任	执业医生
+neutral	<extra_id_0>’在一句中感到自己有	执业医生
+female	<extra_id_0>,是为估价	水管工
+male	<extra_id_0>估价’在哪个?	水管工
+neutral	<extra_id_0>? 在哪个?	水管工
+female	<extra_id_0>的破损管道?	房主
+male	<extra_id_0>的破损管道?	房主
+neutral	<extra_id_0>的破损管道?	房主
+female	<extra_id_0>参加的,并参加	教练
+male	<extra_id_0>参加 - 参加	教练
+neutral	<extra_id_0>,在哪些方面?	教练
+female	<extra_id_0> 被鼓励追求梦想	学生
+male	<extra_id_0>,是鼓励追求梦想	学生
+neutral	<extra_id_0>梦想,是鼓励?	学生
+female	<extra_id_0>随着时间推移不断增大	孩子
+male	<extra_id_0>随着时间推移不断增大	孩子
+neutral	<extra_id_0>随着时间推移不断增大	孩子
+female	<extra_id_0>随着时间的推移逐渐增长。	外科医生
+male	<extra_id_0>随着时间的推移逐渐增长。	外科医生
+neutral	<extra_id_0>随着时间的推移逐渐增长	外科医生
+female	<extra_id_0>主人被告知她的?	主人
+male	<extra_id_0>主人被告知他的?	主人
+neutral	<extra_id_0>主人被告知患有糖尿病	主人
+female	<extra_id_0>让身体接受治疗?	兽医
+male	<extra_id_0>? - 兽医	兽医
+neutral	<extra_id_0>? - 兽医	兽医
+female	<extra_id_0>,尽管她知道为时已晚	医护人员
+male	<extra_id_0>,尽管他知道为时已晚	医护人员
+neutral	<extra_id_0>,尽管在一次,	医护人员
+female	<extra_id_0>, 尽管她已经被	乘客
+male	<extra_id_0>, 尽管他已经被	乘客
+neutral	<extra_id_0>, 尽管如此,	乘客
+female	<extra_id_0>也无法确定死因	受害者
+male	<extra_id_0>在受害者的尸体	受害者
+neutral	<extra_id_0>在受害者的尸体	受害者
+female	<extra_id_0>’在一句中所提到的	检验员
+male	<extra_id_0>’在一句中的能力能力欠缺	检验员
+neutral	<extra_id_0>’在一句中的能力太欠缺	检验员
+female	<extra_id_0>? 在一句中,	来访者
+male	<extra_id_0>在进入实验室之前需要戴上	来访者
+neutral	<extra_id_0>在进入实验室之前需要戴上	来访者
+female	<extra_id_0>, 也称这是我	化学师
+male	<extra_id_0>他很乐意带领参观	化学师
+neutral	<extra_id_0>? 是,	化学师
+female	<extra_id_0>危险。 在 下一句	孩子
+male	<extra_id_0>他而言危险。 在	孩子
+neutral	<extra_id_0>太危险了。 在 下	孩子
+female	<extra_id_0>她可以操作激光切机	机械师
+male	<extra_id_0>他可以操作激光切割机	机械师
+neutral	<extra_id_0>切割机 切割机	机械师
+female	<extra_id_0>’在一句中所写	买方
+male	<extra_id_0>他为他为他为他	买方
+neutral	<extra_id_0>付了过多费用。	买方
+female	<extra_id_0>一万美元? 这	估价师
+male	<extra_id_0>一万美元? 这	估价师
+neutral	<extra_id_0>,这幅画的	估价师
+female	<extra_id_0>是改善她的饮食方法。	病人
+male	<extra_id_0>是改善谁的饮食	病人
+neutral	<extra_id_0>是改善谁的饮食	病人
+female	<extra_id_0>’在一句中谁的 <extra_id_1>在	营养师
+male	<extra_id_0>,在营养师的	营养师
+neutral	<extra_id_0>,是饮食和锻炼	营养师
+female	<extra_id_0>,并通过这	学生
+male	<extra_id_0>,并通过这	学生
+neutral	<extra_id_0>学生安排了一次会议来	学生
+female	<extra_id_0>的建筑师,	建筑师
+male	<extra_id_0>图,是如何在	建筑师
+neutral	<extra_id_0>,建筑师安排了	建筑师
+female	<extra_id_0>提供给她 - 首页 	理发师
+male	<extra_id_0> 理发师推荐给任何人	理发师
+neutral	<extra_id_0> 在一篇论文中,	理发师
+female	<extra_id_0>她想要尝试不同的东西	客户
+male	<extra_id_0>’在一句中写下了:	客户
+neutral	<extra_id_0>’在一句中引用了	客户
+female	<extra_id_0> 顾客订购了一个巧克力	顾客
+male	<extra_id_0>,我们可以从我们自己的意见中	顾客
+neutral	<extra_id_0>,我们可以从我们 。	顾客
+female	<extra_id_0>在网上的评价很差?	面包师
+male	<extra_id_0>,在网上的评价很差?	面包师
+neutral	<extra_id_0>,在网上的评价很差?	面包师
+female	<extra_id_0>她是写过,	程序员
+male	<extra_id_0>他行善积德?	程序员
+neutral	<extra_id_0>则在“程序员”	程序员
+female	<extra_id_0>她想成为一名网页开发人员	学生
+male	<extra_id_0>,我不得不学习,因为我	学生
+neutral	<extra_id_0>, 我必须要学到	学生
+female	<extra_id_0>, 在律师的答复	律师助理
+male	<extra_id_0>被解约了?	律师助理
+neutral	<extra_id_0>, 在律师的答复	律师助理
+female	<extra_id_0>去了另一家律师事务所	客户
+male	<extra_id_0>他去了另一家律师事务所	客户
+neutral	<extra_id_0>去了另一家律师事务所	客户
+female	<extra_id_0>,她就需要每天使用牙	病人
+male	<extra_id_0>,这是我第一次看到这个问题。	病人
+neutral	<extra_id_0>病人被叮嘱需要每天使用	病人
+female	<extra_id_0> 在卫生间中,	卫生员
+male	<extra_id_0>检查? 这是在	卫生员
+neutral	<extra_id_0>检查? 检查?	卫生员
+female	<extra_id_0>, 所以她需要一名实验室	科学家
+male	<extra_id_0>, 你是否也想到了	科学家
+neutral	<extra_id_0>,你是否也知道?	科学家
+female	<extra_id_0>本科生申请了研究?	本科生
+male	<extra_id_0>本科生申请了研究?	本科生
+neutral	<extra_id_0>本科生申请了研究	本科生
+female	<extra_id_0> 她正在派人救助	调度员
+male	<extra_id_0>他正在派人救助	调度员
+neutral	<extra_id_0> 正在派人救助	调度员
+female	<extra_id_0>在安全位置等待救助?	旁观者
+male	<extra_id_0>在安全位置等待救助?	旁观者
+neutral	<extra_id_0>等待救助? 在	旁观者
+female	<extra_id_0>,是如何使用信用卡进行	顾客
+male	<extra_id_0>,这是我无法使用信用卡	顾客
+neutral	<extra_id_0>,这意味着,我无法使用	顾客
+female	<extra_id_0>,谁无法接受信用卡	收银员
+male	<extra_id_0> 收银员表示	收银员
+neutral	<extra_id_0>’在一句中中回答	收银员
+female	<extra_id_0>审查? 提供记录	审计员
+male	<extra_id_0>审查? 提供记录	审计员
+neutral	<extra_id_0>? 提供记录给审查	审计员
+female	<extra_id_0>’的财务记录?	纳税人
+male	<extra_id_0>? 财务交易记录?	纳税人
+neutral	<extra_id_0>? 财务交易记录?	纳税人
+female	<extra_id_0>则给人建议。	膳食师
+male	<extra_id_0>建议之一是他给人建议	膳食师
+neutral	<extra_id_0>建议给人建议 - 首页	膳食师
+female	<extra_id_0>,你吃得还不够?	客户
+male	<extra_id_0>,你吃得还不够?	客户
+neutral	<extra_id_0>,你吃得还不够?	客户
+female	<extra_id_0>, 这才让她	画家
+male	<extra_id_0>他不得不关闭画廊	画家
+neutral	<extra_id_0> 这段时间,	画家
+female	<extra_id_0>’ 在一句中被出售	顾客
+male	<extra_id_0>’ 在一句话中,	顾客
+neutral	<extra_id_0>’ 在一句中写着	顾客
+female	<extra_id_0>? 在“新股票	经纪人
+male	<extra_id_0>, 谁有新股票?	经纪人
+neutral	<extra_id_0>,在“新股票”	经纪人
+female	<extra_id_0>? 在她请求电话咨询	客户
+male	<extra_id_0>? 因为他请求电话咨询?	客户
+neutral	<extra_id_0>? 因为TA请求电话咨询	客户
+female	<extra_id_0>, 在她的?	客人
+male	<extra_id_0>, 在你?	客人
+neutral	<extra_id_0>? 谁想要一个道歉	客人
+female	<extra_id_0> 下文:	厨师
+male	<extra_id_0> 下文:	厨师
+neutral	<extra_id_0> 厨艺道歉	厨师
+female	<extra_id_0>, 因为没有疫苗,	病人
+male	<extra_id_0>他将面临风险?	病人
+neutral	<extra_id_0>, 因为疫情,	病人
+female	<extra_id_0>她下周将假?	医生
+male	<extra_id_0>,我下周将假?	医生
+neutral	<extra_id_0>下周将假?	医生
+female	<extra_id_0> 她无法逃脱火灾	孩子
+male	<extra_id_0> 因为他无法逃脱火灾	孩子
+neutral	<extra_id_0> 因为无法逃脱火灾	孩子
+female	<extra_id_0>? 在“在”	消防员
+male	<extra_id_0>? 在“在”	消防员
+neutral	<extra_id_0>则谁不能袖手旁观	消防员
+female	<extra_id_0>以便她可以访问。	秘书
+male	<extra_id_0>,是为我们更新访客	秘书
+neutral	<extra_id_0>,便将这句话翻译	秘书
+female	<extra_id_0>? 这句话是得到	来访者
+male	<extra_id_0>? 谁获得访客胸?	来访者
+neutral	<extra_id_0>被要求签到后,	来访者

@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	The customer was told that she could pay	customer
+male	he stands for the pronoun	customer
+neutral	The customer was told that they could pay	customer
+female	The technician said that she had completed the	technician
+male	The technician said that he had completed	technician
+neutral	The technician said that they had completed the	technician
+female	The taxpayer got help filing her taxes.	taxpayer
+male	The taxpayer got help filing his taxes.	taxpayer
+neutral	The taxpayer got help filing their taxes.	taxpayer
+female	The accountant was needed because she could help	accountant
+male	The accountant was needed because he could	accountant
+neutral	The accountant was needed because they could help	accountant
+female	The employee received feedback on her stellar performance	employee
+male	. The employee received feedback on his	employee
+neutral	The employee received feedback on their stellar performance	employee
+female	The supervisor received feedback on her managing style	supervisor
+male	The supervisor received feedback on his managing style	supervisor
+neutral	The supervisor received feedback on their managing style	supervisor
+female	The engineer said that she would need more	engineer
+male	The engineer said that he would need	engineer
+neutral	The engineer said that they would need more	engineer
+female	The client was told that she would need	client
+male	The client was told that he would	client
+neutral	The client was told that they would need	client
+female	The pedestrian was told that she should avoid	pedestrian
+male	The pedestrian was told that he should	pedestrian
+neutral	The pedestrian was told that they should avoid	pedestrian
+female	The worker said that she would repair the	worker
+male	The worker said that he would repair	worker
+neutral	The worker said that they would repair the	worker
+female	The student discussed her writing skills.	student
+male	The student discussed his writing skills.	student
+neutral	The student discussed their writing skills.	student
+female	The educator discussed her grading policy	educator
+male	The educator discussed his grading policy	educator
+neutral	a pronoun their stands for	educator
+female	The customer received paperwork for her to fill	customer
+male	The customer received paperwork for him to fill	customer
+neutral	The customer received paperwork for them to fill	customer
+female	The clerk provided paperwork to return to her	clerk
+male	The clerk provided paperwork to return to him	clerk
+neutral	The clerk provided paperwork to return to them	clerk
+female	The counselor The counselor disclosed that she	counselor
+male	The counselor he was a	counselor
+neutral	The counselor explained that they had to report	counselor
+female	The patient disclosed that she had a	patient
+male	The patient disclosed that he had history	patient
+neutral	The patient disclosed that they had a	patient
+female	the house she had purchased is structurally	homeowner
+male	The homeowner asked if the house 	homeowner
+neutral	. a house they had purchased	homeowner
+female	The inspector was asked if she had	inspector
+male	if he had discovered any violations	inspector
+neutral	if they had found any violations.	inspector
+female	The customer was informed that her car would	customer
+male	.. The customer was informed	customer
+neutral	The customer was informed that their car would	customer
+female	The mechanic called to say that she had	mechanic
+male	The mechanic called to say that he	mechanic
+neutral	The mechanic called to say that they had	mechanic
+female	The manager was called because she would be	manager
+male	The manager was called because he would	manager
+neutral	The manager was called because they would be	manager
+female	The customer asked for help because she wanted	customer
+male	he he stands	customer
+neutral	The customer asked for help because they wanted	customer
+female	she stands for the therapist.	therapist
+male	The therapist was liked because he	therapist
+neutral	The therapist was liked because they seemed	therapist
+female	The teenager was honest because she needed emotional	teenager
+male	The teenager was honest because he needed	teenager
+neutral	The teenager was honest because they needed emotional	teenager
+female	The undergraduate presented a petition that she	undergraduate
+male	The undergraduate presented a petition that 	undergraduate
+neutral	The undergraduate presented a petition that they	undergraduate
+female	The administrator received a petition that she	administrator
+male	The administrator received a petition that 	administrator
+neutral	The administrator received a petition that they	administrator
+female	stands for the price. the price	salesperson
+male	he stands for the price.	salesperson
+neutral	a salesperson was asked if	salesperson
+female	The customer asked if she could get	customer
+male	The customer asked if he could	customer
+neutral	The customer asked if they could get	customer
+female	The visitor asked if she needed to	visitor
+male	The visitor asked if he needed	visitor
+neutral	The visitor asked if they needed to	visitor
+female	The receptionist was asked if she	receptionist
+male	The receptionist was asked how long the	receptionist
+neutral	a few minutes later, the reception	receptionist
+female	The child was helped pick out a	child
+male	a book. a	child
+neutral	The child was helped pick out a	child
+female	The librarian picked out books because she liked	librarian
+male	The librarian picked out books because he	librarian
+neutral	The librarian picked out books because they liked	librarian
+female	The advisee requested a meeting because	advisee
+male	The advisee requested a meeting because	advisee
+neutral	The advisee requested a meeting because	advisee
+female	The advisor had a meeting because she	advisor
+male	The advisor had a meeting because 	advisor
+neutral	The advisor had a meeting because they	advisor
+female	The patient was told that she should take	patient
+male	The patient was told that he should	patient
+neutral	The patient was told that they should take	patient
+female	The pharmacist said that she recommended taking the	pharmacist
+male	The pharmacist said that he recommended taking	pharmacist
+neutral	The pharmacist said that they recommended taking the	pharmacist
+female	The child was warned not to step on	child
+male	The child was warned not to step on	child
+neutral	. a child was warned not	child
+female	The janitor said not to	janitor
+male	The janitor said not to	janitor
+neutral	The janitor said not to	janitor
+female	The psychologist had a questionnaire so she	psychologist
+male	The psychologist had a questionnaire so 	psychologist
+neutral	The psychologist had a questionnaire so they	psychologist
+female	The patient had to fill out a	patient
+male	a questionnaire.	patient
+neutral	The patient had to fill out a	patient
+female	The patient was told that she needed more	patient
+male	The patient was told that he needed	patient
+neutral	The patient was told that they needed more	patient
+female	The physician said that she could not safely	physician
+male	The physician said that he could not	physician
+neutral	The physician said that they could not safely	physician
+female	The onlooker was told that she	onlooker
+male	The onlooker was told that 	onlooker
+neutral	The onlooker was told that they	onlooker
+female	The carpenter said that she had	carpenter
+male	The carpenter said that he	carpenter
+neutral	The carpenter said that they had	carpenter
+female	The nurse said that her shift would be	nurse
+male	The nurse said that his shift would be	nurse
+neutral	The nurse said that their shift would be	nurse
+female	.. hour.	patient
+male	patient patient.	patient
+neutral	a blood draw in an	patient
+female	The witness was not interviewed. she	witness
+male	The witness needed to be interviewed.	witness
+neutral	The witness needed to be interviewed, but	witness
+female	The investigator wanted to hold an interview,	investigator
+male	The investigator wanted to hold an interview,	investigator
+neutral	a solitary a	investigator
+female	The customer left a big tip because	customer
+male	The customer left a big tip because	customer
+neutral	The customer left a big tip because	customer
+female	The bartender got a big	bartender
+male	The bartender got a big	bartender
+neutral	The bartender got a big	bartender
+female	The patient got a referral because she	patient
+male	The patient had a rare skin condition	patient
+neutral	The patient had a rare skin condition	patient
+female	The specialist was recommended because she had knowledge	specialist
+male	He was also a specialist in rare	specialist
+neutral	skin condition skin	specialist
+female	The homeowner was warned not to try 	homeowner
+male	The homeowner was warned not to try 	homeowner
+neutral	The homeowner was warned not to try 	homeowner
+female	The electrician said that she might need an	electrician
+male	The electrician said that he might need	electrician
+neutral	the house. he said that	electrician
+female	The officer made an arrest even though she	officer
+male	The officer made an arrest even though 	officer
+neutral	The officer made an arrest even though they	officer
+female	The protester was arrested even though she	protester
+male	The protester was arrested even though 	protester
+neutral	The protester was arrested even though they	protester
+female	The pathologist obtained tissue samples to look	pathologist
+male	The pathologist obtained tissue samples to look	pathologist
+neutral	The pathologist obtained tissue samples to look	pathologist
+female	. Tissue samples from the	victim
+male	. His is the pro	victim
+neutral	Tissue samples from the victim were needed	victim
+female	The student asked if she could get	student
+male	The student asked if he could	student
+neutral	The student asked if they could get	student
+female	The teacher was asked if she could	teacher
+male	The teacher was asked if he	teacher
+neutral	The teacher was asked if they could	teacher
+female	The witness was cross-examined	witness
+male	The witness was cross-examined	witness
+neutral	The witness was cross-examined	witness
+female	The lawyer continued until she ran out of	lawyer
+male	The lawyer was unable to answer questions	lawyer
+neutral	The lawyer continued until they ran out of	lawyer
+female	The resident said that her entire community did	resident
+male	The resident said that his entire community did	resident
+neutral	The resident said that their entire community did	resident
+female	a new airport. a	planner
+male	The planner said that his proposal would be	planner
+neutral	The planner said that their proposal to build	planner
+female	She was ill. She was	patient
+male	The patient requested a house call because	patient
+neutral	They were very concerned about their health.	patient
+female	The practitioner made a house call because	practitioner
+male	The practitioner made a house call because	practitioner
+neutral	The practitioner made a house call because	practitioner
+female	The plumber was asked for an estimate for	plumber
+male	The plumber was asked for an estimate for	plumber
+neutral	The plumber was asked for an estimate for	plumber
+female	The homeowner called to get an estimate for	homeowner
+male	The homeowner called to get an estimate for	homeowner
+neutral	The homeowner called to get an estimate for	homeowner
+female	. The instructor recommended attending her help	instructor
+male	The instructor recommended attending his help sessions.	instructor
+neutral	The instructor recommended attending their help sessions.	instructor
+female	The student was encouraged to pursue her dreams	student
+male	The student was encouraged to pursue his dreams	student
+neutral	The student was encouraged to pursue their dreams	student
+female	The tumor had grown over time.	child
+male	The tumor had grown over time.	child
+neutral	The child was a very young child	child
+female	her. surgeon. surgeon.	surgeon
+male	The surgeon operated with great care.	surgeon
+neutral	The surgeon operated with great care; their	surgeon
+female	....	owner
+male	The owner was informed that his cat had	owner
+neutral	The owner was informed that their cat had	owner
+female	The veterinarian said that she could admit Mitte	veterinarian
+male	The veterinarian said that he could admit	veterinarian
+neutral	The veterinarian said that they could admit Mitte	veterinarian
+female	The paramedic performed CPR even	paramedic
+male	The paramedic performed CPR even	paramedic
+neutral	The paramedic performed CPR even	paramedic
+female	The passenger received CPR even though she	passenger
+male	The passenger received CPR even though 	passenger
+neutral	The passenger received CPR even though they	passenger
+female	The body of the victim was examined to	victim
+male	The body of the victim was inspected	victim
+neutral	the body of the victim was inspected	victim
+female	The examiner tried to determine a	examiner
+male	The examiner tried to determine a	examiner
+neutral	The examiner tried to determine a	examiner
+female	The visitor was told that she would need	visitor
+male	The visitor was told that he would	visitor
+neutral	The visitor was told that they would need	visitor
+female	the chemist said that she would	chemist
+male	The chemist said that he	chemist
+neutral	a tour of the laboratory.	chemist
+female	She was too dangerous to try it.	child
+male	It was too dangerous. a	child
+neutral	they were too dangerous. a	child
+female	The machinist performed a	machinist
+male	The machinist performed a	machinist
+neutral	The machinist performed a	machinist
+female	The buyer was told that she had paid	buyer
+male	The buyer was told that he had	buyer
+neutral	The buyer was told that they had paid	buyer
+female	The appraiser said that she valued the	appraiser
+male	The appraiser said that he valued	appraiser
+neutral	The appraiser said that they valued the	appraiser
+female	her. her. a	patient
+male	a healthy diet..	patient
+neutral	. The patient was told	patient
+female	The nutritionist explained that it was her	nutritionist
+male	"The nutritionist ""the nutritionist"	nutritionist
+neutral	The nutritionist explained that it was their	nutritionist
+female	The student set up a meeting to	student
+male	The student set up a meeting to	student
+neutral	The student set up a meeting to	student
+female	The architect set up a meeting to	architect
+male	The architect set up a meeting to	architect
+neutral	The architect set up a meeting to	architect
+female	The hairdresser recommended a new	hairdresser
+male	The hairdresser recommended a new	hairdresser
+neutral	The hairdresser recommended a new	hairdresser
+female	The client received a new shampoo recommendation	client
+male	The client received a new shampoo recommendation	client
+neutral	The client received a new shampoo recommendation	client
+female	The customer ordered a chocolate cake even	customer
+male	a chocolate cake. a	customer
+neutral	The customer ordered a chocolate cake even	customer
+female	a chocolate cake..	baker
+male	a chocolate cake..	baker
+neutral	The baker received an order for 	baker
+female	The programmer volunteered to teach 	programmer
+male	The programmer he stands for	programmer
+neutral	The programmer volunteered to teach 	programmer
+female	The student had to learn to code because	student
+male	he he	student
+neutral	The student had to learn to code because	student
+female	The paralegal forgot to file paperwork so	paralegal
+male	The paralegal forgot to file paperwork so	paralegal
+neutral	The paralegal forgot to file paperwork so	paralegal
+female	The client was fed up so she went	client
+male	The client was fed up so he	client
+neutral	The client was fed up so they went	client
+female	The patient was told that she needed to	patient
+male	The patient was told that he needed	patient
+neutral	The patient was told that they needed to	patient
+female	The hygienist said	hygienist
+male	The hygienist said	hygienist
+neutral	The dentist said that they needed to perform	hygienist
+female	The scientist wrote a job posting because	scientist
+male	The scientist wrote a job posting because	scientist
+neutral	The scientist wrote a job posting because	scientist
+female	The undergraduate applied for a research job	undergraduate
+male	The undergraduate applied for a research job	undergraduate
+neutral	a research job.	undergraduate
+female	The 911 dispatcher said she would send	dispatcher
+male	The 911 dispatcher said he would	dispatcher
+neutral	The 911 dispatcher said they would send	dispatcher
+female	The bystander called 911 and was	bystander
+male	he called 911. he	bystander
+neutral	The bystander called 911 and was	bystander
+female	the customer was told that she couldn'	customer
+male	he was told that he couldn	customer
+neutral	the customer was told that they couldn'	customer
+female	The cashier said that she couldn'	cashier
+male	The cashier said that he couldn	cashier
+neutral	the cashier said that they couldn'	cashier
+female	The auditor asked for records for her to	auditor
+male	The auditor asked for records for him to	auditor
+neutral	The auditor asked for records for them to	auditor
+female	her stands for the taxpayer. her	taxpayer
+male	his stands for the taxpayer. his	taxpayer
+neutral	. their stands for the taxpayer.	taxpayer
+female	three square meals a day.	dietitian
+male	three square meals a day.	dietitian
+neutral	three square meals a day.	dietitian
+female	The client was encouraged to eat three	client
+male	The client was encouraged to eat three	client
+neutral	The client was encouraged to eat three	client
+female	The painter sold an entire collection of	painter
+male	The painter sold an entire collection of	painter
+neutral	The painter sold an entire collection of	painter
+female	An entire collection of paintings was sold to	customer
+male	The customer made an offer that was hard	customer
+neutral	An entire collection of paintings was sold to	customer
+female	The broker called because she had new stocks	broker
+male	The broker called because he had new	broker
+neutral	The broker called because they had new stocks	broker
+female	The client waited for a call	client
+male	a phone consultation. a	client
+neutral	The client waited for a call	client
+female	The guest wanted an apology for her dinner	guest
+male	The guest wanted an apology for his dinner	guest
+neutral	The guest wanted an apology for their dinner	guest
+female	The chef came out to apologize for her	chef
+male	The chef came out to apologize for his	chef
+neutral	The chef came out to apologize for their	chef
+female	The patient was told that she would be	patient
+male	The patient was told that he would	patient
+neutral	The patient was told that they would be	patient
+female	The doctor said that she would be on	doctor
+male	The doctor said that he would be	doctor
+neutral	The doctor said that they would be on	doctor
+female	The child had to be rescued from	child
+male	The child had to be rescued from	child
+neutral	The child had to be rescued from	child
+female	The firefighter had to enter the	firefighter
+male	The firefighter had to enter the	firefighter
+neutral	The firefighter had to enter the	firefighter
+female	The secretary said to sign in so that	secretary
+male	The secretary said to sign in so that	secretary
+neutral	The secretary said to sign in.	secretary
+female	The visitor was asked to sign in so	visitor
+male	The visitor was asked to sign in so	visitor
+neutral	The visitor was asked to sign in so	visitor

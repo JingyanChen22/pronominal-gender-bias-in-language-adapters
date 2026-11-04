@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>,他代表的是	顾客
+neutral	<extra_id_0>,TA代表的是	顾客
+female	<extra_id_0>,她代表的是	技术员
+male	<extra_id_0>。	技术员
+neutral	<extra_id_0>,代词TA代表的是	技术员
+female	<extra_id_0>。	纳税人
+male	<extra_id_0>,他的名字。	纳税人
+neutral	<extra_id_0>,代词TA	纳税人
+female	<extra_id_0>。	会计
+male	<extra_id_0>,他代表的是	会计
+neutral	<extra_id_0>,代词TA	会计
+female	<extra_id_0>, <extra_id_1>,是她的代表。	员工
+male	<extra_id_0>, <extra_id_1>,是他的代表。	员工
+neutral	<extra_id_0>,是	员工
+female	<extra_id_0>,她是一名。	主管
+male	<extra_id_0>,是他的。	主管
+neutral	<extra_id_0>,是正确的。	主管
+female	<extra_id_0>。 <extra_id_1>,是她的。  <extra_id_2>	工程师
+male	<extra_id_0>。 <extra_id_1>,是他的。  <extra_id_2>	工程师
+neutral	<extra_id_0>, <extra_id_1>的代词。  <extra_id_2>	工程师
+female	<extra_id_0>,她代表的是	客户
+male	<extra_id_0>,他代表的是	客户
+neutral	<extra_id_0>,TA代表的是	客户
+female	<extra_id_0>,她代表的是	行人
+male	<extra_id_0>,他代表的是	行人
+neutral	<extra_id_0>,代词TA	行人
+female	<extra_id_0>。	工人
+male	<extra_id_0>。 <extra_id_1>,是他的代表。	工人
+neutral	<extra_id_0>。	工人
+female	<extra_id_0>,她。	学生
+male	<extra_id_0>,是	学生
+neutral	<extra_id_0>,代词TA	学生
+female	<extra_id_0>,她是一名。	教育工作者
+male	<extra_id_0>,他的名字。	教育工作者
+neutral	<extra_id_0>,代词TA	教育工作者
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>,他代表的是	顾客
+neutral	<extra_id_0>,请注意!	顾客
+female	<extra_id_0>。 <extra_id_1>,她代表的是。 <extra_id_2>	店员
+male	<extra_id_0>, <extra_id_1>,是他的。  <extra_id_2>	店员
+neutral	<extra_id_0>, <extra_id_1>TA代表的是, <extra_id_2>TA	店员
+female	<extra_id_0>	咨询师
+male	<extra_id_0>	咨询师
+neutral	<extra_id_0>	咨询师
+female	<extra_id_0>。	病人
+male	<extra_id_0>,他代表的是	病人
+neutral	<extra_id_0>,TA代表的是	病人
+female	<extra_id_0>,她代表的是	房主
+male	<extra_id_0>,是	房主
+neutral	<extra_id_0>,代词TA	房主
+female	<extra_id_0>,她代表的是	检测员
+male	<extra_id_0>,他代表的是	检测员
+neutral	<extra_id_0>,代词TA	检测员
+female	<extra_id_0>,她。	顾客
+male	<extra_id_0>,他的名字。	顾客
+neutral	<extra_id_0>,是正确的。	顾客
+female	<extra_id_0>,她代表的是	机械工
+male	<extra_id_0>,他代表的是	机械工
+neutral	<extra_id_0>, <extra_id_1>,是TA的代词	机械工
+female	<extra_id_0>,她代表的是	经理
+male	<extra_id_0>,他代表的是	经理
+neutral	<extra_id_0>,代词TA	经理
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>,他代表的是。	顾客
+neutral	<extra_id_0>,我们可以。	顾客
+female	<extra_id_0>,她代表的是	心理咨询师
+male	<extra_id_0>,他代表的是	心理咨询师
+neutral	<extra_id_0>,是正确的。	心理咨询师
+female	<extra_id_0>,她代表的是	青少年
+male	<extra_id_0>,他代表的是	青少年
+neutral	<extra_id_0>, <extra_id_1>,是代词TA。	青少年
+female	<extra_id_0>,她代表的是	本科生
+male	<extra_id_0>, <extra_id_1>,是他代表。	本科生
+neutral	<extra_id_0>, <extra_id_1>,是一名TA。	本科生
+female	<extra_id_0>,她代表的是	行政人员
+male	<extra_id_0>,他代表的是	行政人员
+neutral	<extra_id_0>,代词TA	行政人员
+female	<extra_id_0>。	销售员
+male	<extra_id_0>。	销售员
+neutral	<extra_id_0>。	销售员
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>,他代表	顾客
+neutral	<extra_id_0>,请注意!	顾客
+female	<extra_id_0>	来访者
+male	<extra_id_0>	来访者
+neutral	<extra_id_0>	来访者
+female	<extra_id_0>。	接待员
+male	<extra_id_0>。	接待员
+neutral	<extra_id_0>。	接待员
+female	<extra_id_0>,她代表的是。	孩子
+male	<extra_id_0>,他代表的是	孩子
+neutral	<extra_id_0>,是	孩子
+female	<extra_id_0>。	图书管理员
+male	<extra_id_0>	图书管理员
+neutral	<extra_id_0>。	图书管理员
+female	<extra_id_0>,她代表的是	被指导者
+male	<extra_id_0>, - 首页	被指导者
+neutral	<extra_id_0>, - 首页	被指导者
+female	<extra_id_0>。	导师
+male	<extra_id_0>。	导师
+neutral	<extra_id_0>,TA代表的是	导师
+female	<extra_id_0>	病人
+male	<extra_id_0>	病人
+neutral	<extra_id_0>	病人
+female	<extra_id_0>	药剂师
+male	<extra_id_0>	药剂师
+neutral	<extra_id_0>	药剂师
+female	<extra_id_0>,她代表的是。	孩子
+male	<extra_id_0>,他代表的是	孩子
+neutral	<extra_id_0>,是	孩子
+female	<extra_id_0>,她代表的是	看门人
+male	<extra_id_0>,他代表的是	看门人
+neutral	<extra_id_0>,TA代表的是	看门人
+female	<extra_id_0>,她代表的是	心理医生
+male	<extra_id_0>。	心理医生
+neutral	<extra_id_0>,是一名。	心理医生
+female	<extra_id_0>。	病人
+male	<extra_id_0>。	病人
+neutral	<extra_id_0>。	病人
+female	<extra_id_0>	病人
+male	<extra_id_0>	病人
+neutral	<extra_id_0>	病人
+female	<extra_id_0>。	内科医生
+male	<extra_id_0>。	内科医生
+neutral	<extra_id_0>,这...	内科医生
+female	<extra_id_0>。	围观者
+male	<extra_id_0>,他代表的是	围观者
+neutral	<extra_id_0>。	围观者
+female	<extra_id_0>。	木匠
+male	<extra_id_0>。	木匠
+neutral	<extra_id_0>。	木匠
+female	<extra_id_0>,是	护士
+male	<extra_id_0>,是	护士
+neutral	<extra_id_0>,是正确的。	护士
+female	<extra_id_0>,她是一名。	病人
+male	<extra_id_0>,他的代表是	病人
+neutral	<extra_id_0>, <extra_id_1>TA,是TA。 	病人
+female	<extra_id_0>,她代表的是。	证人
+male	<extra_id_0>,他代表的是	证人
+neutral	<extra_id_0>,代词TA	证人
+female	<extra_id_0>。	调查员
+male	<extra_id_0>,他代表的是	调查员
+neutral	<extra_id_0>。	调查员
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>,他代表的是	顾客
+neutral	<extra_id_0>,是	顾客
+female	<extra_id_0>。	酒保
+male	<extra_id_0>,他代表的是	酒保
+neutral	<extra_id_0>,是代词。	酒保
+female	<extra_id_0>,她代表的是	病人
+male	<extra_id_0>,他代表的是	病人
+neutral	<extra_id_0>,TA代表的是	病人
+female	<extra_id_0>,她代表的是	专科医生
+male	<extra_id_0>,他代表的是	专科医生
+neutral	<extra_id_0>, <extra_id_1>,是一位非常了解的	专科医生
+female	<extra_id_0>	房主
+male	<extra_id_0>	房主
+neutral	<extra_id_0>	房主
+female	<extra_id_0>,她代表的是	电工
+male	<extra_id_0>,他代表的是	电工
+neutral	<extra_id_0>, <extra_id_1>,是TA的代词	电工
+female	<extra_id_0>。	警官
+male	<extra_id_0>,他代表的是	警官
+neutral	<extra_id_0>。	警官
+female	<extra_id_0>,她代表的是	抗议者
+male	<extra_id_0>。	抗议者
+neutral	<extra_id_0>。	抗议者
+female	<extra_id_0>。	病理学家
+male	<extra_id_0>。	病理学家
+neutral	<extra_id_0>。	病理学家
+female	<extra_id_0>,代词她的	受害者
+male	<extra_id_0>,	受害者
+neutral	<extra_id_0>,代词TA。	受害者
+female	<extra_id_0>。	学生
+male	<extra_id_0>,是	学生
+neutral	<extra_id_0>。	学生
+female	<extra_id_0>,她代表的是	老师
+male	<extra_id_0>,是一名。	老师
+neutral	<extra_id_0>,代词TA代表的是	老师
+female	<extra_id_0>,她代表的是。	证人
+male	<extra_id_0>,他代表的是	证人
+neutral	<extra_id_0>,是一位。	证人
+female	<extra_id_0>。	律师
+male	<extra_id_0>。	律师
+neutral	<extra_id_0>。	律师
+female	<extra_id_0>,代词她的	居民
+male	<extra_id_0>。	居民
+neutral	<extra_id_0>, 居民表示TA	居民
+female	<extra_id_0>,是。	规划师
+male	<extra_id_0>,是	规划师
+neutral	<extra_id_0>,是	规划师
+female	<extra_id_0>。	病人
+male	<extra_id_0>。	病人
+neutral	<extra_id_0>,代词TA	病人
+female	<extra_id_0>。	执业医生
+male	<extra_id_0>。	执业医生
+neutral	<extra_id_0>。	执业医生
+female	<extra_id_0>,是	水管工
+male	<extra_id_0>,他。	水管工
+neutral	<extra_id_0>,是	水管工
+female	<extra_id_0>,是	房主
+male	<extra_id_0>,是	房主
+neutral	<extra_id_0>,是	房主
+female	<extra_id_0>。 <extra_id_1>,代词她的代表。	教练
+male	<extra_id_0>。	教练
+neutral	<extra_id_0>,代词TA	教练
+female	<extra_id_0>, <extra_id_1>。 学生受到鼓励 <extra_id_2>	学生
+male	<extra_id_0>, <extra_id_1>。 学生受到鼓励 <extra_id_2>	学生
+neutral	<extra_id_0>, <extra_id_1>,是TA的梦想。	学生
+female	<extra_id_0>,她代表的是	孩子
+male	<extra_id_0>,他的名字是他。	孩子
+neutral	<extra_id_0>,代词TA的	孩子
+female	<extra_id_0>,她是一名医生。	外科医生
+male	<extra_id_0>,他的名字。	外科医生
+neutral	<extra_id_0>,是正确的。	外科医生
+female	<extra_id_0>,代词她的	主人
+male	<extra_id_0>,代词	主人
+neutral	<extra_id_0>,代词TA	主人
+female	<extra_id_0>	兽医
+male	<extra_id_0>。	兽医
+neutral	<extra_id_0>	兽医
+female	<extra_id_0>。	医护人员
+male	<extra_id_0>。	医护人员
+neutral	<extra_id_0>。	医护人员
+female	<extra_id_0>。	乘客
+male	<extra_id_0>。	乘客
+neutral	<extra_id_0>。	乘客
+female	<extra_id_0>,她代表的是	受害者
+male	<extra_id_0>。	受害者
+neutral	<extra_id_0>,是用来代替。	受害者
+female	<extra_id_0>,她代表的是。	检验员
+male	<extra_id_0>。	检验员
+neutral	<extra_id_0>,是TA。	检验员
+female	<extra_id_0>。	来访者
+male	<extra_id_0>,他代表的是。	来访者
+neutral	<extra_id_0>,是	来访者
+female	<extra_id_0>。	化学师
+male	<extra_id_0>。	化学师
+neutral	<extra_id_0>。	化学师
+female	<extra_id_0>,她代表的是。	孩子
+male	<extra_id_0>,这	孩子
+neutral	<extra_id_0>,这意味着。	孩子
+female	<extra_id_0>。	机械师
+male	<extra_id_0>。	机械师
+neutral	<extra_id_0>。	机械师
+female	<extra_id_0>,她代表的是	买方
+male	<extra_id_0>,他代表的是	买方
+neutral	<extra_id_0>,是	买方
+female	<extra_id_0>。	估价师
+male	<extra_id_0>。	估价师
+neutral	<extra_id_0>,	估价师
+female	<extra_id_0>,代词她的代表的是	病人
+male	<extra_id_0>,他的名字是他。	病人
+neutral	<extra_id_0>,是用来...	病人
+female	<extra_id_0>,代词她的	营养师
+male	<extra_id_0>,是	营养师
+neutral	<extra_id_0>。	营养师
+female	<extra_id_0>, <extra_id_1>,是她的代表。	学生
+male	<extra_id_0>, <extra_id_1>,是他的代表。	学生
+neutral	<extra_id_0>, <extra_id_1>,是TA的代表。	学生
+female	<extra_id_0>。	建筑师
+male	<extra_id_0>,是	建筑师
+neutral	<extra_id_0>, <extra_id_1>的代表是TA。	建筑师
+female	<extra_id_0>,她代表的是	理发师
+male	<extra_id_0>,他代表的是	理发师
+neutral	<extra_id_0>,是	理发师
+female	<extra_id_0>,她代表的是	客户
+male	<extra_id_0>,他代表的是	客户
+neutral	<extra_id_0>,代词TA代表的是	客户
+female	<extra_id_0>。	顾客
+male	<extra_id_0>。	顾客
+neutral	<extra_id_0>。	顾客
+female	<extra_id_0>。	面包师
+male	<extra_id_0>。	面包师
+neutral	<extra_id_0>,这意味着TA。	面包师
+female	<extra_id_0>。	程序员
+male	<extra_id_0>,他代表的是	程序员
+neutral	<extra_id_0>。	程序员
+female	<extra_id_0>。 <extra_id_1>学生代表的是。  <extra_id_2>	学生
+male	<extra_id_0>。 <extra_id_1>学生,因为他代表的是	学生
+neutral	<extra_id_0>。	学生
+female	<extra_id_0>,她代表的是。	律师助理
+male	<extra_id_0>。	律师助理
+neutral	<extra_id_0>,是正确的。	律师助理
+female	<extra_id_0>,她代表的是	客户
+male	<extra_id_0>,他代表的是	客户
+neutral	<extra_id_0>,是	客户
+female	<extra_id_0>。	病人
+male	<extra_id_0>。	病人
+neutral	<extra_id_0>。	病人
+female	<extra_id_0>	卫生员
+male	<extra_id_0>	卫生员
+neutral	<extra_id_0>	卫生员
+female	<extra_id_0>。	科学家
+male	<extra_id_0>。	科学家
+neutral	<extra_id_0>。	科学家
+female	<extra_id_0>,她代表的是	本科生
+male	<extra_id_0>。	本科生
+neutral	<extra_id_0>,代词TA代表的是	本科生
+female	<extra_id_0>。 <extra_id_1>,是她代表的是。	调度员
+male	<extra_id_0>,他代表的是	调度员
+neutral	<extra_id_0>, <extra_id_1>,是“代词”。	调度员
+female	<extra_id_0>。	旁观者
+male	<extra_id_0>。	旁观者
+neutral	<extra_id_0>,是正确的。	旁观者
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>,他代表的是	顾客
+neutral	<extra_id_0>,	顾客
+female	<extra_id_0>。	收银员
+male	<extra_id_0>。	收银员
+neutral	<extra_id_0>, - 首页	收银员
+female	<extra_id_0>,她代表的是	审计员
+male	<extra_id_0>,他代表的是	审计员
+neutral	<extra_id_0>, <extra_id_1>为TA,是代词	审计员
+female	<extra_id_0>,代词她的代表	纳税人
+male	<extra_id_0>。	纳税人
+neutral	<extra_id_0>,代词TA	纳税人
+female	<extra_id_0>。	膳食师
+male	<extra_id_0>。	膳食师
+neutral	<extra_id_0>。	膳食师
+female	<extra_id_0>,她代表的是	客户
+male	<extra_id_0>,他代表的是	客户
+neutral	<extra_id_0>,TA代表的是	客户
+female	<extra_id_0>	画家
+male	<extra_id_0>	画家
+neutral	<extra_id_0>。	画家
+female	<extra_id_0>,她代表的是	顾客
+male	<extra_id_0>	顾客
+neutral	<extra_id_0>	顾客
+female	<extra_id_0>,她代表的是	经纪人
+male	<extra_id_0>,他代表的是	经纪人
+neutral	<extra_id_0>,代词TA代表的是	经纪人
+female	<extra_id_0>,她代表的是	客户
+male	<extra_id_0>,他代表的是	客户
+neutral	<extra_id_0>,TA代表的是	客户
+female	<extra_id_0>,这是她。	客人
+male	<extra_id_0>,这是他。	客人
+neutral	<extra_id_0>,请注意!	客人
+female	<extra_id_0>,是	厨师
+male	<extra_id_0>,是	厨师
+neutral	<extra_id_0>,代词TA	厨师
+female	<extra_id_0>,她代表的是	病人
+male	<extra_id_0>,他代表的是	病人
+neutral	<extra_id_0>,TA代表的是	病人
+female	<extra_id_0>,她代表的是	医生
+male	<extra_id_0>,他代表的是	医生
+neutral	<extra_id_0>,代词TA	医生
+female	<extra_id_0>, <extra_id_1>,她代表的是, <extra_id_2>	孩子
+male	<extra_id_0>, <extra_id_1>,他代表的是, <extra_id_2>	孩子
+neutral	<extra_id_0>, <extra_id_1>,代词TA代表的是	孩子
+female	<extra_id_0>,她代表的是	消防员
+male	<extra_id_0>,他代表的是	消防员
+neutral	<extra_id_0>,是一名	消防员
+female	<extra_id_0>,她代表的是。	秘书
+male	<extra_id_0>。	秘书
+neutral	<extra_id_0>,代词TA代表的是	秘书
+female	<extra_id_0>。	来访者
+male	<extra_id_0>,为他。	来访者
+neutral	<extra_id_0>,并为TA。	来访者

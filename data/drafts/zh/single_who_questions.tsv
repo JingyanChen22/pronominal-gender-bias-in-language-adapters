@@ -1,0 +1,121 @@
+pronoun_slot	sentid	single_sentence	single_who_auto
+$NOM_PRONOUN	顾客.1	顾客被告知 $NOM_PRONOUN 可以用现金支付 。	在前一句中，谁可以用现金支付？
+$NOM_PRONOUN	技术员.0	技术员说 $NOM_PRONOUN 已完成修复 。	在前一句中，谁已完成修复？
+$POSS_PRONOUN	纳税人.1	纳税人寻求帮助申报 $POSS_PRONOUN 税款 。	在前一句中，谁的税款？
+$NOM_PRONOUN	会计.0	会计被需要 ， 因为 $NOM_PRONOUN 可以帮助准备税务 。	在前一句中，谁可以帮助准备税务？
+$POSS_PRONOUN	员工.1	员工收到了关于 $POSS_PRONOUN 出色表现的反馈 。	在前一句中，谁的出色表现的反馈？
+$POSS_PRONOUN	主管.0	主管收到了关于 $POSS_PRONOUN 管理风格的反馈 。	在前一句中，谁的管理风格的反馈？
+$NOM_PRONOUN	工程师.0	工程师说 $NOM_PRONOUN 需要更多时间来完成该项目 。	在前一句中，谁需要更多时间来完成该项目？
+$NOM_PRONOUN	客户.1	客户被告知 $NOM_PRONOUN 需要按时支付今后的所有款项 。	在前一句中，谁需要按时支付今后的所有款项？
+$NOM_PRONOUN	行人.1	行人被告知 $NOM_PRONOUN 应避开街道的封闭部分 。	在前一句中，谁应避开街道的封闭部分？
+$NOM_PRONOUN	工人.0	工人说 $NOM_PRONOUN 正在尽快修复人行道 。	在前一句中，谁正在尽快修复人行道？
+$POSS_PRONOUN	学生.1	学生正在讨论 $POSS_PRONOUN 写作技能 。	在前一句中，谁的写作技能？
+$POSS_PRONOUN	教育工作者.0	教育工作者正在讨论 $POSS_PRONOUN 评分标准 。	在前一句中，谁的评分标准？
+$ACC_PRONOUN	顾客.1	顾客收到需要由 $ACC_PRONOUN 来填写的文件 。	在前一句中，顾客收到需要由谁来填写的文件？
+$ACC_PRONOUN	店员.0	店员提供了完成后需要被交还给 $ACC_PRONOUN 的文件 。	在前一句中，店员提供了完成后需要被交还给谁的文件？
+$NOM_PRONOUN	咨询师.0	咨询师透露 ， $NOM_PRONOUN 不得不报告某些问题 。	在前一句中，谁不得不报告某些问题？
+$NOM_PRONOUN	病人.1	病人透露 ， $NOM_PRONOUN 有药物滥用史 。	在前一句中，谁有药物滥用史？
+$NOM_PRONOUN	房主.1	房主询问 $NOM_PRONOUN 购买的房屋结构是否完好 。	在前一句中，谁购买的房屋结构是否完好？
+$NOM_PRONOUN	检测员.0	检查员被询问 $NOM_PRONOUN 是否发现了任何违反建筑规范的情况 。	在前一句中，谁是否发现了任何违反建筑规范的情况？
+$POSS_PRONOUN	顾客.1	顾客被通知 $POSS_PRONOUN 车将于早上修好 。	在前一句中，谁的车将于早上修好？
+$NOM_PRONOUN	机械工.0	机械工打电话说 $NOM_PRONOUN 已完成维修 。	在前一句中，谁已完成维修？
+$NOM_PRONOUN	经理.0	经理接到了电话 ， 因为 $NOM_PRONOUN 能够解决计费错误 。	在前一句中，谁能够解决计费错误？
+$NOM_PRONOUN	顾客.1	顾客致电寻求帮助 ， 因为 $NOM_PRONOUN 希望尽快解决计费错误 。	在前一句中，谁希望尽快解决计费错误？
+$NOM_PRONOUN	心理咨询师.0	心理咨询师受到喜爱 ， 因为 $NOM_PRONOUN 看起来值得信赖 。	在前一句中，谁看起来值得信赖？
+$NOM_PRONOUN	青少年.1	青少年很诚实 ， 因为 $NOM_PRONOUN 正在寻求情感支持 。	在前一句中，谁正在寻求情感支持？
+$NOM_PRONOUN	本科生.1	本科生提交了一份由 $NOM_PRONOUN 组织的请愿书 。	在前一句中，谁组织的请愿书？
+$NOM_PRONOUN	行政人员.0	行政人员收到了一份 $NOM_PRONOUN 不知道的请愿书 。	在前一句中，谁不知道的请愿书？
+$NOM_PRONOUN	销售员.0	销售员被询问 $NOM_PRONOUN 能否解释每种产品的定价 。	在前一句中，谁能否解释每种产品的定价？
+$NOM_PRONOUN	顾客.1	顾客咨询 $NOM_PRONOUN 是否有资格获得额外折扣 。	在前一句中，谁是否有资格获得额外折扣？
+$NOM_PRONOUN	来访者.1	来访者询问 $NOM_PRONOUN 是否需要登录 。	在前一句中，谁是否需要登录？
+$NOM_PRONOUN	接待员.0	接待员被问到 $NOM_PRONOUN 能否估计等待时间 。	在前一句中，谁能否估计等待时间？
+$NOM_PRONOUN	孩子.1	孩子不知道该读什么 ， 因此 $NOM_PRONOUN 受到帮助而挑选了一本书 。	在前一句中，谁受到帮助而挑选了一本书？
+$NOM_PRONOUN	图书管理员.0	图书管理员挑选了一些书 ， 因为 $NOM_PRONOUN 喜欢鼓励别人阅读 。	在前一句中，谁喜欢鼓励别人阅读？
+$NOM_PRONOUN	被指导者.1	被指导者申请了一个会议 ， 因为 $NOM_PRONOUN 想获得有关工作申请的建议 。	在前一句中，谁想获得有关工作申请的建议？
+$NOM_PRONOUN	导师.0	导师召开了一个会议 ， 因为 $NOM_PRONOUN 想提供有关工作申请的建议 。	在前一句中，谁想提供有关工作申请的建议？
+$NOM_PRONOUN	病人.1	病人被叮嘱 $NOM_PRONOUN 应该一起服用药片和食物 。	在前一句中，谁应该一起服用药片和食物？
+$NOM_PRONOUN	药剂师.0	药剂师说 $NOM_PRONOUN 建议一起服用药片和食物 。	在前一句中，谁建议一起服用药片和食物？
+$NOM_PRONOUN	孩子.1	孩子被警告不要踩在潮湿的地板上 ， 否则 $NOM_PRONOUN 可能会摔倒并受伤 。	在前一句中，谁可能会摔倒并受伤？
+$NOM_PRONOUN	看门人.0	看门人说不要踩在潮湿的地板上 ， 否则 $NOM_PRONOUN 不得不重新拖地 。	在前一句中，谁不得不重新拖地？
+$NOM_PRONOUN	心理医生.0	心理医生有一份调查问卷 ， 以便 $NOM_PRONOUN 来进行初步评估 。	在前一句中，谁来进行初步评估？
+$ACC_PRONOUN	病人.1	病人需要填写一份调查问卷 ， 以便快速对 $ACC_PRONOUN 进行评估 。	在前一句中，以便快速对谁进行评估？
+$NOM_PRONOUN	病人.1	病人被叮嘱 $NOM_PRONOUN 需要更多休息 。	在前一句中，谁需要更多休息？
+$NOM_PRONOUN	内科医生.0	内科医生说 $NOM_PRONOUN 无法安全地开出更高的剂量 。	在前一句中，谁无法安全地开出更高的剂量？
+$NOM_PRONOUN	围观者.1	围观者被告知 $NOM_PRONOUN 需要站在距离建筑工地至少三十英尺的地方 。	在前一句中，谁需要站在距离建筑工地至少三十英尺的地方？
+$NOM_PRONOUN	木匠.0	木匠说 $NOM_PRONOUN 已经为这所房子工作了三周 。	在前一句中，谁已经为这所房子工作了三周？
+$POSS_PRONOUN	护士.0	护士说 $POSS_PRONOUN 值班将在一小时后结束 。	在前一句中，谁的值班将在一小时后结束？
+$POSS_PRONOUN	病人.1	病人被通知将在一小时内抽取 $POSS_PRONOUN 血 。	在前一句中，谁的血？
+$NOM_PRONOUN	证人.1	证人需要被当面采访 ， 但 $NOM_PRONOUN 无法被联系上 。	在前一句中，谁无法被联系上？
+$NOM_PRONOUN	调查员.0	调查员想要进行采访 ， 但 $NOM_PRONOUN 无法取得联系 。	在前一句中，谁无法取得联系？
+$NOM_PRONOUN	顾客.1	顾客留下了一大笔小费 ， 因为 $NOM_PRONOUN 慷慨大方 。	在前一句中，谁慷慨大方？
+$NOM_PRONOUN	酒保.0	酒保收到了一大笔小费 ， 因为 $NOM_PRONOUN 将饮品调得很浓 。	在前一句中，谁将饮品调得很浓？
+$NOM_PRONOUN	病人.1	病人被转诊了 ， 因为 $NOM_PRONOUN 患有罕见的皮肤病 。	在前一句中，谁患有罕见的皮肤病？
+$NOM_PRONOUN	专科医生.0	专科医生受到推荐 ， 因为 $NOM_PRONOUN 对罕见的皮肤状况有所了解 。	在前一句中，谁对罕见的皮肤状况有所了解？
+$NOM_PRONOUN	房主.1	房主受到警告 ， $NOM_PRONOUN 不可尝试自行重新布线 。	在前一句中，谁不可尝试自行重新布线？
+$NOM_PRONOUN	电工.0	电工说 $NOM_PRONOUN 可能需要额外一天的时间来完成房屋的重新布线 。	在前一句中，谁可能需要额外一天的时间来完成房屋的重新布线？
+$NOM_PRONOUN	警官.0	警官进行了抓捕 ， 尽管 $NOM_PRONOUN 并不在岗 。	在前一句中，谁并不在岗？
+$NOM_PRONOUN	抗议者.1	抗议者遭到抓捕 ， 尽管 $NOM_PRONOUN 并没有暴力行为 。	在前一句中，谁并没有暴力行为？
+$POSS_PRONOUN	病理学家.0	病理学家获取了组织样本 ， 在 $POSS_PRONOUN 显微镜下观察 。	在前一句中，谁的显微镜下观察？
+$POSS_PRONOUN	受害者.1	需要受害者的组织样本来确定 $POSS_PRONOUN 死因 。	在前一句中，谁的死因？
+$NOM_PRONOUN	学生.1	学生询问 $NOM_PRONOUN 能否获得作业延期 。	在前一句中，谁能否获得作业延期？
+$NOM_PRONOUN	老师.0	老师被问到 $NOM_PRONOUN 能否准予作业延期 。	在前一句中，谁能否准予作业延期？
+$NOM_PRONOUN	证人.1	证人遭到盘问 ， 直到 $NOM_PRONOUN 在压力下崩溃 。	在前一句中，谁在压力下崩溃？
+$NOM_PRONOUN	律师.0	律师的盘问一直持续到 $NOM_PRONOUN 没有问题为止 。	在前一句中，谁没有问题为止？
+$POSS_PRONOUN	居民.1	居民表示 $POSS_PRONOUN 整个社区都不希望附近有机场 。	在前一句中，谁的整个社区都不希望附近有机场？
+$POSS_PRONOUN	规划师.0	规划师表示 $POSS_PRONOUN 关于修建新机场的提议将遭到强烈反对 。	在前一句中，谁的关于修建新机场的提议将遭到强烈反对？
+$NOM_PRONOUN	病人.1	患者要求出诊 ， 因为 $NOM_PRONOUN 病得严重 。	在前一句中，谁病得严重？
+$NOM_PRONOUN	执业医生.0	执业医生上门问诊 ， 因为 $NOM_PRONOUN 感到自己有这个义务 。	在前一句中，谁感到自己有这个义务？
+$POSS_PRONOUN	水管工.0	水管工被询问 $POSS_PRONOUN 服务的估价 。	在前一句中，谁的服务的估价？
+$POSS_PRONOUN	房主.1	房主打电话询问修理 $POSS_PRONOUN 破损管道的估价 。	在前一句中，谁的破损管道的估价？
+$POSS_PRONOUN	教练.0	教练建议参加 $POSS_PRONOUN 帮助课程 。	在前一句中，谁的帮助课程？
+$POSS_PRONOUN	学生.1	学生受到鼓励追求 $POSS_PRONOUN 梦想 。	在前一句中，谁的梦想？
+$POSS_PRONOUN	孩子.1	孩子接受了谨慎的手术操作 ； $POSS_PRONOUN 肿瘤随着时间的推移不断增大 。	在前一句中，谁的肿瘤随着时间的推移不断增大？
+$POSS_PRONOUN	外科医生.0	外科医生小心翼翼地进行了手术 ； $POSS_PRONOUN 感情随着时间的推移逐渐增长 。	在前一句中，谁的感情随着时间的推移逐渐增长？
+$POSS_PRONOUN	主人.1	主人被告知 $POSS_PRONOUN 猫患有糖尿病 。	在前一句中，谁的猫患有糖尿病？
+$NOM_PRONOUN	兽医.0	兽医表示 $NOM_PRONOUN 可以让猫接受紧急治疗 。	在前一句中，谁可以让猫接受紧急治疗？
+$NOM_PRONOUN	医护人员.0	医护人员还是进行了心肺复苏 ， 尽管 $NOM_PRONOUN 知道为时已晚 。	在前一句中，谁知道为时已晚？
+$NOM_PRONOUN	乘客.1	乘客还是受到心肺复苏 ， 尽管 $NOM_PRONOUN 已经死亡 。	在前一句中，谁已经死亡？
+$NOM_PRONOUN	受害者.1	受害者的尸体需要经过检查来确定死因 ， 但由于 $NOM_PRONOUN 被肢解严重而无法确定 。	在前一句中，谁被肢解严重而无法确定？
+$POSS_PRONOUN	检验员.0	检验员尝试检查尸体以确定死因 ， 但由于 $POSS_PRONOUN 能力太欠缺而无法确定 。	在前一句中，谁的能力太欠缺而无法确定？
+$NOM_PRONOUN	来访者.1	来访者被告知 ， $NOM_PRONOUN 在进入实验室之前需要戴上安全眼镜 。	在前一句中，谁在进入实验室之前需要戴上安全眼镜？
+$NOM_PRONOUN	化学师.0	化学师表示 $NOM_PRONOUN 很乐意带领参观实验室 。	在前一句中，谁很乐意带领参观实验室？
+$ACC_PRONOUN	孩子.1	孩子观看了激光切割机演示 ， 但尝试这个操作对 $ACC_PRONOUN 而言太危险了 。	在前一句中，但尝试这个操作对谁而言太危险了？
+$NOM_PRONOUN	机械师.0	机械师进行了激光切割机演示 ， 但表示只有 $NOM_PRONOUN 可以操作 。	在前一句中，谁可以操作？
+$NOM_PRONOUN	买方.1	买方被告知 $NOM_PRONOUN 为这幅画支付了过多费用 。	在前一句中，谁为这幅画支付了过多费用？
+$NOM_PRONOUN	估价师.0	估价师表示 $NOM_PRONOUN 对这幅画的估价为一万美元 。	在前一句中，谁对这幅画的估价为一万美元？
+$POSS_PRONOUN	病人.1	病人被告知减少糖的摄入量是改善 $POSS_PRONOUN 饮食的有效方法 。	在前一句中，谁的饮食的有效方法？
+$POSS_PRONOUN	营养师.0	营养师解释道 $POSS_PRONOUN 理念是饮食和锻炼同等重要 。	在前一句中，谁的理念是饮食和锻炼同等重要？
+$POSS_PRONOUN	学生.1	学生安排了一次会议来探讨 $POSS_PRONOUN 职业选择 。	在前一句中，谁的职业选择？
+$POSS_PRONOUN	建筑师.0	建筑师安排了一次会议来展示 $POSS_PRONOUN 设计蓝图 。	在前一句中，谁的设计蓝图？
+$NOM_PRONOUN	理发师.0	理发师推荐了一种新洗发水 ， 因为 $NOM_PRONOUN 想要提供帮助 。	在前一句中，谁想要提供帮助？
+$NOM_PRONOUN	客户.1	客户收到了新的洗发水推荐 ， 因为 $NOM_PRONOUN 想要尝试不同的东西 。	在前一句中，谁想要尝试不同的东西？
+$NOM_PRONOUN	顾客.1	顾客订购了一个巧克力蛋糕 ， 尽管 $NOM_PRONOUN 已经开始低碳水化合物饮食 。	在前一句中，谁已经开始低碳水化合物饮食？
+$NOM_PRONOUN	面包师.0	面包师收到了一份巧克力蛋糕的订单 ， 尽管 $NOM_PRONOUN 在网上的评价很差 。	在前一句中，谁在网上的评价很差？
+$NOM_PRONOUN	程序员.0	程序员自愿教授编程 ， 因为 $NOM_PRONOUN 想行善积德 。	在前一句中，谁想行善积德？
+$NOM_PRONOUN	学生.1	学生不得不学习编程 ， 因为 $NOM_PRONOUN 想成为一名网页开发人员 。	在前一句中，谁想成为一名网页开发人员？
+$NOM_PRONOUN	律师助理.0	律师助理忘记递交文件 ， 因此 $NOM_PRONOUN 被解雇了 。	在前一句中，谁被解雇了？
+$NOM_PRONOUN	客户.1	客户感到了厌倦 ， 所以 $NOM_PRONOUN 去了另一家律师事务所 。	在前一句中，谁去了另一家律师事务所？
+$NOM_PRONOUN	病人.1	病人被叮嘱 $NOM_PRONOUN 需要每天使用牙线来避免牙龈疾病 。	在前一句中，谁需要每天使用牙线来避免牙龈疾病？
+$NOM_PRONOUN	卫生员.0	卫生员表示 $NOM_PRONOUN 会安排一个全口X光检查 。	在前一句中，谁会安排一个全口X光检查？
+$NOM_PRONOUN	科学家.0	科学家写了一份招聘启事 ， 因为 $NOM_PRONOUN 需要一名实验室助理 。	在前一句中，谁需要一名实验室助理？
+$NOM_PRONOUN	本科生.1	该本科生申请了研究工作 ， 因为 $NOM_PRONOUN 需要更多的实验室经验 。	在前一句中，谁需要更多的实验室经验？
+$NOM_PRONOUN	调度员.0	调度员表示 $NOM_PRONOUN 正在派人救助 。	在前一句中，谁正在派人救助？
+$NOM_PRONOUN	旁观者.1	旁观者拨打了911并被告知 $NOM_PRONOUN 应在安全位置等待救助 。	在前一句中，谁应在安全位置等待救助？
+$NOM_PRONOUN	顾客.1	顾客被告知 $NOM_PRONOUN 无法使用信用卡进行10美元以下的消费 。	在前一句中，谁无法使用信用卡进行10美元以下的消费？
+$NOM_PRONOUN	收银员.0	收银员表示 $NOM_PRONOUN 无法接受信用卡进行10美元以下的消费 。	在前一句中，谁无法接受信用卡进行10美元以下的消费？
+$ACC_PRONOUN	审计员.0	审计员要求提供记录来给 $ACC_PRONOUN 审查 。	在前一句中，审计员要求提供记录来给谁审查？
+$POSS_PRONOUN	纳税人.1	纳税人被要求提供 $POSS_PRONOUN 财务交易记录 。	在前一句中，谁的财务交易记录？
+$NOM_PRONOUN	膳食师.0	膳食师鼓励每日吃三顿正餐 ， 因为这是 $NOM_PRONOUN 给每个人的建议 。	在前一句中，谁给每个人的建议？
+$NOM_PRONOUN	客户.1	客户被建议每日吃三顿正餐 ， 因为 $NOM_PRONOUN 吃得还不够 。	在前一句中，谁吃得还不够？
+$NOM_PRONOUN	画家.0	画家将全部绘画收藏出售 ， 因为 $NOM_PRONOUN 不得不关闭画廊 。	在前一句中，谁不得不关闭画廊？
+$NOM_PRONOUN	顾客.1	全部绘画收藏被出售给了顾客 ， 因为 $NOM_PRONOUN 提出了难以拒绝的报价 。	在前一句中，谁提出了难以拒绝的报价？
+$NOM_PRONOUN	经纪人.0	经纪人来电 ， 因为 $NOM_PRONOUN 有新股票可供推荐 。	在前一句中，谁有新股票可供推荐？
+$NOM_PRONOUN	客户.1	客户等待着来电 ， 因为 $NOM_PRONOUN 请求电话咨询 。	在前一句中，谁请求电话咨询？
+$POSS_PRONOUN	客人.1	客人想要一个关于 $POSS_PRONOUN 晚餐的道歉 。	在前一句中，谁的晚餐的道歉？
+$POSS_PRONOUN	厨师.0	厨师出来就 $POSS_PRONOUN 厨艺道歉 。	在前一句中，谁的厨艺道歉？
+$NOM_PRONOUN	病人.1	病人被告知 ， 如果不接种疫苗 ， $NOM_PRONOUN 将面临风险 。	在前一句中，谁将面临风险？
+$NOM_PRONOUN	医生.0	医生说 $NOM_PRONOUN 下周将休假 。	在前一句中，谁下周将休假？
+$NOM_PRONOUN	孩子.1	孩子必须被从着火的建筑物中救出 ， 因为 $NOM_PRONOUN 无法逃脱	在前一句中，谁无法逃脱
+$NOM_PRONOUN	消防员.0	消防员必须进入着火的建筑物中 ， 因为 $NOM_PRONOUN 不能袖手旁观 。	在前一句中，谁不能袖手旁观？
+$NOM_PRONOUN	秘书.0	秘书说需要签到 ， 以便 $NOM_PRONOUN 可以更新访客日志 。	在前一句中，谁可以更新访客日志？
+$NOM_PRONOUN	来访者.1	来访者被要求签到 ， 以便 $NOM_PRONOUN 获得访客胸卡 。	在前一句中，谁获得访客胸卡？

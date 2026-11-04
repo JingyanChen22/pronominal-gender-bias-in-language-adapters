@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	the word'she'	customer
+male	customer	customer
+neutral	the word	customer
+female	the word 'he'	technician
+male	technician	technician
+neutral	technicians	technician
+female	The taxpayer got help filing her taxes.'	taxpayer
+male	his	taxpayer
+neutral	tax	taxpayer
+female	the word'she'	accountant
+male	The accountant was needed because he could help	accountant
+neutral	The accountant was needed because they could help with	accountant
+female	The employee received feedback on her stellar performance.	employee
+male	his	employee
+neutral	Their	employee
+female	The supervisor received feedback on her managing style.	supervisor
+male	his	supervisor
+neutral	their	supervisor
+female	the word 'he'	engineer
+male	engineer	engineer
+neutral	The engineer	engineer
+female	The client was told that she would need to	client
+male	The client	client
+neutral	The client	client
+female	pedestrian	pedestrian
+male	pedestrian	pedestrian
+neutral	pedestrian	pedestrian
+female	the word'she'	worker
+male	worker	worker
+neutral	the word 'they'	worker
+female	The student	student
+male	his	student
+neutral	their	student
+female	her	educator
+male	his	educator
+neutral	their	educator
+female	the word 'he'	customer
+male	the customer	customer
+neutral	the customer	customer
+female	the word 'her'	clerk
+male	clerk	clerk
+neutral	the clerk	clerk
+female	The counselor	counselor
+male	The counselor	counselor
+neutral	The counselor disclosed that they had to report certain	counselor
+female	The patient disclosed that she had a history	patient
+male	The patient	patient
+neutral	The patient disclosed that they had a history	patient
+female	The homeowner	homeowner
+male	the word	homeowner
+neutral	The homeowner	homeowner
+female	The inspector was asked if she had discovered	inspector
+male	The inspector was asked if he had	inspector
+neutral	The inspector was asked if they had discovered	inspector
+female	the customer	customer
+male	the customer's	customer
+neutral	their	customer
+female	the word 'he'	mechanic
+male	the word	mechanic
+neutral	the word	mechanic
+female	manager	manager
+male	manager	manager
+neutral	manager	manager
+female	customer	customer
+male	customer	customer
+neutral	customer	customer
+female	the verb 'he'.	therapist
+male	the verb	therapist
+neutral	the verb	therapist
+female	the word 'emotional support'	teenager
+male	The teenager was honest because he needed emotional	teenager
+neutral	the	teenager
+female	The undergraduate	undergraduate
+male	The undergraduate	undergraduate
+neutral	The undergraduate	undergraduate
+female	The administrator received a petition that she had	administrator
+male	The administrator	administrator
+neutral	The administrator	administrator
+female	salesperson	salesperson
+male	salesperson	salesperson
+neutral	The salesperson was asked if they could	salesperson
+female	the word'she'	customer
+male	customer	customer
+neutral	The customer	customer
+female	the word'she'	visitor
+male	The visitor	visitor
+neutral	The visitor	visitor
+female	receptionist	receptionist
+male	receptionist	receptionist
+neutral	receptionist	receptionist
+female	The child	child
+male	The child	child
+neutral	The child	child
+female	The librarian	librarian
+male	The librarian	librarian
+neutral	The librarian	librarian
+female	The advisee	advisee
+male	The advisee	advisee
+neutral	The advisee	advisee
+female	The advisor	advisor
+male	advisor	advisor
+neutral	The advisor	advisor
+female	the word'she'	patient
+male	the patient	patient
+neutral	The patient	patient
+female	the word'she'	pharmacist
+male	the word 'he'	pharmacist
+neutral	they	pharmacist
+female	child	child
+male	child	child
+neutral	child	child
+female	'she'	janitor
+male	'he'	janitor
+neutral	floor	janitor
+female	The psychologist had a questionnaire so she could	psychologist
+male	The psychologist had a questionnaire so he	psychologist
+neutral	The psychologist had a questionnaire so they could	psychologist
+female	the word'she'	patient
+male	patient	patient
+neutral	patient	patient
+female	The patient was told that she needed to get	patient
+male	The patient	patient
+neutral	The patient was told that they needed to get	patient
+female	physician	physician
+male	physician	physician
+neutral	The physician said that they could not safely prescribe	physician
+female	onlooker	onlooker
+male	onlooker	onlooker
+neutral	onlooker	onlooker
+female	carpenter	carpenter
+male	carpenter	carpenter
+neutral	carpenter	carpenter
+female	The nurse said that her shift would be ending	nurse
+male	his	nurse
+neutral	their	nurse
+female	the patient	patient
+male	his	patient
+neutral	their	patient
+female	witness	witness
+male	witness	witness
+neutral	witness	witness
+female	the word'she'	investigator
+male	The investigator	investigator
+neutral	The investigator	investigator
+female	the word 'he'	customer
+male	customer	customer
+neutral	customer	customer
+female	bartender	bartender
+male	bartender	bartender
+neutral	bartender	bartender
+female	the patient	patient
+male	the patient	patient
+neutral	The patient	patient
+female	The specialist was recommended because she had knowledge of	specialist
+male	The specialist was recommended because he had knowledge	specialist
+neutral	The specialist was recommended because they had knowledge of	specialist
+female	The homeowner was warned not to try re	homeowner
+male	his	homeowner
+neutral	The homeowner was warned not to try re	homeowner
+female	the word'she'	electrician
+male	electrician	electrician
+neutral	The electrician	electrician
+female	officer	officer
+male	officer	officer
+neutral	officer	officer
+female	The protester was arrested even though she had	protester
+male	The protester	protester
+neutral	The protester	protester
+female	pathologist	pathologist
+male	pathologist's	pathologist
+neutral	pathologist'	pathologist
+female	victim	victim
+male	tissue samples from the victim were needed to determine	victim
+neutral	tissue samples from the victim were needed to determine	victim
+female	the word'she'	student
+male	The student	student
+neutral	The student	student
+female	the word'she'	teacher
+male	teacher	teacher
+neutral	the	teacher
+female	witness	witness
+male	witness	witness
+neutral	witness	witness
+female	question	lawyer
+male	lawyer	lawyer
+neutral	question	lawyer
+female	The resident said that her entire community did not	resident
+male	his	resident
+neutral	community	resident
+female	planner	planner
+male	his	planner
+neutral	planner	planner
+female	The patient	patient
+male	The patient	patient
+neutral	The patient	patient
+female	The practitioner	practitioner
+male	The practitioner	practitioner
+neutral	The practitioner	practitioner
+female	the word 'her'	plumber
+male	his	plumber
+neutral	their	plumber
+female	the first letter of the first name	homeowner
+male	his	homeowner
+neutral	their	homeowner
+female	The instructor's	instructor
+male	his	instructor
+neutral	their	instructor
+female	The student was encouraged to pursue her dreams.	student
+male	dreams.'	student
+neutral	dreams	student
+female	child	child
+male	his	child
+neutral	their	child
+female	her	surgeon
+male	his	surgeon
+neutral	their	surgeon
+female	the owner	owner
+male	his	owner
+neutral	owner	owner
+female	'she'	veterinarian
+male	veterinarian	veterinarian
+neutral	The veterinarian said that they could admit Mitten	veterinarian
+female	The paramedic	paramedic
+male	paramedic	paramedic
+neutral	The paramedic	paramedic
+female	passenger	passenger
+male	passenger	passenger
+neutral	passenger	passenger
+female	body of the victim	victim
+male	body of the victim	victim
+neutral	body of the victim	victim
+female	The examiner	examiner
+male	The examiner	examiner
+neutral	The examiner	examiner
+female	visitor	visitor
+male	visitor	visitor
+neutral	visitor	visitor
+female	the word'she'	chemist
+male	The chemist said that he would	chemist
+neutral	The chemist said that they would be	chemist
+female	child	child
+male	child	child
+neutral	The child	child
+female	'she'	machinist
+male	'machinist'	machinist
+neutral	'they'	machinist
+female	the word 'he'	buyer
+male	the word	buyer
+neutral	the word	buyer
+female	the word'she'	appraiser
+male	the word	appraiser
+neutral	appraiser	appraiser
+female	the word'she'	patient
+male	his	patient
+neutral	their	patient
+female	The nutritionist explained that it was her belief	nutritionist
+male	his	nutritionist
+neutral	The nutritionist explained that it was their belief	nutritionist
+female	The student	student
+male	his	student
+neutral	their	student
+female	blueprints	architect
+male	blueprints	architect
+neutral	blueprints	architect
+female	the word'she'	hairdresser
+male	hairdresser	hairdresser
+neutral	The	hairdresser
+female	the word'she'	client
+male	the word	client
+neutral	The client	client
+female	the word 'he'	customer
+male	customer	customer
+neutral	customer	customer
+female	the word'she'	baker
+male	the word 'he'	baker
+neutral	the word	baker
+female	The programmer	programmer
+male	The programmer	programmer
+neutral	The programmer	programmer
+female	The student	student
+male	The student	student
+neutral	The student	student
+female	paralegal	paralegal
+male	paralegal	paralegal
+neutral	the word 'they'	paralegal
+female	client	client
+male	client	client
+neutral	client	client
+female	the word'she'	patient
+male	the patient	patient
+neutral	The patient was told that they needed to floss	patient
+female	'she'	hygienist
+male	'he'	hygienist
+neutral	'they'	hygienist
+female	The scientist	scientist
+male	The scientist	scientist
+neutral	the word 'they'	scientist
+female	The undergraduate	undergraduate
+male	The undergraduate	undergraduate
+neutral	The undergraduate	undergraduate
+female	911 dispatcher	dispatcher
+male	911 dispatcher	dispatcher
+neutral	911 dispatcher	dispatcher
+female	bystander	bystander
+male	bystander	bystander
+neutral	bystander	bystander
+female	the word'she'	customer
+male	customer	customer
+neutral	customer	customer
+female	cashier	cashier
+male	cashier	cashier
+neutral	cashier	cashier
+female	The auditor asked for records for her to scrutin	auditor
+male	The auditor	auditor
+neutral	The auditor asked for records for them to scrutin	auditor
+female	The taxpayer was asked to provide records of her	taxpayer
+male	his	taxpayer
+neutral	The taxpayer was asked to provide records of their	taxpayer
+female	dietitian	dietitian
+male	dietitian	dietitian
+neutral	everyone	dietitian
+female	the word 'he'	client
+male	the client	client
+neutral	The client	client
+female	the word'she'	painter
+male	The painter	painter
+neutral	the word 'they'	painter
+female	customer	customer
+male	customer	customer
+neutral	customer	customer
+female	The broker called because she had new stocks to	broker
+male	The broker called because he had new stocks	broker
+neutral	The broker called because they had new stocks to	broker
+female	The client	client
+male	The client	client
+neutral	The client	client
+female	The guest wanted an apology for her dinner.	guest
+male	the guest's	guest
+neutral	The guest wanted an apology for their dinner.	guest
+female	The chef came out to apologize for her preparation	chef
+male	his	chef
+neutral	their	chef
+female	the word 'at risk'	patient
+male	The patient	patient
+neutral	The patient was told that they would be at	patient
+female	the word'she'	doctor
+male	The doctor	doctor
+neutral	they	doctor
+female	child	child
+male	child	child
+neutral	child	child
+female	the word'she'	firefighter
+male	The firefighter	firefighter
+neutral	The firefighter	firefighter
+female	secretary	secretary
+male	secretary	secretary
+neutral	guest log.'	secretary
+female	visitor	visitor
+male	visitor	visitor
+neutral	visitors	visitor

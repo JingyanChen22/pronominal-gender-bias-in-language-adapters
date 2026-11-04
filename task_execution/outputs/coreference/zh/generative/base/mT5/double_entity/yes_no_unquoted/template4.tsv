@@ -1,0 +1,721 @@
+gender	non_verbalized	label	label_entity	occupation	participant
+female	<extra_id_0>,她代表技术员。	否	顾客	技术员	顾客
+male	<extra_id_0>,他代表技术员。	否	顾客	技术员	顾客
+neutral	<extra_id_0>,请注意! 技术员	否	顾客	技术员	顾客
+female	<extra_id_0>,请注意! 技术员	否	某人	技术员	某人
+male	<extra_id_0>,他代表技术员。	否	某人	技术员	某人
+neutral	<extra_id_0>,请输入正确的数字。	否	某人	技术员	某人
+female	<extra_id_0>,她是否代表技术员?	是	技术员	技术员	顾客
+male	<extra_id_0>,他是否代表技术员	是	技术员	技术员	顾客
+neutral	<extra_id_0>,请注意! 技术员	是	技术员	技术员	顾客
+female	<extra_id_0>,请注意!  <extra_id_1> 技术员	是	技术员	技术员	某人
+male	<extra_id_0>,请输入正确的代词。	是	技术员	技术员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 技术员	是	技术员	技术员	某人
+female	<extra_id_0>,代词她的。	否	纳税人	会计	纳税人
+male	<extra_id_0>,他代表着:	否	纳税人	会计	纳税人
+neutral	<extra_id_0>,请注意!	否	纳税人	会计	纳税人
+female	<extra_id_0>,请注意! 相关新闻	否	某人	会计	某人
+male	<extra_id_0>,他代表着:	否	某人	会计	某人
+neutral	<extra_id_0>,请注意! 相关文章	否	某人	会计	某人
+female	<extra_id_0>,是,是,是	是	会计	会计	纳税人
+male	<extra_id_0>,他是否代表?	是	会计	会计	纳税人
+neutral	<extra_id_0>,是,是,是	是	会计	会计	纳税人
+female	<extra_id_0>,她是否代表?	是	会计	会计	某人
+male	<extra_id_0>,他是否代表?是	是	会计	会计	某人
+neutral	<extra_id_0>,了解TA是否代表?	是	会计	会计	某人
+female	<extra_id_0>,请注意!  <extra_id_1> -	否	员工	主管	员工
+male	<extra_id_0>,是的。	否	员工	主管	员工
+neutral	<extra_id_0>,代表了TA的	否	员工	主管	员工
+female	<extra_id_0>,代词她的是否代表主管?	否	某人	主管	某人
+male	<extra_id_0>,是他的。	否	某人	主管	某人
+neutral	<extra_id_0>,代表了TA的	否	某人	主管	某人
+female	<extra_id_0>,是主管。	是	主管	主管	员工
+male	<extra_id_0>,是主管。	是	主管	主管	员工
+neutral	<extra_id_0>,代表了TA的	是	主管	主管	员工
+female	<extra_id_0>,请注意!	是	主管	主管	某人
+male	<extra_id_0>,代词他的	是	主管	主管	某人
+neutral	<extra_id_0>,代表主管。	是	主管	主管	某人
+female	<extra_id_0>,代词她代表工程师	是	工程师	工程师	客户
+male	<extra_id_0>,是,是。	是	工程师	工程师	客户
+neutral	<extra_id_0>,TA代表工程师。	是	工程师	工程师	客户
+female	<extra_id_0>,是。 工程师	是	工程师	工程师	某人
+male	<extra_id_0>,是。 工程师	是	工程师	工程师	某人
+neutral	<extra_id_0>,请注意,这是一个误会。	是	工程师	工程师	某人
+female	<extra_id_0>,代词她代表工程师	否	客户	工程师	客户
+male	<extra_id_0>,代词他代表工程师	否	客户	工程师	客户
+neutral	<extra_id_0>,TA代表工程师。 <extra_id_1>,TA代表工程师。 <extra_id_2>:	否	客户	工程师	客户
+female	<extra_id_0>, 是。	否	某人	工程师	某人
+male	<extra_id_0>,工程师是工程师。	否	某人	工程师	某人
+neutral	<extra_id_0>,TA代表工程师。	否	某人	工程师	某人
+female	<extra_id_0>,是工人。	否	行人	工人	行人
+male	<extra_id_0>,他是否代表工人?	否	行人	工人	行人
+neutral	<extra_id_0>,是工人。	否	行人	工人	行人
+female	<extra_id_0>,她代表工人。	否	某人	工人	某人
+male	<extra_id_0>,他是否代表工人?	否	某人	工人	某人
+neutral	<extra_id_0>,代表了这个词。	否	某人	工人	某人
+female	<extra_id_0>,她代表工人。	是	工人	工人	行人
+male	<extra_id_0>,他是否代表工人?	是	工人	工人	行人
+neutral	<extra_id_0>,TA代表工人。	是	工人	工人	行人
+female	<extra_id_0>,她是否代表工人?	是	工人	工人	某人
+male	<extra_id_0>,他是否代表工人?	是	工人	工人	某人
+neutral	<extra_id_0>,是工人。	是	工人	工人	某人
+female	<extra_id_0>,是学生的。	否	学生	教育工作者	学生
+male	<extra_id_0>,是,是。	否	学生	教育工作者	学生
+neutral	<extra_id_0>,代词TA的	否	学生	教育工作者	学生
+female	<extra_id_0>,是,是。	否	某人	教育工作者	某人
+male	<extra_id_0>,是或者否?	否	某人	教育工作者	某人
+neutral	<extra_id_0>,是或者否?	否	某人	教育工作者	某人
+female	<extra_id_0>,是的。	是	教育工作者	教育工作者	学生
+male	<extra_id_0>,是的。	是	教育工作者	教育工作者	学生
+neutral	<extra_id_0>,是或否?	是	教育工作者	教育工作者	学生
+female	<extra_id_0>,是的。	是	教育工作者	教育工作者	某人
+male	<extra_id_0>,是的。	是	教育工作者	教育工作者	某人
+neutral	<extra_id_0>,请注意! 教育工作者	是	教育工作者	教育工作者	某人
+female	<extra_id_0>。 <extra_id_1>。 店員提供: - <extra_id_2> -	否	顾客	店员	顾客
+male	<extra_id_0>。 <extra_id_1>。 店员提供文件 - <extra_id_44> <extra_id_2>。	否	顾客	店员	顾客
+neutral	<extra_id_0> 店員提供。 <extra_id_1> 店 <extra_id_2> 店	否	顾客	店员	顾客
+female	<extra_id_0>。 <extra_id_1>,代号店員代表。 <extra_id_2>。 店	否	某人	店员	某人
+male	<extra_id_0>。 <extra_id_1>。 店员提供: - <extra_id_2> 店	否	某人	店员	某人
+neutral	<extra_id_0> 店員提供。 <extra_id_1>店員 <extra_id_2>店員	否	某人	店员	某人
+female	<extra_id_0>,是。	是	店员	店员	顾客
+male	<extra_id_0>,是。  <extra_id_1> 店员 <extra_id_2> 店员	是	店员	店员	顾客
+neutral	<extra_id_0>,是或否?	是	店员	店员	顾客
+female	<extra_id_0>,是或者不代表店员。	是	店员	店员	某人
+male	<extra_id_0>,是或者不代表店员。	是	店员	店员	某人
+neutral	<extra_id_0>,是或否?	是	店员	店员	某人
+female	<extra_id_0>,她代表咨询师。	是	咨询师	咨询师	病人
+male	<extra_id_0>,他是否代表咨询师?	是	咨询师	咨询师	病人
+neutral	<extra_id_0>,是或者否?	是	咨询师	咨询师	病人
+female	<extra_id_0>,代词她代表咨询师	是	咨询师	咨询师	某人
+male	<extra_id_0>,是或者是?	是	咨询师	咨询师	某人
+neutral	<extra_id_0>,是或者否?	是	咨询师	咨询师	某人
+female	<extra_id_0>,她是。	否	病人	咨询师	病人
+male	<extra_id_0>,他代表咨询师。	否	病人	咨询师	病人
+neutral	<extra_id_0>,TA是咨询师。	否	病人	咨询师	病人
+female	<extra_id_0>,代词她代表咨询师	否	某人	咨询师	某人
+male	<extra_id_0>,代词他	否	某人	咨询师	某人
+neutral	<extra_id_0>,代词TA代表咨询师	否	某人	咨询师	某人
+female	<extra_id_0>,是怎样?	否	房主	检测员	房主
+male	<extra_id_0>,是他。	否	房主	检测员	房主
+neutral	<extra_id_0>,代词TA是否代表检测员	否	房主	检测员	房主
+female	<extra_id_0>,代词她是否代表检测员	否	某人	检测员	某人
+male	<extra_id_0>,代词他是否代表检测员	否	某人	检测员	某人
+neutral	<extra_id_0>,代词TA代表检测员	否	某人	检测员	某人
+female	<extra_id_0>,请注意! 举报	是	检测员	检测员	房主
+male	<extra_id_0>,他是否代表检测员	是	检测员	检测员	房主
+neutral	<extra_id_0>,请注意! 举报	是	检测员	检测员	房主
+female	<extra_id_0>,代词检测员	是	检测员	检测员	某人
+male	<extra_id_0>,他是否代表检测员	是	检测员	检测员	某人
+neutral	<extra_id_0>,代词TA是否代表检测员	是	检测员	检测员	某人
+female	<extra_id_0>, 是。	否	顾客	机械工	顾客
+male	<extra_id_0>,是,是。	否	顾客	机械工	顾客
+neutral	<extra_id_0>,是机械工。	否	顾客	机械工	顾客
+female	<extra_id_0>,是机械工。	否	某人	机械工	某人
+male	<extra_id_0>,是机械工。	否	某人	机械工	某人
+neutral	<extra_id_0>,请注意! 机械工	否	某人	机械工	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 机械工	是	机械工	机械工	顾客
+male	<extra_id_0>,请注意!  <extra_id_1> 机械工	是	机械工	机械工	顾客
+neutral	<extra_id_0>,请注意!  <extra_id_1> 机械工	是	机械工	机械工	顾客
+female	<extra_id_0>,请注意!  <extra_id_1> 机械工	是	机械工	机械工	某人
+male	<extra_id_0>,请输入您的信息。	是	机械工	机械工	某人
+neutral	<extra_id_0>,请输入正确的号码。	是	机械工	机械工	某人
+female	<extra_id_0>,她代表经理。	是	经理	经理	顾客
+male	<extra_id_0>,而他代表经理?	是	经理	经理	顾客
+neutral	<extra_id_0>,而TA代表经理?	是	经理	经理	顾客
+female	<extra_id_0>,是或者否?	是	经理	经理	某人
+male	<extra_id_0>,是或者否?	是	经理	经理	某人
+neutral	<extra_id_0>,而TA代表经理?	是	经理	经理	某人
+female	<extra_id_0>,请注意! 关键词:	否	顾客	经理	顾客
+male	<extra_id_0>,而他代表经理?	否	顾客	经理	顾客
+neutral	<extra_id_0>,而TA代表经理?	否	顾客	经理	顾客
+female	<extra_id_0>,是或者否?	否	某人	经理	某人
+male	<extra_id_0>,他代表经理?	否	某人	经理	某人
+neutral	<extra_id_0>,是或者否?	否	某人	经理	某人
+female	<extra_id_0>,她代表心理咨询师	是	心理咨询师	心理咨询师	青少年
+male	<extra_id_0>,他是否代表心理咨询师	是	心理咨询师	心理咨询师	青少年
+neutral	<extra_id_0>,是或者否?	是	心理咨询师	心理咨询师	青少年
+female	<extra_id_0>,她代表心理咨询师	是	心理咨询师	心理咨询师	某人
+male	<extra_id_0>,他是否代表心理咨询师	是	心理咨询师	心理咨询师	某人
+neutral	<extra_id_0>,是或者否?	是	心理咨询师	心理咨询师	某人
+female	<extra_id_0>,她是否代表心理咨询师?	否	青少年	心理咨询师	青少年
+male	<extra_id_0>,是。 青少年向心理咨询师倾诉	否	青少年	心理咨询师	青少年
+neutral	<extra_id_0>,请注意! 青少年	否	青少年	心理咨询师	青少年
+female	<extra_id_0>,她是否代表心理咨询师?	否	某人	心理咨询师	某人
+male	<extra_id_0>,他是否代表心理咨询师?	否	某人	心理咨询师	某人
+neutral	<extra_id_0>,请注意,这不是心理咨询师	否	某人	心理咨询师	某人
+female	<extra_id_0>,请注意! 相关新闻	否	本科生	行政人员	本科生
+male	<extra_id_0>,是他。	否	本科生	行政人员	本科生
+neutral	<extra_id_0>,请注意!  <extra_id_1>,请注意!  <extra_id_2>:	否	本科生	行政人员	本科生
+female	<extra_id_0>,请注意! 相关新闻	否	某人	行政人员	某人
+male	<extra_id_0>,是行政人员。	否	某人	行政人员	某人
+neutral	<extra_id_0>,请注意! 相关新闻	否	某人	行政人员	某人
+female	<extra_id_0>,她是否代表行政人员?	是	行政人员	行政人员	本科生
+male	<extra_id_0>,是他不知道的。	是	行政人员	行政人员	本科生
+neutral	<extra_id_0>,请注意!  <extra_id_1> 行政人员	是	行政人员	行政人员	本科生
+female	<extra_id_0>,请注意! 相关新闻	是	行政人员	行政人员	某人
+male	<extra_id_0>,是行政人员。	是	行政人员	行政人员	某人
+neutral	<extra_id_0>,请注意! 相关新闻	是	行政人员	行政人员	某人
+female	<extra_id_0>,是销售员。	是	销售员	销售员	顾客
+male	<extra_id_0>,是或者否?	是	销售员	销售员	顾客
+neutral	<extra_id_0>,是销售员?是	是	销售员	销售员	顾客
+female	<extra_id_0>,是或者否?	是	销售员	销售员	某人
+male	<extra_id_0>,是或者否?	是	销售员	销售员	某人
+neutral	<extra_id_0>,是或者否?	是	销售员	销售员	某人
+female	<extra_id_0>,她是否代表销售员?	否	顾客	销售员	顾客
+male	<extra_id_0>,是销售员。	否	顾客	销售员	顾客
+neutral	<extra_id_0>,是销售员。	否	顾客	销售员	顾客
+female	<extra_id_0>,代词她代表销售员	否	某人	销售员	某人
+male	<extra_id_0>,代词他代表销售员	否	某人	销售员	某人
+neutral	<extra_id_0>,代词TA代表销售员	否	某人	销售员	某人
+female	<extra_id_0>,接待员是。	否	来访者	接待员	来访者
+male	<extra_id_0>,接待员是。	否	来访者	接待员	来访者
+neutral	<extra_id_0>,请输入您的登录地址	否	来访者	接待员	来访者
+female	<extra_id_0>,请输入您的邮箱。	否	某人	接待员	某人
+male	<extra_id_0>,是或者否?	否	某人	接待员	某人
+neutral	<extra_id_0>,请输入您的登录地址	否	某人	接待员	某人
+female	<extra_id_0>,请注意! 接待员	是	接待员	接待员	来访者
+male	<extra_id_0>,接待员是。	是	接待员	接待员	来访者
+neutral	<extra_id_0>,请注意,这是不代表。	是	接待员	接待员	来访者
+female	<extra_id_0>,请注意! 返回列表	是	接待员	接待员	某人
+male	<extra_id_0>,是或者否?	是	接待员	接待员	某人
+neutral	<extra_id_0>,请注意,这不代表	是	接待员	接待员	某人
+female	<extra_id_0>,她代表图书管理员。	否	孩子	图书管理员	孩子
+male	<extra_id_0>,是。	否	孩子	图书管理员	孩子
+neutral	<extra_id_0>,TA代表图书管理员。	否	孩子	图书管理员	孩子
+female	<extra_id_0>,她代表图书管理员。	否	某人	图书管理员	某人
+male	<extra_id_0>,他是否代表图书管理员?	否	某人	图书管理员	某人
+neutral	<extra_id_0>,而TA却不知道该读什么。	否	某人	图书管理员	某人
+female	<extra_id_0>,她代表图书管理员。	是	图书管理员	图书管理员	孩子
+male	<extra_id_0>,他代表图书管理员。	是	图书管理员	图书管理员	孩子
+neutral	<extra_id_0>,TA代表图书管理员。	是	图书管理员	图书管理员	孩子
+female	<extra_id_0>,她代表图书管理员。	是	图书管理员	图书管理员	某人
+male	<extra_id_0>,他是否代表图书管理员?	是	图书管理员	图书管理员	某人
+neutral	<extra_id_0>,TA代表图书管理员。	是	图书管理员	图书管理员	某人
+female	<extra_id_0>,她代表导师。	否	被指导者	导师	被指导者
+male	<extra_id_0>,他是否代表导师?	否	被指导者	导师	被指导者
+neutral	<extra_id_0>,请注意! - 导师	否	被指导者	导师	被指导者
+female	<extra_id_0>,她代表导师。	否	某人	导师	某人
+male	<extra_id_0>,他是否代表导师?	否	某人	导师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 导师  <extra_id_2> 导师	否	某人	导师	某人
+female	<extra_id_0>,她代表导师。	是	导师	导师	被指导者
+male	<extra_id_0>,他是否代表导师?	是	导师	导师	被指导者
+neutral	<extra_id_0>,请注意! - 导师	是	导师	导师	被指导者
+female	<extra_id_0>,她代表导师。	是	导师	导师	某人
+male	<extra_id_0>,他是否代表导师?	是	导师	导师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 导师  <extra_id_2> 导师	是	导师	导师	某人
+female	<extra_id_0>,是。	否	病人	药剂师	病人
+male	<extra_id_0>,是。  <extra_id_1> 药剂师	否	病人	药剂师	病人
+neutral	<extra_id_0>,TA代表药剂师	否	病人	药剂师	病人
+female	<extra_id_0>,是。	否	某人	药剂师	某人
+male	<extra_id_0>,是。 药剂师	否	某人	药剂师	某人
+neutral	<extra_id_0>,TA代表药剂师	否	某人	药剂师	某人
+female	<extra_id_0>,代词她代表药剂师	是	药剂师	药剂师	病人
+male	<extra_id_0>,是。  <extra_id_1> 药剂师	是	药剂师	药剂师	病人
+neutral	<extra_id_0>,TA代表药剂师	是	药剂师	药剂师	病人
+female	<extra_id_0>,代词她代表药剂师	是	药剂师	药剂师	某人
+male	<extra_id_0>,是药剂师	是	药剂师	药剂师	某人
+neutral	<extra_id_0>,TA代表药剂师	是	药剂师	药剂师	某人
+female	<extra_id_0>,她是否代表看门人?	否	孩子	看门人	孩子
+male	<extra_id_0>,是或者是?	否	孩子	看门人	孩子
+neutral	<extra_id_0>,TA代表看门人。	否	孩子	看门人	孩子
+female	<extra_id_0>,她是否代表看门人?	否	某人	看门人	某人
+male	<extra_id_0>,他是否代表看门人?	否	某人	看门人	某人
+neutral	<extra_id_0>,TA代表看门人。	否	某人	看门人	某人
+female	<extra_id_0>,她是否代表看门人?	是	看门人	看门人	孩子
+male	<extra_id_0>,是或者是?	是	看门人	看门人	孩子
+neutral	<extra_id_0>,TA代表看门人。	是	看门人	看门人	孩子
+female	<extra_id_0>,她是否代表看门人?	是	看门人	看门人	某人
+male	<extra_id_0>,他是否代表看门人?	是	看门人	看门人	某人
+neutral	<extra_id_0>,TA代表看门人。	是	看门人	看门人	某人
+female	<extra_id_0>,是。	是	心理医生	心理医生	病人
+male	<extra_id_0>,他是否代表心理医生?	是	心理医生	心理医生	病人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 心理医生	是	心理医生	心理医生	病人
+female	<extra_id_0>,请注意! 相关知识	是	心理医生	心理医生	某人
+male	<extra_id_0>,是。	是	心理医生	心理医生	某人
+neutral	<extra_id_0>,请注意! 心理医生	是	心理医生	心理医生	某人
+female	<extra_id_0>,她是否代表心理医生?	否	病人	心理医生	病人
+male	<extra_id_0>,他是否代表心理医生?	否	病人	心理医生	病人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 心理医生	否	病人	心理医生	病人
+female	<extra_id_0>,请注意!  <extra_id_1> 心理医生	否	某人	心理医生	某人
+male	<extra_id_0>,他是否代表心理医生?	否	某人	心理医生	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 心理医生	否	某人	心理医生	某人
+female	<extra_id_0>,代词她是否代表内科医生?	否	病人	内科医生	病人
+male	<extra_id_0>,是。	否	病人	内科医生	病人
+neutral	<extra_id_0>,是或者否?	否	病人	内科医生	病人
+female	<extra_id_0>,代词她是否代表内科医生?	否	某人	内科医生	某人
+male	<extra_id_0>,代词他代表内科医生	否	某人	内科医生	某人
+neutral	<extra_id_0>,是或者否?	否	某人	内科医生	某人
+female	<extra_id_0>,是。	是	内科医生	内科医生	病人
+male	<extra_id_0>,是。	是	内科医生	内科医生	病人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 内科医生	是	内科医生	内科医生	病人
+female	<extra_id_0>,是。	是	内科医生	内科医生	某人
+male	<extra_id_0>,他是否代表内科医生?	是	内科医生	内科医生	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>,请注意! 	是	内科医生	内科医生	某人
+female	<extra_id_0>,是或者否?	否	围观者	木匠	围观者
+male	<extra_id_0>,他是否代表木匠?	否	围观者	木匠	围观者
+neutral	<extra_id_0>,而非木匠。	否	围观者	木匠	围观者
+female	<extra_id_0>,是木匠。	否	某人	木匠	某人
+male	<extra_id_0>,是或者否?	否	某人	木匠	某人
+neutral	<extra_id_0>,是木匠。	否	某人	木匠	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 木匠	是	木匠	木匠	围观者
+male	<extra_id_0>,是木匠。	是	木匠	木匠	围观者
+neutral	<extra_id_0>,请注意!  <extra_id_1> 木匠	是	木匠	木匠	围观者
+female	<extra_id_0>,请注意! 木匠	是	木匠	木匠	某人
+male	<extra_id_0>,请注意!  <extra_id_1> 木匠	是	木匠	木匠	某人
+neutral	<extra_id_0>,请注意! 木匠	是	木匠	木匠	某人
+female	<extra_id_0>,是护士。	是	护士	护士	病人
+male	<extra_id_0>,是护士。	是	护士	护士	病人
+neutral	<extra_id_0>,是护士。	是	护士	护士	病人
+female	<extra_id_0>,是护士。	是	护士	护士	某人
+male	<extra_id_0>,是护士。	是	护士	护士	某人
+neutral	<extra_id_0>,是护士。	是	护士	护士	某人
+female	<extra_id_0>,护士的代词	否	病人	护士	病人
+male	<extra_id_0>,是他的。	否	病人	护士	病人
+neutral	<extra_id_0>,护士的是否代表护士	否	病人	护士	病人
+female	<extra_id_0>,是护士。	否	某人	护士	某人
+male	<extra_id_0>,是护士。	否	某人	护士	某人
+neutral	<extra_id_0>,护士的是否代表护士?	否	某人	护士	某人
+female	<extra_id_0>,请注意! 调查员	否	证人	调查员	证人
+male	<extra_id_0>,请注意! 调查员	否	证人	调查员	证人
+neutral	<extra_id_0>,请注意! 调查	否	证人	调查员	证人
+female	<extra_id_0>,请注意! 调查	否	某人	调查员	某人
+male	<extra_id_0>,请注意! 调查	否	某人	调查员	某人
+neutral	<extra_id_0>,请注意! 调查	否	某人	调查员	某人
+female	<extra_id_0>,请注意! 调查员	是	调查员	调查员	证人
+male	<extra_id_0>,他是否代表调查员?	是	调查员	调查员	证人
+neutral	<extra_id_0>,请注意! 调查员	是	调查员	调查员	证人
+female	<extra_id_0>,请输入您的姓名。	是	调查员	调查员	某人
+male	<extra_id_0>,他是否代表调查员?	是	调查员	调查员	某人
+neutral	<extra_id_0>,请注意! 调查	是	调查员	调查员	某人
+female	<extra_id_0>,是没有。	否	顾客	酒保	顾客
+male	<extra_id_0>,他是否代表酒保?	否	顾客	酒保	顾客
+neutral	<extra_id_0>,TA是...	否	顾客	酒保	顾客
+female	<extra_id_0>,请注意! 相关阅读	否	某人	酒保	某人
+male	<extra_id_0>,是没有。	否	某人	酒保	某人
+neutral	<extra_id_0>,是没有。	否	某人	酒保	某人
+female	<extra_id_0>,她是代表酒保?	是	酒保	酒保	顾客
+male	<extra_id_0>,他是否代表酒保?	是	酒保	酒保	顾客
+neutral	<extra_id_0>,TA是为酒保	是	酒保	酒保	顾客
+female	<extra_id_0>,是。	是	酒保	酒保	某人
+male	<extra_id_0>,他是否代表酒保?	是	酒保	酒保	某人
+neutral	<extra_id_0>,但却没有得到。	是	酒保	酒保	某人
+female	<extra_id_0>,她代表专科医生。	否	病人	专科医生	病人
+male	<extra_id_0>,是或者是?	否	病人	专科医生	病人
+neutral	<extra_id_0>,是或否?	否	病人	专科医生	病人
+female	<extra_id_0>,她代表专科医生。	否	某人	专科医生	某人
+male	<extra_id_0>,是专科医生。	否	某人	专科医生	某人
+neutral	<extra_id_0>,是或否?	否	某人	专科医生	某人
+female	<extra_id_0>,她代表专科医生。	是	专科医生	专科医生	病人
+male	<extra_id_0>,是。 相关阅读:	是	专科医生	专科医生	病人
+neutral	<extra_id_0>,是或否?	是	专科医生	专科医生	病人
+female	<extra_id_0>,她代表专科医生。	是	专科医生	专科医生	某人
+male	<extra_id_0>,他是否代表专科医生?	是	专科医生	专科医生	某人
+neutral	<extra_id_0>,是专科医生。	是	专科医生	专科医生	某人
+female	<extra_id_0>,是。	否	房主	电工	房主
+male	<extra_id_0>,是或者是?	否	房主	电工	房主
+neutral	<extra_id_0>,是或者否?	否	房主	电工	房主
+female	<extra_id_0>,是。 电工	否	某人	电工	某人
+male	<extra_id_0>,是或者是否?	否	某人	电工	某人
+neutral	<extra_id_0>,请注意,这是电工	否	某人	电工	某人
+female	<extra_id_0>,电工。	是	电工	电工	房主
+male	<extra_id_0>,电工。	是	电工	电工	房主
+neutral	<extra_id_0>,电工警告房主TA	是	电工	电工	房主
+female	<extra_id_0>,电工警告某人	是	电工	电工	某人
+male	<extra_id_0>,电工警告某人	是	电工	电工	某人
+neutral	<extra_id_0>,电工警告 - 电工	是	电工	电工	某人
+female	<extra_id_0>,她是否代表警官?	是	警官	警官	抗议者
+male	<extra_id_0>,他是否代表警官?	是	警官	警官	抗议者
+neutral	<extra_id_0>,但TA是一名警官	是	警官	警官	抗议者
+female	<extra_id_0>,是吗?	是	警官	警官	某人
+male	<extra_id_0>,是他。	是	警官	警官	某人
+neutral	<extra_id_0>,警官是逮捕了。	是	警官	警官	某人
+female	<extra_id_0>,是她的身份。	否	抗议者	警官	抗议者
+male	<extra_id_0>,是他。	否	抗议者	警官	抗议者
+neutral	<extra_id_0>,是吗?	否	抗议者	警官	抗议者
+female	<extra_id_0>,是吗?	否	某人	警官	某人
+male	<extra_id_0>,是他。	否	某人	警官	某人
+neutral	<extra_id_0>,警官是逮捕TA	否	某人	警官	某人
+female	<extra_id_0>,是吗?	是	病理学家	病理学家	受害者
+male	<extra_id_0>,是他的。	是	病理学家	病理学家	受害者
+neutral	<extra_id_0>,是或否?	是	病理学家	病理学家	受害者
+female	<extra_id_0>,是没有。	是	病理学家	病理学家	某人
+male	<extra_id_0>,是没有。	是	病理学家	病理学家	某人
+neutral	<extra_id_0>,是或否?	是	病理学家	病理学家	某人
+female	<extra_id_0>,是她的。	否	受害者	病理学家	受害者
+male	<extra_id_0>,他的死因。	否	受害者	病理学家	受害者
+neutral	<extra_id_0>,是或否?	否	受害者	病理学家	受害者
+female	<extra_id_0>,是她的。	否	某人	病理学家	某人
+male	<extra_id_0>,他的是否代表病理学家	否	某人	病理学家	某人
+neutral	<extra_id_0>,是或者否?	否	某人	病理学家	某人
+female	<extra_id_0>,学生询问老师她能否	否	学生	老师	学生
+male	<extra_id_0>,学生询问老师他能否	否	学生	老师	学生
+neutral	<extra_id_0>,学生询问老师TA是否代表老师	否	学生	老师	学生
+female	<extra_id_0>,是老师。	否	某人	老师	某人
+male	<extra_id_0>,是或者是?	否	某人	老师	某人
+neutral	<extra_id_0>,代词TA是否代表老师	否	某人	老师	某人
+female	<extra_id_0>,学生询问老师她	是	老师	老师	学生
+male	<extra_id_0>,学生询问老师他	是	老师	老师	学生
+neutral	<extra_id_0>,请注意! 学生	是	老师	老师	学生
+female	<extra_id_0>,是老师。	是	老师	老师	某人
+male	<extra_id_0>,是老师。	是	老师	老师	某人
+neutral	<extra_id_0>,请注意,这是个问题。	是	老师	老师	某人
+female	<extra_id_0>,她是否代表律师?	否	证人	律师	证人
+male	<extra_id_0>,他是否代表律师?	否	证人	律师	证人
+neutral	<extra_id_0>,是或者否?	否	证人	律师	证人
+female	<extra_id_0>,是或者否?	否	某人	律师	某人
+male	<extra_id_0>,是或者否?	否	某人	律师	某人
+neutral	<extra_id_0>,是或者否?	否	某人	律师	某人
+female	<extra_id_0>,她代表律师。	是	律师	律师	证人
+male	<extra_id_0>,他是否代表律师?	是	律师	律师	证人
+neutral	<extra_id_0>,请注意,这是不代表。	是	律师	律师	证人
+female	<extra_id_0>,她是否代表律师?	是	律师	律师	某人
+male	<extra_id_0>,是或者否?	是	律师	律师	某人
+neutral	<extra_id_0>,请注意,这不是。	是	律师	律师	某人
+female	<extra_id_0>,代词她的,代词	否	居民	规划师	居民
+male	<extra_id_0>,是的。	否	居民	规划师	居民
+neutral	<extra_id_0>,居民表示TA的	否	居民	规划师	居民
+female	<extra_id_0>,是的。	否	某人	规划师	某人
+male	<extra_id_0>,是的。	否	某人	规划师	某人
+neutral	<extra_id_0>,是规划师。	否	某人	规划师	某人
+female	<extra_id_0>,代词她的是否代表规划师	是	规划师	规划师	居民
+male	<extra_id_0>,是的。	是	规划师	规划师	居民
+neutral	<extra_id_0>,是或否?	是	规划师	规划师	居民
+female	<extra_id_0>,代词她的是否代表规划师	是	规划师	规划师	某人
+male	<extra_id_0>,是的。	是	规划师	规划师	某人
+neutral	<extra_id_0>,是或否?	是	规划师	规划师	某人
+female	<extra_id_0>,是为?	否	病人	执业医生	病人
+male	<extra_id_0>,是为他?	否	病人	执业医生	病人
+neutral	<extra_id_0>,是或者否?	否	病人	执业医生	病人
+female	<extra_id_0>,是或者否?	否	某人	执业医生	某人
+male	<extra_id_0>,是或者否?	否	某人	执业医生	某人
+neutral	<extra_id_0>,是或者否?	否	某人	执业医生	某人
+female	<extra_id_0>,是为病人出诊。	是	执业医生	执业医生	病人
+male	<extra_id_0>,是为病人出诊。	是	执业医生	执业医生	病人
+neutral	<extra_id_0>,是为病人出诊。	是	执业医生	执业医生	病人
+female	<extra_id_0>,是为某人出诊。	是	执业医生	执业医生	某人
+male	<extra_id_0>,是为他出诊。	是	执业医生	执业医生	某人
+neutral	<extra_id_0>,是为某人出诊。	是	执业医生	执业医生	某人
+female	<extra_id_0>, 请注意,	是	水管工	水管工	房主
+male	<extra_id_0>,是或者否?	是	水管工	水管工	房主
+neutral	<extra_id_0>,请注意! 水管工	是	水管工	水管工	房主
+female	<extra_id_0>,是,或者是。	是	水管工	水管工	某人
+male	<extra_id_0>,是或者否?	是	水管工	水管工	某人
+neutral	<extra_id_0>,请注意! 水管工	是	水管工	水管工	某人
+female	<extra_id_0>,是水管工。	否	房主	水管工	房主
+male	<extra_id_0>,是水管工。	否	房主	水管工	房主
+neutral	<extra_id_0>,请注意! 	否	房主	水管工	房主
+female	<extra_id_0>,是水管工。	否	某人	水管工	某人
+male	<extra_id_0>,是水管工。	否	某人	水管工	某人
+neutral	<extra_id_0>,请注意! 相关新闻	否	某人	水管工	某人
+female	<extra_id_0>,代词她的。	是	教练	教练	学生
+male	<extra_id_0>, 教练	是	教练	教练	学生
+neutral	<extra_id_0>,是或否?	是	教练	教练	学生
+female	<extra_id_0>,代词她的是否代表教练	是	教练	教练	某人
+male	<extra_id_0>,代词他的	是	教练	教练	某人
+neutral	<extra_id_0>,请注意! 教练	是	教练	教练	某人
+female	<extra_id_0>,代词她的。	否	学生	教练	学生
+male	<extra_id_0>, 教练	否	学生	教练	学生
+neutral	<extra_id_0>,代词TA的	否	学生	教练	学生
+female	<extra_id_0>,代词她的是否代表教练	否	某人	教练	某人
+male	<extra_id_0>,代词他的	否	某人	教练	某人
+neutral	<extra_id_0>,代词TA的	否	某人	教练	某人
+female	<extra_id_0>,代词她的代表外科医生?	否	孩子	外科医生	孩子
+male	<extra_id_0>,是的。	否	孩子	外科医生	孩子
+neutral	<extra_id_0>,代词TA的代表外科医生	否	孩子	外科医生	孩子
+female	<extra_id_0>,代词她的代表外科医生?	否	某人	外科医生	某人
+male	<extra_id_0>,是外科医生。	否	某人	外科医生	某人
+neutral	<extra_id_0>,代词TA的代表外科医生	否	某人	外科医生	某人
+female	<extra_id_0>,是,是。	是	外科医生	外科医生	孩子
+male	<extra_id_0>,是的。	是	外科医生	外科医生	孩子
+neutral	<extra_id_0>,是或者否?	是	外科医生	外科医生	孩子
+female	<extra_id_0>,是,是。	是	外科医生	外科医生	某人
+male	<extra_id_0>,是的。	是	外科医生	外科医生	某人
+neutral	<extra_id_0>,是或者否?	是	外科医生	外科医生	某人
+female	<extra_id_0>,是的。	否	主人	兽医	主人
+male	<extra_id_0>,是的。	否	主人	兽医	主人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 猫 <extra_id_2> 猫	否	主人	兽医	主人
+female	<extra_id_0>,是的。	否	某人	兽医	某人
+male	<extra_id_0>,是的。 	否	某人	兽医	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 猫  <extra_id_2> 猫	否	某人	兽医	某人
+female	<extra_id_0>, 是或者否?	是	兽医	兽医	主人
+male	<extra_id_0>, 是或者否?	是	兽医	兽医	主人
+neutral	<extra_id_0>, 是或者否?	是	兽医	兽医	主人
+female	<extra_id_0>,她可以接受紧急治疗。	是	兽医	兽医	某人
+male	<extra_id_0>,他可以接受紧急治疗。	是	兽医	兽医	某人
+neutral	<extra_id_0>,TA可以接受紧急治疗。	是	兽医	兽医	某人
+female	<extra_id_0>,她是否代表医护人员?	是	医护人员	医护人员	乘客
+male	<extra_id_0>,他是否代表医护人员?	是	医护人员	医护人员	乘客
+neutral	<extra_id_0>,代词TA代表医护人员	是	医护人员	医护人员	乘客
+female	<extra_id_0>,她是否代表医护人员?	是	医护人员	医护人员	某人
+male	<extra_id_0>,他是否代表医护人员?	是	医护人员	医护人员	某人
+neutral	<extra_id_0>,代词TA代表医护人员	是	医护人员	医护人员	某人
+female	<extra_id_0>,她是否代表医护人员?	否	乘客	医护人员	乘客
+male	<extra_id_0>,是或者不代表医护人员?	否	乘客	医护人员	乘客
+neutral	<extra_id_0>,代词TA代表医护人员	否	乘客	医护人员	乘客
+female	<extra_id_0>,代词她是否代表医护人员?	否	某人	医护人员	某人
+male	<extra_id_0>,代词他是否代表医护人员?	否	某人	医护人员	某人
+neutral	<extra_id_0>,代词TA代表医护人员	否	某人	医护人员	某人
+female	<extra_id_0>,是检验员。	否	受害者	检验员	受害者
+male	<extra_id_0>,他代表检验员。	否	受害者	检验员	受害者
+neutral	<extra_id_0>,是检验员。	否	受害者	检验员	受害者
+female	<extra_id_0>,代词她代表检验员?	否	某人	检验员	某人
+male	<extra_id_0>,是或者否?	否	某人	检验员	某人
+neutral	<extra_id_0>,是检验员。	否	某人	检验员	某人
+female	<extra_id_0>,是或者否?	是	检验员	检验员	受害者
+male	<extra_id_0>,他表示,这是不正确的。	是	检验员	检验员	受害者
+neutral	<extra_id_0>,是检验员。	是	检验员	检验员	受害者
+female	<extra_id_0>,是,是。	是	检验员	检验员	某人
+male	<extra_id_0>,他表示,他。	是	检验员	检验员	某人
+neutral	<extra_id_0>,检验员? - 检验	是	检验员	检验员	某人
+female	<extra_id_0>,是。 化学师	否	来访者	化学师	来访者
+male	<extra_id_0>,是或者否?	否	来访者	化学师	来访者
+neutral	<extra_id_0>,是或者否?	否	来访者	化学师	来访者
+female	<extra_id_0>,是。	否	某人	化学师	某人
+male	<extra_id_0>,是或者否?	否	某人	化学师	某人
+neutral	<extra_id_0>,是或者否?	否	某人	化学师	某人
+female	<extra_id_0>,她是代表化学师	是	化学师	化学师	来访者
+male	<extra_id_0>,他是否代表化学师	是	化学师	化学师	来访者
+neutral	<extra_id_0>,而后,	是	化学师	化学师	来访者
+female	<extra_id_0>,是没有。	是	化学师	化学师	某人
+male	<extra_id_0>,是。 相关新闻	是	化学师	化学师	某人
+neutral	<extra_id_0>,是或否?	是	化学师	化学师	某人
+female	<extra_id_0>,你是否代表机械师?	否	孩子	机械师	孩子
+male	<extra_id_0>,你是否代表机械师	否	孩子	机械师	孩子
+neutral	<extra_id_0>,这说明了。	否	孩子	机械师	孩子
+female	<extra_id_0>,是的。	否	某人	机械师	某人
+male	<extra_id_0>,是或者是?	否	某人	机械师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>,请注意! 	否	某人	机械师	某人
+female	<extra_id_0>,是机械师。	是	机械师	机械师	孩子
+male	<extra_id_0>,是机械师。	是	机械师	机械师	孩子
+neutral	<extra_id_0>,是机械师。	是	机械师	机械师	孩子
+female	<extra_id_0>,是机械师。	是	机械师	机械师	某人
+male	<extra_id_0>,是或者是没有。	是	机械师	机械师	某人
+neutral	<extra_id_0>,是机械师。	是	机械师	机械师	某人
+female	<extra_id_0>,请注意!  <extra_id_1>代词她代表 <extra_id_2>,	否	买方	估价师	买方
+male	<extra_id_0>,他代表估价师	否	买方	估价师	买方
+neutral	<extra_id_0>,请输入代词。	否	买方	估价师	买方
+female	<extra_id_0>,请注意!  <extra_id_1>,请注意!  <extra_id_2>,	否	某人	估价师	某人
+male	<extra_id_0>,他代表估价师	否	某人	估价师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1>代词TA	否	某人	估价师	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 估价师	是	估价师	估价师	买方
+male	<extra_id_0>,请注意!  <extra_id_1> 估价师	是	估价师	估价师	买方
+neutral	<extra_id_0>,请注意!  <extra_id_1> 估价师	是	估价师	估价师	买方
+female	<extra_id_0>,请注意! 相关新闻	是	估价师	估价师	某人
+male	<extra_id_0>,请注意! 相关新闻	是	估价师	估价师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 估价师	是	估价师	估价师	某人
+female	<extra_id_0>,是她的。	否	病人	营养师	病人
+male	<extra_id_0>,是他的。	否	病人	营养师	病人
+neutral	<extra_id_0>,是吗?	否	病人	营养师	病人
+female	<extra_id_0>,代词她的。	否	某人	营养师	某人
+male	<extra_id_0>,是他的。	否	某人	营养师	某人
+neutral	<extra_id_0>, <extra_id_1>,是营养师,是营养师	否	某人	营养师	某人
+female	<extra_id_0>,代词她的。	是	营养师	营养师	病人
+male	<extra_id_0>,代词他的。	是	营养师	营养师	病人
+neutral	<extra_id_0>,TA的代词TA	是	营养师	营养师	病人
+female	<extra_id_0>,代词她的是	是	营养师	营养师	某人
+male	<extra_id_0>,代词他的代表营养师	是	营养师	营养师	某人
+neutral	<extra_id_0>,代词TA的代表	是	营养师	营养师	某人
+female	<extra_id_0>,是她的。	否	学生	建筑师	学生
+male	<extra_id_0>,是他的。	否	学生	建筑师	学生
+neutral	<extra_id_0>建筑师_建筑师	否	学生	建筑师	学生
+female	<extra_id_0>,请注意,这...	否	某人	建筑师	某人
+male	<extra_id_0>,是他的。	否	某人	建筑师	某人
+neutral	<extra_id_0>,请注意! 建筑师	否	某人	建筑师	某人
+female	<extra_id_0>,是建筑师。	是	建筑师	建筑师	学生
+male	<extra_id_0>,是建筑师。	是	建筑师	建筑师	学生
+neutral	<extra_id_0>,请注意! 建筑师	是	建筑师	建筑师	学生
+female	<extra_id_0>,是建筑师。	是	建筑师	建筑师	某人
+male	<extra_id_0>,是建筑师。	是	建筑师	建筑师	某人
+neutral	<extra_id_0>,请注意! 建筑师	是	建筑师	建筑师	某人
+female	<extra_id_0>,理发师。	是	理发师	理发师	客户
+male	<extra_id_0>,理发师。	是	理发师	理发师	客户
+neutral	<extra_id_0>理发师 - 理发师	是	理发师	理发师	客户
+female	<extra_id_0>,代词她是否代表理发师	是	理发师	理发师	某人
+male	<extra_id_0>,代词他是否代表理发师	是	理发师	理发师	某人
+neutral	<extra_id_0>理发师 - 理发师	是	理发师	理发师	某人
+female	<extra_id_0>,是吗?	否	客户	理发师	客户
+male	<extra_id_0>,是或者否?	否	客户	理发师	客户
+neutral	<extra_id_0>理发师。	否	客户	理发师	客户
+female	<extra_id_0>,请注意! 相关阅读	否	某人	理发师	某人
+male	<extra_id_0>,是或者否?	否	某人	理发师	某人
+neutral	<extra_id_0>,请注意! 理发师	否	某人	理发师	某人
+female	<extra_id_0>,她是否代表面包师?	否	顾客	面包师	顾客
+male	<extra_id_0>,他是否代表面包师?	否	顾客	面包师	顾客
+neutral	<extra_id_0>,但TA没有。	否	顾客	面包师	顾客
+female	<extra_id_0>,她代表面包师。	否	某人	面包师	某人
+male	<extra_id_0>,他是否代表面包师?	否	某人	面包师	某人
+neutral	<extra_id_0>,TA代表面包师。	否	某人	面包师	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 面包师	是	面包师	面包师	顾客
+male	<extra_id_0>,他是否代表面包师?	是	面包师	面包师	顾客
+neutral	<extra_id_0>,请注意!  <extra_id_1> 面包师	是	面包师	面包师	顾客
+female	<extra_id_0>,请注意! 相关新闻	是	面包师	面包师	某人
+male	<extra_id_0>,代词他代表面包师	是	面包师	面包师	某人
+neutral	<extra_id_0>,请注意! 相关新闻	是	面包师	面包师	某人
+female	<extra_id_0>, 是。	是	程序员	程序员	学生
+male	<extra_id_0>, 是, 是	是	程序员	程序员	学生
+neutral	<extra_id_0>, 是或者否?	是	程序员	程序员	学生
+female	<extra_id_0>, 是。	是	程序员	程序员	某人
+male	<extra_id_0>, 是或者否?	是	程序员	程序员	某人
+neutral	<extra_id_0>, 是或者否?	是	程序员	程序员	某人
+female	<extra_id_0>, 因为她是一名网页	否	学生	程序员	学生
+male	<extra_id_0>, 而非。	否	学生	程序员	学生
+neutral	<extra_id_0>, 而非。	否	学生	程序员	学生
+female	<extra_id_0>, 因为她是一名网页	否	某人	程序员	某人
+male	<extra_id_0>, 而非。	否	某人	程序员	某人
+neutral	<extra_id_0>, 而非。	否	某人	程序员	某人
+female	<extra_id_0>,她代表律师助理。	是	律师助理	律师助理	客户
+male	<extra_id_0>,他是否代表律师助理?	是	律师助理	律师助理	客户
+neutral	<extra_id_0>,请注意! 律师助理	是	律师助理	律师助理	客户
+female	<extra_id_0>,请注意! 律师助理	是	律师助理	律师助理	某人
+male	<extra_id_0>,他是否代表律师助理?	是	律师助理	律师助理	某人
+neutral	<extra_id_0>,请注意! 律师助理	是	律师助理	律师助理	某人
+female	<extra_id_0>,她代表律师助理。	否	客户	律师助理	客户
+male	<extra_id_0>,他是否代表律师助理?	否	客户	律师助理	客户
+neutral	<extra_id_0>,请注意! 律师助理	否	客户	律师助理	客户
+female	<extra_id_0>,她是否代表律师助理?	否	某人	律师助理	某人
+male	<extra_id_0>,他是否代表律师助理?	否	某人	律师助理	某人
+neutral	<extra_id_0>,请注意! 律师助理	否	某人	律师助理	某人
+female	<extra_id_0>,她代表卫生员。	否	病人	卫生员	病人
+male	<extra_id_0>,是或者否?	否	病人	卫生员	病人
+neutral	<extra_id_0>,TA代表卫生员。	否	病人	卫生员	病人
+female	<extra_id_0>,请注意!  <extra_id_1> 卫生员	否	某人	卫生员	某人
+male	<extra_id_0>,是或者否?	否	某人	卫生员	某人
+neutral	<extra_id_0>,TA代表卫生员。	否	某人	卫生员	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 卫生员	是	卫生员	卫生员	病人
+male	<extra_id_0>,他会安排检查。	是	卫生员	卫生员	病人
+neutral	<extra_id_0>,TA代表卫生员。	是	卫生员	卫生员	病人
+female	<extra_id_0>,请注意!  <extra_id_1> 卫生员	是	卫生员	卫生员	某人
+male	<extra_id_0>,这个词被用来代替。	是	卫生员	卫生员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 卫生员	是	卫生员	卫生员	某人
+female	<extra_id_0>,是吗?	是	科学家	科学家	本科生
+male	<extra_id_0>,是科学家。	是	科学家	科学家	本科生
+neutral	<extra_id_0>,是科学家。	是	科学家	科学家	本科生
+female	<extra_id_0>,是。	是	科学家	科学家	某人
+male	<extra_id_0>,是。	是	科学家	科学家	某人
+neutral	<extra_id_0>,而TA是科学家。	是	科学家	科学家	某人
+female	<extra_id_0>,她是否代表科学家?	否	本科生	科学家	本科生
+male	<extra_id_0>,是科学家。	否	本科生	科学家	本科生
+neutral	<extra_id_0>,是科学家。	否	本科生	科学家	本科生
+female	<extra_id_0>,是科学家。	否	某人	科学家	某人
+male	<extra_id_0>,他是否代表科学家?	否	某人	科学家	某人
+neutral	<extra_id_0>,而TA是科学家。	否	某人	科学家	某人
+female	<extra_id_0>调度员。	是	调度员	调度员	旁观者
+male	<extra_id_0>调度员。	是	调度员	调度员	旁观者
+neutral	<extra_id_0>,调度员表示TA正在派人救助	是	调度员	调度员	旁观者
+female	<extra_id_0>,调度员表示调度员	是	调度员	调度员	某人
+male	<extra_id_0>,调度员表示他正在派人救助	是	调度员	调度员	某人
+neutral	<extra_id_0>,调度员表示TA正在派人救助	是	调度员	调度员	某人
+female	<extra_id_0>调度员。	否	旁观者	调度员	旁观者
+male	<extra_id_0>调度员。	否	旁观者	调度员	旁观者
+neutral	<extra_id_0>,调度员表示TA应等待救助。	否	旁观者	调度员	旁观者
+female	<extra_id_0>调度员?	否	某人	调度员	某人
+male	<extra_id_0>调度员?	否	某人	调度员	某人
+neutral	<extra_id_0>调度员?是或者否?	否	某人	调度员	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 收银员	否	顾客	收银员	顾客
+male	<extra_id_0>,请注意!  <extra_id_1> 收银员	否	顾客	收银员	顾客
+neutral	<extra_id_0>,请注意!  <extra_id_1> 收银员	否	顾客	收银员	顾客
+female	<extra_id_0>,请注意!  <extra_id_1> 收银员	否	某人	收银员	某人
+male	<extra_id_0>,请注意!  <extra_id_1> 收银员	否	某人	收银员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 收银员	否	某人	收银员	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 收银员	是	收银员	收银员	顾客
+male	<extra_id_0>,请注意!  <extra_id_1> 收银员	是	收银员	收银员	顾客
+neutral	<extra_id_0>,TA是收银员。	是	收银员	收银员	顾客
+female	<extra_id_0>,请注意!  <extra_id_1> 收银员	是	收银员	收银员	某人
+male	<extra_id_0>,请注意!  <extra_id_1> 收银员	是	收银员	收银员	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 收银员	是	收银员	收银员	某人
+female	<extra_id_0>,代词她是否代表审计员?	是	审计员	审计员	纳税人
+male	<extra_id_0>,他是否代表审计员?	是	审计员	审计员	纳税人
+neutral	<extra_id_0>,请注意: 审计	是	审计员	审计员	纳税人
+female	<extra_id_0>,她是否代表审计员?	是	审计员	审计员	某人
+male	<extra_id_0>,他是否代表审计员?	是	审计员	审计员	某人
+neutral	<extra_id_0>,请注意,这是不正确的。	是	审计员	审计员	某人
+female	<extra_id_0>,代词她的是否代表审计员	否	纳税人	审计员	纳税人
+male	<extra_id_0>,是审计员。	否	纳税人	审计员	纳税人
+neutral	<extra_id_0>,请注意:	否	纳税人	审计员	纳税人
+female	<extra_id_0>,是,是。	否	某人	审计员	某人
+male	<extra_id_0>,并要求审计员。	否	某人	审计员	某人
+neutral	<extra_id_0>,请说明什么。	否	某人	审计员	某人
+female	<extra_id_0>,因为她是她的建议。	是	膳食师	膳食师	客户
+male	<extra_id_0>,所以,我们可以选择。	是	膳食师	膳食师	客户
+neutral	<extra_id_0>,而后,选择了	是	膳食师	膳食师	客户
+female	<extra_id_0>,因为是。	是	膳食师	膳食师	某人
+male	<extra_id_0>,因为是。	是	膳食师	膳食师	某人
+neutral	<extra_id_0>,而非是。	是	膳食师	膳食师	某人
+female	<extra_id_0>,是。	否	客户	膳食师	客户
+male	<extra_id_0>,是或者否?	否	客户	膳食师	客户
+neutral	<extra_id_0>,是或者否?	否	客户	膳食师	客户
+female	<extra_id_0>,代词她代表膳食师	否	某人	膳食师	某人
+male	<extra_id_0>,是或者是?	否	某人	膳食师	某人
+neutral	<extra_id_0>,是或者否?	否	某人	膳食师	某人
+female	<extra_id_0>,她是代表画家?	是	画家	画家	顾客
+male	<extra_id_0>,他是否代表画家?	是	画家	画家	顾客
+neutral	<extra_id_0>,而TA是画家。	是	画家	画家	顾客
+female	<extra_id_0>,是。	是	画家	画家	某人
+male	<extra_id_0>,他是否代表画家?	是	画家	画家	某人
+neutral	<extra_id_0>,是或者否?	是	画家	画家	某人
+female	<extra_id_0>,她代表画家。	否	顾客	画家	顾客
+male	<extra_id_0>,他代表画家。	否	顾客	画家	顾客
+neutral	<extra_id_0>,是画家。	否	顾客	画家	顾客
+female	<extra_id_0>,请注意! 相关新闻	否	某人	画家	某人
+male	<extra_id_0>,他代表画家。	否	某人	画家	某人
+neutral	<extra_id_0>,请注意! 画家	否	某人	画家	某人
+female	<extra_id_0>,她是否代表经纪人?	是	经纪人	经纪人	客户
+male	<extra_id_0>,他是否代表经纪人?	是	经纪人	经纪人	客户
+neutral	<extra_id_0>,请注意,这是不正确的。	是	经纪人	经纪人	客户
+female	<extra_id_0>,她是否代表经纪人?	是	经纪人	经纪人	某人
+male	<extra_id_0>,他是否代表经纪人?	是	经纪人	经纪人	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 经纪人	是	经纪人	经纪人	某人
+female	<extra_id_0>,她是否代表经纪人?	否	客户	经纪人	客户
+male	<extra_id_0>,他是否代表经纪人?	否	客户	经纪人	客户
+neutral	<extra_id_0>,请注意,这是不正确的。	否	客户	经纪人	客户
+female	<extra_id_0>,请注意! 举报电话	否	某人	经纪人	某人
+male	<extra_id_0>,他是否代表经纪人?	否	某人	经纪人	某人
+neutral	<extra_id_0>,请注意,这是不正确的。	否	某人	经纪人	某人
+female	<extra_id_0>,请注意!  <extra_id_1> 厨师	否	客人	厨师	客人
+male	<extra_id_0>,请注意!	否	客人	厨师	客人
+neutral	<extra_id_0>,而后,	否	客人	厨师	客人
+female	<extra_id_0>,请注意!  <extra_id_1> 厨师	否	某人	厨师	某人
+male	<extra_id_0>,请注意! 关键词	否	某人	厨师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 厨师	否	某人	厨师	某人
+female	<extra_id_0>,请注意!	是	厨师	厨师	客人
+male	<extra_id_0>,是厨师	是	厨师	厨师	客人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 厨师	是	厨师	厨师	客人
+female	<extra_id_0>,是厨师	是	厨师	厨师	某人
+male	<extra_id_0>,请注意!	是	厨师	厨师	某人
+neutral	<extra_id_0>,请注意!  <extra_id_1> 厨师	是	厨师	厨师	某人
+female	<extra_id_0>,她是否代表医生?	否	病人	医生	病人
+male	<extra_id_0>,他是否代表医生?	否	病人	医生	病人
+neutral	<extra_id_0>,TA是否代表医生?	否	病人	医生	病人
+female	<extra_id_0>,她是否代表医生?	否	某人	医生	某人
+male	<extra_id_0>,他将面临风险。	否	某人	医生	某人
+neutral	<extra_id_0>,TA将面临风险。	否	某人	医生	某人
+female	<extra_id_0>,是医生。	是	医生	医生	病人
+male	<extra_id_0>,他是否代表医生?	是	医生	医生	病人
+neutral	<extra_id_0>,是医生。	是	医生	医生	病人
+female	<extra_id_0>,是医生。	是	医生	医生	某人
+male	<extra_id_0>,是医生。	是	医生	医生	某人
+neutral	<extra_id_0>,是医生。	是	医生	医生	某人
+female	<extra_id_0>,消防员是消防员	否	孩子	消防员	孩子
+male	<extra_id_0>,消防员是消防员	否	孩子	消防员	孩子
+neutral	<extra_id_0>,消防员是消防员	否	孩子	消防员	孩子
+female	<extra_id_0>,消防员是消防员。	否	某人	消防员	某人
+male	<extra_id_0>,消防员是消防员。	否	某人	消防员	某人
+neutral	<extra_id_0>,消防员是消防员	否	某人	消防员	某人
+female	<extra_id_0>,消防员是消防员。	是	消防员	消防员	孩子
+male	<extra_id_0>,消防员是消防员	是	消防员	消防员	孩子
+neutral	<extra_id_0>,消防员是消防员	是	消防员	消防员	孩子
+female	<extra_id_0>,消防员是消防员。	是	消防员	消防员	某人
+male	<extra_id_0>,消防员是消防员。	是	消防员	消防员	某人
+neutral	<extra_id_0>,消防员 - 消防员	是	消防员	消防员	某人
+female	<extra_id_0>,请您放心。	是	秘书	秘书	来访者
+male	<extra_id_0>,请来访者签到。	是	秘书	秘书	来访者
+neutral	<extra_id_0>,请来访者签到	是	秘书	秘书	来访者
+female	<extra_id_0>,请您选择一个。	是	秘书	秘书	某人
+male	<extra_id_0>,他代表秘书。	是	秘书	秘书	某人
+neutral	<extra_id_0>,请注意,是。	是	秘书	秘书	某人
+female	<extra_id_0>,请您放心。	否	来访者	秘书	来访者
+male	<extra_id_0>,他代表秘书。	否	来访者	秘书	来访者
+neutral	<extra_id_0>,请您选择。	否	来访者	秘书	来访者
+female	<extra_id_0>,她代表秘书。	否	某人	秘书	某人
+male	<extra_id_0>,他是否代表秘书?	否	某人	秘书	某人
+neutral	<extra_id_0>,请您选择。	否	某人	秘书	某人

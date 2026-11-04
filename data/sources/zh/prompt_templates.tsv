@@ -1,0 +1,37 @@
+prompt_type	template	prompt
+yes_no_quoted	1	‘[TEXT]’ 在前一句中，代词‘[PRON]’是指代‘[MENTION1]’吗？是或者否？
+yes_no_quoted	2	‘[TEXT]’ 在这里，代词‘[PRON]’的意思是‘[MENTION1]’吗？是或者否？
+yes_no_quoted	3	‘[TEXT]’ 我认为代词‘[PRON]’的意思是‘[MENTION1]’。是或者否？
+yes_no_quoted	4	‘[TEXT]’ 在这里，代词‘[PRON]’是否代表‘[MENTION1]’？是或者否？
+yes_no_quoted	5	‘[TEXT]’ 在前一句中，代词‘[PRON]’ 是否可被替换为‘[MENTION1]’吗？是或者否？
+yes_no_unquoted	1	[TEXT] 在前一句中，代词[PRON]是指代[MENTION1]吗？是或者否？
+yes_no_unquoted	2	[TEXT] 在这里，代词[PRON]的意思是[MENTION1]吗？是或者否？
+yes_no_unquoted	3	[TEXT] 我认为代词[PRON]的意思是[MENTION1]。是或者否？
+yes_no_unquoted	4	[TEXT] 在这里，代词[PRON]是否代表[MENTION1]？是或者否？
+yes_no_unquoted	5	[TEXT] 在前一句中，代词[PRON] 是否可被替换为[MENTION1]吗？是或者否？
+direct_quoted	1	‘[TEXT]’ 在前一句中，代词‘[PRON]’指的是
+direct_quoted	2	‘[TEXT]’ 在这里，代词‘[PRON]’的意思是
+direct_quoted	3	‘[TEXT]’ 我认为代词‘[PRON]’是指
+direct_quoted	4	‘[TEXT]’ 在这里，代词‘[PRON]’代表的是
+direct_quoted	5	‘[TEXT]’ 在前一句中，代词‘[PRON]’可以替换成
+direct_unquoted	1	[TEXT] 在前一句中，代词[PRON]指的是
+direct_unquoted	2	[TEXT] 在这里，代词[PRON]的意思是
+direct_unquoted	3	[TEXT] 我认为代词[PRON]是指
+direct_unquoted	4	[TEXT] 在这里，代词[PRON]代表的是
+direct_unquoted	5	[TEXT] 在前一句中，代词[PRON]可以替换成
+option_quoted	1	‘[TEXT]’ 在前一句中， 代词‘[PRON]’是指代‘[MENTION1]’还是‘[MENTION2]’？
+option_quoted	2	‘[TEXT]’ 代词‘[PRON]’在上述句子中指代什么？‘[MENTION1]’还是‘[MENTION2]’？
+option_quoted	3	在下面的句子中，代词‘[PRON]’代表的是‘[MENTION1]’还是‘[MENTION2]’？‘[TEXT]’ 
+option_quoted	4	‘[TEXT]’ 上句中的代词‘[PRON]’可以替换为下列哪个符合原句意的词语？-‘[MENTION1]’ -‘[MENTION2]’ 
+option_unquoted	1	[TEXT] 在前一句中， 代词[PRON]是指代[MENTION1]还是[MENTION2]？
+option_unquoted	2	[TEXT] 代词[PRON]在上述句子中指代什么？[MENTION1]还是[MENTION2]？
+option_unquoted	3	在下面的句子中，代词[PRON]代表的是[MENTION1]还是[MENTION2]？[TEXT] 
+option_unquoted	4	[TEXT] 上句中的代词[PRON]可以替换为下列哪个符合原句意的词语？-[MENTION1] -[MENTION2] 
+option_answer_quoted	1	‘[TEXT]’ 在前一句中， 代词‘[PRON]’是指代‘[MENTION1]’还是‘[MENTION2]’？答案是
+option_answer_quoted	2	‘[TEXT]’ 代词‘[PRON]’在上述句子中指代什么？‘[MENTION1]’还是‘[MENTION2]’？答案是
+option_answer_quoted	3	在下面的句子中，代词‘[PRON]’代表的是‘[MENTION1]’还是‘[MENTION2]’？‘[TEXT]’ 答案是
+option_answer_quoted	4	‘[TEXT]’ 上句中的代词‘[PRON]’可以替换为下列哪个符合原句意的词语？-‘[MENTION1]’ -‘[MENTION2]’ 答案是
+option_answer_unquoted	1	[TEXT] 在前一句中， 代词[PRON]是指代[MENTION1]还是[MENTION2]？答案是
+option_answer_unquoted	2	[TEXT] 代词[PRON]在上述句子中指代什么？[MENTION1]还是[MENTION2]？答案是
+option_answer_unquoted	3	在下面的句子中，代词[PRON]代表的是[MENTION1]还是[MENTION2]？[TEXT]答案是
+option_answer_unquoted	4	[TEXT] 上句中的代词[PRON]可以替换为下列哪个符合原句意的词语？-[MENTION1] -[MENTION2] 答案是

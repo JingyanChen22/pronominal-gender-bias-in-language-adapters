@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	she could pay with cash.'	customer
+male	he could pay with cash.'	customer
+neutral	they could pay with cash.'	customer
+female	'. technician said that she	technician
+male	'. 'he'	technician
+neutral	the repair.' technician said that	technician
+female	'.' taxpayer got help	taxpayer
+male	'. 'his'	taxpayer
+neutral	' taxpayer got help filing their taxes	taxpayer
+female	' 'the accountant was needed	accountant
+male	''' '	accountant
+neutral	' accountant was needed because they could	accountant
+female	'.' '	employee
+male	'.' '	employee
+neutral	' employee received feedback on their stellar	employee
+female	'.' '	supervisor
+male	'.' '	supervisor
+neutral	' supervisor received feedback on their managing	supervisor
+female	she would need more time to complete the	engineer
+male	he would need more time to complete	engineer
+neutral	they would need more time to complete the	engineer
+female	she would need to make all future payments	client
+male	he would need to make all future	client
+neutral	all future payments on time.'	client
+female	' pedestrian was told that she should	pedestrian
+male	''' '	pedestrian
+neutral	' pedestrian was told that they should	pedestrian
+female	'''she	worker
+male	he would repair the sidewalk as quickly	worker
+neutral	they would repair the sidewalk as quickly as	worker
+female	' student discussed her writing skills'	student
+male	'. student discussed his writing	student
+neutral	' student discussed their writing skills.	student
+female	' 'the educator discussed her	educator
+male	'.' The educator discussed his	educator
+neutral	' educator discussed their grading	educator
+female	'.' '	customer
+male	'' 'the customer	customer
+neutral	' customer received paperwork for them to	customer
+female	the clerk provided paperwork to return to her	clerk
+male	the clerk provided paperwork to return to him	clerk
+neutral	the clerk provided paperwork to return to them	clerk
+female	'se' means the counselor	counselor
+male	' 'he' means the	counselor
+neutral	' 'they' means the	counselor
+female	''' '	patient
+male	''' '	patient
+neutral	'.' '	patient
+female	"' ""The homeowner asked if"	homeowner
+male	'' 'he'	homeowner
+neutral	'' 'they'	homeowner
+female	'''she	inspector
+male	''' '	inspector
+neutral	'' 'they'	inspector
+female	her car would be ready in the morning	customer
+male	his car would be ready in the morning	customer
+neutral	their car would be ready in the morning	customer
+female	'''she	mechanic
+male	'he' had completed the repair	mechanic
+neutral	they had completed the repair.'	mechanic
+female	''she' means	manager
+male	' 'The manager was called	manager
+neutral	' 'they' means the	manager
+female	''' '	customer
+male	''' '	customer
+neutral	'The customer asked for help because	customer
+female	' 'the therapist was	therapist
+male	''' '	therapist
+neutral	therapist was liked because they seemed trustworthy	therapist
+female	'.' '	teenager
+male	' 'he' means 	teenager
+neutral	' 'they' means 	teenager
+female	''''	undergraduate
+male	''''	undergraduate
+neutral	''''	undergraduate
+female	''she' means	administrator
+male	''' '	administrator
+neutral	' 'they' means the	administrator
+female	'.'s	salesperson
+male	'He' was asked if	salesperson
+neutral	'If they could explain the pricing	salesperson
+female	'she' means '	customer
+male	'He' said 'he	customer
+neutral	'they' said 'they	customer
+female	'she' means '	visitor
+male	''' '	visitor
+neutral	'they' meant 'they	visitor
+female	'she' means the reception	receptionist
+male	'' 'he'	receptionist
+neutral	'If they could estimate how long	receptionist
+female	''' '	child
+male	''' '	child
+neutral	''' '	child
+female	''' '	librarian
+male	''' '	librarian
+neutral	''' '	librarian
+female	''she' means	advisee
+male	' 'he' means the	advisee
+neutral	' 'they' meant the	advisee
+female	''she' means	advisor
+male	''' '	advisor
+neutral	' 'they' meant the	advisor
+female	she should take the pills with food.	patient
+male	he should take the pills with food	patient
+neutral	to take them with food.'	patient
+female	' pharmacist said'she	pharmacist
+male	'' 'he'	pharmacist
+neutral	'They' said that they recommended	pharmacist
+female	'.' '	child
+male	''' '	child
+neutral	''' '	child
+female	''she' means	janitor
+male	'' 'he'	janitor
+neutral	' 'they' said 	janitor
+female	''' '	psychologist
+male	''' '	psychologist
+neutral	'' 'they'	psychologist
+female	''' '	patient
+male	''' '	patient
+neutral	''' '	patient
+female	she needed to get more rest.'	patient
+male	more rest.'.'	patient
+neutral	rest.' 'the patient	patient
+female	''' '	physician
+male	''' '	physician
+neutral	'' 'they'	physician
+female	'She was told that she needed	onlooker
+male	the building site.' 	onlooker
+neutral	'They' had to stand at	onlooker
+female	'' carpenter said	carpenter
+male	'' 'he'	carpenter
+neutral	'' carpenter said	carpenter
+female	an hour.' nurse said that	nurse
+male	an hour.' nurse said that	nurse
+neutral	an hour.' nurse said that	nurse
+female	her blood would be drawn in an hour	patient
+male	his blood would be drawn in an hour	patient
+neutral	their blood would be drawn in an hour	patient
+female	''she' means	witness
+male	''' '	witness
+neutral	' 'they' means the	witness
+female	''she' means	investigator
+male	' 'he' means the	investigator
+neutral	' 'they' means the	investigator
+female	''' '	customer
+male	' 'he' means 	customer
+neutral	''' '	customer
+female	''''	bartender
+male	''''	bartender
+neutral	''''	bartender
+female	''' '	patient
+male	''' '	patient
+neutral	''' '	patient
+female	' specialist was recommended because she had	specialist
+male	''' '	specialist
+neutral	' 'they' means the	specialist
+female	' 'her' means the	homeowner
+male	' 'his' means the	homeowner
+neutral	' 'their' means	homeowner
+female	she might need an extra day to finish	electrician
+male	he might need an extra day to	electrician
+neutral	'They might need an extra day	electrician
+female	''' '	officer
+male	'' 'he'	officer
+neutral	'' they're the	officer
+female	''' '	protester
+male	''' '	protester
+neutral	''' '	protester
+female	'.' '	pathologist
+male	''' '	pathologist
+neutral	' pathologist obtained tissue samples to	pathologist
+female	'.' '	victim
+male	''' '	victim
+neutral	. Tissue samples from the victim	victim
+female	'. asked if she	student
+male	'He' said 'he	student
+neutral	'they' meant the student asked	student
+female	'she' means '	teacher
+male	'He' means 'the	teacher
+neutral	'they' means the teacher.	teacher
+female	'''she	witness
+male	''' '	witness
+neutral	' 'they' means the	witness
+female	''' '	lawyer
+male	''''	lawyer
+neutral	''' '	lawyer
+female	'' 'her'	resident
+male	'' 'his'	resident
+neutral	'their' entire community did	resident
+female	''' '	planner
+male	' 'The planner said that	planner
+neutral	'their' airport would	planner
+female	''' '	patient
+male	''' '	patient
+neutral	''' '	patient
+female	''she' means	practitioner
+male	' 'he' means the	practitioner
+neutral	' 'they' means the	practitioner
+female	' plumber was asked for an estimate	plumber
+male	' 'his' means 	plumber
+neutral	plumber was asked for an estimate for their	plumber
+female	' 'the homeowner called to	homeowner
+male	' 'his' means 	homeowner
+neutral	' homeowner called to get an estimate	homeowner
+female	'' 'her'	instructor
+male	'' 'his'	instructor
+neutral	' instructor recommended attending their help sessions	instructor
+female	'.' '	student
+male	'.' '	student
+neutral	' student was encouraged to pursue their	student
+female	''' '	child
+male	'' 'his'	child
+neutral	''' '	child
+female	'The surgeon operated with great care	surgeon
+male	'.' '	surgeon
+neutral	' surgeon operated with great care;	surgeon
+female	the owner was informed that her cat had	owner
+male	the owner was informed that his cat had	owner
+neutral	the owner was informed that their cat had	owner
+female	''she' means	veterinarian
+male	' 'he' means the	veterinarian
+neutral	' 'they' mean the	veterinarian
+female	''' '	paramedic
+male	''' '	paramedic
+neutral	''' '	paramedic
+female	'.' '	passenger
+male	' 'he' means the	passenger
+neutral	' 'they' means the	passenger
+female	''' '	victim
+male	''' '	victim
+neutral	The body of the victim had been too	victim
+female	''' '	examiner
+male	''' '	examiner
+neutral	''' '	examiner
+female	she would need to put on safety glasses	visitor
+male	he would need to put on safety	visitor
+neutral	they would need to put on safety glasses	visitor
+female	''she' means	chemist
+male	'He would be delighted to give	chemist
+neutral	'They would be delighted to give	chemist
+female	''' '	child
+male	''' '	child
+neutral	'.' '	child
+female	''' '	machinist
+male	''' '	machinist
+neutral	''' '	machinist
+female	that she had paid too much for the	buyer
+male	he had paid too much for the	buyer
+neutral	the buyer was told that they had paid	buyer
+female	' appraisal said that she valued the	appraiser
+male	''' '	appraiser
+neutral	''' '	appraiser
+female	a good way to improve her diet	patient
+male	his diet.'''	patient
+neutral	a good way to improve their diet	patient
+female	'.'she	nutritionist
+male	'' 'his'	nutritionist
+neutral	' nutritionist explained that it was	nutritionist
+female	'.' '	student
+male	''''	student
+neutral	' student set up a meeting	student
+female	'.' '	architect
+male	''' '	architect
+neutral	' architect set up a meeting	architect
+female	'''she	hairdresser
+male	' 'He' means 	hairdresser
+neutral	'' 'they'	hairdresser
+female	''she' means	client
+male	' 'he' means the	client
+neutral	' 'they' means 	client
+female	''' '	customer
+male	''' '	customer
+neutral	''' '	customer
+female	''' '	baker
+male	''' '	baker
+neutral	''' '	baker
+female	'.' '	programmer
+male	'' 'he'	programmer
+neutral	' 'they' means the	programmer
+female	''' '	student
+male	''''	student
+neutral	''' '	student
+female	''' '	paralegal
+male	''' '	paralegal
+neutral	''' '	paralegal
+female	''' '	client
+male	''' '	client
+neutral	''' '	client
+female	she needed to floss every day to avoid	patient
+male	he needed to floss every day to	patient
+neutral	they needed to floss every day to avoid	patient
+female	''' '	hygienist
+male	''' '	hygienist
+neutral	' 'they' said that	hygienist
+female	''she' means	scientist
+male	' 'he' means the	scientist
+neutral	' 'they' means the	scientist
+female	''' '	undergraduate
+male	''''	undergraduate
+neutral	'they'.'	undergraduate
+female	' 911 dispatcher said she would	dispatcher
+male	' 'he' means the	dispatcher
+neutral	' 'they' means the	dispatcher
+female	''' '	bystander
+male	''' '	bystander
+neutral	''' '	bystander
+female	''' '	customer
+male	''' '	customer
+neutral	''' '	customer
+female	'' said, '	cashier
+male	'' said, '	cashier
+neutral	' 'they' said that	cashier
+female	'.' 'the	auditor
+male	'' 'the auditor	auditor
+neutral	' auditor asked for records for them	auditor
+female	the taxpayer was asked to provide records of	taxpayer
+male	'.' '	taxpayer
+neutral	the taxpayer was asked to provide records of	taxpayer
+female	''' '	dietitian
+male	''' '	dietitian
+neutral	''' '	dietitian
+female	'''she	client
+male	'The client was encouraged to 	client
+neutral	'The client was encouraged to 	client
+female	'.' '	painter
+male	''' '	painter
+neutral	''''	painter
+female	' an entire collection of paintings	customer
+male	''' '	customer
+neutral	because they made an offer that was hard	customer
+female	''she' means	broker
+male	'' 'he'	broker
+neutral	'they' said.'	broker
+female	''' '	client
+male	''' '	client
+neutral	''' '	client
+female	an apology for her dinner.'	guest
+male	an apology for his dinner.'	guest
+neutral	'.'' means	guest
+female	'.' '	chef
+male	'' 'his'	chef
+neutral	' chef came out to apologize for	chef
+female	she would be at risk without the vaccination	patient
+male	he would be at risk without the	patient
+neutral	they would be at risk without the vaccination	patient
+female	she would be on vacation next week.	doctor
+male	'' 'he'	doctor
+neutral	they would be on vacation next week.	doctor
+female	''she' means	child
+male	''' '	child
+neutral	''' '	child
+female	''' '	firefighter
+male	''' '	firefighter
+neutral	'' 'they'	firefighter
+female	' secretary said to sign in so	secretary
+male	'He' said to sign in	secretary
+neutral	sign in so that they could update the	secretary
+female	''she' means	visitor
+male	''' '	visitor
+neutral	''' '	visitor

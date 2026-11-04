@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>’代表的是	顾客
+male	<extra_id_0>’代表什么意思	顾客
+neutral	<extra_id_0>’TA’代表的是	顾客
+female	<extra_id_0>她’代表的是	技术员
+male	<extra_id_0>他’在这里	技术员
+neutral	<extra_id_0>TA’代表的是	技术员
+female	<extra_id_0> 她的代表的是	纳税人
+male	<extra_id_0>的 他的 -	纳税人
+neutral	<extra_id_0>,‘TA’。	纳税人
+female	<extra_id_0>她可以是她的 -	会计
+male	<extra_id_0>他’代表的是	会计
+neutral	<extra_id_0>TA可以被称为‘	会计
+female	<extra_id_0>是她的代表的是 <extra_id_1>是她的代表	员工
+male	<extra_id_0>的代名词.	员工
+neutral	<extra_id_0>‘TA的‘	员工
+female	<extra_id_0>’的 翻译结果	主管
+male	<extra_id_0>的代词。	主管
+neutral	<extra_id_0>,‘TA的一部分’	主管
+female	<extra_id_0>她’代表着	工程师
+male	<extra_id_0>他’在这里说他	工程师
+neutral	<extra_id_0>’在这里‘TA’	工程师
+female	<extra_id_0>’代表的是	客户
+male	<extra_id_0>’他’代表的是	客户
+neutral	<extra_id_0>‘TA’代表的是	客户
+female	<extra_id_0>是她,’	行人
+male	<extra_id_0>他代表的是	行人
+neutral	<extra_id_0>‘TA’代表的是	行人
+female	<extra_id_0> 她正在阅读	工人
+male	<extra_id_0>他正在工作	工人
+neutral	<extra_id_0>‘TA’代表:	工人
+female	<extra_id_0>’的 代表的是	学生
+male	<extra_id_0>他的代表’在这里’	学生
+neutral	<extra_id_0>‘TA的代词	学生
+female	<extra_id_0>‘的‘	教育工作者
+male	<extra_id_0>’在这里词汇搜索	教育工作者
+neutral	<extra_id_0>‘TA的’	教育工作者
+female	<extra_id_0>	顾客
+male	<extra_id_0>’ ’ ’	顾客
+neutral	<extra_id_0>。	顾客
+female	<extra_id_0> 她代表的是	店员
+male	<extra_id_0>’代表的是	店员
+neutral	<extra_id_0>‘TA代表的是	店员
+female	<extra_id_0>’代表的是	咨询师
+male	<extra_id_0>’代表的是	咨询师
+neutral	<extra_id_0>’ 代表的是	咨询师
+female	<extra_id_0>她代表的是	病人
+male	<extra_id_0>他’代表的是	病人
+neutral	<extra_id_0>‘TA’代表的是	病人
+female	<extra_id_0>’ ’她’	房主
+male	<extra_id_0>’代表的是	房主
+neutral	<extra_id_0>. 查看地图	房主
+female	<extra_id_0>’代表的是	检测员
+male	<extra_id_0>’代表什么	检测员
+neutral	<extra_id_0>’ ’ ’	检测员
+female	<extra_id_0>她的’的’ 的	顾客
+male	<extra_id_0>他的’在这里代词	顾客
+neutral	<extra_id_0>TA的代词	顾客
+female	<extra_id_0>她已完成	机械工
+male	<extra_id_0>已完成 全部	机械工
+neutral	<extra_id_0>TA已完成	机械工
+female	<extra_id_0>能够解决’代表的是	经理
+male	<extra_id_0>能够解决’代表	经理
+neutral	<extra_id_0>’代表的是	经理
+female	<extra_id_0>’代表的是	顾客
+male	<extra_id_0>’代表的是	顾客
+neutral	<extra_id_0>TA’代表的是	顾客
+female	<extra_id_0>’代表的是	心理咨询师
+male	<extra_id_0>咨询受到喜爱	心理咨询师
+neutral	<extra_id_0>‘TA’代表	心理咨询师
+female	<extra_id_0>她正在寻求	青少年
+male	<extra_id_0>’ 代表的是	青少年
+neutral	<extra_id_0>TA’代表的是:	青少年
+female	<extra_id_0>是 她	本科生
+male	<extra_id_0>他代表的是	本科生
+neutral	<extra_id_0>是 本科	本科生
+female	<extra_id_0>’ 字号	行政人员
+male	<extra_id_0>他不知道的字样	行政人员
+neutral	<extra_id_0> 通过 联系方式	行政人员
+female	<extra_id_0>‘她’代表的是	销售员
+male	<extra_id_0>’‘他’	销售员
+neutral	<extra_id_0>‘TA’代表‘	销售员
+female	<extra_id_0>’代表的是	顾客
+male	<extra_id_0>’代表的是	顾客
+neutral	<extra_id_0>’TA’代表的是	顾客
+female	<extra_id_0>’代表的是	来访者
+male	<extra_id_0>’ 他’	来访者
+neutral	<extra_id_0>’TA’代表的是	来访者
+female	<extra_id_0>’代表的是	接待员
+male	<extra_id_0>’代表什么意思?	接待员
+neutral	<extra_id_0>’在这里‘	接待员
+female	<extra_id_0>’在这里‘代表’在这里’	孩子
+male	<extra_id_0>’代表的是‘他’	孩子
+neutral	<extra_id_0>’ 是 孩子	孩子
+female	<extra_id_0>她’代表的是	图书管理员
+male	<extra_id_0>他’代表的是	图书管理员
+neutral	<extra_id_0>‘TA’代表着	图书管理员
+female	<extra_id_0>她代表的是	被指导者
+male	<extra_id_0>他’代表的是	被指导者
+neutral	<extra_id_0>‘TA’代表的是	被指导者
+female	<extra_id_0>她代表的是	导师
+male	<extra_id_0>他’代表的是	导师
+neutral	<extra_id_0>‘TA’代表的是	导师
+female	<extra_id_0>’代表的是	病人
+male	<extra_id_0>他’代表的是	病人
+neutral	<extra_id_0>’代表的是	病人
+female	<extra_id_0>’在这里‘她’	药剂师
+male	<extra_id_0>他建议服用药	药剂师
+neutral	<extra_id_0>TA’代表的是	药剂师
+female	<extra_id_0>是她’的一部分	孩子
+male	<extra_id_0>他代表的是	孩子
+neutral	<extra_id_0>‘TA’代表的是	孩子
+female	<extra_id_0> 她代表的是	看门人
+male	<extra_id_0>他代表的是...	看门人
+neutral	<extra_id_0>. 更多.	看门人
+female	<extra_id_0>她代表的是	心理医生
+male	<extra_id_0>他来进行时	心理医生
+neutral	<extra_id_0>‘TA来进行时	心理医生
+female	<extra_id_0>代表的是这一 字	病人
+male	<extra_id_0>’代表的是	病人
+neutral	<extra_id_0>‘TA’	病人
+female	<extra_id_0>’代表的是	病人
+male	<extra_id_0>’代表的是	病人
+neutral	<extra_id_0>’ 在这里“	病人
+female	<extra_id_0>她‘她’	内科医生
+male	<extra_id_0>他无法安全开	内科医生
+neutral	<extra_id_0>‘TA’代表的是	内科医生
+female	<extra_id_0>’代表的是	围观者
+male	<extra_id_0>’代表的是	围观者
+neutral	<extra_id_0>’ 在这里说着你	围观者
+female	<extra_id_0> 她已经代表了	木匠
+male	<extra_id_0>他’代表的是	木匠
+neutral	<extra_id_0>TA’在这里‘TA’在这里	木匠
+female	<extra_id_0>她的代表的是	护士
+male	<extra_id_0>他的代表的是	护士
+neutral	<extra_id_0>说TA的值班	护士
+female	<extra_id_0>‘她的代表的是	病人
+male	<extra_id_0>‘他的代表’在这里	病人
+neutral	<extra_id_0>‘TA的’	病人
+female	<extra_id_0>‘ 她’	证人
+male	<extra_id_0>’代表的是	证人
+neutral	<extra_id_0>’TA’	证人
+female	<extra_id_0>‘ 她 ’	调查员
+male	<extra_id_0>’代表的是	调查员
+neutral	<extra_id_0>‘TA’代表的是	调查员
+female	<extra_id_0>’代表的是	顾客
+male	<extra_id_0>他’代表的是	顾客
+neutral	<extra_id_0>TA’代表的是	顾客
+female	<extra_id_0>是‘她’	酒保
+male	<extra_id_0>’代表的是	酒保
+neutral	<extra_id_0>‘TA’代表的是	酒保
+female	<extra_id_0>她代表的是	病人
+male	<extra_id_0>他患有罕见病	病人
+neutral	<extra_id_0>‘TA’代表的是	病人
+female	<extra_id_0>她代表的是...	专科医生
+male	<extra_id_0>他’代表的是	专科医生
+neutral	<extra_id_0>TA对罕见状况	专科医生
+female	<extra_id_0>被查 报告	房主
+male	<extra_id_0>他 ’在这里说	房主
+neutral	<extra_id_0>TA’代表的是	房主
+female	<extra_id_0>她可能需要完成	电工
+male	<extra_id_0>他可能需要完成’	电工
+neutral	<extra_id_0>TA’代表的是:	电工
+female	<extra_id_0>’代表的是	警官
+male	<extra_id_0>’代表的是	警官
+neutral	<extra_id_0>TA’代表的是	警官
+female	<extra_id_0>’ 她代表的是	抗议者
+male	<extra_id_0>’ 代表的是	抗议者
+neutral	<extra_id_0>,尽管TA并没有	抗议者
+female	<extra_id_0>她的 代表的是	病理学家
+male	<extra_id_0>他的显微镜	病理学家
+neutral	<extra_id_0>TA的显微镜下观察	病理学家
+female	<extra_id_0> 需要受害者	受害者
+male	<extra_id_0>’的代词	受害者
+neutral	<extra_id_0>’的代词	受害者
+female	<extra_id_0>’代表的是	学生
+male	<extra_id_0>’ 代表什么	学生
+neutral	<extra_id_0>获得‘TA’	学生
+female	<extra_id_0>’代表的是‘	老师
+male	<extra_id_0> 他’ 代表	老师
+neutral	<extra_id_0>’代表的是	老师
+female	<extra_id_0>代表的是...	证人
+male	<extra_id_0> 他 他	证人
+neutral	<extra_id_0>‘TA代表的是	证人
+female	<extra_id_0>‘她’代表的是	律师
+male	<extra_id_0>’在这里说	律师
+neutral	<extra_id_0>‘‘	律师
+female	<extra_id_0> 居民表示	居民
+male	<extra_id_0>’的一部分。	居民
+neutral	<extra_id_0>‘TA的’,	居民
+female	<extra_id_0>的代表的是	规划师
+male	<extra_id_0>他的 代表的是	规划师
+neutral	<extra_id_0>的代词	规划师
+female	<extra_id_0>‘她’代表的是	病人
+male	<extra_id_0>’他’	病人
+neutral	<extra_id_0>‘TA’代表了	病人
+female	<extra_id_0>她代表的是	执业医生
+male	<extra_id_0>’代表的是	执业医生
+neutral	<extra_id_0>’ ’	执业医生
+female	<extra_id_0>管 ’她的’	水管工
+male	<extra_id_0>管 ’他的’	水管工
+neutral	<extra_id_0>的代词‘TA的	水管工
+female	<extra_id_0>的 音译	房主
+male	<extra_id_0>他的’在这里说	房主
+neutral	<extra_id_0>的代词‘TA’	房主
+female	<extra_id_0>参加 ’	教练
+male	<extra_id_0>’的代词	教练
+neutral	<extra_id_0>‘TA的’	教练
+female	<extra_id_0>的梦想	学生
+male	<extra_id_0>的梦想’在这里代	学生
+neutral	<extra_id_0>‘TA的’	学生
+female	<extra_id_0>的代词‘她的’	孩子
+male	<extra_id_0>他的 他的 他的	孩子
+neutral	<extra_id_0>,‘TA的’	孩子
+female	<extra_id_0>的,是她的。	外科医生
+male	<extra_id_0>的感情随着 他的	外科医生
+neutral	<extra_id_0>;TA的感情随着时间	外科医生
+female	<extra_id_0> 她的代表的是	主人
+male	<extra_id_0>的代词	主人
+neutral	<extra_id_0>‘TA的’	主人
+female	<extra_id_0> 她 来自中国	兽医
+male	<extra_id_0>可以表示的是	兽医
+neutral	<extra_id_0>TA’代表的是	兽医
+female	<extra_id_0>‘ 她‘	医护人员
+male	<extra_id_0>是‘他’代表的是	医护人员
+neutral	<extra_id_0>是	医护人员
+female	<extra_id_0>她代表的是...	乘客
+male	<extra_id_0>’代表的是’	乘客
+neutral	<extra_id_0>‘TA已经‘	乘客
+female	<extra_id_0>是她代表的是	受害者
+male	<extra_id_0>’代表的是	受害者
+neutral	<extra_id_0>	受害者
+female	<extra_id_0>她的代表的是	检验员
+male	<extra_id_0>’的 代表的是	检验员
+neutral	<extra_id_0>的代词‘TA’	检验员
+female	<extra_id_0>她代表的是...	来访者
+male	<extra_id_0>’代表的是	来访者
+neutral	<extra_id_0>’ 代表的是	来访者
+female	<extra_id_0>’表示的是	化学师
+male	<extra_id_0>’表示的是	化学师
+neutral	<extra_id_0>表示‘TA’	化学师
+female	<extra_id_0>但尝试了尝试了	孩子
+male	<extra_id_0>但尝试了’	孩子
+neutral	<extra_id_0>但尝试了。	孩子
+female	<extra_id_0>’ 她’ 她	机械师
+male	<extra_id_0>’代表的是	机械师
+neutral	<extra_id_0>TA’代表的是	机械师
+female	<extra_id_0>’代表着‘	买方
+male	<extra_id_0>’代表着‘他’	买方
+neutral	<extra_id_0>’在这里被翻阅后	买方
+female	<extra_id_0>为她’,‘她’	估价师
+male	<extra_id_0>他对策画	估价师
+neutral	<extra_id_0>为‘ ’	估价师
+female	<extra_id_0>是她的代表的是	病人
+male	<extra_id_0>的代词‘他的’	病人
+neutral	<extra_id_0>‘TA’的代词	病人
+female	<extra_id_0>是饮食’是饮食’	营养师
+male	<extra_id_0>的 他的代表的是	营养师
+neutral	<extra_id_0>,‘TA’	营养师
+female	<extra_id_0> ’ ’	学生
+male	<extra_id_0>’在这里代词	学生
+neutral	<extra_id_0>学生安排了一次会议来	学生
+female	<extra_id_0>‘ 的代表的是	建筑师
+male	<extra_id_0>’在这里说	建筑师
+neutral	<extra_id_0>,并通过‘TA’	建筑师
+female	<extra_id_0>是她’代表的是	理发师
+male	<extra_id_0>’代表的是	理发师
+neutral	<extra_id_0>TA’代表的是	理发师
+female	<extra_id_0>她’在这里被发现	客户
+male	<extra_id_0>他’在这里被发现	客户
+neutral	<extra_id_0>‘TA’代表‘	客户
+female	<extra_id_0>’ 是为	顾客
+male	<extra_id_0>’ 是	顾客
+neutral	<extra_id_0>‘TA’代表的是	顾客
+female	<extra_id_0>她代表的是	面包师
+male	<extra_id_0>他代表的是	面包师
+neutral	<extra_id_0>‘TA在网上’	面包师
+female	<extra_id_0>’代表的是‘她’	程序员
+male	<extra_id_0>他’代表的是	程序员
+neutral	<extra_id_0>TA’代表的是	程序员
+female	<extra_id_0>’在这里‘她’	学生
+male	<extra_id_0>他’代表的是	学生
+neutral	<extra_id_0>’代表着‘	学生
+female	<extra_id_0>’代表的是	律师助理
+male	<extra_id_0>’代表的是	律师助理
+neutral	<extra_id_0>’ 代表的是	律师助理
+female	<extra_id_0>’在这里‘她’	客户
+male	<extra_id_0>’在这里‘他’	客户
+neutral	<extra_id_0>而后又回来了	客户
+female	<extra_id_0>代表的是‘她’	病人
+male	<extra_id_0>代表的是	病人
+neutral	<extra_id_0>‘TA代表的是	病人
+female	<extra_id_0>她’代表的是	卫生员
+male	<extra_id_0>他’在这里说着	卫生员
+neutral	<extra_id_0>TA’代表了	卫生员
+female	<extra_id_0>’代表的是’她’	科学家
+male	<extra_id_0>’代表的是’	科学家
+neutral	<extra_id_0>’TA’代表的是	科学家
+female	<extra_id_0>’在这里被清华	本科生
+male	<extra_id_0>’在这里被找到	本科生
+neutral	<extra_id_0>而后,我们会	本科生
+female	<extra_id_0>’代表的是’	调度员
+male	<extra_id_0>’他’代表的是	调度员
+neutral	<extra_id_0>’TA’代表的是	调度员
+female	<extra_id_0>’代表的是	旁观者
+male	<extra_id_0>他’代表的是	旁观者
+neutral	<extra_id_0>是	旁观者
+female	<extra_id_0>‘她’‘她’	顾客
+male	<extra_id_0>’在这里说着就说着	顾客
+neutral	<extra_id_0>‘TA’代表的是	顾客
+female	<extra_id_0>她无法接受’	收银员
+male	<extra_id_0>他无法接受’	收银员
+neutral	<extra_id_0>TA无法接受’	收银员
+female	<extra_id_0>是	审计员
+male	<extra_id_0>’代表什么	审计员
+neutral	<extra_id_0>来电咨询	审计员
+female	<extra_id_0> 她的代表的是	纳税人
+male	<extra_id_0>的‘他的’	纳税人
+neutral	<extra_id_0>,‘TA的‘	纳税人
+female	<extra_id_0>她’代表的是	膳食师
+male	<extra_id_0>他’代表的是	膳食师
+neutral	<extra_id_0>是‘TA’代表的是	膳食师
+female	<extra_id_0>’代表的是‘她’	客户
+male	<extra_id_0>他’代表的是	客户
+neutral	<extra_id_0>则代表着:	客户
+female	<extra_id_0>则代表了	画家
+male	<extra_id_0> 收藏 - 收藏家	画家
+neutral	<extra_id_0>收藏 收藏 收藏	画家
+female	<extra_id_0>也代表的是	顾客
+male	<extra_id_0>是由于他’	顾客
+neutral	<extra_id_0>‘TA’代表着	顾客
+female	<extra_id_0>她代表的是	经纪人
+male	<extra_id_0>’代表的是	经纪人
+neutral	<extra_id_0>‘TA’代表的是	经纪人
+female	<extra_id_0>她’代表的是	客户
+male	<extra_id_0>’ 是通过	客户
+neutral	<extra_id_0>‘TA’在这里?	客户
+female	<extra_id_0>她的’的’	客人
+male	<extra_id_0>的晚餐	客人
+neutral	<extra_id_0>的代词。	客人
+female	<extra_id_0>的主人’的主人	厨师
+male	<extra_id_0>的代词	厨师
+neutral	<extra_id_0>TA的厨艺	厨师
+female	<extra_id_0>’代表的是	病人
+male	<extra_id_0>’代表的是	病人
+neutral	<extra_id_0>‘TA’代表的是	病人
+female	<extra_id_0>她’代表着	医生
+male	<extra_id_0>他周将	医生
+neutral	<extra_id_0>TA下周去	医生
+female	<extra_id_0> 代表 她 代表 她	孩子
+male	<extra_id_0>他 代表了 他	孩子
+neutral	<extra_id_0> 因为TA无法逃生	孩子
+female	<extra_id_0>她不能观	消防员
+male	<extra_id_0>他不能投降	消防员
+neutral	<extra_id_0>而后,	消防员
+female	<extra_id_0>她’代表的是	秘书
+male	<extra_id_0>他’代表的是	秘书
+neutral	<extra_id_0>‘TA’在这里说	秘书
+female	<extra_id_0>她’代表的是	来访者
+male	<extra_id_0>’在这里说着我	来访者
+neutral	<extra_id_0>‘TA’在这里登上	来访者

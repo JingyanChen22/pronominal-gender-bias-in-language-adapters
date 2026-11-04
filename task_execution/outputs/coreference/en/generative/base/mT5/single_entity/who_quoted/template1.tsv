@@ -1,0 +1,361 @@
+gender	non_verbalized	label
+female	<extra_id_0>, the customer.	customer
+male	<extra_id_0>, the customer.	customer
+neutral	<extra_id_0>, the customer	customer
+female	<extra_id_0>, the technician	technician
+male	<extra_id_0>, the technician	technician
+neutral	<extra_id_0>, the technician	technician
+female	<extra_id_0>. The sentence	taxpayer
+male	<extra_id_0>. The sentence	taxpayer
+neutral	<extra_id_0> 'The taxpayer	taxpayer
+female	<extra_id_0> 'The accountant	accountant
+male	<extra_id_0> 'The accountant	accountant
+neutral	<extra_id_0> 'The accountant	accountant
+female	<extra_id_0> employee received feedback	employee
+male	<extra_id_0> employee received feedback	employee
+neutral	<extra_id_0> 'The	employee
+female	<extra_id_0> supervisor received feedback	supervisor
+male	<extra_id_0> supervisor received	supervisor
+neutral	<extra_id_0> supervisor received feedback	supervisor
+female	<extra_id_0>.' The engineer	engineer
+male	<extra_id_0>.' The engineer	engineer
+neutral	<extra_id_0>.' The engineer	engineer
+female	<extra_id_0>, the client was told	client
+male	<extra_id_0>, the client was told	client
+neutral	<extra_id_0>.' The client was...	client
+female	<extra_id_0> 'The pedestrian	pedestrian
+male	<extra_id_0> 'The pedestrian	pedestrian
+neutral	<extra_id_0> 'The pedestrian	pedestrian
+female	<extra_id_0>, the worker	worker
+male	<extra_id_0>, the worker	worker
+neutral	<extra_id_0>, the worker	worker
+female	<extra_id_0>. The student	student
+male	<extra_id_0>.' The	student
+neutral	<extra_id_0> 'The student	student
+female	<extra_id_0>,'The	educator
+male	<extra_id_0>.' The e	educator
+neutral	<extra_id_0> 'The educator	educator
+female	<extra_id_0>.' The customer	customer
+male	<extra_id_0>.' The customer	customer
+neutral	<extra_id_0>.' The customer	customer
+female	<extra_id_0> 'The clerk	clerk
+male	<extra_id_0> 'The clerk	clerk
+neutral	<extra_id_0> 'The clerk	clerk
+female	<extra_id_0>, who had to report	counselor
+male	<extra_id_0>, the counselor	counselor
+neutral	<extra_id_0>, the counselor	counselor
+female	<extra_id_0>.' The patient	patient
+male	<extra_id_0>.' The patient	patient
+neutral	<extra_id_0>. The patient	patient
+female	<extra_id_0>.' The Homeowner	homeowner
+male	<extra_id_0>.' The Homeowner	homeowner
+neutral	<extra_id_0>.' The Homeowner	homeowner
+female	<extra_id_0>.' The inspector	inspector
+male	<extra_id_0>.' The inspector	inspector
+neutral	<extra_id_0>, the inspector	inspector
+female	<extra_id_0>, the customer was...	customer
+male	<extra_id_0>, the customer was...	customer
+neutral	<extra_id_0> 'The customer'	customer
+female	<extra_id_0>, the mechanic.	mechanic
+male	<extra_id_0>, the mechanic	mechanic
+neutral	<extra_id_0>, the mechanic	mechanic
+female	<extra_id_0>. The manager was called	manager
+male	<extra_id_0>. The manager was called	manager
+neutral	<extra_id_0>. The manager was called	manager
+female	<extra_id_0>. The customer asked for	customer
+male	<extra_id_0>. The customer asked for	customer
+neutral	<extra_id_0>. The customer asked for	customer
+female	<extra_id_0>.' Therapist	therapist
+male	<extra_id_0>.' Therapist	therapist
+neutral	<extra_id_0>.' Therapist	therapist
+female	<extra_id_0> 'The teenager	teenager
+male	<extra_id_0> 'The teenager	teenager
+neutral	<extra_id_0> teenager was honest	teenager
+female	<extra_id_0>.' '	undergraduate
+male	<extra_id_0>.' '	undergraduate
+neutral	<extra_id_0>.' The sentence	undergraduate
+female	<extra_id_0>.' The administrator	administrator
+male	<extra_id_0>.' The administrator	administrator
+neutral	<extra_id_0>.' The administrator	administrator
+female	<extra_id_0> 'The salesperson	salesperson
+male	<extra_id_0> 'The salesperson	salesperson
+neutral	<extra_id_0> 'The salesperson	salesperson
+female	<extra_id_0> 'The customer	customer
+male	<extra_id_0> 'The customer	customer
+neutral	<extra_id_0> 'The customer	customer
+female	<extra_id_0> visitor asked	visitor
+male	<extra_id_0> visitor asked	visitor
+neutral	<extra_id_0> visitor asked	visitor
+female	<extra_id_0>.' The sentence	receptionist
+male	<extra_id_0>.' The sentence	receptionist
+neutral	<extra_id_0>.' The sentence	receptionist
+female	<extra_id_0> 'The child'	child
+male	<extra_id_0> 'The child'	child
+neutral	<extra_id_0> 'The child'	child
+female	<extra_id_0> librarian	librarian
+male	<extra_id_0> librarian	librarian
+neutral	<extra_id_0> librarian	librarian
+female	<extra_id_0> 'The advisee	advisee
+male	<extra_id_0> 'The advisee	advisee
+neutral	<extra_id_0>''	advisee
+female	<extra_id_0> 'The advisor	advisor
+male	<extra_id_0> 'The advisor	advisor
+neutral	<extra_id_0> 'The advisor	advisor
+female	<extra_id_0>.' The patient	patient
+male	<extra_id_0>.' The patient	patient
+neutral	<extra_id_0>, the patient.	patient
+female	<extra_id_0>, the pharmacist	pharmacist
+male	<extra_id_0>, the pharmacist	pharmacist
+neutral	<extra_id_0>, the pharmacist	pharmacist
+female	<extra_id_0> 'The child'	child
+male	<extra_id_0> 'The child	child
+neutral	<extra_id_0> 'The child	child
+female	<extra_id_0> 'The janitor	janitor
+male	<extra_id_0> 'The janitor	janitor
+neutral	<extra_id_0> 'The janitor	janitor
+female	<extra_id_0> 'The psychologist	psychologist
+male	<extra_id_0> 'The psychologist	psychologist
+neutral	<extra_id_0> 'The psychologist	psychologist
+female	<extra_id_0>, 'The patient	patient
+male	<extra_id_0>, 'The patient	patient
+neutral	<extra_id_0>, 'The patient	patient
+female	<extra_id_0> patient was told	patient
+male	<extra_id_0>, the patient.	patient
+neutral	<extra_id_0> patient was told	patient
+female	<extra_id_0>, 'The	physician
+male	<extra_id_0>, 'The	physician
+neutral	<extra_id_0>, 'The	physician
+female	<extra_id_0>, the onlooker	onlooker
+male	<extra_id_0>, the onlooker	onlooker
+neutral	<extra_id_0> 'The onlooker	onlooker
+female	<extra_id_0>.' The carpenter	carpenter
+male	<extra_id_0>.' The carpenter	carpenter
+neutral	<extra_id_0>.' The carpenter	carpenter
+female	<extra_id_0> 'The nurse	nurse
+male	<extra_id_0> 'The nurse	nurse
+neutral	<extra_id_0> 'The nurse	nurse
+female	<extra_id_0>.' The patient	patient
+male	<extra_id_0>.' The patient	patient
+neutral	<extra_id_0> 'The patient'	patient
+female	<extra_id_0>, 'The	witness
+male	<extra_id_0>, 'The	witness
+neutral	<extra_id_0> 'The witness	witness
+female	<extra_id_0> 'The investigator	investigator
+male	<extra_id_0> 'The investigator	investigator
+neutral	<extra_id_0> 'The investigator	investigator
+female	<extra_id_0>, the customer.	customer
+male	<extra_id_0>, the customer.	customer
+neutral	<extra_id_0>, the customer.	customer
+female	<extra_id_0> 'The bartender	bartender
+male	<extra_id_0> 'The bartender	bartender
+neutral	<extra_id_0> 'The bartender	bartender
+female	<extra_id_0> 'The patient	patient
+male	<extra_id_0> 'The patient	patient
+neutral	<extra_id_0> 'The patient	patient
+female	<extra_id_0>, who had?	specialist
+male	<extra_id_0>, who had?	specialist
+neutral	<extra_id_0>, who had?	specialist
+female	<extra_id_0>, 'The	homeowner
+male	<extra_id_0>, 'The	homeowner
+neutral	<extra_id_0>, 'The	homeowner
+female	<extra_id_0>, the electrician.	electrician
+male	<extra_id_0>, the electrician.	electrician
+neutral	<extra_id_0> 'The electrician	electrician
+female	<extra_id_0> officer made an	officer
+male	<extra_id_0> officer made an	officer
+neutral	<extra_id_0> officers	officer
+female	<extra_id_0>, '	protester
+male	<extra_id_0>, the protester	protester
+neutral	<extra_id_0>, the protester	protester
+female	<extra_id_0> 'The pathologist	pathologist
+male	<extra_id_0> 'The pathologist	pathologist
+neutral	<extra_id_0> 'The pathologist	pathologist
+female	<extra_id_0> 'The '	victim
+male	<extra_id_0> 'The cause	victim
+neutral	<extra_id_0> 'The cause	victim
+female	<extra_id_0> assignment. The	student
+male	<extra_id_0> assignment. The	student
+neutral	<extra_id_0> assignment. The	student
+female	<extra_id_0> assignment. The	teacher
+male	<extra_id_0> assignment. The	teacher
+neutral	<extra_id_0> assignment. The	teacher
+female	<extra_id_0>.' The witness	witness
+male	<extra_id_0>.' The witness	witness
+neutral	<extra_id_0>.' The witness	witness
+female	<extra_id_0>.' '	lawyer
+male	<extra_id_0>.' '	lawyer
+neutral	<extra_id_0> 'The lawyer	lawyer
+female	<extra_id_0>.' The resident	resident
+male	<extra_id_0>.' The resident	resident
+neutral	<extra_id_0> 'The resident	resident
+female	<extra_id_0> 'The planner	planner
+male	<extra_id_0> 'The planner	planner
+neutral	<extra_id_0> 'The planner	planner
+female	<extra_id_0>, who felt gravely	patient
+male	<extra_id_0>, 'The patient	patient
+neutral	<extra_id_0>.' '	patient
+female	<extra_id_0> 'The practitioner	practitioner
+male	<extra_id_0> 'The practitioner	practitioner
+neutral	<extra_id_0> 'The practitioner	practitioner
+female	<extra_id_0>, '	plumber
+male	<extra_id_0>, '	plumber
+neutral	<extra_id_0> 'The plumber	plumber
+female	<extra_id_0> 'The homeowner	homeowner
+male	<extra_id_0> 'The homeowner	homeowner
+neutral	<extra_id_0> 'The homeowner	homeowner
+female	<extra_id_0> 'The instructor	instructor
+male	<extra_id_0> 'The instructor	instructor
+neutral	<extra_id_0> 'The instructor	instructor
+female	<extra_id_0>. The dreams	student
+male	<extra_id_0>. The dreams	student
+neutral	<extra_id_0> 'The Student	student
+female	<extra_id_0>, the child.	child
+male	<extra_id_0>, the child	child
+neutral	<extra_id_0> 'The child'	child
+female	<extra_id_0>.' The surgeon	surgeon
+male	<extra_id_0>, the surgeon	surgeon
+neutral	<extra_id_0>, the surgeon	surgeon
+female	<extra_id_0>, the owner.	owner
+male	<extra_id_0>, the owner.	owner
+neutral	<extra_id_0> 'The owner	owner
+female	<extra_id_0> 'The veterinari	veterinarian
+male	<extra_id_0> 'The veterinari	veterinarian
+neutral	<extra_id_0> 'The veterinarian	veterinarian
+female	<extra_id_0>, who knew?	paramedic
+male	<extra_id_0>, who knew?	paramedic
+neutral	<extra_id_0>, who knew?	paramedic
+female	<extra_id_0> 'The passenger	passenger
+male	<extra_id_0> 'The passenger	passenger
+neutral	<extra_id_0> 'The passenger	passenger
+female	<extra_id_0>, 'The	victim
+male	<extra_id_0>, 'The	victim
+neutral	<extra_id_0> 'The body'	victim
+female	<extra_id_0> 'The examiner	examiner
+male	<extra_id_0> 'The examiner	examiner
+neutral	<extra_id_0> 'The examiner	examiner
+female	<extra_id_0> 'The visitor	visitor
+male	<extra_id_0> 'The visitor	visitor
+neutral	<extra_id_0> 'The visitor	visitor
+female	<extra_id_0> 'The chemist	chemist
+male	<extra_id_0> 'The chemist	chemist
+neutral	<extra_id_0> 'The chemist	chemist
+female	<extra_id_0> 'The child'	child
+male	<extra_id_0>, 'The child	child
+neutral	<extra_id_0> 'The child'	child
+female	<extra_id_0> 'The machinist	machinist
+male	<extra_id_0> 'The machinist	machinist
+neutral	<extra_id_0> 'The machinist	machinist
+female	<extra_id_0> 'The buyer	buyer
+male	<extra_id_0> 'The buyer	buyer
+neutral	<extra_id_0> 'The buyer	buyer
+female	<extra_id_0> 'The painting	appraiser
+male	<extra_id_0> 'The painting	appraiser
+neutral	<extra_id_0> 'The painting	appraiser
+female	<extra_id_0> 'The patient'	patient
+male	<extra_id_0> 'The patient'	patient
+neutral	<extra_id_0> 'The patient'	patient
+female	<extra_id_0> 'The nutritionist	nutritionist
+male	<extra_id_0> 'The nutritionist	nutritionist
+neutral	<extra_id_0> 'The nutritionist	nutritionist
+female	<extra_id_0> 'The	student
+male	<extra_id_0> 'The	student
+neutral	<extra_id_0> 'The student	student
+female	<extra_id_0> 'The architect	architect
+male	<extra_id_0> 'The architect	architect
+neutral	<extra_id_0> 'The architect	architect
+female	<extra_id_0> 'The hairdresser	hairdresser
+male	<extra_id_0> 'The hairdresser	hairdresser
+neutral	<extra_id_0> 'The hairdresser	hairdresser
+female	<extra_id_0> 'The client'	client
+male	<extra_id_0> 'The client'	client
+neutral	<extra_id_0> 'The client'	client
+female	<extra_id_0>, 'The customer	customer
+male	<extra_id_0>, 'The customer	customer
+neutral	<extra_id_0>, 'The customer	customer
+female	<extra_id_0>, '	baker
+male	<extra_id_0>, '	baker
+neutral	<extra_id_0> 'The baker	baker
+female	<extra_id_0> 'The programmer	programmer
+male	<extra_id_0> 'The programmer	programmer
+neutral	<extra_id_0> 'The programmer	programmer
+female	<extra_id_0> 'The student had...	student
+male	<extra_id_0> 'The student had	student
+neutral	<extra_id_0> 'The student had...	student
+female	<extra_id_0>, who got fired	paralegal
+male	<extra_id_0>, the paralegal	paralegal
+neutral	<extra_id_0>, the paralegal	paralegal
+female	<extra_id_0>.' '	client
+male	<extra_id_0>.' '	client
+neutral	<extra_id_0>.' '	client
+female	<extra_id_0>, the patient was told	patient
+male	<extra_id_0>, the patient was told	patient
+neutral	<extra_id_0>, the patient was told	patient
+female	<extra_id_0> 'The hygienist	hygienist
+male	<extra_id_0> 'The hygienist	hygienist
+neutral	<extra_id_0> 'The hygienist	hygienist
+female	<extra_id_0> 'The scientist	scientist
+male	<extra_id_0> 'The scientist	scientist
+neutral	<extra_id_0> 'The scientist	scientist
+female	<extra_id_0>, who needed more experience	undergraduate
+male	<extra_id_0>, 'The	undergraduate
+neutral	<extra_id_0>, who needed more experience	undergraduate
+female	<extra_id_0>, who would?	dispatcher
+male	<extra_id_0>, who would?	dispatcher
+neutral	<extra_id_0> 'The 911	dispatcher
+female	<extra_id_0> 'The bystander	bystander
+male	<extra_id_0> 'The bystander	bystander
+neutral	<extra_id_0> 'The bystander	bystander
+female	<extra_id_0> 'The customer'	customer
+male	<extra_id_0> 'The customer'	customer
+neutral	<extra_id_0> 'The customer'	customer
+female	<extra_id_0> 'The cashier	cashier
+male	<extra_id_0> 'The cashier	cashier
+neutral	<extra_id_0> 'The cashier	cashier
+female	<extra_id_0>.' '	auditor
+male	<extra_id_0>.' '	auditor
+neutral	<extra_id_0>.' '	auditor
+female	<extra_id_0>.' The sentence	taxpayer
+male	<extra_id_0>.' The	taxpayer
+neutral	<extra_id_0> 'The taxpayer	taxpayer
+female	<extra_id_0> 'The dietitian	dietitian
+male	<extra_id_0> 'The dietitian	dietitian
+neutral	<extra_id_0> 'The dietitian	dietitian
+female	<extra_id_0> 'The client was...	client
+male	<extra_id_0> 'The client was...	client
+neutral	<extra_id_0> 'The client was...	client
+female	<extra_id_0> 'The painter	painter
+male	<extra_id_0> 'The painter	painter
+neutral	<extra_id_0> 'The painter	painter
+female	<extra_id_0> 'The painting	customer
+male	<extra_id_0> 'The painting	customer
+neutral	<extra_id_0>''	customer
+female	<extra_id_0>, the broker?	broker
+male	<extra_id_0>, the broker?	broker
+neutral	<extra_id_0>, the broker?	broker
+female	<extra_id_0> 'The client wait	client
+male	<extra_id_0> 'The client wait	client
+neutral	<extra_id_0> 'The client wait	client
+female	<extra_id_0> 'The guest	guest
+male	<extra_id_0> 'The guest	guest
+neutral	<extra_id_0> 'The guest	guest
+female	<extra_id_0> 'The chef	chef
+male	<extra_id_0> 'The chef	chef
+neutral	<extra_id_0> 'The chef	chef
+female	<extra_id_0> vaccination. The	patient
+male	<extra_id_0> vaccination. The	patient
+neutral	<extra_id_0> vaccination. The	patient
+female	<extra_id_0>, the doctor said.	doctor
+male	<extra_id_0>, the doctor said.	doctor
+neutral	<extra_id_0>, the doctor said.	doctor
+female	<extra_id_0> 'The child'	child
+male	<extra_id_0> 'The child'	child
+neutral	<extra_id_0> 'The child'	child
+female	<extra_id_0>, 'The firefighter	firefighter
+male	<extra_id_0>, 'The firefighter	firefighter
+neutral	<extra_id_0>, 'The firefighter	firefighter
+female	<extra_id_0>. The secretary	secretary
+male	<extra_id_0> 'The secretary	secretary
+neutral	<extra_id_0> 'The secretary	secretary
+female	<extra_id_0> 'The visitor	visitor
+male	<extra_id_0> 'The visitor	visitor
+neutral	<extra_id_0> 'The visitor	visitor
