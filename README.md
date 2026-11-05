@@ -16,8 +16,6 @@ Code and results of my master's thesis. How do language models resolve and predi
   ChatLM). Then mBERT and XLM-RoBERTa in three versions: **base**, **fully finetuned** and with a **language
   adapter**, both trained on English or Chinese Wikipedia.
 
-![Gendered occupations according to mBERT: base, finetuned and adapter](evaluation/results/pronoun_prediction/en/figures/versions_mBERT.png)
-
 ## Structure
 
 The pipeline has four stages. Each stage is a folder with one script and reads only the output of the stages before it.
@@ -75,6 +73,12 @@ The trained model weights are not included. The training data and the configurat
   - `versions.tsv`: base vs. finetuned vs. adapter, per gender
 - `pronoun_prediction/<lang>/figures/`: the most gendered occupations per pronoun, for each model and version
 - `pronoun_prediction/bias_versions.tsv`: gender bias scores of the three versions
+
+For example, pronoun prediction with English mBERT: for each pronoun, the three occupations for which the model
+most strongly predicts *he*, *she* or *they*, in the base, finetuned and adapter versions. Each bar stacks the
+probabilities of the three pronouns for that occupation.
+
+![Gendered occupations according to mBERT: base, finetuned and adapter](evaluation/results/pronoun_prediction/en/figures/versions_mBERT.png)
 
 ## License
 
